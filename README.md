@@ -1,4 +1,5 @@
 # Scissors and Paste: The Georgian Reprints
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.200399.svg)](https://doi.org/10.5281/zenodo.200399)
 
 ## Contents
 + Description
@@ -11,6 +12,7 @@
 + Data summary
   + Notes
   + Tables
++ Citation
 + Acknowledgments
 + License
 + Future plans
@@ -164,6 +166,10 @@ The columns of data are as follows:.
 | DAY     | This column indicates the day in which the article page printed.                                                                                                                                                                                                                                       |
 | TITLE   | This column indicates the title in which the article page printed.                                                                                                                                                                                                                                     |
 | PAGE    | This column indicates the page number. Page numbers were given an S prefix w when two editions of the same date-title combination were discovered within in the original XML collection. In the original collection, these may have been designated with either an S or a V in the pageSequence value. |
+
+## Citation
+
+M. H. Beals. (2016). Scissors and Paste: The Georgian Reprints v1.0.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.200399
 
 ## Acknowledgments
 
