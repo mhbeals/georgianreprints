@@ -1,0 +1,485 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1834	05	02	Belfast News-Letter	0001	1834	05	01	Caledonian Mercury	0002
+1834	05	02	Belfast News-Letter	S0002	1834	05	01	Caledonian Mercury	0001
+1834	05	02	Hull Packet	0002	1834	05	01	Trewman’s Exeter Flying Post	0003
+1834	05	03	Caledonian Mercury	0002	1834	05	02	Hull Packet	0002
+1834	05	03	Cobbett’s Weekly Political Register	0007	1834	05	02	Hull Packet	0002
+1834	05	03	Preston Chronicle	0003	1834	05	02	Liverpool Mercury	0007
+1834	05	03	Preston Chronicle	0004	1834	05	02	Hull Packet	0004
+1834	05	03	Bristol Mercury	0002	1834	05	01	Morning Chronicle	0002
+1834	05	03	Ipswich Journal	0001	1834	05	02	Hull Packet	0002
+1834	05	03	Ipswich Journal	0002	1834	05	02	Hull Packet	0002
+1834	05	03	Ipswich Journal	0004	1834	05	02	Hull Packet	0002
+1834	05	03	Manchester Times	0003	1834	05	02	Morning Chronicle	0004
+1834	05	03	Manchester Times	0004	1834	05	02	Hull Packet	0002
+1834	05	04	Examiner	0001	1834	05	01	Morning Chronicle	0002
+1834	05	04	Examiner	0002	1834	05	01	Morning Chronicle	0004
+1834	05	04	Examiner	0010	1834	05	02	Morning Chronicle	0004
+1834	05	05	Caledonian Mercury	0002	1834	05	01	Morning Chronicle	0003
+1834	05	05	Caledonian Mercury	0003	1834	05	03	Morning Chronicle	0003
+1834	05	05	Caledonian Mercury	0004	1834	05	03	Manchester Times	0004
+1834	05	05	Hampshire/Portsmouth Telegraph	0002	1834	05	03	Ipswich Journal	0002
+1834	05	06	Belfast News-Letter	0001	1834	05	01	Morning Chronicle	0002
+1834	05	06	Belfast News-Letter	0002	1834	05	05	Caledonian Mercury	0003
+1834	05	06	Belfast News-Letter	0004	1834	05	03	Caledonian Mercury	0004
+1834	05	07	Derby Mercury	0001	1834	05	03	Morning Chronicle	0003
+1834	05	07	Derby Mercury	0004	1834	05	05	Hampshire/Portsmouth Telegraph	0003
+1834	05	08	Caledonian Mercury	0002	1834	05	04	Examiner	0003
+1834	05	08	Caledonian Mercury	0004	1834	05	05	Morning Chronicle	0002
+1834	05	08	Trewman’s Exeter Flying Post	0002	1834	05	07	Derby Mercury	0001
+1834	05	08	Trewman’s Exeter Flying Post	0003	1834	05	06	Morning Chronicle	0002
+1834	05	09	Liverpool Mercury	0002	1834	05	06	Morning Chronicle	0002
+1834	05	09	Liverpool Mercury	0005	1834	05	03	Preston Chronicle	0001
+1834	05	09	Liverpool Mercury	0007	1834	05	03	Ipswich Journal	0002
+1834	05	09	Hull Packet	0002	1834	05	07	Derby Mercury	0001
+1834	05	09	Hull Packet	0004	1834	05	03	Caledonian Mercury	0003
+1834	05	10	Caledonian Mercury	0001	1834	05	07	Morning Chronicle	0002
+1834	05	10	Caledonian Mercury	0002	1834	05	07	Morning Chronicle	0002
+1834	05	10	Caledonian Mercury	0004	1834	05	09	Hull Packet	0002
+1834	05	10	Cobbett’s Weekly Political Register	0004	1834	05	06	Morning Chronicle	0003
+1834	05	10	Cobbett’s Weekly Political Register	0005	1834	05	06	Morning Chronicle	0003
+1834	05	10	Preston Chronicle	0001	1834	05	02	Morning Chronicle	0001
+1834	05	10	Preston Chronicle	0002	1834	05	06	Morning Chronicle	0003
+1834	05	10	Preston Chronicle	0003	1834	05	09	Liverpool Mercury	0007
+1834	05	10	Preston Chronicle	0004	1834	05	09	Hull Packet	0002
+1834	05	10	Bristol Mercury	0002	1834	05	09	Liverpool Mercury	0007
+1834	05	10	Bristol Mercury	0004	1834	05	06	Morning Chronicle	0002
+1834	05	10	Ipswich Journal	0001	1834	05	05	Morning Chronicle	0003
+1834	05	10	Ipswich Journal	0002	1834	05	08	Morning Chronicle	0003
+1834	05	10	Ipswich Journal	0004	1834	05	05	Morning Chronicle	0004
+1834	05	10	Leeds Mercury	0006	1834	05	07	Morning Chronicle	0001
+1834	05	10	Manchester Times	0001	1834	05	03	Bristol Mercury	0002
+1834	05	10	Manchester Times	0004	1834	05	09	Liverpool Mercury	0002
+1834	05	10	Newcastle Courant	0001	1834	05	09	Hull Packet	0001
+1834	05	10	Newcastle Courant	0002	1834	05	02	Morning Chronicle	0001
+1834	05	10	Newcastle Courant	0004	1834	05	08	Morning Chronicle	0003
+1834	05	11	Examiner	0009	1834	05	10	Morning Chronicle	0003
+1834	05	11	Examiner	0011	1834	05	08	Morning Chronicle	0004
+1834	05	11	Examiner	0012	1834	05	09	Morning Chronicle	0004
+1834	05	11	Examiner	0016	1834	05	08	Morning Chronicle	0001
+1834	05	12	Caledonian Mercury	0002	1834	05	09	Morning Chronicle	0004
+1834	05	12	Hampshire/Portsmouth Telegraph	0002	1834	05	10	Ipswich Journal	0004
+1834	05	12	Hampshire/Portsmouth Telegraph	0003	1834	05	10	Ipswich Journal	0002
+1834	05	12	Morning Chronicle	0004	1834	05	08	Caledonian Mercury	0003
+1834	05	13	North Wales Chronicle	0002	1834	05	09	Liverpool Mercury	0003
+1834	05	13	Belfast News-Letter	0001	1834	05	07	Morning Chronicle	0003
+1834	05	13	Belfast News-Letter	0002	1834	05	09	Morning Chronicle	0003
+1834	05	13	Belfast News-Letter	0004	1834	05	05	Caledonian Mercury	0004
+1834	05	14	Derby Mercury	0001	1834	05	10	Preston Chronicle	0001
+1834	05	14	Derby Mercury	0002	1834	05	12	Morning Chronicle	0004
+1834	05	14	Derby Mercury	0004	1834	05	10	Ipswich Journal	0004
+1834	05	15	Caledonian Mercury	0004	1834	05	12	Morning Chronicle	0002
+1834	05	15	Trewman’s Exeter Flying Post	0001	1834	05	10	Manchester Times	0001
+1834	05	15	Trewman’s Exeter Flying Post	0002	1834	05	14	Derby Mercury	0001
+1834	05	16	Liverpool Mercury	0001	1834	05	10	Manchester Times	0001
+1834	05	16	Liverpool Mercury	0002	1834	05	11	Examiner	0009
+1834	05	16	Liverpool Mercury	0003	1834	05	12	Morning Chronicle	0003
+1834	05	16	Liverpool Mercury	0005	1834	05	14	Derby Mercury	0001
+1834	05	16	Liverpool Mercury	0007	1834	05	09	Belfast News-Letter	0004
+1834	05	16	Belfast News-Letter	0001	1834	05	15	Caledonian Mercury	0002
+1834	05	16	Belfast News-Letter	0003	1834	05	08	Caledonian Mercury	0001
+1834	05	16	Hull Packet	0002	1834	05	13	Morning Chronicle	0004
+1834	05	16	Hull Packet	0004	1834	05	13	Belfast News-Letter	0004
+1834	05	17	Caledonian Mercury	0001	1834	05	16	Hull Packet	0002
+1834	05	17	Caledonian Mercury	0002	1834	05	13	Morning Chronicle	0003
+1834	05	17	Caledonian Mercury	0004	1834	05	14	Aberdeen Journal	0004
+1834	05	17	Cobbett’s Weekly Political Register	0025	1834	05	13	Morning Chronicle	0003
+1834	05	17	Preston Chronicle	0001	1834	05	09	Liverpool Mercury	0005
+1834	05	17	Preston Chronicle	0002	1834	05	10	Morning Chronicle	0003
+1834	05	17	Preston Chronicle	0003	1834	05	09	Morning Chronicle	0004
+1834	05	17	Preston Chronicle	0004	1834	05	12	Morning Chronicle	0004
+1834	05	17	Bristol Mercury	0001	1834	05	09	Morning Chronicle	0003
+1834	05	17	Bristol Mercury	0002	1834	05	15	Morning Chronicle	0001
+1834	05	17	Bristol Mercury	0004	1834	05	11	Examiner	0009
+1834	05	17	Ipswich Journal	0001	1834	05	16	Hull Packet	0002
+1834	05	17	Ipswich Journal	0002	1834	05	13	Morning Chronicle	0004
+1834	05	17	Ipswich Journal	0004	1834	05	13	Morning Chronicle	0001
+1834	05	17	Manchester Times	0001	1834	05	15	Trewman’s Exeter Flying Post	0001
+1834	05	17	Manchester Times	0003	1834	05	11	Examiner	0003
+1834	05	17	Manchester Times	0004	1834	05	13	Morning Chronicle	0003
+1834	05	17	Newcastle Courant	0001	1834	05	12	Hampshire/Portsmouth Telegraph	0002
+1834	05	17	Newcastle Courant	0002	1834	05	06	Morning Chronicle	0004
+1834	05	18	Examiner	0001	1834	05	13	Morning Chronicle	0001
+1834	05	18	Examiner	0003	1834	05	13	Morning Chronicle	0003
+1834	05	18	Examiner	0004	1834	05	13	Morning Chronicle	0003
+1834	05	18	Examiner	0005	1834	05	17	Manchester Times	0004
+1834	05	18	Examiner	0006	1834	05	16	Liverpool Mercury	0002
+1834	05	18	Examiner	0008	1834	05	15	Morning Chronicle	0003
+1834	05	18	Examiner	0009	1834	05	17	Morning Chronicle	0002
+1834	05	18	Examiner	0011	1834	05	17	Morning Chronicle	0004
+1834	05	19	Caledonian Mercury	0001	1834	05	16	Morning Chronicle	0002
+1834	05	19	Caledonian Mercury	0004	1834	05	10	Morning Chronicle	0004
+1834	05	19	Hampshire/Portsmouth Telegraph	0002	1834	05	16	Hull Packet	0002
+1834	05	19	Hampshire/Portsmouth Telegraph	0003	1834	05	12	Morning Chronicle	0004
+1834	05	20	North Wales Chronicle	0001	1834	05	17	Manchester Times	0001
+1834	05	20	North Wales Chronicle	0004	1834	05	18	Examiner	0011
+1834	05	20	Belfast News-Letter	0001	1834	05	16	Morning Chronicle	0002
+1834	05	20	Belfast News-Letter	0002	1834	05	17	Morning Chronicle	0004
+1834	05	20	Belfast News-Letter	0004	1834	05	19	Caledonian Mercury	0002
+1834	05	21	Derby Mercury	0002	1834	05	19	Morning Chronicle	0004
+1834	05	21	Derby Mercury	0004	1834	05	18	Examiner	0005
+1834	05	21	Morning Chronicle	0002	1834	05	20	Belfast News-Letter	0004
+1834	05	22	Caledonian Mercury	0002	1834	05	19	Morning Chronicle	0002
+1834	05	22	Caledonian Mercury	0004	1834	05	19	Hampshire/Portsmouth Telegraph	0004
+1834	05	22	Trewman’s Exeter Flying Post	0001	1834	05	11	Examiner	0015
+1834	05	22	Trewman’s Exeter Flying Post	0004	1834	05	17	Ipswich Journal	0002
+1834	05	23	Liverpool Mercury	0001	1834	05	17	Bristol Mercury	0002
+1834	05	23	Liverpool Mercury	0002	1834	05	18	Examiner	0007
+1834	05	23	Liverpool Mercury	0005	1834	05	14	Derby Mercury	0001
+1834	05	23	Liverpool Mercury	0006	1834	05	15	Caledonian Mercury	0003
+1834	05	23	Liverpool Mercury	0007	1834	05	17	Manchester Times	0004
+1834	05	23	Liverpool Mercury	0008	1834	05	17	Manchester Times	0001
+1834	05	23	Belfast News-Letter	0001	1834	05	20	Morning Chronicle	0004
+1834	05	23	Belfast News-Letter	0002	1834	05	21	Morning Chronicle	0004
+1834	05	23	Belfast News-Letter	0004	1834	05	22	Morning Chronicle	0004
+1834	05	23	Hull Packet	0001	1834	05	11	Examiner	0015
+1834	05	23	Hull Packet	0003	1834	05	20	Morning Chronicle	0003
+1834	05	23	Hull Packet	0004	1834	05	20	Morning Chronicle	0001
+1834	05	24	Caledonian Mercury	0002	1834	05	22	Morning Chronicle	0004
+1834	05	24	Caledonian Mercury	0004	1834	05	13	Morning Chronicle	0004
+1834	05	24	Cobbett’s Weekly Political Register	0022	1834	05	21	Morning Chronicle	0002
+1834	05	24	Cobbett’s Weekly Political Register	0023	1834	05	21	Morning Chronicle	0002
+1834	05	24	Preston Chronicle	0001	1834	05	16	Morning Chronicle	0002
+1834	05	24	Preston Chronicle	0002	1834	05	17	Morning Chronicle	0002
+1834	05	24	Preston Chronicle	0003	1834	05	23	Liverpool Mercury	0007
+1834	05	24	Preston Chronicle	0004	1834	05	21	Morning Chronicle	0001
+1834	05	24	Bristol Mercury	0001	1834	05	17	Morning Chronicle	0004
+1834	05	24	Bristol Mercury	0002	1834	05	19	Morning Chronicle	0004
+1834	05	24	Bristol Mercury	0004	1834	05	19	Morning Chronicle	0002
+1834	05	24	Ipswich Journal	0001	1834	05	21	Morning Chronicle	0001
+1834	05	24	Ipswich Journal	0002	1834	05	22	Morning Chronicle	0001
+1834	05	24	Ipswich Journal	0004	1834	05	23	Liverpool Mercury	0006
+1834	05	24	Leeds Mercury	0006	1834	05	18	Examiner	0007
+1834	05	24	Manchester Times	0002	1834	05	22	Morning Chronicle	0003
+1834	05	24	Manchester Times	0004	1834	05	18	Examiner	0007
+1834	05	24	Newcastle Courant	0001	1834	05	09	Hull Packet	0001
+1834	05	24	Newcastle Courant	0002	1834	05	19	Morning Chronicle	0004
+1834	05	24	Newcastle Courant	0004	1834	05	22	Morning Chronicle	0004
+1834	05	25	Examiner	0002	1834	05	22	Morning Chronicle	0003
+1834	05	25	Examiner	0005	1834	05	21	Morning Chronicle	0001
+1834	05	25	Examiner	0009	1834	05	21	Morning Chronicle	0002
+1834	05	25	Examiner	0010	1834	05	23	Morning Chronicle	0004
+1834	05	25	Examiner	0011	1834	05	24	Morning Chronicle	0004
+1834	05	25	Examiner	0012	1834	05	24	Bristol Mercury	0001
+1834	05	25	Examiner	0015	1834	05	10	Manchester Times	0004
+1834	05	26	Caledonian Mercury	0002	1834	05	23	Morning Chronicle	0001
+1834	05	26	Hampshire/Portsmouth Telegraph	0002	1834	05	24	Bristol Mercury	0002
+1834	05	26	Hampshire/Portsmouth Telegraph	0003	1834	05	24	Ipswich Journal	0002
+1834	05	26	Morning Chronicle	0003	1834	05	22	Caledonian Mercury	0002
+1834	05	26	Morning Chronicle	0004	1834	05	22	Caledonian Mercury	0004
+1834	05	27	Belfast News-Letter	0001	1834	05	24	Ipswich Journal	0002
+1834	05	27	Belfast News-Letter	0002	1834	05	26	Caledonian Mercury	0002
+1834	05	27	Morning Chronicle	0002	1834	05	22	Caledonian Mercury	0004
+1834	05	27	Morning Chronicle	0003	1834	05	16	Belfast News-Letter	0001
+1834	05	28	Derby Mercury	0001	1834	05	11	Examiner	0015
+1834	05	28	Derby Mercury	0002	1834	05	26	Morning Chronicle	0002
+1834	05	28	Derby Mercury	0004	1834	05	24	Ipswich Journal	0002
+1834	05	29	Caledonian Mercury	0004	1834	05	24	Morning Chronicle	0002
+1834	05	29	Caledonian Mercury	0006	1834	05	28	Derby Mercury	0002
+1834	05	29	Caledonian Mercury	0008	1834	05	24	Bristol Mercury	0002
+1834	05	29	Morning Chronicle	0001	1834	05	11	Examiner	0015
+1834	05	29	Trewman’s Exeter Flying Post	0001	1834	05	17	Manchester Times	0001
+1834	05	30	Liverpool Mercury	0001	1834	05	24	Manchester Times	0001
+1834	05	30	Liverpool Mercury	0002	1834	05	28	Derby Mercury	0004
+1834	05	30	Liverpool Mercury	0003	1834	05	23	Hull Packet	0001
+1834	05	30	Liverpool Mercury	0004	1834	05	24	Preston Chronicle	0001
+1834	05	30	Liverpool Mercury	0008	1834	05	29	Morning Chronicle	0002
+1834	05	30	Belfast News-Letter	0002	1834	05	26	Morning Chronicle	0004
+1834	05	30	Hull Packet	0001	1834	05	28	Derby Mercury	0001
+1834	05	30	Hull Packet	0002	1834	05	29	Morning Chronicle	0002
+1834	05	30	Morning Chronicle	0004	1834	05	02	Hull Packet	0004
+1834	05	31	Caledonian Mercury	0002	1834	05	28	Morning Chronicle	0003
+1834	05	31	Caledonian Mercury	0004	1834	05	28	Derby Mercury	0004
+1834	05	31	Cobbett’s Weekly Political Register	0007	1834	05	19	Morning Chronicle	0004
+1834	05	31	Cobbett’s Weekly Political Register	0019	1834	05	20	Belfast News-Letter	0004
+1834	05	31	Preston Chronicle	0001	1834	05	23	Hull Packet	0001
+1834	05	31	Preston Chronicle	0002	1834	05	28	Morning Chronicle	0002
+1834	05	31	Preston Chronicle	0003	1834	05	30	Liverpool Mercury	0007
+1834	05	31	Preston Chronicle	0004	1834	05	26	Morning Chronicle	0002
+1834	05	31	Bristol Mercury	0001	1834	05	25	Examiner	0012
+1834	05	31	Bristol Mercury	0002	1834	05	28	Morning Chronicle	0002
+1834	05	31	Bristol Mercury	0004	1834	05	26	Morning Chronicle	0002
+1834	05	31	Ipswich Journal	0001	1834	05	28	Derby Mercury	0001
+1834	05	31	Ipswich Journal	0002	1834	05	30	Morning Chronicle	0003
+1834	05	31	Ipswich Journal	0004	1834	05	27	Morning Chronicle	0004
+1834	05	31	Manchester Times	0001	1834	05	23	Liverpool Mercury	0005
+1834	05	31	Manchester Times	0002	1834	05	28	Derby Mercury	0002
+1834	05	31	Manchester Times	0004	1834	05	25	Examiner	0007
+1834	05	31	Newcastle Courant	0001	1834	05	28	Derby Mercury	0002
+1834	05	31	Newcastle Courant	0002	1834	05	23	Morning Chronicle	0001
+1834	05	31	Newcastle Courant	0003	1834	05	02	Hull Packet	0004
+1834	05	31	Newcastle Courant	0004	1834	05	28	Derby Mercury	0004
+1834	05	31	Poor Man’s Guardian	0006	1834	05	28	Morning Chronicle	0004
+1834	06	01	Examiner	0002	1834	05	30	Morning Chronicle	0002
+1834	06	01	Examiner	0003	1834	05	29	Morning Chronicle	0002
+1834	06	01	Examiner	0004	1834	05	31	Ipswich Journal	0002
+1834	06	01	Examiner	0005	1834	05	28	Morning Chronicle	0004
+1834	06	01	Examiner	0008	1834	05	31	Bristol Mercury	0002
+1834	06	01	Examiner	0009	1834	05	31	Caledonian Mercury	0003
+1834	06	01	Examiner	0010	1834	05	30	Morning Chronicle	0004
+1834	06	01	Examiner	0011	1834	05	29	Morning Chronicle	0003
+1834	06	01	Examiner	0014	1834	05	23	Hull Packet	0001
+1834	06	01	Examiner	0015	1834	05	31	Morning Chronicle	0001
+1834	06	02	Caledonian Mercury	0001	1834	05	29	Morning Chronicle	0002
+1834	06	02	Caledonian Mercury	0002	1834	05	30	Morning Chronicle	0002
+1834	06	02	Hampshire/Portsmouth Telegraph	0002	1834	05	31	Caledonian Mercury	0002
+1834	06	02	Hampshire/Portsmouth Telegraph	0003	1834	05	31	Ipswich Journal	0002
+1834	06	02	Hampshire/Portsmouth Telegraph	0004	1834	05	31	Morning Chronicle	0002
+1834	06	02	Morning Chronicle	0001	1834	05	29	Caledonian Mercury	0003
+1834	06	02	Morning Chronicle	0002	1834	05	29	Caledonian Mercury	0003
+1834	06	02	Morning Chronicle	0004	1834	05	29	Caledonian Mercury	0005
+1834	06	03	Belfast News-Letter	0001	1834	05	31	Preston Chronicle	0002
+1834	06	03	Belfast News-Letter	0004	1834	05	29	Caledonian Mercury	0005
+1834	06	03	Morning Chronicle	0001	1834	05	31	Caledonian Mercury	0003
+1834	06	04	Aberdeen Journal	0002	1834	05	31	Bristol Mercury	0002
+1834	06	04	Aberdeen Journal	0003	1834	05	31	Ipswich Journal	0002
+1834	06	04	Aberdeen Journal	0004	1834	05	31	Caledonian Mercury	0003
+1834	06	04	Derby Mercury	0001	1834	05	22	Trewman’s Exeter Flying Post	0001
+1834	06	04	Derby Mercury	0002	1834	05	30	Hull Packet	0001
+1834	06	04	Derby Mercury	0004	1834	05	31	Ipswich Journal	0004
+1834	06	05	Trewman’s Exeter Flying Post	0002	1834	05	31	Ipswich Journal	0002
+1834	06	05	Trewman’s Exeter Flying Post	0004	1834	05	24	Ipswich Journal	0004
+1834	06	06	Liverpool Mercury	0001	1834	05	31	Preston Chronicle	0001
+1834	06	06	Liverpool Mercury	0003	1834	05	31	Ipswich Journal	0002
+1834	06	06	Liverpool Mercury	0007	1834	05	17	Preston Chronicle	0003
+1834	06	06	Liverpool Mercury	0008	1834	05	30	Hull Packet	0001
+1834	06	06	Belfast News-Letter	0001	1834	05	30	Liverpool Mercury	0003
+1834	06	06	Hull Packet	0001	1834	05	24	Newcastle Courant	0001
+1834	06	06	Hull Packet	0002	1834	05	31	Ipswich Journal	0002
+1834	06	06	Hull Packet	0003	1834	05	30	Morning Chronicle	0003
+1834	06	06	Hull Packet	0004	1834	05	31	Ipswich Journal	0002
+1834	06	06	Morning Chronicle	0001	1834	05	28	Derby Mercury	0001
+1834	06	07	Cobbett’s Weekly Political Register	0024	1834	05	30	Morning Chronicle	0004
+1834	06	07	Preston Chronicle	0001	1834	05	30	Hull Packet	0001
+1834	06	07	Preston Chronicle	0002	1834	05	31	Ipswich Journal	0002
+1834	06	07	Preston Chronicle	0004	1834	05	30	Morning Chronicle	0004
+1834	06	07	Bristol Mercury	0001	1834	05	29	Morning Chronicle	0003
+1834	06	07	Bristol Mercury	0003	1834	05	31	Ipswich Journal	0002
+1834	06	07	Ipswich Journal	0001	1834	05	29	Morning Chronicle	0004
+1834	06	07	Ipswich Journal	0004	1834	05	23	Liverpool Mercury	0006
+1834	06	07	Manchester Times	0001	1834	05	23	Liverpool Mercury	0001
+1834	06	07	Manchester Times	0002	1834	05	18	Examiner	0013
+1834	06	07	Manchester Times	0004	1834	05	16	Liverpool Mercury	0007
+1834	06	07	Newcastle Courant	0002	1834	05	29	Morning Chronicle	0004
+1834	06	07	Newcastle Courant	0003	1834	05	29	Caledonian Mercury	0003
+1834	06	08	Examiner	0011	1834	05	31	Morning Chronicle	0002
+1834	06	10	Belfast News-Letter	0002	1834	05	31	Manchester Times	0003
+1834	06	11	Derby Mercury	0001	1834	05	24	Manchester Times	0001
+1834	06	11	Derby Mercury	0003	1834	05	30	Hull Packet	0001
+1834	06	12	Caledonian Mercury	0004	1834	05	23	Morning Chronicle	0001
+1834	06	13	Liverpool Mercury	0005	1834	05	17	Preston Chronicle	0001
+1834	06	13	Liverpool Mercury	0007	1834	05	24	Manchester Times	0004
+1834	06	13	Belfast News-Letter	0004	1834	05	02	Liverpool Mercury	0007
+1834	06	13	Hull Packet	0001	1834	05	17	Preston Chronicle	0001
+1834	06	14	Cobbett’s Weekly Political Register	0007	1834	05	27	Morning Chronicle	0003
+1834	06	14	Cobbett’s Weekly Political Register	0008	1834	05	27	Morning Chronicle	0003
+1834	06	14	Preston Chronicle	0001	1834	05	30	Hull Packet	0001
+1834	06	14	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	06	14	Bristol Mercury	0002	1834	05	31	Manchester Times	0004
+1834	06	14	Manchester Times	0002	1834	05	30	Hull Packet	0001
+1834	06	14	Newcastle Courant	0003	1834	05	24	Ipswich Journal	0004
+1834	06	16	Caledonian Mercury	0001	1834	05	09	Hull Packet	0001
+1834	06	17	Belfast News-Letter	0004	1834	05	23	Morning Chronicle	0001
+1834	06	18	Derby Mercury	0004	1834	05	10	Newcastle Courant	0003
+1834	06	19	Trewman’s Exeter Flying Post	0001	1834	05	10	Newcastle Courant	0003
+1834	06	20	Liverpool Mercury	0003	1834	05	24	Ipswich Journal	0004
+1834	06	20	Liverpool Mercury	0007	1834	05	17	Preston Chronicle	0003
+1834	06	20	Belfast News-Letter	0003	1834	05	23	Liverpool Mercury	0001
+1834	06	20	Belfast News-Letter	0004	1834	05	16	Liverpool Mercury	0007
+1834	06	20	Hull Packet	0001	1834	05	24	Newcastle Courant	0001
+1834	06	20	Hull Packet	0002	1834	05	28	Derby Mercury	0002
+1834	06	21	Preston Chronicle	0001	1834	05	24	Manchester Times	0002
+1834	06	21	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	06	21	Bristol Mercury	0002	1834	05	17	Preston Chronicle	0001
+1834	06	21	Bristol Mercury	0003	1834	05	17	Newcastle Courant	0003
+1834	06	21	Bristol Mercury	0004	1834	05	20	North Wales Chronicle	0004
+1834	06	21	Ipswich Journal	0004	1834	05	23	Liverpool Mercury	0006
+1834	06	21	Manchester Times	0002	1834	05	24	Preston Chronicle	0001
+1834	06	21	Newcastle Courant	0001	1834	05	28	Derby Mercury	0002
+1834	06	24	Belfast News-Letter	0003	1834	05	23	Liverpool Mercury	0001
+1834	06	25	Derby Mercury	0001	1834	05	10	Newcastle Courant	0003
+1834	06	27	Liverpool Mercury	0007	1834	05	31	Manchester Times	0004
+1834	06	27	Belfast News-Letter	0004	1834	05	16	Liverpool Mercury	0007
+1834	06	28	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	06	28	Manchester Times	0001	1834	05	29	Trewman’s Exeter Flying Post	0001
+1834	06	28	Manchester Times	0004	1834	05	17	Newcastle Courant	0002
+1834	06	30	Morning Chronicle	0003	1834	05	09	Belfast News-Letter	0004
+1834	07	01	North Wales Chronicle	0003	1834	05	31	Preston Chronicle	0003
+1834	07	01	Morning Chronicle	0008	1834	05	29	Trewman’s Exeter Flying Post	0001
+1834	07	02	Derby Mercury	0001	1834	05	17	Newcastle Courant	0002
+1834	07	02	Derby Mercury	0002	1834	05	31	Preston Chronicle	0001
+1834	07	03	Trewman’s Exeter Flying Post	0004	1834	05	30	Hull Packet	0001
+1834	07	04	Liverpool Mercury	0003	1834	05	24	Ipswich Journal	0004
+1834	07	04	Liverpool Mercury	0007	1834	05	24	Manchester Times	0004
+1834	07	04	Hull Packet	0001	1834	05	24	Newcastle Courant	0001
+1834	07	04	Hull Packet	0003	1834	05	10	Newcastle Courant	0003
+1834	07	05	Bristol Mercury	0001	1834	05	18	Examiner	0014
+1834	07	05	Manchester Times	0002	1834	05	24	Preston Chronicle	0001
+1834	07	09	Aberdeen Journal	0004	1834	05	24	Ipswich Journal	0004
+1834	07	09	Derby Mercury	0002	1834	05	03	Manchester Times	0002
+1834	07	09	Derby Mercury	0004	1834	05	31	Newcastle Courant	0001
+1834	07	11	Liverpool Mercury	0007	1834	05	17	Manchester Times	0004
+1834	07	11	Belfast News-Letter	0004	1834	05	16	Liverpool Mercury	0007
+1834	07	12	Preston Chronicle	0004	1834	05	09	Liverpool Mercury	0007
+1834	07	12	Bristol Mercury	0003	1834	05	30	Hull Packet	0001
+1834	07	12	Manchester Times	0001	1834	05	29	Trewman’s Exeter Flying Post	0001
+1834	07	12	Manchester Times	0002	1834	05	30	Liverpool Mercury	0001
+1834	07	14	Hampshire/Portsmouth Telegraph	0001	1834	05	30	Hull Packet	0001
+1834	07	15	Morning Chronicle	0004	1834	05	29	Trewman’s Exeter Flying Post	0001
+1834	07	18	Liverpool Mercury	0007	1834	05	24	Manchester Times	0004
+1834	07	18	Hull Packet	0001	1834	05	24	Newcastle Courant	0001
+1834	07	19	Preston Chronicle	0001	1834	05	09	Hull Packet	0001
+1834	07	19	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	07	19	Bristol Mercury	0003	1834	05	09	Liverpool Mercury	0007
+1834	07	19	Bristol Mercury	0004	1834	05	09	Liverpool Mercury	0007
+1834	07	19	Manchester Times	0001	1834	05	30	Liverpool Mercury	0001
+1834	07	23	Derby Mercury	0001	1834	05	03	Manchester Times	0002
+1834	07	25	Liverpool Mercury	0003	1834	05	17	Manchester Times	0004
+1834	07	25	Liverpool Mercury	0009	1834	05	24	Ipswich Journal	0004
+1834	07	26	Manchester Times	0001	1834	05	30	Liverpool Mercury	0001
+1834	07	26	Newcastle Courant	0003	1834	05	17	Manchester Times	0002
+1834	07	27	Examiner	0013	1834	05	17	Preston Chronicle	0001
+1834	07	30	Aberdeen Journal	0004	1834	05	24	Ipswich Journal	0004
+1834	07	30	Derby Mercury	0001	1834	05	03	Manchester Times	0002
+1834	07	31	Trewman’s Exeter Flying Post	0002	1834	05	24	Bristol Mercury	0004
+1834	08	01	Liverpool Mercury	0004	1834	05	24	Bristol Mercury	0002
+1834	08	01	Belfast News-Letter	0004	1834	05	09	Liverpool Mercury	0007
+1834	08	01	Hull Packet	0001	1834	05	10	Newcastle Courant	0003
+1834	08	01	Hull Packet	0004	1834	05	29	Caledonian Mercury	0008
+1834	08	02	Preston Chronicle	0001	1834	05	09	Hull Packet	0001
+1834	08	02	Preston Chronicle	0004	1834	05	16	Liverpool Mercury	0007
+1834	08	02	Manchester Times	0001	1834	05	30	Liverpool Mercury	0001
+1834	08	02	Newcastle Courant	0003	1834	05	30	Hull Packet	0001
+1834	08	06	Derby Mercury	0002	1834	05	03	Manchester Times	0002
+1834	08	08	Liverpool Mercury	0007	1834	05	17	Preston Chronicle	0003
+1834	08	09	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	08	13	Derby Mercury	0002	1834	05	03	Manchester Times	0002
+1834	08	14	Caledonian Mercury	0001	1834	05	17	Preston Chronicle	0001
+1834	08	15	Liverpool Mercury	0003	1834	05	17	Preston Chronicle	0003
+1834	08	15	Morning Chronicle	0001	1834	05	29	Trewman’s Exeter Flying Post	0001
+1834	08	16	Bristol Mercury	0003	1834	05	10	Manchester Times	0002
+1834	08	16	Bristol Mercury	0004	1834	05	16	Liverpool Mercury	0007
+1834	08	16	Manchester Times	0002	1834	05	30	Liverpool Mercury	0001
+1834	08	21	Trewman’s Exeter Flying Post	0001	1834	05	17	Manchester Times	0002
+1834	08	22	Liverpool Mercury	0003	1834	05	31	Preston Chronicle	0003
+1834	08	23	Caledonian Mercury	0001	1834	05	30	Hull Packet	0001
+1834	08	23	Cobbett’s Weekly Political Register	0032	1834	05	17	Bristol Mercury	0001
+1834	08	23	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	08	23	Bristol Mercury	0003	1834	05	10	Manchester Times	0002
+1834	08	23	Manchester Times	0002	1834	05	30	Liverpool Mercury	0001
+1834	08	23	Morning Chronicle	0001	1834	05	29	Trewman’s Exeter Flying Post	0001
+1834	08	23	Newcastle Courant	0001	1834	05	29	Trewman’s Exeter Flying Post	0001
+1834	08	27	Derby Mercury	0002	1834	05	03	Manchester Times	0002
+1834	08	29	Liverpool Mercury	0001	1834	05	10	Manchester Times	0002
+1834	08	29	Liverpool Mercury	0007	1834	05	17	Manchester Times	0004
+1834	08	29	Belfast News-Letter	0004	1834	05	09	Liverpool Mercury	0007
+1834	08	29	Hull Packet	0001	1834	05	10	Newcastle Courant	0003
+1834	08	29	Hull Packet	0002	1834	05	31	Newcastle Courant	0003
+1834	08	30	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	08	30	Ipswich Journal	0002	1834	05	30	Hull Packet	0001
+1834	08	30	Ipswich Journal	0004	1834	05	09	Hull Packet	0001
+1834	09	01	Hampshire/Portsmouth Telegraph	0002	1834	05	31	Newcastle Courant	0003
+1834	09	05	Liverpool Mercury	0001	1834	05	31	Bristol Mercury	0002
+1834	09	05	Liverpool Mercury	0007	1834	05	31	Manchester Times	0004
+1834	09	05	Hull Packet	0001	1834	05	10	Newcastle Courant	0003
+1834	09	05	Hull Packet	0002	1834	05	23	Liverpool Mercury	0001
+1834	09	06	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	09	06	Ipswich Journal	0002	1834	05	30	Hull Packet	0001
+1834	09	06	Ipswich Journal	0004	1834	05	31	Newcastle Courant	0001
+1834	09	06	Newcastle Courant	0001	1834	05	24	Ipswich Journal	0003
+1834	09	06	Poor Man’s Guardian	0007	1834	05	17	Preston Chronicle	0004
+1834	09	10	Derby Mercury	0002	1834	05	02	Liverpool Mercury	0007
+1834	09	11	Caledonian Mercury	0001	1834	05	24	Bristol Mercury	0002
+1834	09	12	Liverpool Mercury	0007	1834	05	17	Manchester Times	0004
+1834	09	12	Hull Packet	0001	1834	05	10	Newcastle Courant	0003
+1834	09	13	Caledonian Mercury	0001	1834	05	24	Bristol Mercury	0002
+1834	09	13	Bristol Mercury	0004	1834	05	09	Liverpool Mercury	0007
+1834	09	13	Ipswich Journal	0004	1834	05	30	Hull Packet	0001
+1834	09	13	Manchester Times	0002	1834	05	30	Liverpool Mercury	0001
+1834	09	13	Newcastle Courant	0002	1834	05	30	Hull Packet	0001
+1834	09	15	Hampshire/Portsmouth Telegraph	0001	1834	05	03	Manchester Times	0002
+1834	09	17	Aberdeen Journal	0001	1834	05	30	Hull Packet	0001
+1834	09	17	Derby Mercury	0001	1834	05	30	Hull Packet	0001
+1834	09	19	Liverpool Mercury	0003	1834	05	17	Preston Chronicle	0003
+1834	09	19	Belfast News-Letter	0001	1834	05	16	Liverpool Mercury	0007
+1834	09	20	Preston Chronicle	0003	1834	05	09	Liverpool Mercury	0007
+1834	09	20	Bristol Mercury	0002	1834	05	30	Hull Packet	0001
+1834	09	20	Bristol Mercury	0004	1834	05	09	Belfast News-Letter	0004
+1834	09	20	Manchester Times	0001	1834	05	30	Liverpool Mercury	0001
+1834	09	20	Newcastle Courant	0003	1834	05	03	Manchester Times	0002
+1834	09	26	Liverpool Mercury	0007	1834	05	31	Preston Chronicle	0003
+1834	09	26	Hull Packet	0002	1834	05	23	Liverpool Mercury	0001
+1834	09	27	Preston Chronicle	0003	1834	05	02	Liverpool Mercury	0007
+1834	09	30	North Wales Chronicle	0001	1834	05	23	Liverpool Mercury	0007
+1834	10	01	Derby Mercury	0002	1834	05	09	Hull Packet	0001
+1834	10	02	Trewman’s Exeter Flying Post	0001	1834	05	31	Bristol Mercury	0002
+1834	10	03	Liverpool Mercury	0007	1834	05	31	Preston Chronicle	0003
+1834	10	03	Belfast News-Letter	0004	1834	05	31	Preston Chronicle	0003
+1834	10	03	Hull Packet	0001	1834	05	10	Newcastle Courant	0003
+1834	10	04	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	10	04	Morning Chronicle	0001	1834	05	11	Examiner	0015
+1834	10	04	Newcastle Courant	0003	1834	05	24	Manchester Times	0001
+1834	10	05	Examiner	0014	1834	05	30	Hull Packet	0001
+1834	10	05	Examiner	0015	1834	05	23	Hull Packet	0001
+1834	10	06	Morning Chronicle	0003	1834	05	09	Belfast News-Letter	0004
+1834	10	08	Derby Mercury	0002	1834	05	31	Manchester Times	0002
+1834	10	10	Liverpool Mercury	0007	1834	05	17	Preston Chronicle	0003
+1834	10	10	Hull Packet	0001	1834	05	31	Newcastle Courant	0003
+1834	10	10	Morning Chronicle	0001	1834	05	11	Examiner	0015
+1834	10	11	Ipswich Journal	0003	1834	05	30	Liverpool Mercury	0001
+1834	10	15	Derby Mercury	0002	1834	05	10	Preston Chronicle	0001
+1834	10	16	Morning Chronicle	0001	1834	05	23	Liverpool Mercury	0003
+1834	10	17	Liverpool Mercury	0007	1834	05	31	Manchester Times	0004
+1834	10	17	Belfast News-Letter	0004	1834	05	16	Liverpool Mercury	0007
+1834	10	17	Hull Packet	0001	1834	05	03	Manchester Times	0002
+1834	10	18	Preston Chronicle	0003	1834	05	09	Liverpool Mercury	0007
+1834	10	18	Ipswich Journal	0001	1834	05	30	Liverpool Mercury	0001
+1834	10	18	Manchester Times	0001	1834	05	30	Liverpool Mercury	0001
+1834	10	24	Belfast News-Letter	0004	1834	05	02	Liverpool Mercury	0007
+1834	10	24	Hull Packet	0001	1834	05	31	Newcastle Courant	0003
+1834	10	24	Hull Packet	0002	1834	05	28	Derby Mercury	0002
+1834	10	25	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	10	25	Bristol Mercury	0001	1834	05	28	Derby Mercury	0002
+1834	10	25	Newcastle Courant	0003	1834	05	03	Manchester Times	0002
+1834	10	28	Morning Chronicle	0003	1834	05	09	Liverpool Mercury	0007
+1834	10	29	Derby Mercury	0001	1834	05	10	Newcastle Courant	0003
+1834	10	31	Belfast News-Letter	0004	1834	05	31	Preston Chronicle	0003
+1834	10	31	Hull Packet	0001	1834	05	17	Newcastle Courant	0003
+1834	11	01	Preston Chronicle	0001	1834	05	30	Hull Packet	0001
+1834	11	01	Preston Chronicle	0003	1834	05	09	Liverpool Mercury	0007
+1834	11	01	Ipswich Journal	0001	1834	05	30	Liverpool Mercury	0001
+1834	11	03	Caledonian Mercury	0001	1834	05	09	Hull Packet	0001
+1834	11	05	Aberdeen Journal	0001	1834	05	30	Hull Packet	0001
+1834	11	06	Morning Chronicle	0001	1834	05	23	Liverpool Mercury	0003
+1834	11	07	Liverpool Mercury	0003	1834	05	31	Manchester Times	0004
+1834	11	07	Belfast News-Letter	0004	1834	05	09	Liverpool Mercury	0007
+1834	11	08	Preston Chronicle	0003	1834	05	02	Liverpool Mercury	0007
+1834	11	08	Manchester Times	0002	1834	05	30	Liverpool Mercury	0001
+1834	11	08	Manchester Times	0004	1834	05	09	Liverpool Mercury	0007
+1834	11	09	Examiner	0013	1834	05	17	Preston Chronicle	0001
+1834	11	13	Trewman’s Exeter Flying Post	0001	1834	05	02	Hull Packet	0001
+1834	11	14	Liverpool Mercury	0007	1834	05	24	Manchester Times	0004
+1834	11	14	Hull Packet	0001	1834	05	17	Preston Chronicle	0001
+1834	11	15	Preston Chronicle	0003	1834	05	09	Liverpool Mercury	0007
+1834	11	15	Ipswich Journal	0001	1834	05	30	Liverpool Mercury	0001
+1834	11	15	Manchester Times	0004	1834	05	23	Liverpool Mercury	0007
+1834	11	15	Morning Chronicle	0003	1834	05	02	Liverpool Mercury	0007
+1834	11	15	Newcastle Courant	0004	1834	05	30	Hull Packet	0001
+1834	11	17	Morning Chronicle	0001	1834	05	23	Liverpool Mercury	0003
+1834	11	20	Caledonian Mercury	0003	1834	05	24	Ipswich Journal	0004
+1834	11	21	Liverpool Mercury	0007	1834	05	17	Preston Chronicle	0003
+1834	11	21	Belfast News-Letter	0004	1834	05	16	Liverpool Mercury	0007
+1834	11	22	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	11	24	Caledonian Mercury	0001	1834	05	30	Hull Packet	0001
+1834	11	26	Derby Mercury	0004	1834	05	10	Newcastle Courant	0003
+1834	11	28	Liverpool Mercury	0007	1834	05	17	Manchester Times	0004
+1834	11	28	Hull Packet	0001	1834	05	17	Preston Chronicle	0003
+1834	11	29	Preston Chronicle	0003	1834	05	16	Liverpool Mercury	0007
+1834	11	29	Newcastle Courant	0003	1834	05	31	Preston Chronicle	0001
+1834	12	05	Liverpool Mercury	0007	1834	05	31	Manchester Times	0004
+1834	12	05	Belfast News-Letter	0004	1834	05	31	Preston Chronicle	0003
+1834	12	06	Ipswich Journal	0001	1834	05	30	Liverpool Mercury	0001
+1834	12	06	Newcastle Courant	0004	1834	05	30	Hull Packet	0001
+1834	12	08	Caledonian Mercury	0001	1834	05	30	Hull Packet	0001
+1834	12	12	Liverpool Mercury	0007	1834	05	31	Manchester Times	0004
+1834	12	13	Preston Chronicle	0001	1834	05	30	Hull Packet	0001

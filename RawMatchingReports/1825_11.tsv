@@ -1,0 +1,916 @@
+
+206	281	293	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0002
+432	541	554	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0004
+435	577	580	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0002	1825	11	02	Morning Chronicle	1825.11.02_MorningChronicle_0002
+320	454	463	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0003	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0003
+287	393	384	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0004	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0004
+372	547	540	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0002	1825	11	03	Morning Chronicle	1825.11.03_MorningChronicle_0004
+252	421	424	1825	11	05	Leeds Mercury	1825.11.05_TheLeedsMercury_0004	1825	11	01	Morning Chronicle	1825.11.01_MorningChronicle_0002
+420	722	720	1825	11	05	Newcastle Courant	1825.11.05_TheNewcastleCourantetc_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+731	1110	1116	1825	11	06	Examiner	1825.11.06_TheExaminer_0003	1825	11	01	Morning Chronicle	1825.11.01_MorningChronicle_0002
+297	451	459	1825	11	06	Examiner	1825.11.06_TheExaminer_0003	1825	11	05	Leeds Mercury	1825.11.05_TheLeedsMercury_0004
+397	608	615	1825	11	06	Examiner	1825.11.06_TheExaminer_0006	1825	11	02	Morning Chronicle	1825.11.02_MorningChronicle_0002
+301	412	419	1825	11	06	Examiner	1825.11.06_TheExaminer_0012	1825	11	05	Morning Chronicle	1825.11.05_MorningChronicle_0004
+439	557	558	1825	11	06	Examiner	1825.11.06_TheExaminer_0013	1825	11	05	Leeds Mercury	1825.11.05_TheLeedsMercury_0004
+270	356	354	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0002	1825	11	01	Morning Chronicle	1825.11.01_MorningChronicle_0002
+281	429	444	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+242	359	354	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0002	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0001
+375	540	546	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0003	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+274	425	440	1825	11	07	Morning Chronicle	1825.11.07_MorningChronicle_0002	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0004
+294	475	476	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0001	1825	11	03	Morning Chronicle	1825.11.03_MorningChronicle_0002
+212	343	343	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0001	1825	11	03	Morning Chronicle	1825.11.03_MorningChronicle_0004
+205	357	363	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0002
+233	341	349	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0001	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0003
+227	284	281	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004	1825	11	02	Morning Chronicle	1825.11.02_MorningChronicle_0002
+202	331	333	1825	11	08	Morning Chronicle	1825.11.08_MorningChronicle_0001	1825	11	05	Morning Chronicle	1825.11.05_MorningChronicle_0001
+222	314	307	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0001	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0001
+308	460	444	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+300	470	452	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0001	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0003
+212	312	313	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0002	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0002
+320	494	509	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0002	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0002
+664	1051	1073	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0003	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0003
+313	503	519	1825	11	10	Caledonian Mercury	1825.11.10_CaledonianMercury_0001	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0001
+323	484	506	1825	11	10	Caledonian Mercury	1825.11.10_CaledonianMercury_0001	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0003
+455	693	663	1825	11	10	Caledonian Mercury	1825.11.10_CaledonianMercury_0002	1825	11	05	Morning Chronicle	1825.11.05_MorningChronicle_0002
+248	368	361	1825	11	10	Caledonian Mercury	1825.11.10_CaledonianMercury_0002	1825	11	06	Examiner	1825.11.06_TheExaminer_0014
+265	434	414	1825	11	10	Caledonian Mercury	1825.11.10_CaledonianMercury_0002	1825	11	07	Morning Chronicle	1825.11.07_MorningChronicle_0003
+240	414	412	1825	11	10	Morning Chronicle	1825.11.10_MorningChronicle_0001	1825	11	05	Morning Chronicle	1825.11.05_MorningChronicle_0001
+708	1124	1133	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+350	528	533	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0006	1825	11	01	Morning Chronicle	1825.11.01_MorningChronicle_0002
+265	436	434	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+673	968	960	1825	11	12	Caledonian Mercury	1825.11.12_CaledonianMercury_0002	1825	11	09	Morning Chronicle	1825.11.09_MorningChronicle_0004
+218	355	348	1825	11	12	Caledonian Mercury	1825.11.12_CaledonianMercury_0002	1825	11	10	Morning Chronicle	1825.11.10_MorningChronicle_0002
+439	673	673	1825	11	12	Caledonian Mercury	1825.11.12_CaledonianMercury_0004	1825	11	08	Morning Chronicle	1825.11.08_MorningChronicle_0004
+301	379	393	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+278	433	442	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0001
+1432	2062	2030	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+325	464	478	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0001	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0001
+476	825	818	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0004	1825	11	07	Morning Chronicle	1825.11.07_MorningChronicle_0003
+225	351	348	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0004	1825	11	08	Morning Chronicle	1825.11.08_MorningChronicle_0003
+237	384	389	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0004	1825	11	10	Caledonian Mercury	1825.11.10_CaledonianMercury_0002
+461	812	818	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0001	1825	11	05	Leeds Mercury	1825.11.05_TheLeedsMercury_0001
+210	336	343	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0001	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0001
+318	540	533	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0002	1825	11	11	Morning Chronicle	1825.11.11_MorningChronicle_0004
+280	429	427	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0004	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0004
+215	360	341	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0004	1825	11	06	Examiner	1825.11.06_TheExaminer_0010
+295	427	402	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0004	1825	11	06	Examiner	1825.11.06_TheExaminer_0011
+387	554	569	1825	11	13	Examiner	1825.11.13_TheExaminer_0006	1825	11	09	Morning Chronicle	1825.11.09_MorningChronicle_0002
+266	377	388	1825	11	13	Examiner	1825.11.13_TheExaminer_0006	1825	11	09	Morning Chronicle	1825.11.09_MorningChronicle_0004
+407	584	590	1825	11	13	Examiner	1825.11.13_TheExaminer_0006	1825	11	11	Morning Chronicle	1825.11.11_MorningChronicle_0004
+222	301	317	1825	11	13	Examiner	1825.11.13_TheExaminer_0006	1825	11	12	Caledonian Mercury	1825.11.12_CaledonianMercury_0002
+273	419	427	1825	11	13	Examiner	1825.11.13_TheExaminer_0006	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0002
+215	327	330	1825	11	13	Examiner	1825.11.13_TheExaminer_0009	1825	11	10	Morning Chronicle	1825.11.10_MorningChronicle_0003
+287	404	422	1825	11	13	Examiner	1825.11.13_TheExaminer_0014	1825	11	12	Morning Chronicle	1825.11.12_MorningChronicle_0003
+244	354	358	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0001	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0003
+227	363	365	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+219	365	355	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0001	1825	11	10	Caledonian Mercury	1825.11.10_CaledonianMercury_0001
+637	872	867	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0002	1825	11	11	Morning Chronicle	1825.11.11_MorningChronicle_0004
+492	769	776	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0002	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0002
+543	667	655	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0002	1825	11	13	Examiner	1825.11.13_TheExaminer_0006
+352	511	494	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004	1825	11	03	Morning Chronicle	1825.11.03_MorningChronicle_0004
+270	400	418	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0003
+226	367	365	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0001
+226	282	280	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004	1825	11	13	Examiner	1825.11.13_TheExaminer_0009
+217	313	308	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0001	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0003
+350	566	567	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+979	1582	1546	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0001	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0001
+682	1083	1083	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0001	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0003
+204	342	343	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0002	1825	11	12	Caledonian Mercury	1825.11.12_CaledonianMercury_0002
+380	599	588	1825	11	14	Morning Chronicle	1825.11.14_MorningChronicle_0004	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0003
+240	376	393	1825	11	14	Morning Chronicle	1825.11.14_MorningChronicle_0004	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0004
+503	812	821	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0001	1825	11	08	Morning Chronicle	1825.11.08_MorningChronicle_0002
+252	438	432	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0001	1825	11	10	Morning Chronicle	1825.11.10_MorningChronicle_0002
+282	435	430	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0002	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0001
+367	607	590	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0002	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0001
+243	349	358	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+201	315	316	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+235	427	420	1825	11	15	Morning Chronicle	1825.11.15_MorningChronicle_0001	1825	11	08	Morning Chronicle	1825.11.08_MorningChronicle_0001
+333	571	585	1825	11	15	Morning Chronicle	1825.11.15_MorningChronicle_0002	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0003
+247	403	404	1825	11	16	Aberdeen Journal	1825.11.16_TheAberdeenJournal_0004	1825	11	09	Morning Chronicle	1825.11.09_MorningChronicle_0004
+451	708	708	1825	11	16	Aberdeen Journal	1825.11.16_TheAberdeenJournal_0004	1825	11	12	Caledonian Mercury	1825.11.12_CaledonianMercury_0002
+222	359	346	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0001	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0001
+253	407	398	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0001	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0001
+270	429	420	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+203	297	312	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0001
+249	292	308	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0003
+267	393	400	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+444	634	640	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0003
+547	854	844	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001	1825	11	10	Caledonian Mercury	1825.11.10_CaledonianMercury_0001
+301	454	468	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+346	464	467	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002	1825	11	12	Morning Chronicle	1825.11.12_MorningChronicle_0002
+243	343	349	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0002
+582	810	835	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+400	560	546	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0004	1825	11	02	Morning Chronicle	1825.11.02_MorningChronicle_0002
+453	618	608	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0004	1825	11	06	Examiner	1825.11.06_TheExaminer_0007
+309	460	456	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0004	1825	11	12	Morning Chronicle	1825.11.12_MorningChronicle_0003
+238	296	289	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0004	1825	11	13	Examiner	1825.11.13_TheExaminer_0014
+227	330	346	1825	11	18	Morning Chronicle	1825.11.18_MorningChronicle_0002	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0004
+240	366	358	1825	11	19	Caledonian Mercury	1825.11.19_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+432	602	601	1825	11	19	Caledonian Mercury	1825.11.19_CaledonianMercury_0001	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001
+309	373	369	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+650	881	900	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0001
+557	766	770	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+848	1249	1252	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0001
+735	1011	1057	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0003
+269	446	467	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0002
+238	389	374	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0004
+441	671	671	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004	1825	11	10	Caledonian Mercury	1825.11.10_CaledonianMercury_0004
+201	303	306	1825	11	19	Leeds Mercury	1825.11.19_TheLeedsMercury_0002	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0002
+255	393	394	1825	11	20	Examiner	1825.11.20_TheExaminer_0015	1825	11	11	Morning Chronicle	1825.11.11_MorningChronicle_0001
+212	308	306	1825	11	20	Examiner	1825.11.20_TheExaminer_0016	1825	11	13	Examiner	1825.11.13_TheExaminer_0016
+243	402	401	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0001
+786	1158	1119	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0001
+262	390	393	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001
+221	327	334	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0002	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0002
+242	405	394	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+595	811	824	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0004	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004
+206	330	315	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0001
+394	614	601	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0001	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0001
+302	435	420	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0001	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0003
+906	1349	1366	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0001	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0001
+203	329	331	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0001	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0002
+284	432	424	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0001	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001
+559	879	869	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0002	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004
+271	399	393	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0002	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0004
+254	379	386	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0003	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0003
+276	428	416	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0003	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0001
+327	423	415	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0001	1825	11	13	Examiner	1825.11.13_TheExaminer_0015
+270	425	422	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0001	1825	11	14	Morning Chronicle	1825.11.14_MorningChronicle_0002
+478	761	755	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0001	1825	11	17	Morning Chronicle	1825.11.17_MorningChronicle_0002
+306	522	535	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0001	1825	11	18	Morning Chronicle	1825.11.18_MorningChronicle_0002
+227	365	369	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0001	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0001
+334	586	585	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0002
+208	326	335	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001
+282	428	434	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0003
+249	393	380	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+244	378	357	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+259	405	407	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+275	454	463	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+294	478	481	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004	1825	11	17	Morning Chronicle	1825.11.17_MorningChronicle_0004
+256	325	316	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004	1825	11	20	Examiner	1825.11.20_TheExaminer_0008
+215	297	292	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004	1825	11	20	Examiner	1825.11.20_TheExaminer_0014
+476	656	666	1825	11	22	Morning Chronicle	1825.11.22_MorningChronicle_0002	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0002
+1721	2581	2591	1825	11	22	Morning Chronicle	1825.11.22_MorningChronicle_0003	1825	11	19	Caledonian Mercury	1825.11.19_CaledonianMercury_0002
+1182	1724	1736	1825	11	22	Morning Chronicle	1825.11.22_MorningChronicle_0004	1825	11	19	Caledonian Mercury	1825.11.19_CaledonianMercury_0003
+241	370	367	1825	11	23	Aberdeen Journal	1825.11.23_TheAberdeenJournal_0001	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0004
+216	368	366	1825	11	23	Aberdeen Journal	1825.11.23_TheAberdeenJournal_0002	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0003
+779	1156	1141	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0001	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0001
+337	481	449	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0001	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0001
+215	331	330	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0001	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0002
+212	314	305	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0001	1825	11	20	Examiner	1825.11.20_TheExaminer_0008
+431	666	664	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0001	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+228	274	262	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0002	1825	11	20	Examiner	1825.11.20_TheExaminer_0006
+314	530	517	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0003	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0003
+201	317	315	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+365	577	583	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0004	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0002
+450	724	704	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0001	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001
+356	545	528	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+351	515	502	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+214	338	319	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002
+235	334	314	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002
+273	355	337	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002	1825	11	22	Morning Chronicle	1825.11.22_MorningChronicle_0002
+200	352	353	1825	11	24	Trewman’s Exeter Flying Post	1825.11.24_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1825	11	03	Trewman’s Exeter Flying Post	1825.11.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+391	644	649	1825	11	24	Trewman’s Exeter Flying Post	1825.11.24_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1825	11	17	Trewman’s Exeter Flying Post	1825.11.17_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+284	438	443	1825	11	24	Trewman’s Exeter Flying Post	1825.11.24_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002
+275	450	474	1825	11	24	Trewman’s Exeter Flying Post	1825.11.24_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004
+296	452	434	1825	11	24	Trewman’s Exeter Flying Post	1825.11.24_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002
+541	851	858	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+656	992	981	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+233	398	389	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+350	547	543	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+274	392	392	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001
+395	579	584	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001	1825	11	19	Caledonian Mercury	1825.11.19_CaledonianMercury_0004
+311	462	461	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0001
+257	358	371	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0002	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0004
+340	429	429	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0002	1825	11	22	Morning Chronicle	1825.11.22_MorningChronicle_0002
+221	345	341	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0003	1825	11	19	Caledonian Mercury	1825.11.19_CaledonianMercury_0001
+200	325	332	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0023	1825	11	18	Morning Chronicle	1825.11.18_MorningChronicle_0003
+246	382	388	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0027	1825	11	15	Morning Chronicle	1825.11.15_MorningChronicle_0002
+373	513	508	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0028	1825	11	15	Morning Chronicle	1825.11.15_MorningChronicle_0002
+451	629	618	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0029	1825	11	15	Morning Chronicle	1825.11.15_MorningChronicle_0002
+230	312	325	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+259	337	328	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+216	270	279	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0001
+523	671	664	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0001	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001
+606	875	853	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0001	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0003
+211	281	280	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0003	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0003
+255	370	351	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0003	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0003
+228	376	365	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0004
+330	531	529	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004
+1018	1545	1529	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004	1825	11	22	Morning Chronicle	1825.11.22_MorningChronicle_0003
+342	559	560	1825	11	26	Newcastle Courant	1825.11.26_TheNewcastleCourantetc_0002	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0002
+542	806	810	1825	11	26	Newcastle Courant	1825.11.26_TheNewcastleCourantetc_0003	1825	11	12	Newcastle Courant	1825.11.12_TheNewcastleCourantetc_0001
+200	287	289	1825	11	27	Examiner	1825.11.27_TheExaminer_0003	1825	11	25	Morning Chronicle	1825.11.25_MorningChronicle_0003
+309	382	394	1825	11	27	Examiner	1825.11.27_TheExaminer_0004	1825	11	19	Caledonian Mercury	1825.11.19_CaledonianMercury_0002
+271	383	393	1825	11	27	Examiner	1825.11.27_TheExaminer_0005	1825	11	22	Morning Chronicle	1825.11.22_MorningChronicle_0004
+695	953	949	1825	11	27	Examiner	1825.11.27_TheExaminer_0016	1825	11	20	Examiner	1825.11.20_TheExaminer_0016
+565	848	847	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+243	374	372	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001	1825	11	10	Caledonian Mercury	1825.11.10_CaledonianMercury_0001
+258	408	405	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0001
+679	909	924	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001
+626	867	870	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+730	1010	1023	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0001
+524	772	784	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001
+383	482	461	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0002	1825	11	13	Examiner	1825.11.13_TheExaminer_0010
+262	309	287	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0002	1825	11	20	Examiner	1825.11.20_TheExaminer_0006
+240	311	311	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0002	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0002
+383	603	608	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0003
+401	678	662	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+283	487	477	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0004
+280	407	414	1825	11	28	Hampshire/Portsmouth Telegraph	1825.11.28_HampshireTelegraphandSussexChronicleetc_0001	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0001
+474	682	696	1825	11	28	Hampshire/Portsmouth Telegraph	1825.11.28_HampshireTelegraphandSussexChronicleetc_0001	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0001
+848	1203	1190	1825	11	28	Hampshire/Portsmouth Telegraph	1825.11.28_HampshireTelegraphandSussexChronicleetc_0001	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0001
+774	1186	1140	1825	11	28	Hampshire/Portsmouth Telegraph	1825.11.28_HampshireTelegraphandSussexChronicleetc_0001	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0003
+208	273	276	1825	11	28	Hampshire/Portsmouth Telegraph	1825.11.28_HampshireTelegraphandSussexChronicleetc_0003	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0001
+558	682	680	1825	11	28	Morning Chronicle	1825.11.28_MorningChronicle_0002	1825	11	27	Examiner	1825.11.27_TheExaminer_0014
+205	307	323	1825	11	28	Morning Chronicle	1825.11.28_MorningChronicle_0002	1825	11	28	Hampshire/Portsmouth Telegraph	1825.11.28_HampshireTelegraphandSussexChronicleetc_0004
+370	624	616	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0001	1825	11	22	Morning Chronicle	1825.11.22_MorningChronicle_0003
+363	535	513	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0001	1825	11	23	Morning Chronicle	1825.11.23_MorningChronicle_0002
+238	379	378	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001
+722	1108	1101	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002
+239	408	407	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002	1825	11	24	Trewman’s Exeter Flying Post	1825.11.24_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+205	302	306	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0002
+290	390	381	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002	1825	11	28	Morning Chronicle	1825.11.28_MorningChronicle_0002
+281	428	417	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+265	377	369	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+297	472	484	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+317	499	521	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004
+221	341	344	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+205	278	274	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004	1825	11	27	Examiner	1825.11.27_TheExaminer_0010
+288	415	407	1825	11	30	Aberdeen Journal	1825.11.30_TheAberdeenJournal_0001	1825	11	23	Aberdeen Journal	1825.11.23_TheAberdeenJournal_0002
+483	688	722	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0001	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004
+578	779	797	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0004
+214	289	289	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0001	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0003
+439	632	627	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0001	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0001
+211	342	354	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0003
+204	358	369	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0003
+312	423	423	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0003
+221	302	295	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0003
+209	330	334	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002
+271	424	416	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0003	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0003
+240	358	371	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+249	389	390	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+379	515	541	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0001	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001
+494	720	743	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0001	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0001
+407	578	586	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+276	388	378	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0001	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0001
+293	456	460	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+296	448	430	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0002	1825	11	15	Morning Chronicle	1825.11.15_MorningChronicle_0003
+382	595	592	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0002	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002
+401	669	672	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+374	519	504	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0002	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002
+246	319	317	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0002	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+258	311	312	1825	12	01	Caledonian Mercury	1825.12.01_CaledonianMercury_0003	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0003
+207	324	316	1825	12	02	Liverpool Mercury	1825.12.02_LiverpoolMercuryetc_0006	1825	11	13	Examiner	1825.11.13_TheExaminer_0002
+209	340	334	1825	12	03	Caledonian Mercury	1825.12.03_CaledonianMercury_0001	1825	11	19	Caledonian Mercury	1825.11.19_CaledonianMercury_0001
+876	1087	1051	1825	12	03	Caledonian Mercury	1825.12.03_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0003
+214	249	238	1825	12	03	Caledonian Mercury	1825.12.03_CaledonianMercury_0002	1825	11	29	Morning Chronicle	1825.11.29_MorningChronicle_0002
+481	694	676	1825	12	03	Caledonian Mercury	1825.12.03_CaledonianMercury_0002	1825	11	29	Morning Chronicle	1825.11.29_MorningChronicle_0003
+256	329	329	1825	12	03	Caledonian Mercury	1825.12.03_CaledonianMercury_0003	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0003
+201	330	326	1825	12	03	Caledonian Mercury	1825.12.03_CaledonianMercury_0004	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0003
+258	432	411	1825	12	03	Caledonian Mercury	1825.12.03_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+236	329	336	1825	12	03	Cobbett’s Weekly Political Register	1825.12.03_Cobbett'sWeeklyPoliticalRegister_0018	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0012
+206	261	260	1825	12	03	Cobbett’s Weekly Political Register	1825.12.03_Cobbett'sWeeklyPoliticalRegister_0018	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0013
+217	307	302	1825	12	03	Cobbett’s Weekly Political Register	1825.12.03_Cobbett'sWeeklyPoliticalRegister_0019	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0014
+202	229	227	1825	12	03	Cobbett’s Weekly Political Register	1825.12.03_Cobbett'sWeeklyPoliticalRegister_0020	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0012
+329	385	387	1825	12	03	Cobbett’s Weekly Political Register	1825.12.03_Cobbett'sWeeklyPoliticalRegister_0021	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0012
+246	276	278	1825	12	03	Cobbett’s Weekly Political Register	1825.12.03_Cobbett'sWeeklyPoliticalRegister_0021	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0013
+206	301	298	1825	12	03	Cobbett’s Weekly Political Register	1825.12.03_Cobbett'sWeeklyPoliticalRegister_0024	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0017
+293	343	349	1825	12	03	Cobbett’s Weekly Political Register	1825.12.03_Cobbett'sWeeklyPoliticalRegister_0026	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0020
+207	299	312	1825	12	03	Cobbett’s Weekly Political Register	1825.12.03_Cobbett'sWeeklyPoliticalRegister_0027	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0021
+337	403	391	1825	12	03	Cobbett’s Weekly Political Register	1825.12.03_Cobbett'sWeeklyPoliticalRegister_0029	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0024
+213	313	319	1825	12	03	Ipswich Journal	1825.12.03_TheIpswichJournal_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+305	467	481	1825	12	03	Ipswich Journal	1825.12.03_TheIpswichJournal_0001	1825	11	12	Ipswich Journal	1825.11.12_TheIpswichJournal_0003
+418	613	609	1825	12	03	Ipswich Journal	1825.12.03_TheIpswichJournal_0001	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001
+472	633	650	1825	12	03	Ipswich Journal	1825.12.03_TheIpswichJournal_0001	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0001
+683	1038	1079	1825	12	03	Ipswich Journal	1825.12.03_TheIpswichJournal_0001	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0003
+257	387	390	1825	12	03	Ipswich Journal	1825.12.03_TheIpswichJournal_0001	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0001
+241	379	382	1825	12	03	Ipswich Journal	1825.12.03_TheIpswichJournal_0004	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0004
+286	469	482	1825	12	03	Ipswich Journal	1825.12.03_TheIpswichJournal_0004	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004
+337	539	532	1825	12	03	Ipswich Journal	1825.12.03_TheIpswichJournal_0004	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004
+214	347	341	1825	12	03	Ipswich Journal	1825.12.03_TheIpswichJournal_0004	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004
+338	515	508	1825	12	03	Newcastle Courant	1825.12.03_TheNewcastleCourantetc_0001	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0001
+225	360	360	1825	12	03	Newcastle Courant	1825.12.03_TheNewcastleCourantetc_0002	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0002
+204	336	336	1825	12	03	Newcastle Courant	1825.12.03_TheNewcastleCourantetc_0003	1825	11	26	Newcastle Courant	1825.11.26_TheNewcastleCourantetc_0001
+341	601	597	1825	12	03	Newcastle Courant	1825.12.03_TheNewcastleCourantetc_0003	1825	11	26	Newcastle Courant	1825.11.26_TheNewcastleCourantetc_0003
+289	328	327	1825	12	04	Examiner	1825.12.04_TheExaminer_0005	1825	11	29	Morning Chronicle	1825.11.29_MorningChronicle_0002
+310	426	432	1825	12	04	Examiner	1825.12.04_TheExaminer_0005	1825	11	30	Morning Chronicle	1825.11.30_MorningChronicle_0003
+238	307	313	1825	12	04	Examiner	1825.12.04_TheExaminer_0009	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0004
+223	319	316	1825	12	04	Examiner	1825.12.04_TheExaminer_0014	1825	11	20	Examiner	1825.11.20_TheExaminer_0014
+262	334	332	1825	12	04	Examiner	1825.12.04_TheExaminer_0015	1825	11	20	Examiner	1825.11.20_TheExaminer_0015
+361	499	496	1825	12	05	Caledonian Mercury	1825.12.05_CaledonianMercury_0001	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0001
+851	1244	1266	1825	12	05	Caledonian Mercury	1825.12.05_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+322	450	454	1825	12	05	Caledonian Mercury	1825.12.05_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001
+1206	1600	1630	1825	12	05	Caledonian Mercury	1825.12.05_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+248	394	384	1825	12	05	Caledonian Mercury	1825.12.05_CaledonianMercury_0002	1825	11	26	Morning Chronicle	1825.11.26_MorningChronicle_0002
+207	290	302	1825	12	05	Caledonian Mercury	1825.12.05_CaledonianMercury_0003	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0003
+280	473	469	1825	12	05	Caledonian Mercury	1825.12.05_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+256	384	367	1825	12	05	Hampshire/Portsmouth Telegraph	1825.12.05_HampshireTelegraphandSussexChronicleetc_0001	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0001
+240	382	380	1825	12	05	Hampshire/Portsmouth Telegraph	1825.12.05_HampshireTelegraphandSussexChronicleetc_0001	1825	11	21	Hampshire/Portsmouth Telegraph	1825.11.21_HampshireTelegraphandSussexChronicleetc_0003
+253	382	398	1825	12	05	Hampshire/Portsmouth Telegraph	1825.12.05_HampshireTelegraphandSussexChronicleetc_0001	1825	11	28	Hampshire/Portsmouth Telegraph	1825.11.28_HampshireTelegraphandSussexChronicleetc_0001
+326	438	419	1825	12	05	Hampshire/Portsmouth Telegraph	1825.12.05_HampshireTelegraphandSussexChronicleetc_0001	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0001
+265	489	489	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0001	1825	11	28	Morning Chronicle	1825.11.28_MorningChronicle_0003
+254	372	389	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0002	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002
+342	498	513	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0002	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002
+290	426	430	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+291	412	406	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+306	473	489	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+349	541	544	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+242	414	407	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+241	372	359	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+474	598	612	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0004	1825	11	28	Morning Chronicle	1825.11.28_MorningChronicle_0002
+635	835	838	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0004	1825	11	29	Morning Chronicle	1825.11.29_MorningChronicle_0002
+657	1014	1004	1825	12	05	Bristol Mercury	1825.12.05_TheBristolMercury_0004	1825	11	30	Morning Chronicle	1825.11.30_MorningChronicle_0003
+963	1361	1389	1825	12	07	Derby Mercury	1825.12.07_TheDerbyMercury_0001	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0001
+241	352	353	1825	12	07	Derby Mercury	1825.12.07_TheDerbyMercury_0001	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002
+240	373	404	1825	12	07	Derby Mercury	1825.12.07_TheDerbyMercury_0002	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0003
+286	382	404	1825	12	07	Derby Mercury	1825.12.07_TheDerbyMercury_0002	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0003
+690	940	971	1825	12	07	Derby Mercury	1825.12.07_TheDerbyMercury_0002	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002
+228	340	350	1825	12	07	Derby Mercury	1825.12.07_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+251	325	327	1825	12	07	Derby Mercury	1825.12.07_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+231	379	394	1825	12	08	Caledonian Mercury	1825.12.08_CaledonianMercury_0001	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0001
+253	376	375	1825	12	08	Caledonian Mercury	1825.12.08_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+319	510	511	1825	12	08	Caledonian Mercury	1825.12.08_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+278	440	437	1825	12	08	Caledonian Mercury	1825.12.08_CaledonianMercury_0002	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002
+278	418	427	1825	12	08	Caledonian Mercury	1825.12.08_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+254	431	443	1825	12	09	Liverpool Mercury	1825.12.09_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+419	664	666	1825	12	09	Liverpool Mercury	1825.12.09_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+359	592	602	1825	12	09	Liverpool Mercury	1825.12.09_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+217	351	332	1825	12	09	Liverpool Mercury	1825.12.09_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+391	562	585	1825	12	10	Caledonian Mercury	1825.12.10_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001
+312	470	463	1825	12	10	Caledonian Mercury	1825.12.10_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0003
+708	841	880	1825	12	10	Caledonian Mercury	1825.12.10_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+299	407	403	1825	12	10	Cobbett’s Weekly Political Register	1825.12.10_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+311	400	379	1825	12	10	Cobbett’s Weekly Political Register	1825.12.10_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+309	394	381	1825	12	10	Cobbett’s Weekly Political Register	1825.12.10_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+802	1136	1196	1825	12	10	Ipswich Journal	1825.12.10_TheIpswichJournal_0001	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0003
+201	360	352	1825	12	10	Ipswich Journal	1825.12.10_TheIpswichJournal_0004	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0004
+232	383	396	1825	12	10	Ipswich Journal	1825.12.10_TheIpswichJournal_0004	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004
+257	454	451	1825	12	10	Ipswich Journal	1825.12.10_TheIpswichJournal_0004	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004
+388	580	594	1825	12	10	Newcastle Courant	1825.12.10_TheNewcastleCourantetc_0001	1825	11	26	Newcastle Courant	1825.11.26_TheNewcastleCourantetc_0001
+215	331	325	1825	12	11	Examiner	1825.12.11_TheExaminer_0014	1825	11	20	Examiner	1825.11.20_TheExaminer_0014
+235	409	411	1825	12	12	Caledonian Mercury	1825.12.12_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+236	354	363	1825	12	12	Caledonian Mercury	1825.12.12_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0003
+247	397	404	1825	12	12	Bristol Mercury	1825.12.12_TheBristolMercury_0001	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0001
+389	534	543	1825	12	12	Bristol Mercury	1825.12.12_TheBristolMercury_0001	1825	11	29	Morning Chronicle	1825.11.29_MorningChronicle_0003
+287	406	416	1825	12	12	Bristol Mercury	1825.12.12_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+319	458	463	1825	12	12	Bristol Mercury	1825.12.12_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+216	320	343	1825	12	12	Bristol Mercury	1825.12.12_TheBristolMercury_0003	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001
+269	406	416	1825	12	12	Bristol Mercury	1825.12.12_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+360	529	542	1825	12	12	Bristol Mercury	1825.12.12_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+222	355	353	1825	12	12	Bristol Mercury	1825.12.12_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+243	395	406	1825	12	12	Bristol Mercury	1825.12.12_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+288	464	456	1825	12	12	Bristol Mercury	1825.12.12_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+227	346	357	1825	12	14	Aberdeen Journal	1825.12.14_TheAberdeenJournal_0001	1825	11	30	Aberdeen Journal	1825.11.30_TheAberdeenJournal_0003
+207	313	308	1825	12	14	Derby Mercury	1825.12.14_TheDerbyMercury_0001	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002
+202	336	353	1825	12	14	Derby Mercury	1825.12.14_TheDerbyMercury_0002	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0003
+492	682	714	1825	12	14	Derby Mercury	1825.12.14_TheDerbyMercury_0002	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002
+208	341	344	1825	12	14	Derby Mercury	1825.12.14_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+281	429	433	1825	12	14	Derby Mercury	1825.12.14_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+210	311	322	1825	12	14	Derby Mercury	1825.12.14_TheDerbyMercury_0004	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0004
+240	326	343	1825	12	14	Derby Mercury	1825.12.14_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+260	426	437	1825	12	15	Caledonian Mercury	1825.12.15_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+273	451	458	1825	12	15	Caledonian Mercury	1825.12.15_CaledonianMercury_0001	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0001
+294	466	472	1825	12	15	Caledonian Mercury	1825.12.15_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001
+478	756	761	1825	12	15	Caledonian Mercury	1825.12.15_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+390	610	617	1825	12	16	Liverpool Mercury	1825.12.16_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+558	855	851	1825	12	16	Liverpool Mercury	1825.12.16_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+560	871	869	1825	12	16	Liverpool Mercury	1825.12.16_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+308	399	407	1825	12	17	Cobbett’s Weekly Political Register	1825.12.17_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+336	422	416	1825	12	17	Cobbett’s Weekly Political Register	1825.12.17_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+353	439	436	1825	12	17	Cobbett’s Weekly Political Register	1825.12.17_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+261	325	334	1825	12	17	Cobbett’s Weekly Political Register	1825.12.17_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+247	394	401	1825	12	17	Ipswich Journal	1825.12.17_TheIpswichJournal_0001	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001
+708	1009	1055	1825	12	17	Ipswich Journal	1825.12.17_TheIpswichJournal_0001	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0003
+232	324	353	1825	12	17	Newcastle Courant	1825.12.17_TheNewcastleCourantetc_0001	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0001
+246	310	317	1825	12	18	Examiner	1825.12.18_TheExaminer_0016	1825	11	20	Examiner	1825.11.20_TheExaminer_0015
+218	312	319	1825	12	18	Examiner	1825.12.18_TheExaminer_0016	1825	11	27	Examiner	1825.11.27_TheExaminer_0015
+235	367	367	1825	12	19	Bristol Mercury	1825.12.19_TheBristolMercury_0002	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002
+211	317	303	1825	12	19	Bristol Mercury	1825.12.19_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+304	477	484	1825	12	19	Bristol Mercury	1825.12.19_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+282	441	450	1825	12	19	Bristol Mercury	1825.12.19_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+366	570	546	1825	12	19	Bristol Mercury	1825.12.19_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+202	336	344	1825	12	19	Bristol Mercury	1825.12.19_TheBristolMercury_0004	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004
+243	381	410	1825	12	21	Derby Mercury	1825.12.21_TheDerbyMercury_0002	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0003
+453	672	700	1825	12	21	Derby Mercury	1825.12.21_TheDerbyMercury_0002	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002
+229	355	377	1825	12	21	Derby Mercury	1825.12.21_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+304	456	453	1825	12	22	Caledonian Mercury	1825.12.22_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+594	919	936	1825	12	22	Caledonian Mercury	1825.12.22_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001
+826	1185	1160	1825	12	22	Caledonian Mercury	1825.12.22_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+216	351	334	1825	12	22	Caledonian Mercury	1825.12.22_CaledonianMercury_0004	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+226	373	366	1825	12	22	Caledonian Mercury	1825.12.22_CaledonianMercury_0004	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+456	697	712	1825	12	23	Liverpool Mercury	1825.12.23_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+520	755	772	1825	12	23	Liverpool Mercury	1825.12.23_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+508	732	755	1825	12	23	Liverpool Mercury	1825.12.23_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+270	428	426	1825	12	23	Liverpool Mercury	1825.12.23_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+546	775	819	1825	12	24	Ipswich Journal	1825.12.24_TheIpswichJournal_0003	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0003
+290	452	453	1825	12	24	Ipswich Journal	1825.12.24_TheIpswichJournal_0004	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0001
+225	326	335	1825	12	25	Examiner	1825.12.25_TheExaminer_0014	1825	11	20	Examiner	1825.11.20_TheExaminer_0014
+335	530	537	1825	12	26	Caledonian Mercury	1825.12.26_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+222	375	380	1825	12	26	Bristol Mercury	1825.12.26_TheBristolMercury_0001	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0001
+221	307	316	1825	12	26	Bristol Mercury	1825.12.26_TheBristolMercury_0002	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002
+399	559	571	1825	12	26	Bristol Mercury	1825.12.26_TheBristolMercury_0002	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002
+286	419	426	1825	12	26	Bristol Mercury	1825.12.26_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+322	461	461	1825	12	26	Bristol Mercury	1825.12.26_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+304	489	502	1825	12	26	Bristol Mercury	1825.12.26_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+329	502	506	1825	12	26	Bristol Mercury	1825.12.26_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+211	352	349	1825	12	26	Bristol Mercury	1825.12.26_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+222	371	352	1825	12	26	Bristol Mercury	1825.12.26_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+211	320	348	1825	12	28	Derby Mercury	1825.12.28_TheDerbyMercury_0001	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0001
+239	347	360	1825	12	28	Derby Mercury	1825.12.28_TheDerbyMercury_0001	1825	11	28	Hampshire/Portsmouth Telegraph	1825.11.28_HampshireTelegraphandSussexChronicleetc_0001
+235	379	384	1825	12	28	Derby Mercury	1825.12.28_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+244	373	370	1825	12	28	Derby Mercury	1825.12.28_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+232	392	403	1825	12	30	Liverpool Mercury	1825.12.30_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+362	584	593	1825	12	30	Liverpool Mercury	1825.12.30_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+292	477	478	1825	12	30	Liverpool Mercury	1825.12.30_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+241	436	425	1825	12	30	Liverpool Mercury	1825.12.30_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+236	411	405	1825	12	30	Liverpool Mercury	1825.12.30_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+584	820	859	1825	12	31	Ipswich Journal	1825.12.31_TheIpswichJournal_0003	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0003
+235	424	426	1825	12	31	Newcastle Courant	1825.12.31_TheNewcastleCourantetc_0002	1825	11	05	Newcastle Courant	1825.11.05_TheNewcastleCourantetc_0003
+234	345	344	1826	01	01	Examiner	1826.01.01_TheExaminer_0013	1825	11	20	Examiner	1825.11.20_TheExaminer_0014
+398	484	487	1826	01	01	Examiner	1826.01.01_TheExaminer_0014	1825	11	20	Examiner	1825.11.20_TheExaminer_0015
+260	375	364	1826	01	02	Caledonian Mercury	1826.01.02_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+298	446	445	1826	01	02	Caledonian Mercury	1826.01.02_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001
+209	343	340	1826	01	02	Caledonian Mercury	1826.01.02_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+201	278	256	1826	01	02	Caledonian Mercury	1826.01.02_CaledonianMercury_0002	1825	11	20	Examiner	1825.11.20_TheExaminer_0010
+256	432	418	1826	01	02	Caledonian Mercury	1826.01.02_CaledonianMercury_0003	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0002
+211	282	276	1826	01	02	Caledonian Mercury	1826.01.02_CaledonianMercury_0003	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0003
+285	439	458	1826	01	02	Bristol Mercury	1826.01.02_TheBristolMercury_0002	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002
+206	334	340	1826	01	02	Bristol Mercury	1826.01.02_TheBristolMercury_0002	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0002
+278	395	396	1826	01	02	Bristol Mercury	1826.01.02_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+320	469	459	1826	01	02	Bristol Mercury	1826.01.02_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+270	410	426	1826	01	02	Bristol Mercury	1826.01.02_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+299	447	450	1826	01	02	Bristol Mercury	1826.01.02_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+232	380	380	1826	01	02	Bristol Mercury	1826.01.02_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+265	407	418	1826	01	02	Bristol Mercury	1826.01.02_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+254	404	394	1826	01	02	Bristol Mercury	1826.01.02_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+228	301	313	1826	01	04	Derby Mercury	1826.01.04_TheDerbyMercury_0001	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0001
+215	275	280	1826	01	04	Derby Mercury	1826.01.04_TheDerbyMercury_0001	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0001
+219	396	405	1826	01	04	Derby Mercury	1826.01.04_TheDerbyMercury_0003	1825	11	02	Derby Mercury	1825.11.02_TheDerbyMercury_0003
+272	434	417	1826	01	04	Derby Mercury	1826.01.04_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+246	383	377	1826	01	04	Derby Mercury	1826.01.04_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+213	328	337	1826	01	04	Derby Mercury	1826.01.04_TheDerbyMercury_0004	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0004
+291	461	454	1826	01	04	Derby Mercury	1826.01.04_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+386	546	561	1826	01	05	Caledonian Mercury	1826.01.05_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001
+825	971	1014	1826	01	05	Caledonian Mercury	1826.01.05_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+357	556	551	1826	01	05	Caledonian Mercury	1826.01.05_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+251	394	390	1826	01	05	Caledonian Mercury	1826.01.05_CaledonianMercury_0002	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002
+328	505	509	1826	01	05	Caledonian Mercury	1826.01.05_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+456	739	749	1826	01	06	Liverpool Mercury	1826.01.06_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+545	842	840	1826	01	06	Liverpool Mercury	1826.01.06_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+546	849	857	1826	01	06	Liverpool Mercury	1826.01.06_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+306	500	501	1826	01	06	Liverpool Mercury	1826.01.06_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+308	483	467	1826	01	07	Caledonian Mercury	1826.01.07_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+394	603	597	1826	01	07	Caledonian Mercury	1826.01.07_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001
+219	387	386	1826	01	07	Ipswich Journal	1826.01.07_TheIpswichJournal_0004	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004
+244	354	358	1826	01	08	Examiner	1826.01.08_TheExaminer_0014	1825	11	20	Examiner	1825.11.20_TheExaminer_0014
+324	446	441	1826	01	09	Caledonian Mercury	1826.01.09_CaledonianMercury_0001	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0001
+314	424	407	1826	01	09	Caledonian Mercury	1826.01.09_CaledonianMercury_0001	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001
+545	802	808	1826	01	09	Caledonian Mercury	1826.01.09_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+352	532	540	1826	01	09	Caledonian Mercury	1826.01.09_CaledonianMercury_0001	1825	11	26	Caledonian Mercury	1825.11.26_CaledonianMercury_0001
+1063	1423	1400	1826	01	09	Caledonian Mercury	1826.01.09_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+332	528	513	1826	01	09	Caledonian Mercury	1826.01.09_CaledonianMercury_0004	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0003
+209	351	345	1826	01	09	Caledonian Mercury	1826.01.09_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+432	667	646	1826	01	09	Caledonian Mercury	1826.01.09_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+219	316	325	1826	01	09	Hampshire/Portsmouth Telegraph	1826.01.09_HampshireTelegraphandSussexChronicleetc_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+208	291	293	1826	01	09	Hampshire/Portsmouth Telegraph	1826.01.09_HampshireTelegraphandSussexChronicleetc_0001	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0001
+206	259	254	1826	01	09	Hampshire/Portsmouth Telegraph	1826.01.09_HampshireTelegraphandSussexChronicleetc_0001	1825	11	27	Examiner	1825.11.27_TheExaminer_0015
+242	366	344	1826	01	09	Bristol Mercury	1826.01.09_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+235	382	388	1826	01	09	Bristol Mercury	1826.01.09_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+219	344	342	1826	01	09	Bristol Mercury	1826.01.09_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+253	427	423	1826	01	09	Bristol Mercury	1826.01.09_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+274	440	424	1826	01	09	Bristol Mercury	1826.01.09_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+282	430	429	1826	01	11	Derby Mercury	1826.01.11_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+324	504	501	1826	01	11	Derby Mercury	1826.01.11_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+200	321	316	1826	01	11	Derby Mercury	1826.01.11_TheDerbyMercury_0004	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0004
+327	472	469	1826	01	11	Derby Mercury	1826.01.11_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+281	436	433	1826	01	12	Caledonian Mercury	1826.01.12_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+214	333	321	1826	01	12	Caledonian Mercury	1826.01.12_CaledonianMercury_0002	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002
+265	426	425	1826	01	12	Caledonian Mercury	1826.01.12_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+240	399	403	1826	01	13	Liverpool Mercury	1826.01.13_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+341	570	578	1826	01	13	Liverpool Mercury	1826.01.13_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+263	411	424	1826	01	13	Liverpool Mercury	1826.01.13_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+293	476	483	1826	01	13	Liverpool Mercury	1826.01.13_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+301	468	459	1826	01	13	Liverpool Mercury	1826.01.13_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+222	394	394	1826	01	13	Liverpool Mercury	1826.01.13_LiverpoolMercuryetc_0007	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0007
+276	480	488	1826	01	14	Newcastle Courant	1826.01.14_TheNewcastleCourantetc_0003	1825	11	05	Newcastle Courant	1825.11.05_TheNewcastleCourantetc_0003
+425	610	597	1826	01	16	Caledonian Mercury	1826.01.16_CaledonianMercury_0001	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0001
+220	311	311	1826	01	16	Caledonian Mercury	1826.01.16_CaledonianMercury_0001	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001
+461	660	665	1826	01	16	Caledonian Mercury	1826.01.16_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+350	489	471	1826	01	16	Caledonian Mercury	1826.01.16_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+275	488	465	1826	01	16	Caledonian Mercury	1826.01.16_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+284	480	465	1826	01	16	Caledonian Mercury	1826.01.16_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+254	395	386	1826	01	16	Bristol Mercury	1826.01.16_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+241	353	335	1826	01	16	Bristol Mercury	1826.01.16_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+222	376	359	1826	01	16	Bristol Mercury	1826.01.16_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+216	338	331	1826	01	16	Bristol Mercury	1826.01.16_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+269	435	444	1826	01	16	Bristol Mercury	1826.01.16_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+300	472	484	1826	01	16	Bristol Mercury	1826.01.16_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+317	505	497	1826	01	16	Bristol Mercury	1826.01.16_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+279	438	432	1826	01	18	Derby Mercury	1826.01.18_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+300	457	466	1826	01	18	Derby Mercury	1826.01.18_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+204	342	331	1826	01	18	Derby Mercury	1826.01.18_TheDerbyMercury_0004	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0004
+299	460	452	1826	01	18	Derby Mercury	1826.01.18_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+364	499	494	1826	01	19	Caledonian Mercury	1826.01.19_CaledonianMercury_0001	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0001
+469	689	695	1826	01	19	Caledonian Mercury	1826.01.19_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+303	437	417	1826	01	19	Caledonian Mercury	1826.01.19_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+233	377	361	1826	01	19	Caledonian Mercury	1826.01.19_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+377	604	592	1826	01	19	Caledonian Mercury	1826.01.19_CaledonianMercury_0002	1825	11	11	Morning Chronicle	1825.11.11_MorningChronicle_0001
+218	354	341	1826	01	19	Caledonian Mercury	1826.01.19_CaledonianMercury_0002	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002
+237	370	369	1826	01	19	Caledonian Mercury	1826.01.19_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+222	369	366	1826	01	20	Liverpool Mercury	1826.01.20_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+335	549	541	1826	01	20	Liverpool Mercury	1826.01.20_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+321	518	529	1826	01	20	Liverpool Mercury	1826.01.20_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+329	534	530	1826	01	20	Liverpool Mercury	1826.01.20_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+429	663	672	1826	01	20	Liverpool Mercury	1826.01.20_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+247	399	407	1826	01	20	Liverpool Mercury	1826.01.20_LiverpoolMercuryetc_0007	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0007
+324	449	457	1826	01	21	Caledonian Mercury	1826.01.21_CaledonianMercury_0001	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0001
+318	446	470	1826	01	21	Caledonian Mercury	1826.01.21_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+298	432	443	1826	01	23	Caledonian Mercury	1826.01.23_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+288	369	372	1826	01	23	Caledonian Mercury	1826.01.23_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+590	744	763	1826	01	23	Caledonian Mercury	1826.01.23_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+212	378	354	1826	01	23	Caledonian Mercury	1826.01.23_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+237	362	379	1826	01	23	Hampshire/Portsmouth Telegraph	1826.01.23_HampshireTelegraphandSussexChronicleetc_0001	1825	11	28	Hampshire/Portsmouth Telegraph	1825.11.28_HampshireTelegraphandSussexChronicleetc_0001
+218	368	361	1826	01	23	Bristol Mercury	1826.01.23_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+243	399	395	1826	01	23	Bristol Mercury	1826.01.23_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+302	511	494	1826	01	23	Bristol Mercury	1826.01.23_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+223	315	320	1826	01	26	Caledonian Mercury	1826.01.26_CaledonianMercury_0001	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0001
+232	327	317	1826	01	26	Caledonian Mercury	1826.01.26_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+268	367	378	1826	01	26	Caledonian Mercury	1826.01.26_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+225	337	328	1826	01	26	Caledonian Mercury	1826.01.26_CaledonianMercury_0002	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002
+279	434	437	1826	01	26	Caledonian Mercury	1826.01.26_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+218	418	393	1826	01	27	Liverpool Mercury	1826.01.27_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+277	444	456	1826	01	27	Liverpool Mercury	1826.01.27_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+216	334	330	1826	01	28	Caledonian Mercury	1826.01.28_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+305	409	416	1826	01	28	Caledonian Mercury	1826.01.28_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+203	301	307	1826	01	28	Caledonian Mercury	1826.01.28_CaledonianMercury_0003	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0003
+312	365	407	1826	01	28	Cobbett’s Weekly Political Register	1826.01.28_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+366	418	442	1826	01	28	Cobbett’s Weekly Political Register	1826.01.28_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+373	439	469	1826	01	28	Cobbett’s Weekly Political Register	1826.01.28_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+277	322	352	1826	01	28	Cobbett’s Weekly Political Register	1826.01.28_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+270	458	451	1826	01	28	Ipswich Journal	1826.01.28_TheIpswichJournal_0004	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004
+280	373	372	1826	01	29	Examiner	1826.01.29_TheExaminer_0013	1825	11	20	Examiner	1825.11.20_TheExaminer_0015
+419	594	603	1826	01	30	Caledonian Mercury	1826.01.30_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+422	619	628	1826	01	30	Caledonian Mercury	1826.01.30_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+283	436	447	1826	01	30	Caledonian Mercury	1826.01.30_CaledonianMercury_0004	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0003
+372	622	614	1826	01	30	Caledonian Mercury	1826.01.30_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+445	710	699	1826	01	30	Caledonian Mercury	1826.01.30_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+276	424	430	1826	01	30	Bristol Mercury	1826.01.30_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+329	524	527	1826	01	30	Bristol Mercury	1826.01.30_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+347	553	544	1826	01	30	Bristol Mercury	1826.01.30_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+222	379	388	1826	01	30	Bristol Mercury	1826.01.30_TheBristolMercury_0004	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004
+312	471	467	1826	02	01	Derby Mercury	1826.02.01_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+205	299	304	1826	02	01	Derby Mercury	1826.02.01_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+295	453	449	1826	02	01	Derby Mercury	1826.02.01_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+289	455	456	1826	02	02	Caledonian Mercury	1826.02.02_CaledonianMercury_0004	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+276	417	408	1826	02	02	Caledonian Mercury	1826.02.02_CaledonianMercury_0004	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002
+227	342	334	1826	02	02	Caledonian Mercury	1826.02.02_CaledonianMercury_0004	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+220	390	383	1826	02	02	Caledonian Mercury	1826.02.02_CaledonianMercury_0004	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0004
+263	421	433	1826	02	03	Liverpool Mercury	1826.02.03_LiverpoolMercuryetc_0003	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+464	773	774	1826	02	03	Liverpool Mercury	1826.02.03_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+505	798	780	1826	02	03	Liverpool Mercury	1826.02.03_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+497	789	796	1826	02	03	Liverpool Mercury	1826.02.03_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+202	329	337	1826	02	04	Ipswich Journal	1826.02.04_TheIpswichJournal_0004	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0004
+230	369	364	1826	02	04	Ipswich Journal	1826.02.04_TheIpswichJournal_0004	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004
+321	453	452	1826	02	06	Caledonian Mercury	1826.02.06_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+324	556	555	1826	02	06	Caledonian Mercury	1826.02.06_CaledonianMercury_0004	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0003
+431	718	706	1826	02	06	Caledonian Mercury	1826.02.06_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+228	399	398	1826	02	06	Caledonian Mercury	1826.02.06_CaledonianMercury_0004	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0004
+644	1018	1007	1826	02	06	Caledonian Mercury	1826.02.06_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+371	567	559	1826	02	06	Hampshire/Portsmouth Telegraph	1826.02.06_HampshireTelegraphandSussexChronicleetc_0001	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0001
+267	425	417	1826	02	06	Bristol Mercury	1826.02.06_TheBristolMercury_0002	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+256	400	402	1826	02	06	Bristol Mercury	1826.02.06_TheBristolMercury_0002	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+305	496	471	1826	02	06	Bristol Mercury	1826.02.06_TheBristolMercury_0002	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+231	366	356	1826	02	08	Derby Mercury	1826.02.08_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+284	460	475	1826	02	08	Derby Mercury	1826.02.08_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+253	394	395	1826	02	08	Derby Mercury	1826.02.08_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+306	492	500	1826	02	09	Caledonian Mercury	1826.02.09_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+216	358	374	1826	02	09	Caledonian Mercury	1826.02.09_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+280	483	490	1826	02	10	Liverpool Mercury	1826.02.10_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+361	613	604	1826	02	10	Liverpool Mercury	1826.02.10_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+379	640	637	1826	02	10	Liverpool Mercury	1826.02.10_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+228	380	364	1826	02	10	Liverpool Mercury	1826.02.10_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+289	476	470	1826	02	10	Liverpool Mercury	1826.02.10_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+261	365	358	1826	02	11	Caledonian Mercury	1826.02.11_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+219	332	328	1826	02	11	Caledonian Mercury	1826.02.11_CaledonianMercury_0003	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+238	385	394	1826	02	11	Ipswich Journal	1826.02.11_TheIpswichJournal_0001	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0001
+212	369	369	1826	02	11	Ipswich Journal	1826.02.11_TheIpswichJournal_0004	1825	11	19	Ipswich Journal	1825.11.19_TheIpswichJournal_0004
+227	372	380	1826	02	11	Ipswich Journal	1826.02.11_TheIpswichJournal_0004	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004
+200	343	333	1826	02	12	Examiner	1826.02.12_TheExaminer_0015	1825	11	06	Examiner	1825.11.06_TheExaminer_0015
+244	348	351	1826	02	12	Examiner	1826.02.12_TheExaminer_0015	1825	11	20	Examiner	1825.11.20_TheExaminer_0014
+350	519	492	1826	02	13	Caledonian Mercury	1826.02.13_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+444	644	624	1826	02	13	Caledonian Mercury	1826.02.13_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+265	460	449	1826	02	13	Caledonian Mercury	1826.02.13_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+280	499	474	1826	02	13	Caledonian Mercury	1826.02.13_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+531	731	743	1826	02	13	Hampshire/Portsmouth Telegraph	1826.02.13_HampshireTelegraphandSussexChronicleetc_0001	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0001
+211	350	337	1826	02	13	Bristol Mercury	1826.02.13_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+223	385	384	1826	02	13	Bristol Mercury	1826.02.13_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+249	413	398	1826	02	13	Bristol Mercury	1826.02.13_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+224	339	326	1826	02	16	Caledonian Mercury	1826.02.16_CaledonianMercury_0001	1825	11	05	Caledonian Mercury	1825.11.05_CaledonianMercury_0001
+210	364	361	1826	02	17	Liverpool Mercury	1826.02.17_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+302	518	520	1826	02	17	Liverpool Mercury	1826.02.17_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+314	375	407	1826	02	18	Cobbett’s Weekly Political Register	1826.02.18_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+339	387	399	1826	02	18	Cobbett’s Weekly Political Register	1826.02.18_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+339	384	406	1826	02	18	Cobbett’s Weekly Political Register	1826.02.18_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+282	347	369	1826	02	18	Cobbett’s Weekly Political Register	1826.02.18_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+233	386	384	1826	02	18	Ipswich Journal	1826.02.18_TheIpswichJournal_0001	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004
+224	335	339	1826	02	19	Examiner	1826.02.19_TheExaminer_0014	1825	11	20	Examiner	1825.11.20_TheExaminer_0014
+236	380	391	1826	02	20	Hampshire/Portsmouth Telegraph	1826.02.20_HampshireTelegraphandSussexChronicleetc_0001	1825	11	28	Hampshire/Portsmouth Telegraph	1825.11.28_HampshireTelegraphandSussexChronicleetc_0001
+279	378	395	1826	02	20	Bristol Mercury	1826.02.20_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+316	435	443	1826	02	20	Bristol Mercury	1826.02.20_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+303	456	476	1826	02	20	Bristol Mercury	1826.02.20_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+326	478	498	1826	02	20	Bristol Mercury	1826.02.20_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+238	390	385	1826	02	20	Bristol Mercury	1826.02.20_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+335	528	532	1826	02	20	Bristol Mercury	1826.02.20_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+337	523	513	1826	02	20	Bristol Mercury	1826.02.20_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+216	386	386	1826	02	20	Bristol Mercury	1826.02.20_TheBristolMercury_0004	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004
+270	427	412	1826	02	22	Derby Mercury	1826.02.22_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+239	354	348	1826	02	22	Derby Mercury	1826.02.22_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+222	360	363	1826	02	22	Derby Mercury	1826.02.22_TheDerbyMercury_0004	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0004
+283	458	451	1826	02	22	Derby Mercury	1826.02.22_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+202	352	350	1826	02	24	Liverpool Mercury	1826.02.24_LiverpoolMercuryetc_0003	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+298	514	476	1826	02	25	Ipswich Journal	1826.02.25_TheIpswichJournal_0001	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0002
+314	469	466	1826	02	27	Caledonian Mercury	1826.02.27_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+208	342	335	1826	02	27	Caledonian Mercury	1826.02.27_CaledonianMercury_0004	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0003
+233	418	406	1826	02	27	Caledonian Mercury	1826.02.27_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+271	483	470	1826	02	27	Caledonian Mercury	1826.02.27_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+284	372	391	1826	02	27	Bristol Mercury	1826.02.27_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+289	395	392	1826	02	27	Bristol Mercury	1826.02.27_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+313	466	486	1826	02	27	Bristol Mercury	1826.02.27_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+331	505	516	1826	02	27	Bristol Mercury	1826.02.27_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+226	379	378	1826	02	27	Bristol Mercury	1826.02.27_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+226	363	370	1826	02	27	Bristol Mercury	1826.02.27_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+288	472	469	1826	02	27	Bristol Mercury	1826.02.27_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+211	335	332	1826	03	02	Caledonian Mercury	1826.03.02_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+235	398	381	1826	03	02	Caledonian Mercury	1826.03.02_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+422	685	691	1826	03	03	Liverpool Mercury	1826.03.03_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+471	725	718	1826	03	03	Liverpool Mercury	1826.03.03_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+483	732	744	1826	03	03	Liverpool Mercury	1826.03.03_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+248	430	411	1826	03	03	Liverpool Mercury	1826.03.03_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+306	522	511	1826	03	03	Liverpool Mercury	1826.03.03_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+225	374	379	1826	03	03	Liverpool Mercury	1826.03.03_LiverpoolMercuryetc_0007	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0007
+200	288	275	1826	03	04	Caledonian Mercury	1826.03.04_CaledonianMercury_0003	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0003
+201	304	305	1826	03	04	Ipswich Journal	1826.03.04_TheIpswichJournal_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+206	300	301	1826	03	04	Newcastle Courant	1826.03.04_TheNewcastleCourantetc_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+309	427	428	1826	03	05	Examiner	1826.03.05_TheExaminer_0015	1825	11	27	Examiner	1825.11.27_TheExaminer_0015
+218	332	309	1826	03	06	Caledonian Mercury	1826.03.06_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+260	408	424	1826	03	06	Caledonian Mercury	1826.03.06_CaledonianMercury_0004	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0003
+286	503	489	1826	03	06	Caledonian Mercury	1826.03.06_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+216	406	411	1826	03	06	Caledonian Mercury	1826.03.06_CaledonianMercury_0004	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0004
+389	649	654	1826	03	06	Caledonian Mercury	1826.03.06_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+244	337	339	1826	03	06	Hampshire/Portsmouth Telegraph	1826.03.06_HampshireTelegraphandSussexChronicleetc_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+233	310	316	1826	03	06	Hampshire/Portsmouth Telegraph	1826.03.06_HampshireTelegraphandSussexChronicleetc_0001	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0001
+267	374	409	1826	03	06	Bristol Mercury	1826.03.06_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+311	432	428	1826	03	06	Bristol Mercury	1826.03.06_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+303	438	474	1826	03	06	Bristol Mercury	1826.03.06_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+315	476	495	1826	03	06	Bristol Mercury	1826.03.06_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+257	414	406	1826	03	06	Bristol Mercury	1826.03.06_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+263	432	431	1826	03	06	Bristol Mercury	1826.03.06_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+300	489	476	1826	03	06	Bristol Mercury	1826.03.06_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+261	396	398	1826	03	08	Derby Mercury	1826.03.08_TheDerbyMercury_0002	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002
+205	342	332	1826	03	09	Caledonian Mercury	1826.03.09_CaledonianMercury_0004	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0004
+205	356	368	1826	03	10	Liverpool Mercury	1826.03.10_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+311	369	403	1826	03	11	Cobbett’s Weekly Political Register	1826.03.11_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+372	440	466	1826	03	11	Cobbett’s Weekly Political Register	1826.03.11_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+370	447	473	1826	03	11	Cobbett’s Weekly Political Register	1826.03.11_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+286	338	362	1826	03	11	Cobbett’s Weekly Political Register	1826.03.11_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+249	364	349	1826	03	13	Caledonian Mercury	1826.03.13_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+203	275	280	1826	03	13	Caledonian Mercury	1826.03.13_CaledonianMercury_0003	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0003
+244	378	385	1826	03	13	Bristol Mercury	1826.03.13_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+205	328	315	1826	03	13	Bristol Mercury	1826.03.13_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+290	462	463	1826	03	13	Bristol Mercury	1826.03.13_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+269	428	416	1826	03	15	Derby Mercury	1826.03.15_TheDerbyMercury_0001	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002
+234	350	338	1826	03	16	Caledonian Mercury	1826.03.16_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+249	430	407	1826	03	17	Liverpool Mercury	1826.03.17_LiverpoolMercuryetc_0003	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+364	595	592	1826	03	17	Liverpool Mercury	1826.03.17_LiverpoolMercuryetc_0003	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+308	375	403	1826	03	18	Cobbett’s Weekly Political Register	1826.03.18_Cobbett'sWeeklyPoliticalRegister_0029	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+326	379	395	1826	03	18	Cobbett’s Weekly Political Register	1826.03.18_Cobbett'sWeeklyPoliticalRegister_0029	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+346	415	431	1826	03	18	Cobbett’s Weekly Political Register	1826.03.18_Cobbett'sWeeklyPoliticalRegister_0029	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+257	315	331	1826	03	18	Cobbett’s Weekly Political Register	1826.03.18_Cobbett'sWeeklyPoliticalRegister_0029	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+270	454	461	1826	03	18	Ipswich Journal	1826.03.18_TheIpswichJournal_0001	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004
+277	432	416	1826	03	20	Caledonian Mercury	1826.03.20_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+226	343	330	1826	03	20	Bristol Mercury	1826.03.20_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+219	336	313	1826	03	20	Bristol Mercury	1826.03.20_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+241	394	390	1826	03	20	Bristol Mercury	1826.03.20_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+232	337	333	1826	03	20	Bristol Mercury	1826.03.20_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+219	369	353	1826	03	20	Bristol Mercury	1826.03.20_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+246	418	398	1826	03	22	Derby Mercury	1826.03.22_TheDerbyMercury_0001	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0002
+230	386	372	1826	03	24	Liverpool Mercury	1826.03.24_LiverpoolMercuryetc_0003	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+322	545	542	1826	03	24	Liverpool Mercury	1826.03.24_LiverpoolMercuryetc_0003	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+309	374	407	1826	03	25	Cobbett’s Weekly Political Register	1826.03.25_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+344	395	411	1826	03	25	Cobbett’s Weekly Political Register	1826.03.25_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+347	401	420	1826	03	25	Cobbett’s Weekly Political Register	1826.03.25_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+262	312	334	1826	03	25	Cobbett’s Weekly Political Register	1826.03.25_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+263	420	431	1826	03	27	Caledonian Mercury	1826.03.27_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+273	428	440	1826	03	27	Bristol Mercury	1826.03.27_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+250	383	400	1826	03	27	Bristol Mercury	1826.03.27_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+337	545	540	1826	03	27	Bristol Mercury	1826.03.27_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+206	330	336	1826	03	27	Bristol Mercury	1826.03.27_TheBristolMercury_0004	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004
+226	361	366	1826	03	29	Derby Mercury	1826.03.29_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+271	469	462	1826	03	31	Liverpool Mercury	1826.03.31_LiverpoolMercuryetc_0003	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+351	570	567	1826	03	31	Liverpool Mercury	1826.03.31_LiverpoolMercuryetc_0003	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+311	380	407	1826	04	01	Cobbett’s Weekly Political Register	1826.04.01_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+358	429	439	1826	04	01	Cobbett’s Weekly Political Register	1826.04.01_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+337	393	410	1826	04	01	Cobbett’s Weekly Political Register	1826.04.01_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+258	314	334	1826	04	01	Cobbett’s Weekly Political Register	1826.04.01_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+211	304	303	1826	04	01	Newcastle Courant	1826.04.01_TheNewcastleCourantetc_0003	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+267	360	347	1826	04	03	Caledonian Mercury	1826.04.03_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+227	335	337	1826	04	03	Bristol Mercury	1826.04.03_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+250	403	415	1826	04	03	Bristol Mercury	1826.04.03_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+290	465	475	1826	04	03	Bristol Mercury	1826.04.03_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+322	524	520	1826	04	03	Bristol Mercury	1826.04.03_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+221	359	376	1826	04	03	Bristol Mercury	1826.04.03_TheBristolMercury_0004	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004
+212	362	346	1826	04	05	Derby Mercury	1826.04.05_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+266	355	356	1826	04	06	Caledonian Mercury	1826.04.06_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+217	335	321	1826	04	06	Caledonian Mercury	1826.04.06_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+298	452	459	1826	04	07	Liverpool Mercury	1826.04.07_LiverpoolMercuryetc_0003	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+375	600	613	1826	04	07	Liverpool Mercury	1826.04.07_LiverpoolMercuryetc_0003	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+276	468	468	1826	04	07	Liverpool Mercury	1826.04.07_LiverpoolMercuryetc_0003	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0007
+478	758	763	1826	04	07	Liverpool Mercury	1826.04.07_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+549	869	860	1826	04	07	Liverpool Mercury	1826.04.07_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+439	665	659	1826	04	07	Liverpool Mercury	1826.04.07_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+335	498	505	1826	04	10	Caledonian Mercury	1826.04.10_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+204	375	373	1826	04	10	Caledonian Mercury	1826.04.10_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+249	373	357	1826	04	10	Bristol Mercury	1826.04.10_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+242	375	373	1826	04	10	Bristol Mercury	1826.04.10_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+285	450	460	1826	04	10	Bristol Mercury	1826.04.10_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+296	460	454	1826	04	10	Bristol Mercury	1826.04.10_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+200	303	290	1826	04	12	Derby Mercury	1826.04.12_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+221	343	354	1826	04	13	Caledonian Mercury	1826.04.13_CaledonianMercury_0003	1825	11	19	Caledonian Mercury	1825.11.19_CaledonianMercury_0004
+200	299	303	1826	04	13	Caledonian Mercury	1826.04.13_CaledonianMercury_0004	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+255	399	400	1826	04	14	Liverpool Mercury	1826.04.14_LiverpoolMercuryetc_0003	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+345	534	548	1826	04	14	Liverpool Mercury	1826.04.14_LiverpoolMercuryetc_0003	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+237	393	392	1826	04	14	Liverpool Mercury	1826.04.14_LiverpoolMercuryetc_0003	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0007
+314	493	495	1826	04	14	Liverpool Mercury	1826.04.14_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+371	585	582	1826	04	14	Liverpool Mercury	1826.04.14_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+354	550	554	1826	04	14	Liverpool Mercury	1826.04.14_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+211	368	362	1826	04	15	Caledonian Mercury	1826.04.15_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+276	459	459	1826	04	15	Newcastle Courant	1826.04.15_TheNewcastleCourantetc_0003	1825	11	05	Newcastle Courant	1825.11.05_TheNewcastleCourantetc_0003
+351	456	452	1826	04	16	Examiner	1826.04.16_TheExaminer_0015	1825	11	27	Examiner	1825.11.27_TheExaminer_0015
+298	461	467	1826	04	17	Caledonian Mercury	1826.04.17_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+236	329	322	1826	04	17	Bristol Mercury	1826.04.17_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+257	437	426	1826	04	17	Bristol Mercury	1826.04.17_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+271	416	415	1826	04	17	Bristol Mercury	1826.04.17_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+321	487	490	1826	04	17	Bristol Mercury	1826.04.17_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+345	567	566	1826	04	21	Liverpool Mercury	1826.04.21_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+292	477	474	1826	04	21	Liverpool Mercury	1826.04.21_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+226	389	391	1826	04	21	Liverpool Mercury	1826.04.21_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+255	418	416	1826	04	21	Liverpool Mercury	1826.04.21_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+314	380	407	1826	04	22	Cobbett’s Weekly Political Register	1826.04.22_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+361	426	441	1826	04	22	Cobbett’s Weekly Political Register	1826.04.22_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+341	404	420	1826	04	22	Cobbett’s Weekly Political Register	1826.04.22_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+339	415	435	1826	04	22	Cobbett’s Weekly Political Register	1826.04.22_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+236	338	349	1826	04	24	Caledonian Mercury	1826.04.24_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+257	411	409	1826	04	24	Bristol Mercury	1826.04.24_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+321	524	538	1826	04	24	Bristol Mercury	1826.04.24_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+315	491	488	1826	04	24	Bristol Mercury	1826.04.24_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+217	366	368	1826	04	24	Bristol Mercury	1826.04.24_TheBristolMercury_0004	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004
+230	386	384	1826	04	26	Derby Mercury	1826.04.26_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+229	402	391	1826	04	27	Caledonian Mercury	1826.04.27_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+354	590	583	1826	04	27	Caledonian Mercury	1826.04.27_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+308	379	407	1826	04	29	Cobbett’s Weekly Political Register	1826.04.29_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+360	432	439	1826	04	29	Cobbett’s Weekly Political Register	1826.04.29_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+353	425	442	1826	04	29	Cobbett’s Weekly Political Register	1826.04.29_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+278	336	359	1826	04	29	Cobbett’s Weekly Political Register	1826.04.29_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+202	352	350	1826	04	29	Leeds Mercury	1826.04.29_TheLeedsMercury_0004	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0004
+223	388	372	1826	05	01	Caledonian Mercury	1826.05.01_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+220	387	385	1826	05	01	Caledonian Mercury	1826.05.01_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+289	482	479	1826	05	01	Bristol Mercury	1826.05.01_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+299	485	486	1826	05	01	Bristol Mercury	1826.05.01_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+351	568	553	1826	05	01	Bristol Mercury	1826.05.01_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+213	339	338	1826	05	03	Derby Mercury	1826.05.03_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+208	322	318	1826	05	03	Derby Mercury	1826.05.03_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+227	335	339	1826	05	03	Derby Mercury	1826.05.03_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+204	312	311	1826	05	04	Caledonian Mercury	1826.05.04_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+258	398	396	1826	05	04	Caledonian Mercury	1826.05.04_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+202	357	348	1826	05	05	Liverpool Mercury	1826.05.05_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+297	367	395	1826	05	06	Cobbett’s Weekly Political Register	1826.05.06_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+349	418	429	1826	05	06	Cobbett’s Weekly Political Register	1826.05.06_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+358	438	453	1826	05	06	Cobbett’s Weekly Political Register	1826.05.06_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+266	324	340	1826	05	06	Cobbett’s Weekly Political Register	1826.05.06_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+306	467	465	1826	05	08	Caledonian Mercury	1826.05.08_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+250	376	380	1826	05	08	Caledonian Mercury	1826.05.08_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+321	466	481	1826	05	08	Hampshire/Portsmouth Telegraph	1826.05.08_HampshireTelegraphandSussexChronicleetc_0003	1825	11	07	Hampshire/Portsmouth Telegraph	1825.11.07_HampshireTelegraphandSussexChronicleetc_0001
+205	311	304	1826	05	11	Caledonian Mercury	1826.05.11_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+218	386	385	1826	05	11	Trewman’s Exeter Flying Post	1826.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1825	11	03	Trewman’s Exeter Flying Post	1825.11.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+225	317	311	1826	05	12	Liverpool Mercury	1826.05.12_LiverpoolMercuryetc_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0001
+441	671	680	1826	05	12	Liverpool Mercury	1826.05.12_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+580	835	841	1826	05	12	Liverpool Mercury	1826.05.12_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+559	818	831	1826	05	12	Liverpool Mercury	1826.05.12_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+217	289	297	1826	05	13	Caledonian Mercury	1826.05.13_CaledonianMercury_0003	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0003
+308	383	401	1826	05	13	Cobbett’s Weekly Political Register	1826.05.13_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+310	372	379	1826	05	13	Cobbett’s Weekly Political Register	1826.05.13_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+279	379	397	1826	05	15	Bristol Mercury	1826.05.15_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+297	396	402	1826	05	15	Bristol Mercury	1826.05.15_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+254	392	413	1826	05	15	Bristol Mercury	1826.05.15_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+283	390	415	1826	05	15	Bristol Mercury	1826.05.15_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+267	421	425	1826	05	15	Bristol Mercury	1826.05.15_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+278	438	459	1826	05	15	Bristol Mercury	1826.05.15_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+330	494	484	1826	05	15	Bristol Mercury	1826.05.15_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+343	505	496	1826	05	17	Derby Mercury	1826.05.17_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+217	337	338	1826	05	18	Caledonian Mercury	1826.05.18_CaledonianMercury_0004	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+416	678	672	1826	05	19	Liverpool Mercury	1826.05.19_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+518	789	773	1826	05	19	Liverpool Mercury	1826.05.19_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+527	793	800	1826	05	19	Liverpool Mercury	1826.05.19_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+263	404	401	1826	05	19	Liverpool Mercury	1826.05.19_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+308	371	407	1826	05	20	Cobbett’s Weekly Political Register	1826.05.20_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+362	425	447	1826	05	20	Cobbett’s Weekly Political Register	1826.05.20_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+348	404	428	1826	05	20	Cobbett’s Weekly Political Register	1826.05.20_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+265	313	334	1826	05	20	Cobbett’s Weekly Political Register	1826.05.20_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+246	457	438	1826	05	20	Leeds Mercury	1826.05.20_TheLeedsMercury_0004	1825	11	12	Leeds Mercury	1825.11.12_TheLeedsMercury_0004
+230	328	337	1826	05	20	Newcastle Courant	1826.05.20_TheNewcastleCourantetc_0003	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+241	423	432	1826	05	20	Newcastle Courant	1826.05.20_TheNewcastleCourantetc_0003	1825	11	05	Newcastle Courant	1825.11.05_TheNewcastleCourantetc_0003
+219	307	318	1826	05	20	Newcastle Courant	1826.05.20_TheNewcastleCourantetc_0003	1825	11	14	Hampshire/Portsmouth Telegraph	1825.11.14_HampshireTelegraphandSussexChronicleetc_0001
+245	368	381	1826	05	22	Caledonian Mercury	1826.05.22_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+284	393	397	1826	05	22	Bristol Mercury	1826.05.22_TheBristolMercury_0003	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0003
+302	423	412	1826	05	22	Bristol Mercury	1826.05.22_TheBristolMercury_0003	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0003
+287	440	448	1826	05	22	Bristol Mercury	1826.05.22_TheBristolMercury_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+353	537	549	1826	05	22	Bristol Mercury	1826.05.22_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+248	412	410	1826	05	22	Bristol Mercury	1826.05.22_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+280	437	440	1826	05	22	Bristol Mercury	1826.05.22_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+343	542	523	1826	05	22	Bristol Mercury	1826.05.22_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+215	358	357	1826	05	22	Bristol Mercury	1826.05.22_TheBristolMercury_0004	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0004
+314	460	471	1826	05	24	Derby Mercury	1826.05.24_TheDerbyMercury_0001	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0001
+201	336	326	1826	05	25	Caledonian Mercury	1826.05.25_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+242	313	318	1826	05	26	Liverpool Mercury	1826.05.26_LiverpoolMercuryetc_0003	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0001
+448	724	737	1826	05	26	Liverpool Mercury	1826.05.26_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+557	845	853	1826	05	26	Liverpool Mercury	1826.05.26_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+552	825	845	1826	05	26	Liverpool Mercury	1826.05.26_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+315	549	541	1826	05	26	Liverpool Mercury	1826.05.26_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+412	617	641	1826	05	26	Liverpool Mercury	1826.05.26_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+289	471	483	1826	05	26	Liverpool Mercury	1826.05.26_LiverpoolMercuryetc_0007	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0007
+313	367	407	1826	05	27	Cobbett’s Weekly Political Register	1826.05.27_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+374	441	462	1826	05	27	Cobbett’s Weekly Political Register	1826.05.27_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+370	438	462	1826	05	27	Cobbett’s Weekly Political Register	1826.05.27_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+283	346	366	1826	05	27	Cobbett’s Weekly Political Register	1826.05.27_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+212	347	343	1826	05	27	Ipswich Journal	1826.05.27_TheIpswichJournal_0004	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004
+223	381	390	1826	05	27	Newcastle Courant	1826.05.27_TheNewcastleCourantetc_0003	1825	11	05	Newcastle Courant	1825.11.05_TheNewcastleCourantetc_0003
+247	420	417	1826	05	29	Caledonian Mercury	1826.05.29_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+254	404	405	1826	05	29	Bristol Mercury	1826.05.29_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+281	448	450	1826	05	29	Bristol Mercury	1826.05.29_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+337	514	518	1826	05	29	Bristol Mercury	1826.05.29_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+447	737	724	1826	06	02	Liverpool Mercury	1826.06.02_LiverpoolMercuryetc_0004	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0004
+406	645	633	1826	06	02	Liverpool Mercury	1826.06.02_LiverpoolMercuryetc_0004	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0004
+469	747	738	1826	06	02	Liverpool Mercury	1826.06.02_LiverpoolMercuryetc_0004	1825	11	25	Liverpool Mercury	1825.11.25_LiverpoolMercuryetc_0004
+218	382	368	1826	06	02	Liverpool Mercury	1826.06.02_LiverpoolMercuryetc_0007	1825	11	04	Liverpool Mercury	1825.11.04_LiverpoolMercuryetc_0007
+279	441	441	1826	06	02	Liverpool Mercury	1826.06.02_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+202	264	267	1826	06	03	Caledonian Mercury	1826.06.03_CaledonianMercury_0003	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0003
+244	315	316	1826	06	04	Examiner	1826.06.04_TheExaminer_0014	1825	11	27	Examiner	1825.11.27_TheExaminer_0015
+286	428	410	1826	06	05	Caledonian Mercury	1826.06.05_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+357	520	495	1826	06	05	Caledonian Mercury	1826.06.05_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+349	579	594	1826	06	05	Caledonian Mercury	1826.06.05_CaledonianMercury_0004	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0003
+413	702	699	1826	06	05	Caledonian Mercury	1826.06.05_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+210	369	374	1826	06	05	Caledonian Mercury	1826.06.05_CaledonianMercury_0004	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0004
+425	706	696	1826	06	05	Caledonian Mercury	1826.06.05_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+234	388	387	1826	06	05	Bristol Mercury	1826.06.05_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+243	392	402	1826	06	05	Bristol Mercury	1826.06.05_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+273	455	449	1826	06	05	Bristol Mercury	1826.06.05_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+217	347	349	1826	06	05	Bristol Mercury	1826.06.05_TheBristolMercury_0004	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+229	359	348	1826	06	07	Derby Mercury	1826.06.07_TheDerbyMercury_0001	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0001
+230	345	356	1826	06	08	Caledonian Mercury	1826.06.08_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+228	365	360	1826	06	08	Caledonian Mercury	1826.06.08_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+445	653	636	1826	06	10	Caledonian Mercury	1826.06.10_CaledonianMercury_0003	1825	11	19	Caledonian Mercury	1825.11.19_CaledonianMercury_0004
+312	370	407	1826	06	10	Cobbett’s Weekly Political Register	1826.06.10_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+346	397	415	1826	06	10	Cobbett’s Weekly Political Register	1826.06.10_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+364	429	452	1826	06	10	Cobbett’s Weekly Political Register	1826.06.10_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+263	309	334	1826	06	10	Cobbett’s Weekly Political Register	1826.06.10_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+268	378	387	1826	06	10	Ipswich Journal	1826.06.10_TheIpswichJournal_0001	1825	11	05	Ipswich Journal	1825.11.05_TheIpswichJournal_0003
+216	347	336	1826	06	10	Ipswich Journal	1826.06.10_TheIpswichJournal_0004	1825	11	26	Ipswich Journal	1825.11.26_TheIpswichJournal_0004
+217	383	381	1826	06	12	Caledonian Mercury	1826.06.12_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+235	381	394	1826	06	12	Bristol Mercury	1826.06.12_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+238	403	407	1826	06	12	Bristol Mercury	1826.06.12_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+306	490	485	1826	06	12	Bristol Mercury	1826.06.12_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+214	328	317	1826	06	15	Caledonian Mercury	1826.06.15_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+226	372	380	1826	06	16	Liverpool Mercury	1826.06.16_LiverpoolMercuryetc_0007	1825	11	11	Liverpool Mercury	1825.11.11_LiverpoolMercuryetc_0007
+308	377	407	1826	06	17	Cobbett’s Weekly Political Register	1826.06.17_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+357	431	448	1826	06	17	Cobbett’s Weekly Political Register	1826.06.17_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+347	410	426	1826	06	17	Cobbett’s Weekly Political Register	1826.06.17_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+261	317	335	1826	06	17	Cobbett’s Weekly Political Register	1826.06.17_Cobbett'sWeeklyPoliticalRegister_0030	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+315	484	475	1826	06	19	Caledonian Mercury	1826.06.19_CaledonianMercury_0001	1825	11	21	Caledonian Mercury	1825.11.21_CaledonianMercury_0001
+327	481	459	1826	06	19	Caledonian Mercury	1826.06.19_CaledonianMercury_0001	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0001
+245	440	439	1826	06	19	Caledonian Mercury	1826.06.19_CaledonianMercury_0004	1825	11	07	Caledonian Mercury	1825.11.07_CaledonianMercury_0003
+231	397	392	1826	06	19	Caledonian Mercury	1826.06.19_CaledonianMercury_0004	1825	11	14	Caledonian Mercury	1825.11.14_CaledonianMercury_0004
+254	460	456	1826	06	19	Caledonian Mercury	1826.06.19_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+201	317	315	1826	06	19	Bristol Mercury	1826.06.19_TheBristolMercury_0003	1825	11	28	Bristol Mercury	1825.11.28_TheBristolMercury_0003
+254	422	427	1826	06	19	Bristol Mercury	1826.06.19_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+209	330	327	1826	06	19	Bristol Mercury	1826.06.19_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0003
+277	446	432	1826	06	19	Bristol Mercury	1826.06.19_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+225	360	348	1826	06	21	Derby Mercury	1826.06.21_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+278	414	423	1826	06	22	Caledonian Mercury	1826.06.22_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+217	344	334	1826	06	22	Caledonian Mercury	1826.06.22_CaledonianMercury_0002	1825	11	17	Caledonian Mercury	1825.11.17_CaledonianMercury_0002
+296	452	460	1826	06	22	Caledonian Mercury	1826.06.22_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002
+284	370	389	1826	06	24	Cobbett’s Weekly Political Register	1826.06.24_Cobbett'sWeeklyPoliticalRegister_0028	1825	11	05	Cobbett’s Weekly Political Register	1825.11.05_Cobbett'sWeeklyPoliticalRegister_0030
+329	409	410	1826	06	24	Cobbett’s Weekly Political Register	1826.06.24_Cobbett'sWeeklyPoliticalRegister_0028	1825	11	12	Cobbett’s Weekly Political Register	1825.11.12_Cobbett'sWeeklyPoliticalRegister_0030
+341	435	447	1826	06	24	Cobbett’s Weekly Political Register	1826.06.24_Cobbett'sWeeklyPoliticalRegister_0028	1825	11	19	Cobbett’s Weekly Political Register	1825.11.19_Cobbett'sWeeklyPoliticalRegister_0030
+259	326	340	1826	06	24	Cobbett’s Weekly Political Register	1826.06.24_Cobbett'sWeeklyPoliticalRegister_0028	1825	11	26	Cobbett’s Weekly Political Register	1825.11.26_Cobbett'sWeeklyPoliticalRegister_0032
+251	422	423	1826	06	24	Newcastle Courant	1826.06.24_TheNewcastleCourantetc_0003	1825	11	05	Newcastle Courant	1825.11.05_TheNewcastleCourantetc_0003
+260	486	479	1826	06	26	Caledonian Mercury	1826.06.26_CaledonianMercury_0004	1825	11	28	Caledonian Mercury	1825.11.28_CaledonianMercury_0004
+230	355	367	1826	06	26	Bristol Mercury	1826.06.26_TheBristolMercury_0004	1825	11	07	Bristol Mercury	1825.11.07_TheBristolMercury_0004
+293	490	490	1826	06	26	Bristol Mercury	1826.06.26_TheBristolMercury_0004	1825	11	14	Bristol Mercury	1825.11.14_TheBristolMercury_0004
+263	412	397	1826	06	26	Bristol Mercury	1826.06.26_TheBristolMercury_0004	1825	11	21	Bristol Mercury	1825.11.21_TheBristolMercury_0004
+278	466	459	1826	06	28	Derby Mercury	1826.06.28_TheDerbyMercury_0004	1825	11	09	Derby Mercury	1825.11.09_TheDerbyMercury_0004
+215	341	345	1826	06	28	Derby Mercury	1826.06.28_TheDerbyMercury_0004	1825	11	16	Derby Mercury	1825.11.16_TheDerbyMercury_0004
+240	380	370	1826	06	28	Derby Mercury	1826.06.28_TheDerbyMercury_0004	1825	11	23	Derby Mercury	1825.11.23_TheDerbyMercury_0004
+268	428	429	1826	06	28	Derby Mercury	1826.06.28_TheDerbyMercury_0004	1825	11	30	Derby Mercury	1825.11.30_TheDerbyMercury_0004
+240	361	359	1826	06	29	Caledonian Mercury	1826.06.29_CaledonianMercury_0002	1825	11	03	Caledonian Mercury	1825.11.03_CaledonianMercury_0002
+289	476	462	1826	06	29	Caledonian Mercury	1826.06.29_CaledonianMercury_0002	1825	11	24	Caledonian Mercury	1825.11.24_CaledonianMercury_0002

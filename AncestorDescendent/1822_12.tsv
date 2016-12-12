@@ -1,0 +1,192 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1822	12	02	Glasgow Herald	0001	1822	12	01	Examiner	0015
+1822	12	02	Bristol Mercury	0001	1822	12	01	Examiner	0015
+1822	12	02	Morning Chronicle	0002	1822	12	01	Examiner	0002
+1822	12	03	Morning Chronicle	0002	1822	12	01	Examiner	0011
+1822	12	05	Caledonian Mercury	0002	1822	12	03	Morning Chronicle	0002
+1822	12	05	Caledonian Mercury	0004	1822	12	02	Glasgow Herald	0002
+1822	12	06	Glasgow Herald	0001	1822	12	05	Caledonian Mercury	0002
+1822	12	06	Glasgow Herald	0002	1822	12	04	Morning Chronicle	0002
+1822	12	06	Glasgow Herald	0004	1822	12	02	Bristol Mercury	0002
+1822	12	06	Liverpool Mercury	0003	1822	12	05	Caledonian Mercury	0002
+1822	12	06	Liverpool Mercury	0005	1822	12	03	Morning Chronicle	0001
+1822	12	06	Liverpool Mercury	0006	1822	12	02	Morning Chronicle	0003
+1822	12	06	Liverpool Mercury	0007	1822	12	04	Morning Chronicle	0004
+1822	12	07	Caledonian Mercury	0002	1822	12	04	Morning Chronicle	0002
+1822	12	07	Jackson’s Oxford Journal	0001	1822	12	04	Morning Chronicle	0002
+1822	12	07	Jackson’s Oxford Journal	0002	1822	12	05	Morning Chronicle	0004
+1822	12	07	Jackson’s Oxford Journal	0004	1822	12	02	Morning Chronicle	0003
+1822	12	07	Ipswich Journal	0001	1822	12	05	Morning Chronicle	0001
+1822	12	07	Ipswich Journal	0004	1822	12	02	Morning Chronicle	0003
+1822	12	07	Leeds Mercury	0002	1822	12	02	Morning Chronicle	0002
+1822	12	08	Examiner	0001	1822	12	05	Morning Chronicle	0001
+1822	12	08	Examiner	0013	1822	12	03	Morning Chronicle	0003
+1822	12	09	Caledonian Mercury	0002	1822	12	07	Morning Chronicle	0002
+1822	12	09	Glasgow Herald	0001	1822	12	04	Morning Chronicle	0002
+1822	12	09	Glasgow Herald	0002	1822	12	05	Morning Chronicle	0002
+1822	12	09	Glasgow Herald	0004	1822	12	07	Ipswich Journal	0004
+1822	12	09	Hampshire/Portsmouth Telegraph	0002	1822	12	07	Jackson’s Oxford Journal	0004
+1822	12	09	Bristol Mercury	0001	1822	12	06	Glasgow Herald	0001
+1822	12	09	Bristol Mercury	0002	1822	12	06	Morning Chronicle	0002
+1822	12	09	Bristol Mercury	0004	1822	12	02	Morning Chronicle	0003
+1822	12	10	Morning Chronicle	0004	1822	12	09	Glasgow Herald	0002
+1822	12	11	Aberdeen Journal	0002	1822	12	09	Bristol Mercury	0001
+1822	12	11	Aberdeen Journal	0004	1822	12	06	Liverpool Mercury	0007
+1822	12	12	Trewman’s Exeter Flying Post	0001	1822	12	10	Morning Chronicle	0004
+1822	12	12	Trewman’s Exeter Flying Post	0002	1822	12	07	Morning Chronicle	0003
+1822	12	12	Trewman’s Exeter Flying Post	0003	1822	12	09	Glasgow Herald	0002
+1822	12	13	Glasgow Herald	0001	1822	12	07	Morning Chronicle	0002
+1822	12	13	Glasgow Herald	0002	1822	12	11	Morning Chronicle	0002
+1822	12	13	Glasgow Herald	0004	1822	12	12	Trewman’s Exeter Flying Post	0001
+1822	12	13	Liverpool Mercury	0002	1822	12	09	Morning Chronicle	0002
+1822	12	13	Liverpool Mercury	0006	1822	12	09	Glasgow Herald	0002
+1822	12	14	Caledonian Mercury	0002	1822	12	11	Morning Chronicle	0002
+1822	12	14	Caledonian Mercury	0003	1822	12	07	Jackson’s Oxford Journal	0004
+1822	12	14	Caledonian Mercury	0004	1822	12	11	Morning Chronicle	0004
+1822	12	14	Jackson’s Oxford Journal	0002	1822	12	07	Ipswich Journal	0001
+1822	12	14	Jackson’s Oxford Journal	0004	1822	12	10	Morning Chronicle	0004
+1822	12	14	Ipswich Journal	0001	1822	12	05	Morning Chronicle	0001
+1822	12	14	Ipswich Journal	0004	1822	12	09	Morning Chronicle	0002
+1822	12	14	Leeds Mercury	0002	1822	12	11	Morning Chronicle	0002
+1822	12	14	Morning Chronicle	0003	1822	12	12	Caledonian Mercury	0003
+1822	12	15	Examiner	0001	1822	12	11	Morning Chronicle	0002
+1822	12	15	Examiner	0004	1822	12	12	Morning Chronicle	0002
+1822	12	15	Examiner	0006	1822	12	12	Morning Chronicle	0003
+1822	12	15	Examiner	0011	1822	12	14	Morning Chronicle	0003
+1822	12	15	Examiner	0014	1822	12	12	Morning Chronicle	0004
+1822	12	15	Examiner	0015	1822	12	10	Morning Chronicle	0003
+1822	12	15	Examiner	0016	1822	12	13	Morning Chronicle	0001
+1822	12	16	Caledonian Mercury	0002	1822	12	14	Leeds Mercury	0002
+1822	12	16	Caledonian Mercury	0003	1822	12	13	Glasgow Herald	0004
+1822	12	16	Glasgow Herald	0001	1822	12	12	Morning Chronicle	0002
+1822	12	16	Glasgow Herald	0002	1822	12	11	Morning Chronicle	0003
+1822	12	16	Bristol Mercury	0001	1822	12	10	Morning Chronicle	0002
+1822	12	17	Morning Chronicle	0001	1822	12	15	Examiner	0016
+1822	12	18	Aberdeen Journal	0001	1822	12	14	Jackson’s Oxford Journal	0002
+1822	12	18	Aberdeen Journal	0004	1822	12	14	Caledonian Mercury	0003
+1822	12	19	Caledonian Mercury	0003	1822	12	18	Morning Chronicle	0003
+1822	12	19	Caledonian Mercury	0004	1822	12	14	Morning Chronicle	0003
+1822	12	19	Trewman’s Exeter Flying Post	0001	1822	12	17	Morning Chronicle	0004
+1822	12	19	Trewman’s Exeter Flying Post	0002	1822	12	14	Morning Chronicle	0003
+1822	12	19	Trewman’s Exeter Flying Post	0003	1822	12	14	Jackson’s Oxford Journal	0004
+1822	12	20	Glasgow Herald	0001	1822	12	15	Examiner	0012
+1822	12	20	Glasgow Herald	0002	1822	12	16	Morning Chronicle	0002
+1822	12	20	Glasgow Herald	0004	1822	12	13	Morning Chronicle	0003
+1822	12	20	Liverpool Mercury	0002	1822	12	15	Examiner	0006
+1822	12	20	Liverpool Mercury	0006	1822	12	16	Morning Chronicle	0003
+1822	12	20	Liverpool Mercury	0007	1822	12	15	Examiner	0012
+1822	12	20	Liverpool Mercury	0008	1822	12	19	Morning Chronicle	0001
+1822	12	21	Caledonian Mercury	0001	1822	12	02	Morning Chronicle	0001
+1822	12	21	Caledonian Mercury	0004	1822	12	20	Glasgow Herald	0001
+1822	12	21	Jackson’s Oxford Journal	0001	1822	12	19	Trewman’s Exeter Flying Post	0001
+1822	12	21	Jackson’s Oxford Journal	0002	1822	12	19	Morning Chronicle	0003
+1822	12	21	Jackson’s Oxford Journal	0004	1822	12	14	Ipswich Journal	0001
+1822	12	21	Ipswich Journal	0004	1822	12	20	Glasgow Herald	0004
+1822	12	21	Leeds Mercury	0002	1822	12	17	Morning Chronicle	0002
+1822	12	21	Leeds Mercury	0003	1822	12	19	Caledonian Mercury	0002
+1822	12	21	Morning Chronicle	0004	1822	12	20	Glasgow Herald	0002
+1822	12	22	Examiner	0007	1822	12	18	Morning Chronicle	0004
+1822	12	22	Examiner	0008	1822	12	17	Morning Chronicle	0002
+1822	12	22	Examiner	0014	1822	12	21	Morning Chronicle	0004
+1822	12	22	Examiner	0015	1822	12	21	Morning Chronicle	0001
+1822	12	23	Caledonian Mercury	0001	1822	12	21	Leeds Mercury	0002
+1822	12	23	Caledonian Mercury	0002	1822	12	19	Morning Chronicle	0003
+1822	12	23	Caledonian Mercury	0004	1822	12	09	Morning Chronicle	0004
+1822	12	23	Glasgow Herald	0001	1822	12	19	Caledonian Mercury	0004
+1822	12	23	Glasgow Herald	0003	1822	12	21	Leeds Mercury	0002
+1822	12	23	Glasgow Herald	0004	1822	12	21	Caledonian Mercury	0003
+1822	12	23	Bristol Mercury	0001	1822	12	17	Morning Chronicle	0002
+1822	12	24	Morning Chronicle	0001	1822	12	19	Trewman’s Exeter Flying Post	0001
+1822	12	25	Aberdeen Journal	0002	1822	12	20	Glasgow Herald	0001
+1822	12	26	Caledonian Mercury	0002	1822	12	23	Morning Chronicle	0002
+1822	12	26	Caledonian Mercury	0004	1822	12	24	Morning Chronicle	0004
+1822	12	26	Morning Chronicle	0003	1822	12	20	Glasgow Herald	0001
+1822	12	27	Glasgow Herald	0001	1822	12	21	Morning Chronicle	0002
+1822	12	27	Glasgow Herald	0002	1822	12	25	Morning Chronicle	0004
+1822	12	27	Glasgow Herald	0004	1822	12	26	Caledonian Mercury	0003
+1822	12	27	Liverpool Mercury	0006	1822	12	19	Morning Chronicle	0003
+1822	12	28	Caledonian Mercury	0002	1822	12	25	Morning Chronicle	0002
+1822	12	28	Caledonian Mercury	0004	1822	12	23	Glasgow Herald	0004
+1822	12	28	Jackson’s Oxford Journal	0001	1822	12	24	Morning Chronicle	0002
+1822	12	28	Jackson’s Oxford Journal	0004	1822	12	23	Glasgow Herald	0003
+1822	12	28	Leeds Mercury	0002	1822	12	26	Morning Chronicle	0002
+1822	12	28	Leeds Mercury	0003	1822	12	22	Examiner	0009
+1822	12	29	Examiner	0006	1822	12	25	Morning Chronicle	0002
+1822	12	29	Examiner	0007	1822	12	28	Caledonian Mercury	0002
+1822	12	29	Examiner	0014	1822	12	24	Morning Chronicle	0003
+1822	12	29	Examiner	0016	1822	12	25	Morning Chronicle	0001
+1822	12	30	Caledonian Mercury	0002	1822	12	27	Morning Chronicle	0002
+1822	12	30	Glasgow Herald	0001	1822	12	26	Morning Chronicle	0002
+1822	12	30	Hampshire/Portsmouth Telegraph	0001	1822	12	27	Glasgow Herald	0004
+1822	12	30	Bristol Mercury	0001	1822	12	24	Morning Chronicle	0004
+1822	12	30	Bristol Mercury	0004	1822	12	25	Morning Chronicle	0004
+1822	12	30	Morning Chronicle	0003	1822	12	29	Examiner	0001
+1822	12	30	Morning Chronicle	0004	1822	12	02	Glasgow Herald	0001
+1822	12	31	Morning Chronicle	0001	1822	12	19	Trewman’s Exeter Flying Post	0001
+1822	12	31	Morning Chronicle	0004	1822	12	27	Liverpool Mercury	0002
+1823	01	01	Aberdeen Journal	0002	1822	12	30	Glasgow Herald	0002
+1823	01	01	Aberdeen Journal	0003	1822	12	21	Jackson’s Oxford Journal	0004
+1823	01	01	Derby Mercury	0001	1822	12	28	Leeds Mercury	0002
+1823	01	01	Derby Mercury	0002	1822	12	30	Morning Chronicle	0002
+1823	01	01	Derby Mercury	0004	1822	12	23	Morning Chronicle	0003
+1823	01	01	Morning Chronicle	0004	1822	12	30	Glasgow Herald	0002
+1823	01	02	Caledonian Mercury	0002	1822	12	30	Morning Chronicle	0002
+1823	01	02	Caledonian Mercury	0003	1822	12	09	Bristol Mercury	0004
+1823	01	02	Morning Chronicle	0003	1822	12	29	Examiner	0003
+1823	01	02	Trewman’s Exeter Flying Post	0001	1822	12	30	Morning Chronicle	0002
+1823	01	03	Liverpool Mercury	0001	1822	12	14	Jackson’s Oxford Journal	0004
+1823	01	03	Liverpool Mercury	0002	1822	12	28	Morning Chronicle	0004
+1823	01	04	Caledonian Mercury	0002	1822	12	31	Morning Chronicle	0003
+1823	01	04	Ipswich Journal	0002	1822	12	28	Caledonian Mercury	0003
+1823	01	04	Ipswich Journal	0004	1822	12	26	Morning Chronicle	0002
+1823	01	05	Examiner	0003	1822	12	31	Morning Chronicle	0004
+1823	01	05	Examiner	0004	1822	12	31	Morning Chronicle	0004
+1823	01	05	Examiner	0005	1822	12	31	Morning Chronicle	0004
+1823	01	05	Examiner	0006	1822	12	30	Morning Chronicle	0002
+1823	01	06	Bristol Mercury	0001	1822	12	30	Morning Chronicle	0002
+1823	01	08	Aberdeen Journal	0002	1822	12	30	Morning Chronicle	0002
+1823	01	10	Liverpool Mercury	0001	1822	12	07	Ipswich Journal	0001
+1823	01	13	Caledonian Mercury	0004	1822	12	31	Morning Chronicle	0003
+1823	01	18	Leeds Mercury	0004	1822	12	07	Jackson’s Oxford Journal	0004
+1823	01	20	Bristol Mercury	0001	1822	12	14	Jackson’s Oxford Journal	0004
+1823	01	20	Hull Packet	0004	1822	12	27	Morning Chronicle	0004
+1823	01	25	Morning Chronicle	0004	1822	12	14	Jackson’s Oxford Journal	0004
+1823	02	01	Ipswich Journal	0001	1822	12	21	Jackson’s Oxford Journal	0004
+1823	02	01	Leeds Mercury	0001	1822	12	14	Ipswich Journal	0001
+1823	02	08	Leeds Mercury	0001	1822	12	07	Jackson’s Oxford Journal	0004
+1823	02	15	Ipswich Journal	0001	1822	12	14	Jackson’s Oxford Journal	0004
+1823	02	15	Leeds Mercury	0001	1822	12	14	Jackson’s Oxford Journal	0004
+1823	02	20	Trewman’s Exeter Flying Post	0003	1822	12	14	Jackson’s Oxford Journal	0004
+1823	02	22	Ipswich Journal	0001	1822	12	21	Jackson’s Oxford Journal	0004
+1823	02	24	Morning Chronicle	0004	1822	12	28	Caledonian Mercury	0001
+1823	02	26	Morning Chronicle	0004	1822	12	28	Caledonian Mercury	0001
+1823	03	03	Bristol Mercury	0001	1822	12	14	Jackson’s Oxford Journal	0004
+1823	03	08	Ipswich Journal	0001	1822	12	14	Jackson’s Oxford Journal	0004
+1823	03	13	Trewman’s Exeter Flying Post	0003	1822	12	14	Jackson’s Oxford Journal	0004
+1823	03	20	Trewman’s Exeter Flying Post	0002	1822	12	21	Jackson’s Oxford Journal	0002
+1823	03	21	Liverpool Mercury	0005	1822	12	27	Glasgow Herald	0004
+1823	03	22	Ipswich Journal	0001	1822	12	27	Glasgow Herald	0004
+1823	03	22	Leeds Mercury	0004	1822	12	07	Jackson’s Oxford Journal	0004
+1823	03	24	Hampshire/Portsmouth Telegraph	0003	1822	12	28	Jackson’s Oxford Journal	0004
+1823	03	24	Bristol Mercury	0002	1822	12	14	Jackson’s Oxford Journal	0004
+1823	03	26	Derby Mercury	0001	1822	12	28	Jackson’s Oxford Journal	0004
+1823	03	29	Ipswich Journal	0004	1822	12	14	Jackson’s Oxford Journal	0004
+1823	03	29	Leeds Mercury	0001	1822	12	28	Jackson’s Oxford Journal	0004
+1823	03	31	Hampshire/Portsmouth Telegraph	0001	1822	12	27	Glasgow Herald	0004
+1823	03	31	Hampshire/Portsmouth Telegraph	0003	1822	12	31	Morning Chronicle	0001
+1823	04	02	Derby Mercury	0001	1822	12	28	Leeds Mercury	0002
+1823	04	03	Caledonian Mercury	0001	1822	12	27	Glasgow Herald	0004
+1823	04	19	Ipswich Journal	0001	1822	12	28	Jackson’s Oxford Journal	0004
+1823	04	26	Ipswich Journal	0001	1822	12	14	Jackson’s Oxford Journal	0004
+1823	05	05	Bristol Mercury	0002	1822	12	28	Jackson’s Oxford Journal	0004
+1823	05	05	Morning Chronicle	0004	1822	12	28	Caledonian Mercury	0001
+1823	05	29	Trewman’s Exeter Flying Post	0003	1822	12	25	Morning Chronicle	0004
+1823	05	31	Ipswich Journal	0001	1822	12	14	Jackson’s Oxford Journal	0004
+1823	05	31	Leeds Mercury	0004	1822	12	07	Jackson’s Oxford Journal	0004
+1823	06	12	Trewman’s Exeter Flying Post	0002	1822	12	26	Morning Chronicle	0004
+1823	06	23	Hampshire/Portsmouth Telegraph	0002	1822	12	21	Jackson’s Oxford Journal	0002
+1823	06	28	Leeds Mercury	0004	1822	12	27	Glasgow Herald	0004
+1823	07	02	Derby Mercury	0001	1822	12	27	Glasgow Herald	0004
+1823	07	05	Ipswich Journal	0004	1822	12	28	Jackson’s Oxford Journal	0004
+1823	07	11	Liverpool Mercury	0007	1822	12	25	Morning Chronicle	0001
+1823	07	12	Leeds Mercury	0004	1822	12	28	Jackson’s Oxford Journal	0004

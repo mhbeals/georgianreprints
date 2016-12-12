@@ -1,0 +1,800 @@
+PM	OL	OR	RYEAR	RMONTH	RDAY	RTITLE	RFILENAME	OYEAR	OMONTH	ODAY	OTITLE	OFILENAME
+247	385	374	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002	1822	06	01	Caledonian Mercury	1822.06.01_CaledonianMercury_0002
+308	378	381	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+413	602	599	1822	06	01	Ipswich Journal	1822.06.01_TheIpswichJournal_0002	1822	06	01	Caledonian Mercury	1822.06.01_CaledonianMercury_0002
+345	504	539	1822	06	01	Ipswich Journal	1822.06.01_TheIpswichJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+331	526	518	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0002	1822	06	01	Caledonian Mercury	1822.06.01_CaledonianMercury_0002
+215	317	302	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0002	1822	06	01	Caledonian Mercury	1822.06.01_CaledonianMercury_0004
+207	345	330	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+284	417	428	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+213	337	345	1822	06	03	Caledonian Mercury	1822.06.03_CaledonianMercury_0004	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0004
+376	611	613	1822	06	03	Glasgow Herald	1822.06.03_GlasgowHerald_0002	1822	06	03	Caledonian Mercury	1822.06.03_CaledonianMercury_0002
+268	424	407	1822	06	03	Morning Chronicle	1822.06.03_TheMorningChronicle_0002	1822	06	02	Examiner	1822.06.02_TheExaminer_0001
+451	703	690	1822	06	05	Aberdeen Journal	1822.06.05_TheAberdeenJournal_0002	1822	06	01	Caledonian Mercury	1822.06.01_CaledonianMercury_0002
+203	319	298	1822	06	05	Aberdeen Journal	1822.06.05_TheAberdeenJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0001
+242	379	368	1822	06	05	Aberdeen Journal	1822.06.05_TheAberdeenJournal_0002	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0002
+318	546	532	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0001	1822	06	03	Caledonian Mercury	1822.06.03_CaledonianMercury_0001
+238	378	376	1822	06	06	Morning Chronicle	1822.06.06_TheMorningChronicle_0003	1822	06	01	Morning Chronicle	1822.06.01_TheMorningChronicle_0003
+211	318	321	1822	06	06	Trewman’s Exeter Flying Post	1822.06.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1822	06	01	Ipswich Journal	1822.06.01_TheIpswichJournal_0002
+250	348	348	1822	06	06	Trewman’s Exeter Flying Post	1822.06.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1822	06	01	Morning Chronicle	1822.06.01_TheMorningChronicle_0004
+431	690	714	1822	06	07	Glasgow Herald	1822.06.07_GlasgowHerald_0001	1822	06	03	Caledonian Mercury	1822.06.03_CaledonianMercury_0003
+458	725	731	1822	06	07	Glasgow Herald	1822.06.07_GlasgowHerald_0001	1822	06	03	Morning Chronicle	1822.06.03_TheMorningChronicle_0003
+236	349	363	1822	06	07	Glasgow Herald	1822.06.07_GlasgowHerald_0001	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0002
+295	490	495	1822	06	07	Glasgow Herald	1822.06.07_GlasgowHerald_0004	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0004
+494	661	644	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0002	1822	06	02	Examiner	1822.06.02_TheExaminer_0006
+695	1161	1139	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0001
+251	449	448	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+324	491	506	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0003
+353	590	580	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0003
+294	438	435	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0003	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0003
+353	401	407	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+2256	2598	2599	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+517	658	653	1822	06	08	Bristol Mercury	1822.06.08_TheBristolMercury_0001	1822	06	02	Examiner	1822.06.02_TheExaminer_0006
+476	749	764	1822	06	08	Bristol Mercury	1822.06.08_TheBristolMercury_0001	1822	06	04	Morning Chronicle	1822.06.04_TheMorningChronicle_0001
+404	504	527	1822	06	08	Bristol Mercury	1822.06.08_TheBristolMercury_0001	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0002
+245	359	365	1822	06	08	Bristol Mercury	1822.06.08_TheBristolMercury_0002	1822	06	01	Bristol Mercury	1822.06.01_TheBristolMercury_0002
+385	534	528	1822	06	08	Bristol Mercury	1822.06.08_TheBristolMercury_0002	1822	06	07	Morning Chronicle	1822.06.07_TheMorningChronicle_0004
+272	361	366	1822	06	08	Bristol Mercury	1822.06.08_TheBristolMercury_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+685	1095	1101	1822	06	08	Ipswich Journal	1822.06.08_TheIpswichJournal_0001	1822	06	01	Ipswich Journal	1822.06.01_TheIpswichJournal_0001
+1110	1727	1717	1822	06	08	Ipswich Journal	1822.06.08_TheIpswichJournal_0001	1822	06	01	Ipswich Journal	1822.06.01_TheIpswichJournal_0003
+250	404	415	1822	06	08	Ipswich Journal	1822.06.08_TheIpswichJournal_0002	1822	06	07	Morning Chronicle	1822.06.07_TheMorningChronicle_0003
+443	606	617	1822	06	08	Ipswich Journal	1822.06.08_TheIpswichJournal_0004	1822	06	03	Morning Chronicle	1822.06.03_TheMorningChronicle_0003
+1397	2001	2033	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0001	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0001
+414	558	565	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0001	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0002
+232	389	370	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0002
+218	329	321	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+711	1171	1208	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0001
+602	989	1017	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0004
+207	391	396	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004	1822	06	04	Morning Chronicle	1822.06.04_TheMorningChronicle_0003
+508	786	785	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+611	882	895	1822	06	09	Examiner	1822.06.09_TheExaminer_0005	1822	06	07	Morning Chronicle	1822.06.07_TheMorningChronicle_0003
+261	406	393	1822	06	09	Examiner	1822.06.09_TheExaminer_0005	1822	06	08	Ipswich Journal	1822.06.08_TheIpswichJournal_0002
+568	836	814	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0001	1822	06	03	Caledonian Mercury	1822.06.03_CaledonianMercury_0001
+226	386	384	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0001	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0001
+623	862	881	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0001	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0003
+349	579	597	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0002	1822	06	07	Morning Chronicle	1822.06.07_TheMorningChronicle_0003
+233	377	381	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0002	1822	06	08	Morning Chronicle	1822.06.08_TheMorningChronicle_0003
+459	702	701	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0002	1822	06	09	Examiner	1822.06.09_TheExaminer_0005
+553	926	890	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0004	1822	06	04	Morning Chronicle	1822.06.04_TheMorningChronicle_0003
+620	1004	990	1822	06	10	Glasgow Herald	1822.06.10_GlasgowHerald_0001	1822	06	08	Caledonian Mercury	1822.06.08_CaledonianMercury_0002
+320	501	501	1822	06	10	Glasgow Herald	1822.06.10_GlasgowHerald_0002	1822	06	06	Morning Chronicle	1822.06.06_TheMorningChronicle_0003
+224	354	348	1822	06	10	Glasgow Herald	1822.06.10_GlasgowHerald_0002	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0002
+260	345	355	1822	06	10	Glasgow Herald	1822.06.10_GlasgowHerald_0002	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0003
+228	307	297	1822	06	11	Morning Chronicle	1822.06.11_TheMorningChronicle_0003	1822	06	08	Morning Chronicle	1822.06.08_TheMorningChronicle_0003
+373	660	631	1822	06	11	Morning Chronicle	1822.06.11_TheMorningChronicle_0004	1822	06	04	Morning Chronicle	1822.06.04_TheMorningChronicle_0004
+208	288	279	1822	06	12	Aberdeen Journal	1822.06.12_TheAberdeenJournal_0004	1822	06	03	Caledonian Mercury	1822.06.03_CaledonianMercury_0004
+218	337	329	1822	06	12	Aberdeen Journal	1822.06.12_TheAberdeenJournal_0004	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0003
+242	405	421	1822	06	12	Morning Chronicle	1822.06.12_TheMorningChronicle_0004	1822	06	08	Morning Chronicle	1822.06.08_TheMorningChronicle_0004
+280	486	507	1822	06	13	Morning Chronicle	1822.06.13_TheMorningChronicle_0006	1822	06	11	Morning Chronicle	1822.06.11_TheMorningChronicle_0004
+329	469	485	1822	06	13	Trewman’s Exeter Flying Post	1822.06.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1822	06	07	Morning Chronicle	1822.06.07_TheMorningChronicle_0003
+423	556	574	1822	06	13	Trewman’s Exeter Flying Post	1822.06.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1822	06	09	Examiner	1822.06.09_TheExaminer_0005
+242	386	389	1822	06	13	Trewman’s Exeter Flying Post	1822.06.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0002
+310	450	484	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0002	1822	06	13	Caledonian Mercury	1822.06.13_CaledonianMercury_0003
+214	339	326	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0004	1822	06	07	Glasgow Herald	1822.06.07_GlasgowHerald_0004
+271	433	441	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0003	1822	06	09	Examiner	1822.06.09_TheExaminer_0011
+345	526	539	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+201	302	309	1822	06	15	Caledonian Mercury	1822.06.15_CaledonianMercury_0002	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0002
+494	816	798	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0003
+307	468	453	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0001
+710	1176	1138	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0002
+231	365	367	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0001	1822	06	11	Morning Chronicle	1822.06.11_TheMorningChronicle_0003
+251	284	282	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0002
+344	450	460	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0003	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0003
+427	616	640	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0003	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0003
+342	399	375	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+2063	2564	2462	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+2306	2845	2727	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+210	341	331	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+245	385	381	1822	06	15	Bristol Mercury	1822.06.15_TheBristolMercury_0001	1822	06	09	Examiner	1822.06.09_TheExaminer_0005
+336	575	562	1822	06	15	Bristol Mercury	1822.06.15_TheBristolMercury_0001	1822	06	09	Examiner	1822.06.09_TheExaminer_0006
+241	384	384	1822	06	15	Bristol Mercury	1822.06.15_TheBristolMercury_0001	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0007
+247	404	391	1822	06	15	Bristol Mercury	1822.06.15_TheBristolMercury_0004	1822	06	09	Examiner	1822.06.09_TheExaminer_0014
+480	796	810	1822	06	15	Bristol Mercury	1822.06.15_TheBristolMercury_0004	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0004
+361	637	643	1822	06	15	Bristol Mercury	1822.06.15_TheBristolMercury_0004	1822	06	10	Morning Chronicle	1822.06.10_TheMorningChronicle_0003
+545	894	886	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0001	1822	06	01	Ipswich Journal	1822.06.01_TheIpswichJournal_0001
+742	1171	1123	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0001	1822	06	01	Ipswich Journal	1822.06.01_TheIpswichJournal_0003
+1188	1903	1868	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0001	1822	06	08	Ipswich Journal	1822.06.08_TheIpswichJournal_0001
+353	622	600	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0001	1822	06	08	Ipswich Journal	1822.06.08_TheIpswichJournal_0003
+441	700	723	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0002	1822	06	13	Morning Chronicle	1822.06.13_TheMorningChronicle_0001
+417	625	621	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+316	443	453	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0004	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0002
+361	450	471	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0007
+244	373	388	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0004	1822	06	15	Caledonian Mercury	1822.06.15_CaledonianMercury_0002
+406	581	618	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+315	489	501	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0004	1822	06	15	Bristol Mercury	1822.06.15_TheBristolMercury_0001
+437	694	671	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0001	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0001
+727	1184	1142	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0001	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0001
+212	335	336	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0002	1822	06	09	Examiner	1822.06.09_TheExaminer_0005
+263	396	399	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0002	1822	06	12	Morning Chronicle	1822.06.12_TheMorningChronicle_0003
+243	404	411	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0002	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0001
+241	413	394	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0003	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0002
+303	506	538	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0004	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0001
+441	728	739	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+265	427	449	1822	06	15	Morning Chronicle	1822.06.15_TheMorningChronicle_0004	1822	06	13	Caledonian Mercury	1822.06.13_CaledonianMercury_0003
+360	589	580	1822	06	15	Morning Chronicle	1822.06.15_TheMorningChronicle_0004	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0001
+645	1044	1038	1822	06	15	Morning Chronicle	1822.06.15_TheMorningChronicle_0004	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0002
+300	419	426	1822	06	16	Examiner	1822.06.16_TheExaminer_0004	1822	06	11	Morning Chronicle	1822.06.11_TheMorningChronicle_0002
+275	432	441	1822	06	16	Examiner	1822.06.16_TheExaminer_0004	1822	06	12	Morning Chronicle	1822.06.12_TheMorningChronicle_0003
+490	619	620	1822	06	16	Examiner	1822.06.16_TheExaminer_0005	1822	06	11	Morning Chronicle	1822.06.11_TheMorningChronicle_0002
+264	353	357	1822	06	16	Examiner	1822.06.16_TheExaminer_0006	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0002
+402	614	625	1822	06	16	Examiner	1822.06.16_TheExaminer_0007	1822	06	13	Morning Chronicle	1822.06.13_TheMorningChronicle_0002
+255	353	363	1822	06	16	Examiner	1822.06.16_TheExaminer_0011	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0008
+819	1139	1201	1822	06	16	Examiner	1822.06.16_TheExaminer_0011	1822	06	15	Morning Chronicle	1822.06.15_TheMorningChronicle_0004
+209	319	332	1822	06	16	Examiner	1822.06.16_TheExaminer_0012	1822	06	13	Caledonian Mercury	1822.06.13_CaledonianMercury_0003
+269	302	318	1822	06	16	Examiner	1822.06.16_TheExaminer_0015	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0007
+279	336	329	1822	06	16	Examiner	1822.06.16_TheExaminer_0015	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0004
+293	450	439	1822	06	17	Caledonian Mercury	1822.06.17_CaledonianMercury_0001	1822	06	03	Caledonian Mercury	1822.06.03_CaledonianMercury_0001
+506	775	776	1822	06	17	Caledonian Mercury	1822.06.17_CaledonianMercury_0001	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0001
+412	656	641	1822	06	17	Caledonian Mercury	1822.06.17_CaledonianMercury_0004	1822	06	01	Morning Chronicle	1822.06.01_TheMorningChronicle_0003
+274	397	387	1822	06	17	Caledonian Mercury	1822.06.17_CaledonianMercury_0004	1822	06	12	Morning Chronicle	1822.06.12_TheMorningChronicle_0003
+217	346	326	1822	06	17	Caledonian Mercury	1822.06.17_CaledonianMercury_0004	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0004
+255	411	402	1822	06	17	Glasgow Herald	1822.06.17_GlasgowHerald_0001	1822	06	12	Morning Chronicle	1822.06.12_TheMorningChronicle_0003
+208	308	316	1822	06	17	Glasgow Herald	1822.06.17_GlasgowHerald_0001	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0007
+204	329	340	1822	06	17	Glasgow Herald	1822.06.17_GlasgowHerald_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+417	647	652	1822	06	17	Glasgow Herald	1822.06.17_GlasgowHerald_0001	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0004
+271	421	431	1822	06	17	Glasgow Herald	1822.06.17_GlasgowHerald_0001	1822	06	17	Caledonian Mercury	1822.06.17_CaledonianMercury_0004
+273	359	346	1822	06	17	Glasgow Herald	1822.06.17_GlasgowHerald_0004	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0003
+256	413	417	1822	06	17	Glasgow Herald	1822.06.17_GlasgowHerald_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+219	378	383	1822	06	17	Glasgow Herald	1822.06.17_GlasgowHerald_0004	1822	06	15	Bristol Mercury	1822.06.15_TheBristolMercury_0004
+233	426	426	1822	06	17	Morning Chronicle	1822.06.17_TheMorningChronicle_0004	1822	06	12	Morning Chronicle	1822.06.12_TheMorningChronicle_0004
+311	556	566	1822	06	18	Morning Chronicle	1822.06.18_TheMorningChronicle_0001	1822	06	11	Morning Chronicle	1822.06.11_TheMorningChronicle_0001
+331	563	560	1822	06	18	Morning Chronicle	1822.06.18_TheMorningChronicle_0004	1822	06	17	Morning Chronicle	1822.06.17_TheMorningChronicle_0004
+215	362	373	1822	06	19	Aberdeen Journal	1822.06.19_TheAberdeenJournal_0004	1822	06	12	Aberdeen Journal	1822.06.12_TheAberdeenJournal_0002
+322	429	445	1822	06	19	Aberdeen Journal	1822.06.19_TheAberdeenJournal_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0007
+304	506	507	1822	06	19	Aberdeen Journal	1822.06.19_TheAberdeenJournal_0004	1822	06	15	Bristol Mercury	1822.06.15_TheBristolMercury_0001
+322	452	442	1822	06	19	Aberdeen Journal	1822.06.19_TheAberdeenJournal_0004	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0004
+279	362	351	1822	06	19	Aberdeen Journal	1822.06.19_TheAberdeenJournal_0004	1822	06	16	Examiner	1822.06.16_TheExaminer_0015
+204	339	328	1822	06	19	Aberdeen Journal	1822.06.19_TheAberdeenJournal_0004	1822	06	17	Glasgow Herald	1822.06.17_GlasgowHerald_0001
+219	352	358	1822	06	20	Trewman’s Exeter Flying Post	1822.06.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+226	362	375	1822	06	21	Glasgow Herald	1822.06.21_GlasgowHerald_0001	1822	06	20	Caledonian Mercury	1822.06.20_CaledonianMercury_0003
+219	362	357	1822	06	21	Glasgow Herald	1822.06.21_GlasgowHerald_0004	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0004
+458	707	713	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+305	467	463	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+337	625	621	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0002
+233	404	423	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0001
+642	951	979	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+284	473	451	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0003
+319	364	365	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+1718	2079	2058	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+2174	2529	2514	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+1989	2395	2471	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+288	444	457	1822	06	22	Bristol Mercury	1822.06.22_TheBristolMercury_0001	1822	06	15	Morning Chronicle	1822.06.15_TheMorningChronicle_0002
+391	501	487	1822	06	22	Bristol Mercury	1822.06.22_TheBristolMercury_0001	1822	06	16	Examiner	1822.06.16_TheExaminer_0005
+419	561	568	1822	06	22	Bristol Mercury	1822.06.22_TheBristolMercury_0001	1822	06	16	Examiner	1822.06.16_TheExaminer_0008
+240	342	342	1822	06	22	Bristol Mercury	1822.06.22_TheBristolMercury_0001	1822	06	16	Examiner	1822.06.16_TheExaminer_0009
+291	413	427	1822	06	22	Bristol Mercury	1822.06.22_TheBristolMercury_0001	1822	06	18	Morning Chronicle	1822.06.18_TheMorningChronicle_0003
+521	706	720	1822	06	22	Bristol Mercury	1822.06.22_TheBristolMercury_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+422	676	679	1822	06	22	Bristol Mercury	1822.06.22_TheBristolMercury_0002	1822	06	20	Morning Chronicle	1822.06.20_TheMorningChronicle_0004
+219	345	342	1822	06	22	Bristol Mercury	1822.06.22_TheBristolMercury_0004	1822	06	16	Examiner	1822.06.16_TheExaminer_0015
+317	468	479	1822	06	22	Bristol Mercury	1822.06.22_TheBristolMercury_0004	1822	06	17	Morning Chronicle	1822.06.17_TheMorningChronicle_0003
+234	405	423	1822	06	22	Ipswich Journal	1822.06.22_TheIpswichJournal_0001	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0001
+578	947	936	1822	06	22	Ipswich Journal	1822.06.22_TheIpswichJournal_0001	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0003
+407	655	660	1822	06	22	Ipswich Journal	1822.06.22_TheIpswichJournal_0004	1822	06	01	Ipswich Journal	1822.06.01_TheIpswichJournal_0001
+453	705	703	1822	06	22	Ipswich Journal	1822.06.22_TheIpswichJournal_0004	1822	06	08	Ipswich Journal	1822.06.08_TheIpswichJournal_0001
+536	831	825	1822	06	22	Ipswich Journal	1822.06.22_TheIpswichJournal_0004	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0001
+214	343	346	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0002
+201	299	286	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+241	336	337	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0001	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0001
+470	751	764	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0001	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0001
+374	579	597	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0001	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0002
+1064	1655	1664	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0001
+361	613	618	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0004
+712	1085	1042	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0001
+1204	1965	1949	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+263	423	420	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0001
+239	376	362	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0002
+551	883	852	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0004
+259	340	351	1822	06	23	Examiner	1822.06.23_TheExaminer_0007	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0002
+338	502	512	1822	06	23	Examiner	1822.06.23_TheExaminer_0011	1822	06	21	Morning Chronicle	1822.06.21_TheMorningChronicle_0003
+520	796	814	1822	06	23	Examiner	1822.06.23_TheExaminer_0015	1822	06	20	Morning Chronicle	1822.06.20_TheMorningChronicle_0003
+492	838	825	1822	06	24	Caledonian Mercury	1822.06.24_CaledonianMercury_0004	1822	06	08	Bristol Mercury	1822.06.08_TheBristolMercury_0004
+326	555	546	1822	06	26	Aberdeen Journal	1822.06.26_TheAberdeenJournal_0001	1822	06	05	Aberdeen Journal	1822.06.05_TheAberdeenJournal_0001
+245	429	422	1822	06	27	Trewman’s Exeter Flying Post	1822.06.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1822	06	20	Trewman’s Exeter Flying Post	1822.06.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+202	334	335	1822	06	27	Trewman’s Exeter Flying Post	1822.06.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1822	06	20	Trewman’s Exeter Flying Post	1822.06.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+781	1136	1149	1822	06	27	Trewman’s Exeter Flying Post	1822.06.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1822	06	20	Trewman’s Exeter Flying Post	1822.06.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+219	342	361	1822	06	27	Trewman’s Exeter Flying Post	1822.06.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+232	335	350	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0001	1822	06	17	Glasgow Herald	1822.06.17_GlasgowHerald_0003
+225	297	295	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+362	544	540	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0003
+234	396	395	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0003
+470	698	711	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0004
+259	425	427	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004	1822	06	21	Glasgow Herald	1822.06.21_GlasgowHerald_0004
+235	329	312	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0002	1822	06	23	Examiner	1822.06.23_TheExaminer_0008
+327	450	443	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0002	1822	06	23	Examiner	1822.06.23_TheExaminer_0009
+337	462	452	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0003	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0007
+573	866	863	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+351	547	539	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+463	705	696	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+266	421	412	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0005
+672	1128	1083	1822	06	29	Caledonian Mercury	1822.06.29_CaledonianMercury_0002	1822	06	26	Morning Chronicle	1822.06.26_TheMorningChronicle_0002
+242	356	357	1822	06	29	Caledonian Mercury	1822.06.29_CaledonianMercury_0004	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0001
+287	456	418	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0002
+340	593	585	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0001
+421	680	674	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+1185	1933	1838	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+970	1486	1474	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0002
+221	269	271	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+695	886	896	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+311	391	393	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0002
+789	979	987	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+314	359	360	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+667	831	869	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+532	678	688	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+224	334	330	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+217	358	344	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0003
+291	491	485	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0003
+285	327	322	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+626	904	889	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+705	959	941	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+283	353	328	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+747	1037	1027	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+408	645	616	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+727	830	832	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0002
+685	912	900	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+230	362	366	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+245	384	389	1822	06	29	Bristol Mercury	1822.06.29_TheBristolMercury_0001	1822	06	21	Morning Chronicle	1822.06.21_TheMorningChronicle_0003
+464	614	608	1822	06	29	Bristol Mercury	1822.06.29_TheBristolMercury_0001	1822	06	23	Examiner	1822.06.23_TheExaminer_0011
+298	450	446	1822	06	29	Bristol Mercury	1822.06.29_TheBristolMercury_0001	1822	06	25	Morning Chronicle	1822.06.25_TheMorningChronicle_0003
+239	367	372	1822	06	29	Bristol Mercury	1822.06.29_TheBristolMercury_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+570	705	704	1822	06	29	Bristol Mercury	1822.06.29_TheBristolMercury_0004	1822	06	23	Examiner	1822.06.23_TheExaminer_0013
+257	457	456	1822	06	29	Bristol Mercury	1822.06.29_TheBristolMercury_0004	1822	06	24	Morning Chronicle	1822.06.24_TheMorningChronicle_0003
+230	383	381	1822	06	29	Ipswich Journal	1822.06.29_TheIpswichJournal_0004	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0001
+213	376	369	1822	06	29	Ipswich Journal	1822.06.29_TheIpswichJournal_0004	1822	06	22	Ipswich Journal	1822.06.22_TheIpswichJournal_0004
+227	361	349	1822	06	29	Ipswich Journal	1822.06.29_TheIpswichJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+229	350	347	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0001	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0001
+208	335	352	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0001	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0001
+202	337	346	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0001	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0002
+760	1241	1212	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0001	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0001
+277	430	454	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0001	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+296	390	385	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0002	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0003
+384	688	692	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+240	340	342	1822	06	30	Examiner	1822.06.30_TheExaminer_0006	1822	06	25	Morning Chronicle	1822.06.25_TheMorningChronicle_0003
+202	258	267	1822	06	30	Examiner	1822.06.30_TheExaminer_0015	1822	06	27	Morning Chronicle	1822.06.27_TheMorningChronicle_0004
+293	445	429	1822	07	01	Caledonian Mercury	1822.07.01_CaledonianMercury_0003	1822	06	03	Caledonian Mercury	1822.06.03_CaledonianMercury_0001
+357	503	487	1822	07	01	Caledonian Mercury	1822.07.01_CaledonianMercury_0003	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0001
+266	412	396	1822	07	01	Caledonian Mercury	1822.07.01_CaledonianMercury_0004	1822	06	29	Morning Chronicle	1822.06.29_TheMorningChronicle_0004
+379	663	701	1822	07	01	Glasgow Herald	1822.07.01_GlasgowHerald_0001	1822	06	26	Morning Chronicle	1822.06.26_TheMorningChronicle_0002
+369	575	601	1822	07	01	Glasgow Herald	1822.07.01_GlasgowHerald_0001	1822	06	29	Caledonian Mercury	1822.06.29_CaledonianMercury_0003
+202	333	338	1822	07	01	Glasgow Herald	1822.07.01_GlasgowHerald_0003	1822	06	03	Glasgow Herald	1822.06.03_GlasgowHerald_0003
+320	494	524	1822	07	01	Glasgow Herald	1822.07.01_GlasgowHerald_0003	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0003
+266	373	379	1822	07	01	Glasgow Herald	1822.07.01_GlasgowHerald_0003	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+214	295	305	1822	07	01	Glasgow Herald	1822.07.01_GlasgowHerald_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+786	1286	1262	1822	07	04	Caledonian Mercury	1822.07.04_CaledonianMercury_0001	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0003
+319	493	463	1822	07	04	Caledonian Mercury	1822.07.04_CaledonianMercury_0001	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0001
+291	471	485	1822	07	04	Caledonian Mercury	1822.07.04_CaledonianMercury_0003	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0001
+242	378	375	1822	07	04	Caledonian Mercury	1822.07.04_CaledonianMercury_0003	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0003
+245	353	359	1822	07	04	Caledonian Mercury	1822.07.04_CaledonianMercury_0003	1822	06	20	Caledonian Mercury	1822.06.20_CaledonianMercury_0003
+336	574	577	1822	07	04	Caledonian Mercury	1822.07.04_CaledonianMercury_0003	1822	06	27	Caledonian Mercury	1822.06.27_CaledonianMercury_0001
+570	877	822	1822	07	04	Caledonian Mercury	1822.07.04_CaledonianMercury_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0001
+202	255	253	1822	07	04	Caledonian Mercury	1822.07.04_CaledonianMercury_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+209	347	356	1822	07	05	Glasgow Herald	1822.07.05_GlasgowHerald_0004	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0003
+220	339	331	1822	07	05	Glasgow Herald	1822.07.05_GlasgowHerald_0004	1822	06	07	Glasgow Herald	1822.06.07_GlasgowHerald_0004
+373	548	568	1822	07	05	Glasgow Herald	1822.07.05_GlasgowHerald_0004	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0004
+269	428	436	1822	07	05	Glasgow Herald	1822.07.05_GlasgowHerald_0004	1822	06	21	Glasgow Herald	1822.06.21_GlasgowHerald_0004
+572	845	843	1822	07	05	Glasgow Herald	1822.07.05_GlasgowHerald_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+541	770	777	1822	07	05	Liverpool Mercury	1822.07.05_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+438	659	643	1822	07	05	Liverpool Mercury	1822.07.05_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+542	809	789	1822	07	05	Liverpool Mercury	1822.07.05_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+761	1061	1051	1822	07	05	Liverpool Mercury	1822.07.05_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+344	517	536	1822	07	05	Liverpool Mercury	1822.07.05_LiverpoolMercuryetc_0005	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0005
+467	622	640	1822	07	05	Liverpool Mercury	1822.07.05_LiverpoolMercuryetc_0005	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005
+235	333	306	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+213	366	349	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0003
+462	754	715	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0002
+669	1006	988	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+247	303	302	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+294	370	369	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+340	439	432	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+331	415	428	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+236	349	346	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+331	417	415	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+297	382	380	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+220	271	276	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+324	561	551	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0003	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+1155	1541	1456	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+565	827	768	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+718	1002	954	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+509	645	605	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0002
+370	567	528	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+475	589	546	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+929	1290	1198	1822	07	06	Jackson’s Oxford Journal	1822.07.06_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+545	905	934	1822	07	06	Bristol Mercury	1822.07.06_TheBristolMercury_0001	1822	06	29	Morning Chronicle	1822.06.29_TheMorningChronicle_0002
+238	394	388	1822	07	06	Ipswich Journal	1822.07.06_TheIpswichJournal_0001	1822	06	01	Ipswich Journal	1822.06.01_TheIpswichJournal_0001
+300	499	501	1822	07	06	Ipswich Journal	1822.07.06_TheIpswichJournal_0001	1822	06	08	Ipswich Journal	1822.06.08_TheIpswichJournal_0001
+263	432	432	1822	07	06	Ipswich Journal	1822.07.06_TheIpswichJournal_0001	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0001
+271	460	451	1822	07	06	Ipswich Journal	1822.07.06_TheIpswichJournal_0001	1822	06	22	Ipswich Journal	1822.06.22_TheIpswichJournal_0004
+249	403	417	1822	07	06	Ipswich Journal	1822.07.06_TheIpswichJournal_0001	1822	06	29	Ipswich Journal	1822.06.29_TheIpswichJournal_0003
+363	543	537	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0001	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0001
+810	1158	1134	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0001	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0001
+279	446	455	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0001	1822	06	15	Leeds Mercury	1822.06.15_TheLeedsMercury_0001
+371	510	508	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0001	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0001
+600	936	959	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0001	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+917	1400	1418	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0001	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0001
+263	410	411	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0001	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0002
+341	565	549	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0004	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0001
+390	609	609	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0001
+291	504	498	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0002
+308	523	518	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+200	350	361	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0004	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0001
+405	638	614	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0004	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0002
+478	824	812	1822	07	06	Leeds Mercury	1822.07.06_TheLeedsMercury_0004	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0004
+261	398	395	1822	07	08	Glasgow Herald	1822.07.08_GlasgowHerald_0003	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0003
+239	389	394	1822	07	08	Glasgow Herald	1822.07.08_GlasgowHerald_0003	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0003
+229	309	312	1822	07	08	Glasgow Herald	1822.07.08_GlasgowHerald_0003	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+301	446	468	1822	07	08	Glasgow Herald	1822.07.08_GlasgowHerald_0004	1822	06	03	Glasgow Herald	1822.06.03_GlasgowHerald_0003
+247	336	329	1822	07	08	Glasgow Herald	1822.07.08_GlasgowHerald_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0001
+207	339	336	1822	07	10	Aberdeen Journal	1822.07.10_TheAberdeenJournal_0001	1822	06	26	Aberdeen Journal	1822.06.26_TheAberdeenJournal_0001
+295	433	405	1822	07	10	Aberdeen Journal	1822.07.10_TheAberdeenJournal_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0001
+200	351	338	1822	07	11	Caledonian Mercury	1822.07.11_CaledonianMercury_0001	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0001
+267	423	417	1822	07	11	Caledonian Mercury	1822.07.11_CaledonianMercury_0003	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0003
+211	321	308	1822	07	11	Caledonian Mercury	1822.07.11_CaledonianMercury_0003	1822	06	22	Caledonian Mercury	1822.06.22_CaledonianMercury_0001
+293	455	437	1822	07	12	Glasgow Herald	1822.07.12_GlasgowHerald_0003	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0003
+250	405	408	1822	07	12	Glasgow Herald	1822.07.12_GlasgowHerald_0004	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0004
+517	814	809	1822	07	12	Glasgow Herald	1822.07.12_GlasgowHerald_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+591	821	812	1822	07	12	Liverpool Mercury	1822.07.12_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+329	481	474	1822	07	12	Liverpool Mercury	1822.07.12_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+441	640	628	1822	07	12	Liverpool Mercury	1822.07.12_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+777	1078	1063	1822	07	12	Liverpool Mercury	1822.07.12_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+613	953	962	1822	07	12	Liverpool Mercury	1822.07.12_LiverpoolMercuryetc_0005	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005
+422	708	731	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+388	613	591	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+208	389	370	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0003	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+295	346	343	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+986	1321	1278	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+1156	1515	1469	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+324	423	395	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+1026	1399	1407	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+927	1208	1172	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+212	293	292	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+863	1045	1007	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+715	976	942	1822	07	13	Jackson’s Oxford Journal	1822.07.13_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+203	266	272	1822	07	13	Bristol Mercury	1822.07.13_TheBristolMercury_0002	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005
+266	341	335	1822	07	13	Leeds Mercury	1822.07.13_TheLeedsMercury_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+202	273	273	1822	07	13	Leeds Mercury	1822.07.13_TheLeedsMercury_0001	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+548	798	841	1822	07	13	Leeds Mercury	1822.07.13_TheLeedsMercury_0001	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0001
+254	376	379	1822	07	13	Leeds Mercury	1822.07.13_TheLeedsMercury_0001	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0002
+210	336	326	1822	07	13	Leeds Mercury	1822.07.13_TheLeedsMercury_0004	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0004
+322	477	474	1822	07	13	Leeds Mercury	1822.07.13_TheLeedsMercury_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+362	555	542	1822	07	13	Leeds Mercury	1822.07.13_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0001
+372	601	585	1822	07	13	Leeds Mercury	1822.07.13_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+233	413	389	1822	07	15	Caledonian Mercury	1822.07.15_CaledonianMercury_0003	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0003
+248	376	359	1822	07	15	Caledonian Mercury	1822.07.15_CaledonianMercury_0003	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0001
+276	445	440	1822	07	17	Aberdeen Journal	1822.07.17_TheAberdeenJournal_0001	1822	06	19	Aberdeen Journal	1822.06.19_TheAberdeenJournal_0001
+247	372	382	1822	07	17	Aberdeen Journal	1822.07.17_TheAberdeenJournal_0001	1822	06	26	Aberdeen Journal	1822.06.26_TheAberdeenJournal_0001
+217	362	355	1822	07	18	Trewman’s Exeter Flying Post	1822.07.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1822	06	20	Trewman’s Exeter Flying Post	1822.06.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+302	458	458	1822	07	19	Liverpool Mercury	1822.07.19_LiverpoolMercuryetc_0003	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0005
+565	850	856	1822	07	19	Liverpool Mercury	1822.07.19_LiverpoolMercuryetc_0003	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005
+472	674	658	1822	07	19	Liverpool Mercury	1822.07.19_LiverpoolMercuryetc_0006	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+293	441	418	1822	07	19	Liverpool Mercury	1822.07.19_LiverpoolMercuryetc_0006	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+407	604	583	1822	07	19	Liverpool Mercury	1822.07.19_LiverpoolMercuryetc_0006	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+555	785	777	1822	07	19	Liverpool Mercury	1822.07.19_LiverpoolMercuryetc_0006	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+256	285	285	1822	07	20	Jackson’s Oxford Journal	1822.07.20_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+942	1324	1313	1822	07	20	Jackson’s Oxford Journal	1822.07.20_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+910	1254	1248	1822	07	20	Jackson’s Oxford Journal	1822.07.20_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+899	1248	1265	1822	07	20	Jackson’s Oxford Journal	1822.07.20_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+828	1185	1175	1822	07	20	Jackson’s Oxford Journal	1822.07.20_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+211	295	309	1822	07	20	Jackson’s Oxford Journal	1822.07.20_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+469	567	568	1822	07	20	Jackson’s Oxford Journal	1822.07.20_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+582	810	820	1822	07	20	Jackson’s Oxford Journal	1822.07.20_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+281	468	467	1822	07	20	Ipswich Journal	1822.07.20_TheIpswichJournal_0001	1822	06	01	Ipswich Journal	1822.06.01_TheIpswichJournal_0001
+305	485	484	1822	07	20	Ipswich Journal	1822.07.20_TheIpswichJournal_0001	1822	06	08	Ipswich Journal	1822.06.08_TheIpswichJournal_0001
+327	569	569	1822	07	20	Ipswich Journal	1822.07.20_TheIpswichJournal_0001	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0001
+319	528	523	1822	07	20	Ipswich Journal	1822.07.20_TheIpswichJournal_0001	1822	06	22	Ipswich Journal	1822.06.22_TheIpswichJournal_0004
+243	392	377	1822	07	20	Leeds Mercury	1822.07.20_TheLeedsMercury_0004	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0001
+211	381	374	1822	07	24	Aberdeen Journal	1822.07.24_TheAberdeenJournal_0004	1822	06	24	Morning Chronicle	1822.06.24_TheMorningChronicle_0003
+339	598	589	1822	07	24	Aberdeen Journal	1822.07.24_TheAberdeenJournal_0004	1822	06	29	Bristol Mercury	1822.06.29_TheBristolMercury_0004
+222	371	374	1822	07	25	Trewman’s Exeter Flying Post	1822.07.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1822	06	27	Trewman’s Exeter Flying Post	1822.06.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+233	398	400	1822	07	26	Glasgow Herald	1822.07.26_GlasgowHerald_0004	1822	06	21	Glasgow Herald	1822.06.21_GlasgowHerald_0004
+400	630	621	1822	07	26	Glasgow Herald	1822.07.26_GlasgowHerald_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+467	671	665	1822	07	26	Liverpool Mercury	1822.07.26_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+276	422	416	1822	07	26	Liverpool Mercury	1822.07.26_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+336	510	491	1822	07	26	Liverpool Mercury	1822.07.26_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+535	752	747	1822	07	26	Liverpool Mercury	1822.07.26_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+262	423	407	1822	07	26	Liverpool Mercury	1822.07.26_LiverpoolMercuryetc_0005	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0005
+592	867	860	1822	07	26	Liverpool Mercury	1822.07.26_LiverpoolMercuryetc_0005	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005
+265	314	332	1822	07	27	Jackson’s Oxford Journal	1822.07.27_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0002
+248	336	337	1822	07	27	Jackson’s Oxford Journal	1822.07.27_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+251	312	303	1822	07	27	Jackson’s Oxford Journal	1822.07.27_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+899	1255	1205	1822	07	27	Jackson’s Oxford Journal	1822.07.27_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+932	1271	1240	1822	07	27	Jackson’s Oxford Journal	1822.07.27_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+338	417	414	1822	07	27	Jackson’s Oxford Journal	1822.07.27_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+775	1098	1090	1822	07	27	Jackson’s Oxford Journal	1822.07.27_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+895	1201	1172	1822	07	27	Jackson’s Oxford Journal	1822.07.27_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+609	761	740	1822	07	27	Jackson’s Oxford Journal	1822.07.27_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+858	1144	1156	1822	07	27	Jackson’s Oxford Journal	1822.07.27_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+247	411	405	1822	07	29	Caledonian Mercury	1822.07.29_CaledonianMercury_0001	1822	06	03	Caledonian Mercury	1822.06.03_CaledonianMercury_0003
+265	429	429	1822	07	29	Caledonian Mercury	1822.07.29_CaledonianMercury_0001	1822	06	17	Caledonian Mercury	1822.06.17_CaledonianMercury_0001
+258	337	363	1822	08	02	Liverpool Mercury	1822.08.02_LiverpoolMercuryetc_0001	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005
+522	748	749	1822	08	02	Liverpool Mercury	1822.08.02_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+337	504	495	1822	08	02	Liverpool Mercury	1822.08.02_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+390	564	559	1822	08	02	Liverpool Mercury	1822.08.02_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+545	753	750	1822	08	02	Liverpool Mercury	1822.08.02_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+267	407	396	1822	08	02	Liverpool Mercury	1822.08.02_LiverpoolMercuryetc_0005	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0005
+430	622	620	1822	08	02	Liverpool Mercury	1822.08.02_LiverpoolMercuryetc_0005	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005
+205	314	314	1822	08	03	Caledonian Mercury	1822.08.03_CaledonianMercury_0004	1822	06	19	Aberdeen Journal	1822.06.19_TheAberdeenJournal_0004
+243	403	400	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+414	585	588	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+440	582	579	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+270	363	373	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+293	412	411	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+330	399	398	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+243	281	267	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+612	914	874	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+760	1084	1040	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+692	1021	986	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+344	426	421	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0002
+698	981	948	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+397	514	499	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+610	813	778	1822	08	03	Jackson’s Oxford Journal	1822.08.03_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+308	505	470	1822	08	03	Leeds Mercury	1822.08.03_TheLeedsMercury_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+321	540	522	1822	08	03	Leeds Mercury	1822.08.03_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+557	799	786	1822	08	09	Liverpool Mercury	1822.08.09_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+286	434	423	1822	08	09	Liverpool Mercury	1822.08.09_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+412	626	615	1822	08	09	Liverpool Mercury	1822.08.09_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+602	812	819	1822	08	09	Liverpool Mercury	1822.08.09_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+354	545	538	1822	08	09	Liverpool Mercury	1822.08.09_LiverpoolMercuryetc_0005	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0005
+546	745	762	1822	08	09	Liverpool Mercury	1822.08.09_LiverpoolMercuryetc_0005	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005
+246	297	297	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+796	1026	1022	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+585	753	758	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+497	652	680	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+549	726	735	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+214	276	275	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0001	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+482	595	592	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+233	284	290	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+820	1073	1072	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+310	487	471	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+239	280	277	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+313	467	462	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+315	512	510	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+563	759	787	1822	08	10	Jackson’s Oxford Journal	1822.08.10_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+239	296	305	1822	08	10	Leeds Mercury	1822.08.10_TheLeedsMercury_0001	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0002
+205	301	294	1822	08	10	Morning Chronicle	1822.08.10_TheMorningChronicle_0001	1822	06	01	Morning Chronicle	1822.06.01_TheMorningChronicle_0001
+425	688	670	1822	08	12	Caledonian Mercury	1822.08.12_CaledonianMercury_0001	1822	06	03	Caledonian Mercury	1822.06.03_CaledonianMercury_0001
+200	282	285	1822	08	12	Caledonian Mercury	1822.08.12_CaledonianMercury_0001	1822	06	10	Caledonian Mercury	1822.06.10_CaledonianMercury_0001
+415	620	615	1822	08	16	Liverpool Mercury	1822.08.16_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+237	370	362	1822	08	16	Liverpool Mercury	1822.08.16_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+262	399	389	1822	08	16	Liverpool Mercury	1822.08.16_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+361	554	555	1822	08	16	Liverpool Mercury	1822.08.16_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+201	328	316	1822	08	17	Caledonian Mercury	1822.08.17_CaledonianMercury_0003	1822	06	19	Aberdeen Journal	1822.06.19_TheAberdeenJournal_0004
+267	335	339	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+507	673	674	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+602	780	781	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+244	356	370	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+464	585	614	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+506	733	748	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+563	739	737	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+217	324	335	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+402	538	535	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+203	252	254	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+399	623	607	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+433	707	675	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+623	876	860	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+406	638	636	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+442	663	661	1822	08	17	Jackson’s Oxford Journal	1822.08.17_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+204	340	333	1822	08	17	Leeds Mercury	1822.08.17_TheLeedsMercury_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+263	476	464	1822	08	17	Leeds Mercury	1822.08.17_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+457	765	736	1822	08	19	Caledonian Mercury	1822.08.19_CaledonianMercury_0004	1822	06	24	Morning Chronicle	1822.06.24_TheMorningChronicle_0003
+457	685	654	1822	08	19	Caledonian Mercury	1822.08.19_CaledonianMercury_0004	1822	06	29	Bristol Mercury	1822.06.29_TheBristolMercury_0004
+247	411	399	1822	08	19	Morning Chronicle	1822.08.19_TheMorningChronicle_0004	1822	06	22	Caledonian Mercury	1822.06.22_CaledonianMercury_0001
+233	304	293	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+517	695	672	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+627	809	790	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+534	712	721	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+592	772	756	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+322	432	417	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+204	266	261	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+251	366	362	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+328	450	445	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+329	403	393	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+241	338	343	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+244	354	343	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+320	456	438	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+314	368	391	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+516	771	791	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0003	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+262	420	411	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+259	422	398	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+313	511	488	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+229	373	361	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+380	569	559	1822	08	24	Jackson’s Oxford Journal	1822.08.24_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+225	381	371	1822	08	24	Ipswich Journal	1822.08.24_TheIpswichJournal_0004	1822	06	15	Ipswich Journal	1822.06.15_TheIpswichJournal_0004
+271	407	404	1822	08	24	Leeds Mercury	1822.08.24_TheLeedsMercury_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+292	487	493	1822	08	24	Leeds Mercury	1822.08.24_TheLeedsMercury_0004	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0004
+353	513	503	1822	08	24	Leeds Mercury	1822.08.24_TheLeedsMercury_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+416	692	690	1822	08	24	Leeds Mercury	1822.08.24_TheLeedsMercury_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+294	458	468	1822	08	24	Leeds Mercury	1822.08.24_TheLeedsMercury_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+272	416	413	1822	08	24	Leeds Mercury	1822.08.24_TheLeedsMercury_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+392	663	678	1822	08	24	Leeds Mercury	1822.08.24_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+250	368	363	1822	08	24	Leeds Mercury	1822.08.24_TheLeedsMercury_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+361	574	561	1822	08	30	Liverpool Mercury	1822.08.30_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+201	304	297	1822	08	30	Liverpool Mercury	1822.08.30_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+273	401	403	1822	08	30	Liverpool Mercury	1822.08.30_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+390	571	579	1822	08	30	Liverpool Mercury	1822.08.30_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+229	316	319	1822	08	30	Liverpool Mercury	1822.08.30_LiverpoolMercuryetc_0005	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005
+285	457	456	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+263	391	389	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+313	456	450	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+313	465	471	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+306	455	453	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+413	547	524	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+270	339	335	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+918	1242	1244	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+1016	1341	1323	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+929	1243	1256	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+927	1240	1231	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+452	604	597	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+516	716	708	1822	08	31	Jackson’s Oxford Journal	1822.08.31_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+210	309	308	1822	09	03	Morning Chronicle	1822.09.03_TheMorningChronicle_0004	1822	06	19	Aberdeen Journal	1822.06.19_TheAberdeenJournal_0004
+231	329	323	1822	09	05	Trewman’s Exeter Flying Post	1822.09.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+212	370	385	1822	09	06	Glasgow Herald	1822.09.06_GlasgowHerald_0004	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0004
+231	353	353	1822	09	06	Glasgow Herald	1822.09.06_GlasgowHerald_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+404	594	594	1822	09	06	Liverpool Mercury	1822.09.06_LiverpoolMercuryetc_0006	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+221	339	331	1822	09	06	Liverpool Mercury	1822.09.06_LiverpoolMercuryetc_0006	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+263	393	386	1822	09	06	Liverpool Mercury	1822.09.06_LiverpoolMercuryetc_0006	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+398	563	573	1822	09	06	Liverpool Mercury	1822.09.06_LiverpoolMercuryetc_0006	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+202	299	298	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+417	546	543	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+447	601	593	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+397	508	516	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+420	556	553	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+244	347	346	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+369	589	596	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0003	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+302	391	382	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+1035	1442	1402	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+1056	1459	1428	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+925	1276	1277	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+982	1374	1337	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+201	278	292	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+561	752	738	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+517	754	730	1822	09	07	Jackson’s Oxford Journal	1822.09.07_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+226	386	385	1822	09	07	Leeds Mercury	1822.09.07_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+296	439	435	1822	09	13	Liverpool Mercury	1822.09.13_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+242	367	366	1822	09	13	Liverpool Mercury	1822.09.13_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+324	476	488	1822	09	13	Liverpool Mercury	1822.09.13_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+248	367	365	1822	09	13	Liverpool Mercury	1822.09.13_LiverpoolMercuryetc_0005	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0005
+329	486	482	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+224	303	303	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+567	754	728	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+442	598	594	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+333	464	478	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+367	505	503	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+442	604	591	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+216	296	270	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+1428	1889	1834	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+921	1305	1236	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+208	322	315	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+873	1283	1241	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+860	1226	1172	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+439	637	599	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+478	728	719	1822	09	14	Jackson’s Oxford Journal	1822.09.14_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+255	380	362	1822	09	14	Leeds Mercury	1822.09.14_TheLeedsMercury_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+326	451	438	1822	09	14	Leeds Mercury	1822.09.14_TheLeedsMercury_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+340	566	543	1822	09	14	Leeds Mercury	1822.09.14_TheLeedsMercury_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+250	360	368	1822	09	14	Leeds Mercury	1822.09.14_TheLeedsMercury_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+270	390	384	1822	09	14	Leeds Mercury	1822.09.14_TheLeedsMercury_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+343	576	570	1822	09	14	Leeds Mercury	1822.09.14_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+216	320	312	1822	09	14	Leeds Mercury	1822.09.14_TheLeedsMercury_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+322	463	457	1822	09	20	Liverpool Mercury	1822.09.20_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+207	317	321	1822	09	20	Liverpool Mercury	1822.09.20_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+285	404	405	1822	09	20	Liverpool Mercury	1822.09.20_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+284	507	504	1822	09	21	Jackson’s Oxford Journal	1822.09.21_Jackson'sOxfordJournal_0003	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+232	309	293	1822	09	21	Jackson’s Oxford Journal	1822.09.21_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+932	1341	1272	1822	09	21	Jackson’s Oxford Journal	1822.09.21_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+910	1305	1231	1822	09	21	Jackson’s Oxford Journal	1822.09.21_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+893	1318	1285	1822	09	21	Jackson’s Oxford Journal	1822.09.21_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+855	1250	1198	1822	09	21	Jackson’s Oxford Journal	1822.09.21_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+351	505	483	1822	09	21	Jackson’s Oxford Journal	1822.09.21_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+408	611	588	1822	09	21	Jackson’s Oxford Journal	1822.09.21_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+211	304	313	1822	09	21	Leeds Mercury	1822.09.21_TheLeedsMercury_0001	1822	06	01	Leeds Mercury	1822.06.01_TheLeedsMercury_0001
+206	301	298	1822	09	21	Leeds Mercury	1822.09.21_TheLeedsMercury_0001	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+277	415	406	1822	09	21	Leeds Mercury	1822.09.21_TheLeedsMercury_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+222	364	362	1822	09	21	Leeds Mercury	1822.09.21_TheLeedsMercury_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+337	493	501	1822	09	21	Leeds Mercury	1822.09.21_TheLeedsMercury_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+212	322	326	1822	09	21	Leeds Mercury	1822.09.21_TheLeedsMercury_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+509	850	858	1822	09	21	Leeds Mercury	1822.09.21_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+225	360	349	1822	09	21	Leeds Mercury	1822.09.21_TheLeedsMercury_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+246	423	432	1822	09	25	Derby Mercury	1822.09.25_TheDerbyMercury_0001	1822	06	26	Derby Mercury	1822.06.26_TheDerbyMercury_0001
+293	434	427	1822	09	27	Liverpool Mercury	1822.09.27_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+277	409	406	1822	09	27	Liverpool Mercury	1822.09.27_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+315	432	431	1822	09	27	Liverpool Mercury	1822.09.27_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+251	372	375	1822	09	27	Liverpool Mercury	1822.09.27_LiverpoolMercuryetc_0005	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0003
+210	321	321	1822	09	27	Liverpool Mercury	1822.09.27_LiverpoolMercuryetc_0005	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+560	855	849	1822	09	28	Jackson’s Oxford Journal	1822.09.28_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+272	405	402	1822	09	28	Jackson’s Oxford Journal	1822.09.28_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+849	1163	1135	1822	09	28	Jackson’s Oxford Journal	1822.09.28_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+1080	1495	1465	1822	09	28	Jackson’s Oxford Journal	1822.09.28_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+1032	1388	1374	1822	09	28	Jackson’s Oxford Journal	1822.09.28_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+858	1186	1163	1822	09	28	Jackson’s Oxford Journal	1822.09.28_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+419	583	560	1822	09	28	Jackson’s Oxford Journal	1822.09.28_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+461	685	678	1822	09	28	Jackson’s Oxford Journal	1822.09.28_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+286	397	393	1822	09	28	Leeds Mercury	1822.09.28_TheLeedsMercury_0001	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0001
+217	328	325	1822	09	28	Leeds Mercury	1822.09.28_TheLeedsMercury_0001	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+210	334	320	1822	09	28	Leeds Mercury	1822.09.28_TheLeedsMercury_0001	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0002
+428	693	696	1822	09	28	Leeds Mercury	1822.09.28_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+321	433	423	1822	09	30	Glasgow Herald	1822.09.30_GlasgowHerald_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+248	338	340	1822	10	02	Derby Mercury	1822.10.02_TheDerbyMercury_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+251	354	339	1822	10	03	Caledonian Mercury	1822.10.03_CaledonianMercury_0001	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+318	502	494	1822	10	04	Glasgow Herald	1822.10.04_GlasgowHerald_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+294	428	419	1822	10	04	Liverpool Mercury	1822.10.04_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+221	310	314	1822	10	04	Liverpool Mercury	1822.10.04_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+275	405	406	1822	10	04	Liverpool Mercury	1822.10.04_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+245	310	305	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+326	478	480	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+210	290	293	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0001	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+220	293	312	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+426	711	726	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0003	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+769	1053	1027	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+899	1267	1239	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+806	1151	1163	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+279	395	400	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0002
+863	1165	1165	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+216	329	330	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+354	478	472	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+534	847	843	1822	10	05	Jackson’s Oxford Journal	1822.10.05_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+204	310	314	1822	10	08	Morning Chronicle	1822.10.08_TheMorningChronicle_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+255	370	375	1822	10	11	Liverpool Mercury	1822.10.11_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+210	311	318	1822	10	11	Liverpool Mercury	1822.10.11_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+217	327	330	1822	10	11	Liverpool Mercury	1822.10.11_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+369	446	430	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+354	445	426	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+406	510	502	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+279	405	388	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+357	430	416	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+267	409	413	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0003	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+912	1252	1261	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+421	688	685	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+384	635	643	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+424	677	688	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+383	600	593	1822	10	12	Jackson’s Oxford Journal	1822.10.12_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+206	381	380	1822	10	12	Leeds Mercury	1822.10.12_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+203	336	338	1822	10	18	Glasgow Herald	1822.10.18_GlasgowHerald_0004	1822	06	14	Glasgow Herald	1822.06.14_GlasgowHerald_0004
+244	374	369	1822	10	18	Liverpool Mercury	1822.10.18_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+208	340	346	1822	10	18	Liverpool Mercury	1822.10.18_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+216	319	324	1822	10	18	Liverpool Mercury	1822.10.18_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+202	312	327	1822	10	19	Caledonian Mercury	1822.10.19_CaledonianMercury_0003	1822	06	06	Caledonian Mercury	1822.06.06_CaledonianMercury_0003
+441	689	652	1822	10	19	Jackson’s Oxford Journal	1822.10.19_Jackson'sOxfordJournal_0003	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+243	339	334	1822	10	19	Jackson’s Oxford Journal	1822.10.19_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0002
+763	1077	1037	1822	10	19	Jackson’s Oxford Journal	1822.10.19_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+872	1254	1207	1822	10	19	Jackson’s Oxford Journal	1822.10.19_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+769	1081	1076	1822	10	19	Jackson’s Oxford Journal	1822.10.19_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+835	1153	1108	1822	10	19	Jackson’s Oxford Journal	1822.10.19_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+353	481	467	1822	10	19	Jackson’s Oxford Journal	1822.10.19_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+465	730	705	1822	10	19	Jackson’s Oxford Journal	1822.10.19_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+323	496	484	1822	10	25	Liverpool Mercury	1822.10.25_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+236	343	338	1822	10	25	Liverpool Mercury	1822.10.25_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+235	355	346	1822	10	25	Liverpool Mercury	1822.10.25_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+330	477	470	1822	10	25	Liverpool Mercury	1822.10.25_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+240	305	305	1822	10	26	Jackson’s Oxford Journal	1822.10.26_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+631	921	889	1822	10	26	Jackson’s Oxford Journal	1822.10.26_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+664	968	935	1822	10	26	Jackson’s Oxford Journal	1822.10.26_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+637	911	902	1822	10	26	Jackson’s Oxford Journal	1822.10.26_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+652	925	900	1822	10	26	Jackson’s Oxford Journal	1822.10.26_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+239	355	349	1822	10	26	Jackson’s Oxford Journal	1822.10.26_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+291	457	457	1822	10	26	Jackson’s Oxford Journal	1822.10.26_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+204	264	261	1822	10	28	Glasgow Herald	1822.10.28_GlasgowHerald_0003	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+481	667	670	1822	10	28	Glasgow Herald	1822.10.28_GlasgowHerald_0003	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+213	327	326	1822	11	01	Liverpool Mercury	1822.11.01_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+245	380	387	1822	11	01	Liverpool Mercury	1822.11.01_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+418	548	566	1822	11	02	Jackson’s Oxford Journal	1822.11.02_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+360	542	559	1822	11	02	Jackson’s Oxford Journal	1822.11.02_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0003
+998	1349	1331	1822	11	02	Jackson’s Oxford Journal	1822.11.02_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+711	986	993	1822	11	02	Jackson’s Oxford Journal	1822.11.02_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+702	1017	1020	1822	11	02	Jackson’s Oxford Journal	1822.11.02_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+731	1058	1041	1822	11	02	Jackson’s Oxford Journal	1822.11.02_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+241	324	317	1822	11	02	Jackson’s Oxford Journal	1822.11.02_Jackson'sOxfordJournal_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+221	291	284	1822	11	02	Jackson’s Oxford Journal	1822.11.02_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+453	695	705	1822	11	02	Jackson’s Oxford Journal	1822.11.02_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+256	437	436	1822	11	02	Newcastle Courant	1822.11.02_TheNewcastleCourantetc_0003	1822	06	01	Newcastle Courant	1822.06.01_TheNewcastleCourantetc_0003
+460	681	673	1822	11	08	Liverpool Mercury	1822.11.08_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+254	396	390	1822	11	08	Liverpool Mercury	1822.11.08_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+465	664	662	1822	11	08	Liverpool Mercury	1822.11.08_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+338	499	497	1822	11	09	Jackson’s Oxford Journal	1822.11.09_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+286	367	369	1822	11	09	Jackson’s Oxford Journal	1822.11.09_Jackson'sOxfordJournal_0002	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+525	753	751	1822	11	09	Jackson’s Oxford Journal	1822.11.09_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+732	1065	1042	1822	11	09	Jackson’s Oxford Journal	1822.11.09_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+602	880	871	1822	11	09	Jackson’s Oxford Journal	1822.11.09_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+604	888	860	1822	11	09	Jackson’s Oxford Journal	1822.11.09_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+305	419	414	1822	11	09	Jackson’s Oxford Journal	1822.11.09_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+404	668	665	1822	11	09	Jackson’s Oxford Journal	1822.11.09_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+435	639	624	1822	11	15	Liverpool Mercury	1822.11.15_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+280	411	407	1822	11	15	Liverpool Mercury	1822.11.15_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+424	562	566	1822	11	15	Liverpool Mercury	1822.11.15_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+623	903	894	1822	11	16	Jackson’s Oxford Journal	1822.11.16_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+682	998	988	1822	11	16	Jackson’s Oxford Journal	1822.11.16_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+542	817	830	1822	11	16	Jackson’s Oxford Journal	1822.11.16_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+565	816	818	1822	11	16	Jackson’s Oxford Journal	1822.11.16_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+338	454	448	1822	11	16	Jackson’s Oxford Journal	1822.11.16_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+367	563	569	1822	11	16	Jackson’s Oxford Journal	1822.11.16_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+234	387	381	1822	11	16	Leeds Mercury	1822.11.16_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+306	451	441	1822	11	22	Liverpool Mercury	1822.11.22_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+210	323	320	1822	11	22	Liverpool Mercury	1822.11.22_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+243	361	358	1822	11	22	Liverpool Mercury	1822.11.22_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+349	505	511	1822	11	22	Liverpool Mercury	1822.11.22_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+245	344	343	1822	11	23	Jackson’s Oxford Journal	1822.11.23_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+259	361	366	1822	11	23	Jackson’s Oxford Journal	1822.11.23_Jackson'sOxfordJournal_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+380	534	542	1822	11	23	Jackson’s Oxford Journal	1822.11.23_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+972	1258	1246	1822	11	23	Jackson’s Oxford Journal	1822.11.23_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+501	778	764	1822	11	23	Jackson’s Oxford Journal	1822.11.23_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+699	980	966	1822	11	23	Jackson’s Oxford Journal	1822.11.23_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+484	729	727	1822	11	23	Jackson’s Oxford Journal	1822.11.23_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+230	322	304	1822	11	23	Jackson’s Oxford Journal	1822.11.23_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+442	692	684	1822	11	23	Jackson’s Oxford Journal	1822.11.23_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+209	305	292	1822	11	29	Glasgow Herald	1822.11.29_GlasgowHerald_0003	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+307	450	446	1822	11	29	Liverpool Mercury	1822.11.29_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+200	314	312	1822	11	29	Liverpool Mercury	1822.11.29_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+231	348	344	1822	11	29	Liverpool Mercury	1822.11.29_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+320	476	469	1822	11	29	Liverpool Mercury	1822.11.29_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+425	686	680	1822	11	30	Jackson’s Oxford Journal	1822.11.30_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+582	885	872	1822	11	30	Jackson’s Oxford Journal	1822.11.30_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+486	762	766	1822	11	30	Jackson’s Oxford Journal	1822.11.30_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+422	644	639	1822	11	30	Jackson’s Oxford Journal	1822.11.30_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+219	290	291	1822	11	30	Jackson’s Oxford Journal	1822.11.30_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+389	607	612	1822	11	30	Jackson’s Oxford Journal	1822.11.30_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+223	378	364	1822	11	30	Leeds Mercury	1822.11.30_TheLeedsMercury_0001	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+243	333	332	1822	12	04	Derby Mercury	1822.12.04_TheDerbyMercury_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+288	433	427	1822	12	06	Liverpool Mercury	1822.12.06_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+213	319	319	1822	12	06	Liverpool Mercury	1822.12.06_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+242	385	377	1822	12	06	Liverpool Mercury	1822.12.06_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+331	513	510	1822	12	06	Liverpool Mercury	1822.12.06_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+203	312	294	1822	12	07	Caledonian Mercury	1822.12.07_CaledonianMercury_0003	1822	06	01	Caledonian Mercury	1822.06.01_CaledonianMercury_0003
+267	307	304	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+205	336	332	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+207	279	280	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0001	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+230	293	286	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+214	270	272	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0002	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+1156	1534	1530	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+650	983	965	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+650	999	990	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+555	837	823	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+343	448	440	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+458	714	710	1822	12	07	Jackson’s Oxford Journal	1822.12.07_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+234	351	347	1822	12	13	Liverpool Mercury	1822.12.13_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+225	341	341	1822	12	13	Liverpool Mercury	1822.12.13_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+281	371	373	1822	12	14	Jackson’s Oxford Journal	1822.12.14_Jackson'sOxfordJournal_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+280	379	387	1822	12	14	Jackson’s Oxford Journal	1822.12.14_Jackson'sOxfordJournal_0001	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+258	426	415	1822	12	14	Jackson’s Oxford Journal	1822.12.14_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+254	418	414	1822	12	14	Jackson’s Oxford Journal	1822.12.14_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+209	349	352	1822	12	14	Jackson’s Oxford Journal	1822.12.14_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+249	405	404	1822	12	14	Jackson’s Oxford Journal	1822.12.14_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+262	398	408	1822	12	20	Liverpool Mercury	1822.12.20_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+490	685	693	1822	12	21	Jackson’s Oxford Journal	1822.12.21_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+240	320	341	1822	12	21	Jackson’s Oxford Journal	1822.12.21_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+294	457	456	1822	12	21	Jackson’s Oxford Journal	1822.12.21_Jackson'sOxfordJournal_0002	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+389	508	536	1822	12	21	Jackson’s Oxford Journal	1822.12.21_Jackson'sOxfordJournal_0002	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+589	830	820	1822	12	21	Jackson’s Oxford Journal	1822.12.21_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+690	949	938	1822	12	21	Jackson’s Oxford Journal	1822.12.21_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+534	782	783	1822	12	21	Jackson’s Oxford Journal	1822.12.21_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+488	712	710	1822	12	21	Jackson’s Oxford Journal	1822.12.21_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+285	398	397	1822	12	21	Jackson’s Oxford Journal	1822.12.21_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+340	521	532	1822	12	21	Jackson’s Oxford Journal	1822.12.21_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+202	323	309	1822	12	27	Liverpool Mercury	1822.12.27_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+285	429	422	1822	12	27	Liverpool Mercury	1822.12.27_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+208	333	322	1822	12	28	Jackson’s Oxford Journal	1822.12.28_Jackson'sOxfordJournal_0001	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0001
+217	267	283	1822	12	28	Jackson’s Oxford Journal	1822.12.28_Jackson'sOxfordJournal_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+495	699	693	1822	12	28	Jackson’s Oxford Journal	1822.12.28_Jackson'sOxfordJournal_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+553	792	788	1822	12	28	Jackson’s Oxford Journal	1822.12.28_Jackson'sOxfordJournal_0004	1822	06	08	Jackson’s Oxford Journal	1822.06.08_Jackson'sOxfordJournal_0004
+478	709	713	1822	12	28	Jackson’s Oxford Journal	1822.12.28_Jackson'sOxfordJournal_0004	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0004
+417	628	626	1822	12	28	Jackson’s Oxford Journal	1822.12.28_Jackson'sOxfordJournal_0004	1822	06	22	Jackson’s Oxford Journal	1822.06.22_Jackson'sOxfordJournal_0004
+212	290	292	1822	12	28	Jackson’s Oxford Journal	1822.12.28_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0002
+376	562	567	1822	12	28	Jackson’s Oxford Journal	1822.12.28_Jackson'sOxfordJournal_0004	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0004
+202	335	318	1822	12	28	Leeds Mercury	1822.12.28_TheLeedsMercury_0001	1822	06	29	Leeds Mercury	1822.06.29_TheLeedsMercury_0002
+238	356	348	1822	12	28	Leeds Mercury	1822.12.28_TheLeedsMercury_0002	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+259	454	445	1822	12	28	Leeds Mercury	1822.12.28_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+291	402	395	1822	12	30	Glasgow Herald	1822.12.30_GlasgowHerald_0004	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+211	293	287	1822	12	30	Glasgow Herald	1822.12.30_GlasgowHerald_0004	1822	06	28	Glasgow Herald	1822.06.28_GlasgowHerald_0004
+272	406	401	1823	01	01	Derby Mercury	1823.01.01_TheDerbyMercury_0001	1822	06	01	Jackson’s Oxford Journal	1822.06.01_Jackson'sOxfordJournal_0004
+212	299	291	1823	01	01	Derby Mercury	1823.01.01_TheDerbyMercury_0001	1822	06	29	Jackson’s Oxford Journal	1822.06.29_Jackson'sOxfordJournal_0001
+246	370	364	1823	01	03	Liverpool Mercury	1823.01.03_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+201	310	308	1823	01	03	Liverpool Mercury	1823.01.03_LiverpoolMercuryetc_0004	1822	06	14	Liverpool Mercury	1822.06.14_LiverpoolMercuryetc_0004
+241	354	360	1823	01	03	Liverpool Mercury	1823.01.03_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+315	470	465	1823	01	03	Liverpool Mercury	1823.01.03_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+289	475	467	1823	01	10	Liverpool Mercury	1823.01.10_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+324	498	498	1823	01	10	Liverpool Mercury	1823.01.10_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+281	458	442	1823	01	18	Leeds Mercury	1823.01.18_TheLeedsMercury_0004	1822	06	08	Leeds Mercury	1822.06.08_TheLeedsMercury_0004
+233	383	387	1823	01	18	Leeds Mercury	1823.01.18_TheLeedsMercury_0004	1822	06	22	Leeds Mercury	1822.06.22_TheLeedsMercury_0004
+243	374	372	1823	01	24	Liverpool Mercury	1823.01.24_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+229	337	340	1823	01	24	Liverpool Mercury	1823.01.24_LiverpoolMercuryetc_0004	1822	06	21	Liverpool Mercury	1822.06.21_LiverpoolMercuryetc_0004
+281	408	421	1823	01	24	Liverpool Mercury	1823.01.24_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004
+214	288	298	1823	01	29	Derby Mercury	1823.01.29_TheDerbyMercury_0001	1822	06	15	Jackson’s Oxford Journal	1822.06.15_Jackson'sOxfordJournal_0002
+313	478	470	1823	01	31	Liverpool Mercury	1823.01.31_LiverpoolMercuryetc_0004	1822	06	07	Liverpool Mercury	1822.06.07_LiverpoolMercuryetc_0004
+353	523	518	1823	01	31	Liverpool Mercury	1823.01.31_LiverpoolMercuryetc_0004	1822	06	28	Liverpool Mercury	1822.06.28_LiverpoolMercuryetc_0004

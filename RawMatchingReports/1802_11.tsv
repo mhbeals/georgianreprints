@@ -1,0 +1,686 @@
+
+312	464	489	1802	11	04	Derby Mercury	1802.11.04_TheDerbyMercury_0003	1802	11	01	Caledonian Mercury	1802.11.01_CaledonianMercury_0002
+226	372	395	1802	11	04	Derby Mercury	1802.11.04_TheDerbyMercury_0003	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+267	425	447	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0002
+355	564	567	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0004	1802	11	01	Morning Chronicle	1802.11.01_TheMorningChronicle_0002
+678	980	986	1802	11	06	Caledonian Mercury	1802.11.06_CaledonianMercury_0001	1802	11	04	Caledonian Mercury	1802.11.04_CaledonianMercury_0001
+496	742	781	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0003
+307	440	466	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0004
+232	375	366	1802	11	06	Morning Chronicle	1802.11.06_TheMorningChronicle_0001	1802	11	04	Morning Chronicle	1802.11.04_TheMorningChronicle_0001
+507	852	879	1802	11	06	Morning Chronicle	1802.11.06_TheMorningChronicle_0004	1802	11	03	Morning Chronicle	1802.11.03_TheMorningChronicle_0004
+373	596	568	1802	11	08	Caledonian Mercury	1802.11.08_CaledonianMercury_0001	1802	11	04	Caledonian Mercury	1802.11.04_CaledonianMercury_0001
+511	821	811	1802	11	08	Caledonian Mercury	1802.11.08_CaledonianMercury_0001	1802	11	06	Caledonian Mercury	1802.11.06_CaledonianMercury_0001
+409	631	641	1802	11	08	Caledonian Mercury	1802.11.08_CaledonianMercury_0002	1802	11	05	Morning Chronicle	1802.11.05_TheMorningChronicle_0002
+321	522	509	1802	11	08	Caledonian Mercury	1802.11.08_CaledonianMercury_0002	1802	11	06	Morning Chronicle	1802.11.06_TheMorningChronicle_0002
+799	1295	1319	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0001
+201	338	355	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0002
+201	281	274	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0002	1802	11	06	Caledonian Mercury	1802.11.06_CaledonianMercury_0002
+652	1031	1027	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+277	419	402	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+281	488	484	1802	11	09	Morning Chronicle	1802.11.09_TheMorningChronicle_0004	1802	11	05	Morning Chronicle	1802.11.05_TheMorningChronicle_0004
+214	336	340	1802	11	10	Aberdeen Journal	1802.11.10_TheAberdeenJournal_0002	1802	11	06	Caledonian Mercury	1802.11.06_CaledonianMercury_0003
+518	862	923	1802	11	10	Morning Chronicle	1802.11.10_TheMorningChronicle_0004	1802	11	03	Morning Chronicle	1802.11.03_TheMorningChronicle_0004
+702	1208	1232	1802	11	10	Morning Chronicle	1802.11.10_TheMorningChronicle_0004	1802	11	06	Morning Chronicle	1802.11.06_TheMorningChronicle_0004
+273	405	400	1802	11	11	Caledonian Mercury	1802.11.11_CaledonianMercury_0002	1802	11	09	Morning Chronicle	1802.11.09_TheMorningChronicle_0002
+377	542	563	1802	11	11	Derby Mercury	1802.11.11_TheDerbyMercury_0002	1802	11	08	Caledonian Mercury	1802.11.08_CaledonianMercury_0002
+245	376	380	1802	11	11	Derby Mercury	1802.11.11_TheDerbyMercury_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0003
+209	341	341	1802	11	11	Derby Mercury	1802.11.11_TheDerbyMercury_0003	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+297	472	467	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0002	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0001
+607	946	946	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0002	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0003
+727	1154	1109	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+228	366	363	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0003
+258	404	378	1802	11	13	Caledonian Mercury	1802.11.13_CaledonianMercury_0002	1802	11	10	Morning Chronicle	1802.11.10_TheMorningChronicle_0002
+958	1209	1203	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+804	1171	1174	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0002
+341	516	519	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001	1802	11	09	Morning Chronicle	1802.11.09_TheMorningChronicle_0002
+216	343	332	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0002	1802	11	10	Morning Chronicle	1802.11.10_TheMorningChronicle_0003
+239	412	405	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0002	1802	11	12	Morning Chronicle	1802.11.12_TheMorningChronicle_0003
+200	283	303	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0002	1802	11	13	Caledonian Mercury	1802.11.13_CaledonianMercury_0002
+902	1312	1312	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0003
+253	424	428	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004	1802	11	11	Derby Mercury	1802.11.11_TheDerbyMercury_0003
+273	377	395	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004	1802	11	13	Caledonian Mercury	1802.11.13_CaledonianMercury_0002
+455	732	724	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0001	1802	11	06	Ipswich Journal	1802.11.06_TheIpswichJournal_0001
+612	1028	1024	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0001	1802	11	06	Ipswich Journal	1802.11.06_TheIpswichJournal_0003
+307	496	482	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0003	1802	11	06	Ipswich Journal	1802.11.06_TheIpswichJournal_0003
+558	900	948	1802	11	13	Morning Chronicle	1802.11.13_TheMorningChronicle_0004	1802	11	03	Morning Chronicle	1802.11.03_TheMorningChronicle_0004
+628	1043	1059	1802	11	13	Morning Chronicle	1802.11.13_TheMorningChronicle_0004	1802	11	06	Morning Chronicle	1802.11.06_TheMorningChronicle_0004
+1131	1913	1910	1802	11	13	Morning Chronicle	1802.11.13_TheMorningChronicle_0004	1802	11	10	Morning Chronicle	1802.11.10_TheMorningChronicle_0004
+230	366	354	1802	11	15	Caledonian Mercury	1802.11.15_CaledonianMercury_0001	1802	11	01	Caledonian Mercury	1802.11.01_CaledonianMercury_0001
+466	724	713	1802	11	15	Caledonian Mercury	1802.11.15_CaledonianMercury_0002	1802	11	11	Morning Chronicle	1802.11.11_TheMorningChronicle_0002
+329	491	482	1802	11	15	Caledonian Mercury	1802.11.15_CaledonianMercury_0002	1802	11	13	Morning Chronicle	1802.11.13_TheMorningChronicle_0002
+793	1175	1188	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0001
+1032	1596	1579	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+807	1248	1229	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0003
+290	434	415	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002	1802	11	11	Morning Chronicle	1802.11.11_TheMorningChronicle_0002
+353	487	507	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002	1802	11	13	Caledonian Mercury	1802.11.13_CaledonianMercury_0002
+1164	1667	1642	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0002
+382	533	525	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002	1802	11	15	Caledonian Mercury	1802.11.15_CaledonianMercury_0002
+226	351	354	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0003	1802	11	15	Caledonian Mercury	1802.11.15_CaledonianMercury_0002
+479	740	736	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+507	773	766	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+322	576	574	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004	1802	11	11	Derby Mercury	1802.11.11_TheDerbyMercury_0003
+259	399	415	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004	1802	11	13	Caledonian Mercury	1802.11.13_CaledonianMercury_0002
+472	651	638	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+226	330	320	1802	11	17	Aberdeen Journal	1802.11.17_TheAberdeenJournal_0003	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002
+294	473	460	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0002
+512	725	715	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0002	1802	11	13	Morning Chronicle	1802.11.13_TheMorningChronicle_0002
+347	513	517	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0002	1802	11	15	Caledonian Mercury	1802.11.15_CaledonianMercury_0002
+220	373	365	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0002
+243	415	422	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0004	1802	11	11	Derby Mercury	1802.11.11_TheDerbyMercury_0001
+263	457	453	1802	11	18	Trewman’s Exeter Flying Post	1802.11.18_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+341	609	619	1802	11	18	Trewman’s Exeter Flying Post	1802.11.18_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+286	454	452	1802	11	19	Morning Chronicle	1802.11.19_TheMorningChronicle_0004	1802	11	10	Morning Chronicle	1802.11.10_TheMorningChronicle_0004
+307	489	482	1802	11	20	Caledonian Mercury	1802.11.20_CaledonianMercury_0001	1802	11	06	Caledonian Mercury	1802.11.06_CaledonianMercury_0001
+223	366	377	1802	11	20	Caledonian Mercury	1802.11.20_CaledonianMercury_0001	1802	11	11	Caledonian Mercury	1802.11.11_CaledonianMercury_0001
+254	437	429	1802	11	20	Caledonian Mercury	1802.11.20_CaledonianMercury_0001	1802	11	15	Caledonian Mercury	1802.11.15_CaledonianMercury_0001
+201	323	311	1802	11	20	Caledonian Mercury	1802.11.20_CaledonianMercury_0002	1802	11	17	Morning Chronicle	1802.11.17_TheMorningChronicle_0002
+723	915	916	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+366	546	543	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0002
+841	1114	1104	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001
+937	1247	1232	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+254	356	365	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001	1802	11	18	Caledonian Mercury	1802.11.18_CaledonianMercury_0003
+268	421	422	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0004
+268	361	368	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0002	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0003
+201	348	344	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0002	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0004
+393	608	600	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0002	1802	11	18	Morning Chronicle	1802.11.18_TheMorningChronicle_0002
+204	340	334	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0003	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0003
+680	1058	1048	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0003	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+329	422	420	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+221	347	340	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0002
+273	382	369	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004	1802	11	13	Morning Chronicle	1802.11.13_TheMorningChronicle_0003
+236	384	365	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+356	545	549	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0001	1802	11	06	Ipswich Journal	1802.11.06_TheIpswichJournal_0001
+282	443	441	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0001	1802	11	06	Ipswich Journal	1802.11.06_TheIpswichJournal_0003
+542	884	892	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0001	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0001
+785	1231	1274	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0001	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0003
+205	334	342	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+207	369	366	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0004	1802	11	16	Morning Chronicle	1802.11.16_TheMorningChronicle_0003
+242	402	425	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0004	1802	11	03	Morning Chronicle	1802.11.03_TheMorningChronicle_0004
+264	457	461	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0004	1802	11	06	Morning Chronicle	1802.11.06_TheMorningChronicle_0004
+540	913	916	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0004	1802	11	10	Morning Chronicle	1802.11.10_TheMorningChronicle_0004
+476	776	775	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0004	1802	11	13	Morning Chronicle	1802.11.13_TheMorningChronicle_0004
+438	649	670	1802	11	22	Caledonian Mercury	1802.11.22_CaledonianMercury_0001	1802	11	20	Caledonian Mercury	1802.11.20_CaledonianMercury_0001
+377	577	592	1802	11	22	Caledonian Mercury	1802.11.22_CaledonianMercury_0002	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0002
+362	484	469	1802	11	22	Caledonian Mercury	1802.11.22_CaledonianMercury_0004	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+465	644	647	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0001
+587	912	909	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+371	619	616	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0003
+1500	2116	2121	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0001
+464	705	686	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0003
+320	566	555	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0004
+354	604	593	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0002
+238	375	386	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002
+270	399	397	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0002	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0002
+459	664	650	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0002	1802	11	22	Caledonian Mercury	1802.11.22_CaledonianMercury_0002
+588	893	889	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+202	352	341	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004	1802	11	04	Derby Mercury	1802.11.04_TheDerbyMercury_0003
+619	942	931	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+571	827	817	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+216	360	352	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004	1802	11	16	Morning Chronicle	1802.11.16_TheMorningChronicle_0003
+261	329	330	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+416	623	617	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004	1802	11	22	Caledonian Mercury	1802.11.22_CaledonianMercury_0004
+275	469	472	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+206	371	377	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001	1802	11	03	Aberdeen Journal	1802.11.03_TheAberdeenJournal_0001
+277	436	425	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+702	1098	1090	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001	1802	11	10	Aberdeen Journal	1802.11.10_TheAberdeenJournal_0001
+284	460	455	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+432	708	713	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001	1802	11	17	Aberdeen Journal	1802.11.17_TheAberdeenJournal_0001
+358	557	545	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+229	359	357	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0002	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+452	663	628	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0003	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0002
+228	387	375	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0003	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0002
+448	723	737	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0003	1802	11	18	Caledonian Mercury	1802.11.18_CaledonianMercury_0002
+235	343	333	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0003	1802	11	18	Caledonian Mercury	1802.11.18_CaledonianMercury_0003
+218	348	343	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0003	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0002
+367	568	574	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0003	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0002
+347	567	576	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0001	1802	11	22	Caledonian Mercury	1802.11.22_CaledonianMercury_0001
+372	507	511	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0002	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0002
+286	431	426	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0003	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0002
+236	369	361	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0001	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0001
+334	519	527	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0002
+218	361	370	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0003	1802	11	06	Cobbett’s Weekly Political Register	1802.11.06_Cobbett'sAnnualRegister_0005
+254	402	398	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0002	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0002
+300	450	467	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0002	1802	11	22	Caledonian Mercury	1802.11.22_CaledonianMercury_0002
+308	485	482	1802	11	26	Morning Chronicle	1802.11.26_TheMorningChronicle_0002	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0001
+360	512	551	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0001	1802	11	20	Caledonian Mercury	1802.11.20_CaledonianMercury_0001
+386	533	539	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0001	1802	11	22	Caledonian Mercury	1802.11.22_CaledonianMercury_0001
+387	605	590	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0001	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0001
+249	395	389	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0002	1802	11	24	Morning Chronicle	1802.11.24_TheMorningChronicle_0001
+242	361	360	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0002	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0004
+208	364	357	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0002	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0004
+354	448	452	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+379	480	480	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001
+449	554	531	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+430	533	531	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+914	1177	1150	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+471	666	667	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0002
+423	567	570	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0003
+238	389	382	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0001
+338	504	504	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+461	659	698	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0002
+242	316	322	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0003
+249	329	329	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0002
+307	490	483	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002	1802	11	24	Morning Chronicle	1802.11.24_TheMorningChronicle_0001
+253	381	384	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0004
+231	405	391	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0004
+390	540	533	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0002
+243	353	337	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0003	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+689	1028	1021	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0003	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0003
+386	545	545	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+207	335	334	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004
+1034	1341	1358	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0002
+235	353	347	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+394	624	610	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0003
+203	301	297	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0001	1802	11	06	Ipswich Journal	1802.11.06_TheIpswichJournal_0001
+263	398	394	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0001	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0001
+263	464	460	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0001	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0004
+501	705	695	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0001	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0001
+1240	1785	1780	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0001	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0003
+367	607	618	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+231	350	364	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+349	532	561	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0003	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0003
+206	330	321	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0004	1802	11	24	Morning Chronicle	1802.11.24_TheMorningChronicle_0001
+211	347	344	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0004
+325	504	491	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0004	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0002
+340	512	507	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+261	375	355	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+461	758	759	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004	1802	11	10	Morning Chronicle	1802.11.10_TheMorningChronicle_0004
+436	709	701	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004	1802	11	13	Morning Chronicle	1802.11.13_TheMorningChronicle_0004
+936	1447	1425	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0004
+340	559	562	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004	1802	11	26	Morning Chronicle	1802.11.26_TheMorningChronicle_0004
+327	498	475	1802	11	29	Caledonian Mercury	1802.11.29_CaledonianMercury_0001	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0001
+257	397	413	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0001
+210	368	369	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+358	563	551	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0001	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0001
+670	1046	1058	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+211	378	381	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0003
+356	511	496	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+372	568	555	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+300	448	459	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002
+469	724	702	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+282	499	492	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0004
+344	561	572	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+500	722	703	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+376	546	541	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0002
+227	389	399	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0003
+218	347	340	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0004
+377	521	513	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+290	514	514	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0001
+231	348	346	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0003	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0003
+227	372	366	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0002
+260	421	405	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+215	336	323	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004	1802	11	24	Morning Chronicle	1802.11.24_TheMorningChronicle_0001
+200	317	306	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0004
+309	443	429	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0002
+312	443	423	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+377	602	587	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0004
+279	452	470	1802	11	29	Morning Chronicle	1802.11.29_TheMorningChronicle_0004	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004
+815	1271	1292	1802	12	01	Aberdeen Journal	1802.12.01_TheAberdeenJournal_0001	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+768	1128	1158	1802	12	01	Aberdeen Journal	1802.12.01_TheAberdeenJournal_0001	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0004
+218	346	342	1802	12	01	Aberdeen Journal	1802.12.01_TheAberdeenJournal_0002	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+252	380	369	1802	12	01	Aberdeen Journal	1802.12.01_TheAberdeenJournal_0002	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+361	530	544	1802	12	01	Aberdeen Journal	1802.12.01_TheAberdeenJournal_0002	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+257	426	412	1802	12	01	Aberdeen Journal	1802.12.01_TheAberdeenJournal_0002	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0002
+349	527	507	1802	12	01	Aberdeen Journal	1802.12.01_TheAberdeenJournal_0002	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0003
+261	404	387	1802	12	01	Aberdeen Journal	1802.12.01_TheAberdeenJournal_0003	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0002
+433	670	660	1802	12	01	Aberdeen Journal	1802.12.01_TheAberdeenJournal_0003	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0003
+244	376	365	1802	12	02	Caledonian Mercury	1802.12.02_CaledonianMercury_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0002
+246	361	357	1802	12	02	Caledonian Mercury	1802.12.02_CaledonianMercury_0001	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0003
+289	445	427	1802	12	02	Caledonian Mercury	1802.12.02_CaledonianMercury_0001	1802	11	27	Caledonian Mercury	1802.11.27_CaledonianMercury_0001
+221	381	372	1802	12	02	Caledonian Mercury	1802.12.02_CaledonianMercury_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+205	314	326	1802	12	02	Derby Mercury	1802.12.02_TheDerbyMercury_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+215	367	374	1802	12	02	Derby Mercury	1802.12.02_TheDerbyMercury_0002	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0002
+231	377	373	1802	12	02	Derby Mercury	1802.12.02_TheDerbyMercury_0002	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+249	428	436	1802	12	02	Derby Mercury	1802.12.02_TheDerbyMercury_0003	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+231	396	396	1802	12	02	Derby Mercury	1802.12.02_TheDerbyMercury_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+257	404	414	1802	12	02	Morning Chronicle	1802.12.02_TheMorningChronicle_0001	1802	11	04	Morning Chronicle	1802.11.04_TheMorningChronicle_0001
+290	456	449	1802	12	02	Morning Chronicle	1802.12.02_TheMorningChronicle_0004	1802	11	26	Morning Chronicle	1802.11.26_TheMorningChronicle_0004
+329	511	507	1802	12	02	Morning Chronicle	1802.12.02_TheMorningChronicle_0004	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004
+263	466	450	1802	12	02	Morning Chronicle	1802.12.02_TheMorningChronicle_0004	1802	11	29	Morning Chronicle	1802.11.29_TheMorningChronicle_0004
+295	433	437	1802	12	02	Trewman’s Exeter Flying Post	1802.12.02_Trewman'sExeterFlyingPost_0001	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+257	417	415	1802	12	02	Trewman’s Exeter Flying Post	1802.12.02_Trewman'sExeterFlyingPost_0001	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+297	469	448	1802	12	02	Trewman’s Exeter Flying Post	1802.12.02_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+599	966	976	1802	12	02	Trewman’s Exeter Flying Post	1802.12.02_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+232	369	373	1802	12	02	Trewman’s Exeter Flying Post	1802.12.02_Trewman'sExeterFlyingPost_0003	1802	11	18	Trewman’s Exeter Flying Post	1802.11.18_Trewman'sExeterFlyingPost_0003
+326	567	545	1802	12	02	Trewman’s Exeter Flying Post	1802.12.02_Trewman'sExeterFlyingPost_0003	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0001
+208	356	365	1802	12	02	Trewman’s Exeter Flying Post	1802.12.02_Trewman'sExeterFlyingPost_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+267	381	396	1802	12	04	Caledonian Mercury	1802.12.04_CaledonianMercury_0001	1802	11	20	Caledonian Mercury	1802.11.20_CaledonianMercury_0001
+311	430	425	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+291	379	374	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+289	372	363	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001
+259	345	341	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+233	332	333	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+732	990	949	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+275	429	408	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+742	916	895	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+591	819	781	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+389	544	533	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0003
+248	308	303	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+230	312	307	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0002	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+203	297	290	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0002	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0003
+251	352	368	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0002	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0003
+565	818	840	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0003
+475	644	641	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0004	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+386	531	526	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0004	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004
+246	387	383	1802	12	04	Jackson’s Oxford Journal	1802.12.04_Jackson'sOxfordJournal_0004	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0002
+224	357	351	1802	12	04	Ipswich Journal	1802.12.04_TheIpswichJournal_0001	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0003
+423	630	620	1802	12	04	Ipswich Journal	1802.12.04_TheIpswichJournal_0001	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0001
+868	1478	1472	1802	12	04	Ipswich Journal	1802.12.04_TheIpswichJournal_0001	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0003
+329	543	512	1802	12	04	Morning Chronicle	1802.12.04_TheMorningChronicle_0004	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0004
+430	713	684	1802	12	04	Morning Chronicle	1802.12.04_TheMorningChronicle_0004	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004
+234	361	348	1802	12	06	Caledonian Mercury	1802.12.06_CaledonianMercury_0001	1802	11	01	Caledonian Mercury	1802.11.01_CaledonianMercury_0001
+359	577	550	1802	12	06	Caledonian Mercury	1802.12.06_CaledonianMercury_0001	1802	11	22	Caledonian Mercury	1802.11.22_CaledonianMercury_0001
+436	649	640	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0001
+258	451	460	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0002
+585	945	939	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+393	579	581	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0001	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0001
+497	734	743	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+752	1200	1193	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0001	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0001
+272	419	431	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0001	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+277	425	434	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002
+592	907	931	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+724	1050	1069	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+535	780	797	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0004	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+679	960	996	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0004	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+337	527	543	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0004	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+385	541	561	1802	12	06	Hampshire/Portsmouth Telegraph	1802.12.06_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002
+204	325	329	1802	12	06	Morning Chronicle	1802.12.06_TheMorningChronicle_0004	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004
+333	544	541	1802	12	07	Morning Chronicle	1802.12.07_TheMorningChronicle_0001	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0001
+246	382	382	1802	12	07	Morning Chronicle	1802.12.07_TheMorningChronicle_0002	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0003
+224	328	330	1802	12	07	Morning Chronicle	1802.12.07_TheMorningChronicle_0004	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0004
+283	461	440	1802	12	07	Morning Chronicle	1802.12.07_TheMorningChronicle_0004	1802	11	26	Morning Chronicle	1802.11.26_TheMorningChronicle_0004
+476	739	721	1802	12	07	Morning Chronicle	1802.12.07_TheMorningChronicle_0004	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004
+202	301	284	1802	12	08	Aberdeen Journal	1802.12.08_TheAberdeenJournal_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+464	708	731	1802	12	08	Aberdeen Journal	1802.12.08_TheAberdeenJournal_0001	1802	11	10	Aberdeen Journal	1802.11.10_TheAberdeenJournal_0001
+478	788	763	1802	12	08	Aberdeen Journal	1802.12.08_TheAberdeenJournal_0001	1802	11	17	Aberdeen Journal	1802.11.17_TheAberdeenJournal_0001
+207	316	303	1802	12	08	Aberdeen Journal	1802.12.08_TheAberdeenJournal_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+993	1452	1453	1802	12	08	Aberdeen Journal	1802.12.08_TheAberdeenJournal_0001	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+540	773	766	1802	12	08	Aberdeen Journal	1802.12.08_TheAberdeenJournal_0001	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0004
+223	349	356	1802	12	08	Aberdeen Journal	1802.12.08_TheAberdeenJournal_0001	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002
+223	356	359	1802	12	08	Aberdeen Journal	1802.12.08_TheAberdeenJournal_0002	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+315	510	505	1802	12	08	Morning Chronicle	1802.12.08_TheMorningChronicle_0004	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0004
+537	834	852	1802	12	08	Morning Chronicle	1802.12.08_TheMorningChronicle_0004	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004
+291	488	479	1802	12	09	Caledonian Mercury	1802.12.09_CaledonianMercury_0001	1802	11	25	Caledonian Mercury	1802.11.25_CaledonianMercury_0004
+342	526	532	1802	12	09	Trewman’s Exeter Flying Post	1802.12.09_Trewman'sExeterFlyingPost_0002	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+208	353	360	1802	12	09	Trewman’s Exeter Flying Post	1802.12.09_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+242	333	328	1802	12	11	Jackson’s Oxford Journal	1802.12.11_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+238	326	321	1802	12	11	Jackson’s Oxford Journal	1802.12.11_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001
+354	445	451	1802	12	11	Jackson’s Oxford Journal	1802.12.11_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+315	468	463	1802	12	11	Jackson’s Oxford Journal	1802.12.11_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+569	757	752	1802	12	11	Jackson’s Oxford Journal	1802.12.11_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+623	854	837	1802	12	11	Jackson’s Oxford Journal	1802.12.11_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+234	300	300	1802	12	11	Jackson’s Oxford Journal	1802.12.11_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+325	487	497	1802	12	11	Jackson’s Oxford Journal	1802.12.11_Jackson'sOxfordJournal_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0003
+416	668	686	1802	12	11	Ipswich Journal	1802.12.11_TheIpswichJournal_0001	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0003
+202	331	338	1802	12	11	Morning Chronicle	1802.12.11_TheMorningChronicle_0004	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004
+374	555	551	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0001
+480	788	756	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+500	746	713	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0001	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0001
+586	906	882	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+656	1051	1023	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0001	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0001
+204	330	321	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0001	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+432	678	682	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002
+225	386	368	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0002	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0002
+303	473	462	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0002	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002
+341	583	594	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+391	638	656	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+346	575	591	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0004	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+433	729	741	1802	12	13	Hampshire/Portsmouth Telegraph	1802.12.13_HampshireTelegraph&PortsmouthGazette_0004	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+225	377	381	1802	12	13	Morning Chronicle	1802.12.13_TheMorningChronicle_0003	1802	11	26	Morning Chronicle	1802.11.26_TheMorningChronicle_0004
+223	382	377	1802	12	13	Morning Chronicle	1802.12.13_TheMorningChronicle_0003	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004
+271	413	424	1802	12	14	Morning Chronicle	1802.12.14_TheMorningChronicle_0004	1802	11	20	Morning Chronicle	1802.11.20_TheMorningChronicle_0004
+347	563	582	1802	12	14	Morning Chronicle	1802.12.14_TheMorningChronicle_0004	1802	11	27	Morning Chronicle	1802.11.27_TheMorningChronicle_0004
+304	470	467	1802	12	15	Aberdeen Journal	1802.12.15_TheAberdeenJournal_0001	1802	11	10	Aberdeen Journal	1802.11.10_TheAberdeenJournal_0001
+579	821	815	1802	12	15	Aberdeen Journal	1802.12.15_TheAberdeenJournal_0001	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+201	333	337	1802	12	15	Aberdeen Journal	1802.12.15_TheAberdeenJournal_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+242	389	406	1802	12	15	Aberdeen Journal	1802.12.15_TheAberdeenJournal_0002	1802	11	17	Aberdeen Journal	1802.11.17_TheAberdeenJournal_0001
+255	407	425	1802	12	15	Aberdeen Journal	1802.12.15_TheAberdeenJournal_0002	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+440	748	769	1802	12	15	Aberdeen Journal	1802.12.15_TheAberdeenJournal_0002	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+285	427	463	1802	12	15	Aberdeen Journal	1802.12.15_TheAberdeenJournal_0004	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+279	430	430	1802	12	16	Derby Mercury	1802.12.16_TheDerbyMercury_0002	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0002
+289	440	422	1802	12	16	Derby Mercury	1802.12.16_TheDerbyMercury_0002	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+283	453	461	1802	12	16	Trewman’s Exeter Flying Post	1802.12.16_Trewman'sExeterFlyingPost_0002	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+300	472	484	1802	12	16	Trewman’s Exeter Flying Post	1802.12.16_Trewman'sExeterFlyingPost_0002	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+232	369	383	1802	12	16	Trewman’s Exeter Flying Post	1802.12.16_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0003
+214	351	353	1802	12	16	Trewman’s Exeter Flying Post	1802.12.16_Trewman'sExeterFlyingPost_0003	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+249	370	377	1802	12	16	Trewman’s Exeter Flying Post	1802.12.16_Trewman'sExeterFlyingPost_0003	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+207	329	334	1802	12	18	Jackson’s Oxford Journal	1802.12.18_Jackson'sOxfordJournal_0004	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+238	360	359	1802	12	18	Jackson’s Oxford Journal	1802.12.18_Jackson'sOxfordJournal_0004	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+225	337	341	1802	12	18	Jackson’s Oxford Journal	1802.12.18_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+263	359	385	1802	12	18	Ipswich Journal	1802.12.18_TheIpswichJournal_0003	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0003
+358	495	498	1802	12	18	Ipswich Journal	1802.12.18_TheIpswichJournal_0003	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0003
+272	450	445	1802	12	18	Ipswich Journal	1802.12.18_TheIpswichJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+273	443	445	1802	12	18	Ipswich Journal	1802.12.18_TheIpswichJournal_0004	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0004
+274	416	428	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0001
+553	843	881	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+220	365	364	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	04	Derby Mercury	1802.11.04_TheDerbyMercury_0003
+327	530	542	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+552	833	870	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+396	599	601	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0001
+492	753	778	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+317	448	471	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+537	790	815	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+288	456	477	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+236	388	395	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0001
+335	484	501	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0001	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002
+207	323	339	1802	12	20	Hampshire/Portsmouth Telegraph	1802.12.20_HampshireTelegraph&PortsmouthGazette_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002
+800	1245	1318	1802	12	22	Aberdeen Journal	1802.12.22_TheAberdeenJournal_0001	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+209	373	366	1802	12	22	Aberdeen Journal	1802.12.22_TheAberdeenJournal_0002	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+200	290	307	1802	12	22	Aberdeen Journal	1802.12.22_TheAberdeenJournal_0004	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+204	350	339	1802	12	23	Derby Mercury	1802.12.23_TheDerbyMercury_0002	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+302	449	454	1802	12	23	Trewman’s Exeter Flying Post	1802.12.23_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+277	486	485	1802	12	23	Trewman’s Exeter Flying Post	1802.12.23_Trewman'sExeterFlyingPost_0003	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0001
+269	412	419	1802	12	24	Ipswich Journal	1802.12.24_TheIpswichJournal_0003	1802	11	13	Ipswich Journal	1802.11.13_TheIpswichJournal_0003
+347	574	576	1802	12	24	Ipswich Journal	1802.12.24_TheIpswichJournal_0003	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0001
+234	268	265	1802	12	25	Jackson’s Oxford Journal	1802.12.25_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+257	337	341	1802	12	25	Jackson’s Oxford Journal	1802.12.25_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+330	378	380	1802	12	25	Jackson’s Oxford Journal	1802.12.25_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+223	346	353	1802	12	25	Jackson’s Oxford Journal	1802.12.25_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+346	456	448	1802	12	25	Jackson’s Oxford Journal	1802.12.25_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+265	393	413	1802	12	27	Hampshire/Portsmouth Telegraph	1802.12.27_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0001
+345	537	560	1802	12	27	Hampshire/Portsmouth Telegraph	1802.12.27_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+416	601	615	1802	12	27	Hampshire/Portsmouth Telegraph	1802.12.27_HampshireTelegraph&PortsmouthGazette_0001	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0001
+324	454	484	1802	12	27	Hampshire/Portsmouth Telegraph	1802.12.27_HampshireTelegraph&PortsmouthGazette_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+235	374	391	1802	12	27	Hampshire/Portsmouth Telegraph	1802.12.27_HampshireTelegraph&PortsmouthGazette_0001	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0001
+207	332	329	1802	12	29	Aberdeen Journal	1802.12.29_TheAberdeenJournal_0001	1802	11	17	Aberdeen Journal	1802.11.17_TheAberdeenJournal_0001
+229	364	352	1802	12	29	Aberdeen Journal	1802.12.29_TheAberdeenJournal_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+311	498	502	1802	12	29	Aberdeen Journal	1802.12.29_TheAberdeenJournal_0001	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+228	396	388	1802	12	30	Derby Mercury	1802.12.30_TheDerbyMercury_0002	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+268	432	435	1802	12	30	Derby Mercury	1802.12.30_TheDerbyMercury_0002	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+248	395	391	1802	12	30	Derby Mercury	1802.12.30_TheDerbyMercury_0003	1802	11	11	Derby Mercury	1802.11.11_TheDerbyMercury_0003
+704	1050	1093	1802	12	30	Derby Mercury	1802.12.30_TheDerbyMercury_0003	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+217	358	355	1802	12	30	Derby Mercury	1802.12.30_TheDerbyMercury_0003	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004
+298	450	448	1802	12	30	Derby Mercury	1802.12.30_TheDerbyMercury_0003	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+222	377	358	1802	12	30	Derby Mercury	1802.12.30_TheDerbyMercury_0003	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0003
+233	336	332	1802	12	30	Trewman’s Exeter Flying Post	1802.12.30_Trewman'sExeterFlyingPost_0001	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+307	455	465	1802	12	30	Trewman’s Exeter Flying Post	1802.12.30_Trewman'sExeterFlyingPost_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+275	409	405	1802	12	30	Trewman’s Exeter Flying Post	1802.12.30_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+216	343	337	1802	12	30	Trewman’s Exeter Flying Post	1802.12.30_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0003
+380	592	598	1802	12	30	Trewman’s Exeter Flying Post	1802.12.30_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+239	324	316	1802	12	30	Trewman’s Exeter Flying Post	1802.12.30_Trewman'sExeterFlyingPost_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+224	309	308	1803	01	01	Jackson’s Oxford Journal	1803.01.01_Jackson'sOxfordJournal_0002	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+368	531	543	1803	01	01	Jackson’s Oxford Journal	1803.01.01_Jackson'sOxfordJournal_0002	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+222	288	304	1803	01	01	Jackson’s Oxford Journal	1803.01.01_Jackson'sOxfordJournal_0002	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+262	361	355	1803	01	01	Jackson’s Oxford Journal	1803.01.01_Jackson'sOxfordJournal_0004	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+209	315	319	1803	01	01	Jackson’s Oxford Journal	1803.01.01_Jackson'sOxfordJournal_0004	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+256	363	369	1803	01	01	Jackson’s Oxford Journal	1803.01.01_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+477	675	713	1803	01	03	Hampshire/Portsmouth Telegraph	1803.01.03_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+214	274	284	1803	01	03	Hampshire/Portsmouth Telegraph	1803.01.03_HampshireTelegraph&PortsmouthGazette_0004	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+487	750	795	1803	01	03	Hampshire/Portsmouth Telegraph	1803.01.03_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+261	368	381	1803	01	03	Hampshire/Portsmouth Telegraph	1803.01.03_HampshireTelegraph&PortsmouthGazette_0004	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+361	535	553	1803	01	03	Hampshire/Portsmouth Telegraph	1803.01.03_HampshireTelegraph&PortsmouthGazette_0004	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+288	456	467	1803	01	05	Aberdeen Journal	1803.01.05_TheAberdeenJournal_0002	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+310	494	499	1803	01	05	Aberdeen Journal	1803.01.05_TheAberdeenJournal_0002	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+337	513	521	1803	01	05	Aberdeen Journal	1803.01.05_TheAberdeenJournal_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+223	361	367	1803	01	05	Aberdeen Journal	1803.01.05_TheAberdeenJournal_0002	1802	11	17	Aberdeen Journal	1802.11.17_TheAberdeenJournal_0001
+352	521	521	1803	01	05	Aberdeen Journal	1803.01.05_TheAberdeenJournal_0002	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+449	687	705	1803	01	05	Aberdeen Journal	1803.01.05_TheAberdeenJournal_0002	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+260	415	419	1803	01	06	Derby Mercury	1803.01.06_TheDerbyMercury_0002	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0002
+266	435	424	1803	01	06	Derby Mercury	1803.01.06_TheDerbyMercury_0002	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+275	415	416	1803	01	06	Derby Mercury	1803.01.06_TheDerbyMercury_0003	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+207	305	316	1803	01	06	Derby Mercury	1803.01.06_TheDerbyMercury_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+280	390	404	1803	01	06	Derby Mercury	1803.01.06_TheDerbyMercury_0003	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+240	369	369	1803	01	06	Trewman’s Exeter Flying Post	1803.01.06_Trewman'sExeterFlyingPost_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+211	284	281	1803	01	08	Jackson’s Oxford Journal	1803.01.08_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+372	488	463	1803	01	08	Jackson’s Oxford Journal	1803.01.08_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+296	391	382	1803	01	08	Jackson’s Oxford Journal	1803.01.08_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+437	560	554	1803	01	08	Jackson’s Oxford Journal	1803.01.08_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+321	469	476	1803	01	08	Jackson’s Oxford Journal	1803.01.08_Jackson'sOxfordJournal_0002	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+220	336	335	1803	01	10	Hampshire/Portsmouth Telegraph	1803.01.10_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+338	532	542	1803	01	10	Hampshire/Portsmouth Telegraph	1803.01.10_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+297	456	465	1803	01	10	Hampshire/Portsmouth Telegraph	1803.01.10_HampshireTelegraph&PortsmouthGazette_0004	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+285	446	456	1803	01	10	Hampshire/Portsmouth Telegraph	1803.01.10_HampshireTelegraph&PortsmouthGazette_0004	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+210	348	352	1803	01	11	Hull Packet	1803.01.11_TheHullPacket_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+323	517	511	1803	01	13	Derby Mercury	1803.01.13_TheDerbyMercury_0002	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0002
+324	524	512	1803	01	13	Derby Mercury	1803.01.13_TheDerbyMercury_0002	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+262	436	430	1803	01	13	Derby Mercury	1803.01.13_TheDerbyMercury_0003	1802	11	11	Derby Mercury	1802.11.11_TheDerbyMercury_0003
+302	488	467	1803	01	13	Derby Mercury	1803.01.13_TheDerbyMercury_0003	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0003
+237	364	370	1803	01	13	Derby Mercury	1803.01.13_TheDerbyMercury_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+355	518	521	1803	01	15	Jackson’s Oxford Journal	1803.01.15_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+249	339	343	1803	01	15	Jackson’s Oxford Journal	1803.01.15_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001
+224	322	313	1803	01	15	Jackson’s Oxford Journal	1803.01.15_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+533	748	750	1803	01	15	Jackson’s Oxford Journal	1803.01.15_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+484	629	635	1803	01	15	Jackson’s Oxford Journal	1803.01.15_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+298	427	448	1803	01	15	Jackson’s Oxford Journal	1803.01.15_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+250	359	363	1803	01	15	Jackson’s Oxford Journal	1803.01.15_Jackson'sOxfordJournal_0004	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+220	394	379	1803	01	15	Jackson’s Oxford Journal	1803.01.15_Jackson'sOxfordJournal_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+514	757	774	1803	01	15	Jackson’s Oxford Journal	1803.01.15_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+293	410	397	1803	01	15	Ipswich Journal	1803.01.15_TheIpswichJournal_0001	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0001
+213	305	303	1803	01	15	Ipswich Journal	1803.01.15_TheIpswichJournal_0001	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0004
+241	389	386	1803	01	15	Ipswich Journal	1803.01.15_TheIpswichJournal_0001	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0004
+250	358	359	1803	01	17	Hampshire/Portsmouth Telegraph	1803.01.17_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0001
+250	396	394	1803	01	17	Hampshire/Portsmouth Telegraph	1803.01.17_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+351	536	530	1803	01	17	Hampshire/Portsmouth Telegraph	1803.01.17_HampshireTelegraph&PortsmouthGazette_0001	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0001
+289	415	419	1803	01	17	Hampshire/Portsmouth Telegraph	1803.01.17_HampshireTelegraph&PortsmouthGazette_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+722	1163	1173	1803	01	17	Hampshire/Portsmouth Telegraph	1803.01.17_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+636	1006	1007	1803	01	17	Hampshire/Portsmouth Telegraph	1803.01.17_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+527	814	802	1803	01	17	Hampshire/Portsmouth Telegraph	1803.01.17_HampshireTelegraph&PortsmouthGazette_0004	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+594	925	919	1803	01	17	Hampshire/Portsmouth Telegraph	1803.01.17_HampshireTelegraph&PortsmouthGazette_0004	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+302	492	498	1803	01	17	Hampshire/Portsmouth Telegraph	1803.01.17_HampshireTelegraph&PortsmouthGazette_0004	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+383	580	596	1803	01	17	Hampshire/Portsmouth Telegraph	1803.01.17_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002
+293	515	524	1803	01	19	Aberdeen Journal	1803.01.19_TheAberdeenJournal_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+208	362	354	1803	01	19	Aberdeen Journal	1803.01.19_TheAberdeenJournal_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+255	442	442	1803	01	19	Aberdeen Journal	1803.01.19_TheAberdeenJournal_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+421	708	715	1803	01	19	Aberdeen Journal	1803.01.19_TheAberdeenJournal_0001	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+281	443	424	1803	01	20	Derby Mercury	1803.01.20_TheDerbyMercury_0002	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+417	655	685	1803	01	20	Derby Mercury	1803.01.20_TheDerbyMercury_0003	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+316	495	477	1803	01	20	Derby Mercury	1803.01.20_TheDerbyMercury_0003	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+316	468	484	1803	01	20	Trewman’s Exeter Flying Post	1803.01.20_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0003
+209	348	330	1803	01	20	Trewman’s Exeter Flying Post	1803.01.20_Trewman'sExeterFlyingPost_0003	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0003
+254	372	353	1803	01	22	Jackson’s Oxford Journal	1803.01.22_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+241	363	365	1803	01	22	Jackson’s Oxford Journal	1803.01.22_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0002
+218	380	368	1803	01	22	Newcastle Courant	1803.01.22_TheNewcastleCourantetc_0003	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+243	360	384	1803	01	24	Hampshire/Portsmouth Telegraph	1803.01.24_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0002
+661	976	1017	1803	01	24	Hampshire/Portsmouth Telegraph	1803.01.24_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+292	451	467	1803	01	24	Hampshire/Portsmouth Telegraph	1803.01.24_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+701	1037	1069	1803	01	24	Hampshire/Portsmouth Telegraph	1803.01.24_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+604	875	899	1803	01	24	Hampshire/Portsmouth Telegraph	1803.01.24_HampshireTelegraph&PortsmouthGazette_0004	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+629	862	901	1803	01	24	Hampshire/Portsmouth Telegraph	1803.01.24_HampshireTelegraph&PortsmouthGazette_0004	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+297	447	461	1803	01	24	Hampshire/Portsmouth Telegraph	1803.01.24_HampshireTelegraph&PortsmouthGazette_0004	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+399	536	560	1803	01	24	Hampshire/Portsmouth Telegraph	1803.01.24_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002
+408	550	583	1803	01	24	Hampshire/Portsmouth Telegraph	1803.01.24_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+205	355	348	1803	01	26	Aberdeen Journal	1803.01.26_TheAberdeenJournal_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+278	481	472	1803	01	26	Aberdeen Journal	1803.01.26_TheAberdeenJournal_0001	1802	11	17	Aberdeen Journal	1802.11.17_TheAberdeenJournal_0001
+268	460	457	1803	01	26	Aberdeen Journal	1803.01.26_TheAberdeenJournal_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+466	769	764	1803	01	26	Aberdeen Journal	1803.01.26_TheAberdeenJournal_0001	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+224	365	349	1803	01	27	Derby Mercury	1803.01.27_TheDerbyMercury_0002	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+211	300	288	1803	01	27	Derby Mercury	1803.01.27_TheDerbyMercury_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+264	356	348	1803	01	27	Derby Mercury	1803.01.27_TheDerbyMercury_0003	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+267	439	425	1803	01	27	Trewman’s Exeter Flying Post	1803.01.27_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+235	361	356	1803	01	27	Trewman’s Exeter Flying Post	1803.01.27_Trewman'sExeterFlyingPost_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+251	324	326	1803	01	29	Jackson’s Oxford Journal	1803.01.29_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+255	331	330	1803	01	29	Jackson’s Oxford Journal	1803.01.29_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001
+413	607	596	1803	01	29	Jackson’s Oxford Journal	1803.01.29_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+323	459	462	1803	01	29	Jackson’s Oxford Journal	1803.01.29_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+203	317	324	1803	01	29	Jackson’s Oxford Journal	1803.01.29_Jackson'sOxfordJournal_0003	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+219	344	351	1803	01	31	Hampshire/Portsmouth Telegraph	1803.01.31_HampshireTelegraph&PortsmouthGazette_0002	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+440	701	688	1803	02	03	Derby Mercury	1803.02.03_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+341	559	555	1803	02	03	Derby Mercury	1803.02.03_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0003
+260	359	358	1803	02	05	Jackson’s Oxford Journal	1803.02.05_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+256	345	344	1803	02	05	Jackson’s Oxford Journal	1803.02.05_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001
+356	503	492	1803	02	05	Jackson’s Oxford Journal	1803.02.05_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+412	539	540	1803	02	05	Jackson’s Oxford Journal	1803.02.05_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+321	507	508	1803	02	05	Jackson’s Oxford Journal	1803.02.05_Jackson'sOxfordJournal_0004	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+360	578	575	1803	02	05	Jackson’s Oxford Journal	1803.02.05_Jackson'sOxfordJournal_0004	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+307	433	428	1803	02	05	Jackson’s Oxford Journal	1803.02.05_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+238	396	404	1803	02	05	Newcastle Courant	1803.02.05_TheNewcastleCourantetc_0003	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+213	343	361	1803	02	05	Newcastle Courant	1803.02.05_TheNewcastleCourantetc_0003	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+263	423	433	1803	02	07	Hampshire/Portsmouth Telegraph	1803.02.07_HampshireTelegraph&PortsmouthGazette_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002
+229	377	372	1803	02	07	Hampshire/Portsmouth Telegraph	1803.02.07_HampshireTelegraph&PortsmouthGazette_0002	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0002
+245	371	389	1803	02	07	Hampshire/Portsmouth Telegraph	1803.02.07_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+268	461	456	1803	02	10	Derby Mercury	1803.02.10_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+204	346	355	1803	02	10	Trewman’s Exeter Flying Post	1803.02.10_Trewman'sExeterFlyingPost_0002	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0003
+240	355	343	1803	02	10	Trewman’s Exeter Flying Post	1803.02.10_Trewman'sExeterFlyingPost_0003	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+203	303	314	1803	02	12	Jackson’s Oxford Journal	1803.02.12_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+210	289	293	1803	02	12	Jackson’s Oxford Journal	1803.02.12_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001
+309	473	485	1803	02	12	Jackson’s Oxford Journal	1803.02.12_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+363	527	547	1803	02	12	Jackson’s Oxford Journal	1803.02.12_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+218	336	341	1803	02	12	Jackson’s Oxford Journal	1803.02.12_Jackson'sOxfordJournal_0004	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004
+211	339	346	1803	02	17	Derby Mercury	1803.02.17_TheDerbyMercury_0002	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+223	347	341	1803	02	17	Trewman’s Exeter Flying Post	1803.02.17_Trewman'sExeterFlyingPost_0003	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+207	324	304	1803	02	17	Trewman’s Exeter Flying Post	1803.02.17_Trewman'sExeterFlyingPost_0003	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0003
+336	481	468	1803	02	19	Jackson’s Oxford Journal	1803.02.19_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+228	299	300	1803	02	19	Jackson’s Oxford Journal	1803.02.19_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001
+240	366	361	1803	02	19	Jackson’s Oxford Journal	1803.02.19_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+502	703	691	1803	02	19	Jackson’s Oxford Journal	1803.02.19_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+507	669	679	1803	02	19	Jackson’s Oxford Journal	1803.02.19_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+261	372	379	1803	02	19	Jackson’s Oxford Journal	1803.02.19_Jackson'sOxfordJournal_0004	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+493	697	699	1803	02	19	Jackson’s Oxford Journal	1803.02.19_Jackson'sOxfordJournal_0004	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+267	377	379	1803	02	19	Jackson’s Oxford Journal	1803.02.19_Jackson'sOxfordJournal_0004	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004
+276	449	448	1803	02	19	Jackson’s Oxford Journal	1803.02.19_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+233	377	399	1803	02	21	Hampshire/Portsmouth Telegraph	1803.02.21_HampshireTelegraph&PortsmouthGazette_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0002
+219	335	325	1803	02	24	Derby Mercury	1803.02.24_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+472	668	641	1803	02	24	Trewman’s Exeter Flying Post	1803.02.24_Trewman'sExeterFlyingPost_0002	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+308	448	460	1803	02	24	Trewman’s Exeter Flying Post	1803.02.24_Trewman'sExeterFlyingPost_0002	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+224	326	309	1803	02	24	Trewman’s Exeter Flying Post	1803.02.24_Trewman'sExeterFlyingPost_0002	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+267	405	412	1803	02	24	Trewman’s Exeter Flying Post	1803.02.24_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0003
+203	285	297	1803	02	24	Trewman’s Exeter Flying Post	1803.02.24_Trewman'sExeterFlyingPost_0003	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+291	430	410	1803	02	26	Jackson’s Oxford Journal	1803.02.26_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+216	287	277	1803	02	26	Jackson’s Oxford Journal	1803.02.26_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0001
+207	319	315	1803	02	26	Jackson’s Oxford Journal	1803.02.26_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+476	694	679	1803	02	26	Jackson’s Oxford Journal	1803.02.26_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+426	592	586	1803	02	26	Jackson’s Oxford Journal	1803.02.26_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+215	337	333	1803	02	26	Jackson’s Oxford Journal	1803.02.26_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+221	413	406	1803	02	26	Newcastle Courant	1803.02.26_TheNewcastleCourantetc_0003	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+201	273	280	1803	03	03	Trewman’s Exeter Flying Post	1803.03.03_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+307	451	453	1803	03	03	Trewman’s Exeter Flying Post	1803.03.03_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+228	312	314	1803	03	05	Jackson’s Oxford Journal	1803.03.05_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+228	311	313	1803	03	05	Jackson’s Oxford Journal	1803.03.05_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+417	547	546	1803	03	05	Jackson’s Oxford Journal	1803.03.05_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+258	299	299	1803	03	05	Jackson’s Oxford Journal	1803.03.05_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+272	392	400	1803	03	05	Jackson’s Oxford Journal	1803.03.05_Jackson'sOxfordJournal_0002	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+214	309	312	1803	03	05	Jackson’s Oxford Journal	1803.03.05_Jackson'sOxfordJournal_0002	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+311	400	405	1803	03	05	Jackson’s Oxford Journal	1803.03.05_Jackson'sOxfordJournal_0004	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+429	590	589	1803	03	05	Jackson’s Oxford Journal	1803.03.05_Jackson'sOxfordJournal_0004	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+243	363	367	1803	03	05	Jackson’s Oxford Journal	1803.03.05_Jackson'sOxfordJournal_0004	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004
+246	390	413	1803	03	07	Hampshire/Portsmouth Telegraph	1803.03.07_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0002
+299	468	475	1803	03	07	Hampshire/Portsmouth Telegraph	1803.03.07_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+348	510	529	1803	03	07	Hampshire/Portsmouth Telegraph	1803.03.07_HampshireTelegraph&PortsmouthGazette_0001	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+413	678	675	1803	03	10	Derby Mercury	1803.03.10_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+219	337	344	1803	03	10	Trewman’s Exeter Flying Post	1803.03.10_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+245	302	295	1803	03	12	Jackson’s Oxford Journal	1803.03.12_Jackson'sOxfordJournal_0004	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0004
+222	333	318	1803	03	12	Jackson’s Oxford Journal	1803.03.12_Jackson'sOxfordJournal_0004	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0004
+239	371	373	1803	03	12	Newcastle Courant	1803.03.12_TheNewcastleCourantetc_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+262	378	398	1803	03	14	Hampshire/Portsmouth Telegraph	1803.03.14_HampshireTelegraph&PortsmouthGazette_0001	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+203	295	313	1803	03	14	Hampshire/Portsmouth Telegraph	1803.03.14_HampshireTelegraph&PortsmouthGazette_0001	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+210	342	357	1803	03	14	Hampshire/Portsmouth Telegraph	1803.03.14_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0002
+244	377	382	1803	03	14	Hampshire/Portsmouth Telegraph	1803.03.14_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+344	488	513	1803	03	14	Hampshire/Portsmouth Telegraph	1803.03.14_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+207	335	330	1803	03	17	Derby Mercury	1803.03.17_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+244	322	322	1803	03	17	Trewman’s Exeter Flying Post	1803.03.17_Trewman'sExeterFlyingPost_0002	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+229	306	307	1803	03	17	Trewman’s Exeter Flying Post	1803.03.17_Trewman'sExeterFlyingPost_0002	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+335	446	438	1803	03	19	Jackson’s Oxford Journal	1803.03.19_Jackson'sOxfordJournal_0004	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+221	287	288	1803	03	19	Jackson’s Oxford Journal	1803.03.19_Jackson'sOxfordJournal_0004	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+408	492	490	1803	03	19	Jackson’s Oxford Journal	1803.03.19_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+206	330	348	1803	03	21	Hampshire/Portsmouth Telegraph	1803.03.21_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+283	403	428	1803	03	21	Hampshire/Portsmouth Telegraph	1803.03.21_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+225	378	373	1803	03	24	Derby Mercury	1803.03.24_TheDerbyMercury_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0002
+241	373	361	1803	03	24	Derby Mercury	1803.03.24_TheDerbyMercury_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+209	329	317	1803	03	24	Derby Mercury	1803.03.24_TheDerbyMercury_0004	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+274	456	450	1803	03	24	Derby Mercury	1803.03.24_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+247	352	357	1803	03	24	Derby Mercury	1803.03.24_TheDerbyMercury_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+204	311	316	1803	03	24	Trewman’s Exeter Flying Post	1803.03.24_Trewman'sExeterFlyingPost_0002	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+216	317	328	1803	03	24	Trewman’s Exeter Flying Post	1803.03.24_Trewman'sExeterFlyingPost_0002	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+238	401	395	1803	03	24	Trewman’s Exeter Flying Post	1803.03.24_Trewman'sExeterFlyingPost_0003	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+242	408	387	1803	03	24	Trewman’s Exeter Flying Post	1803.03.24_Trewman'sExeterFlyingPost_0003	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002
+280	326	326	1803	03	26	Jackson’s Oxford Journal	1803.03.26_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+211	350	374	1803	03	26	Newcastle Courant	1803.03.26_TheNewcastleCourantetc_0003	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+259	427	436	1803	03	26	Newcastle Courant	1803.03.26_TheNewcastleCourantetc_0003	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+244	400	417	1803	03	26	Newcastle Courant	1803.03.26_TheNewcastleCourantetc_0003	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+317	441	470	1803	03	26	Newcastle Courant	1803.03.26_TheNewcastleCourantetc_0003	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+277	446	458	1803	03	26	Newcastle Courant	1803.03.26_TheNewcastleCourantetc_0003	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+306	479	507	1803	03	26	Newcastle Courant	1803.03.26_TheNewcastleCourantetc_0003	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+296	482	487	1803	03	26	Newcastle Courant	1803.03.26_TheNewcastleCourantetc_0003	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0003
+308	493	505	1803	03	26	Newcastle Courant	1803.03.26_TheNewcastleCourantetc_0003	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002
+205	324	338	1803	03	28	Hampshire/Portsmouth Telegraph	1803.03.28_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+213	366	356	1803	03	28	Hampshire/Portsmouth Telegraph	1803.03.28_HampshireTelegraph&PortsmouthGazette_0004	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0004
+271	437	426	1803	03	28	Hampshire/Portsmouth Telegraph	1803.03.28_HampshireTelegraph&PortsmouthGazette_0004	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+344	562	556	1803	03	28	Hampshire/Portsmouth Telegraph	1803.03.28_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002
+241	345	365	1803	03	28	Hampshire/Portsmouth Telegraph	1803.03.28_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+226	368	404	1803	03	31	Derby Mercury	1803.03.31_TheDerbyMercury_0001	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0004
+201	315	358	1803	03	31	Derby Mercury	1803.03.31_TheDerbyMercury_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0002
+308	482	524	1803	03	31	Derby Mercury	1803.03.31_TheDerbyMercury_0001	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0001
+252	375	420	1803	03	31	Derby Mercury	1803.03.31_TheDerbyMercury_0001	1802	11	27	Ipswich Journal	1802.11.27_TheIpswichJournal_0001
+283	426	457	1803	03	31	Derby Mercury	1803.03.31_TheDerbyMercury_0001	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0002
+221	321	321	1803	04	02	Jackson’s Oxford Journal	1803.04.02_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+296	446	463	1803	04	04	Hampshire/Portsmouth Telegraph	1803.04.04_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+225	341	342	1803	04	04	Hampshire/Portsmouth Telegraph	1803.04.04_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+223	334	343	1803	04	04	Hampshire/Portsmouth Telegraph	1803.04.04_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+303	434	457	1803	04	04	Hampshire/Portsmouth Telegraph	1803.04.04_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+296	500	467	1803	04	07	Derby Mercury	1803.04.07_TheDerbyMercury_0004	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0002
+297	497	478	1803	04	07	Derby Mercury	1803.04.07_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+217	353	360	1803	04	09	Newcastle Courant	1803.04.09_TheNewcastleCourantetc_0003	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+227	353	364	1803	04	11	Hampshire/Portsmouth Telegraph	1803.04.11_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+219	323	338	1803	04	11	Hampshire/Portsmouth Telegraph	1803.04.11_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+257	413	430	1803	04	14	Derby Mercury	1803.04.14_TheDerbyMercury_0004	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+217	281	282	1803	04	16	Jackson’s Oxford Journal	1803.04.16_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+215	366	364	1803	04	16	Jackson’s Oxford Journal	1803.04.16_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+314	473	502	1803	04	18	Hampshire/Portsmouth Telegraph	1803.04.18_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+445	718	690	1803	04	21	Derby Mercury	1803.04.21_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+212	301	295	1803	04	23	Jackson’s Oxford Journal	1803.04.23_Jackson'sOxfordJournal_0004	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+216	307	301	1803	04	23	Jackson’s Oxford Journal	1803.04.23_Jackson'sOxfordJournal_0004	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+254	362	384	1803	04	25	Hampshire/Portsmouth Telegraph	1803.04.25_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+254	368	388	1803	04	25	Hampshire/Portsmouth Telegraph	1803.04.25_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+228	366	374	1803	04	28	Trewman’s Exeter Flying Post	1803.04.28_Trewman'sExeterFlyingPost_0002	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+203	334	334	1803	04	28	Trewman’s Exeter Flying Post	1803.04.28_Trewman'sExeterFlyingPost_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+236	328	324	1803	04	30	Jackson’s Oxford Journal	1803.04.30_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+211	271	264	1803	04	30	Ipswich Journal	1803.04.30_TheIpswichJournal_0001	1802	11	20	Ipswich Journal	1802.11.20_TheIpswichJournal_0001
+206	349	351	1803	04	30	Newcastle Courant	1803.04.30_TheNewcastleCourantetc_0003	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+212	379	383	1803	04	30	Newcastle Courant	1803.04.30_TheNewcastleCourantetc_0003	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+244	439	439	1803	04	30	Newcastle Courant	1803.04.30_TheNewcastleCourantetc_0003	1802	11	22	Hampshire/Portsmouth Telegraph	1802.11.22_HampshireTelegraph&PortsmouthGazette_0004
+249	430	447	1803	04	30	Newcastle Courant	1803.04.30_TheNewcastleCourantetc_0003	1802	11	24	Aberdeen Journal	1802.11.24_TheAberdeenJournal_0001
+317	460	480	1803	05	02	Hampshire/Portsmouth Telegraph	1803.05.02_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+243	352	368	1803	05	02	Hampshire/Portsmouth Telegraph	1803.05.02_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+235	390	389	1803	05	05	Derby Mercury	1803.05.05_TheDerbyMercury_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+255	400	399	1803	05	05	Derby Mercury	1803.05.05_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+207	302	308	1803	05	05	Derby Mercury	1803.05.05_TheDerbyMercury_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+229	367	376	1803	05	05	Trewman’s Exeter Flying Post	1803.05.05_Trewman'sExeterFlyingPost_0003	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+203	320	311	1803	05	05	Trewman’s Exeter Flying Post	1803.05.05_Trewman'sExeterFlyingPost_0003	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0003
+210	361	362	1803	05	05	Trewman’s Exeter Flying Post	1803.05.05_Trewman'sExeterFlyingPost_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+218	336	334	1803	05	07	Jackson’s Oxford Journal	1803.05.07_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+269	379	376	1803	05	07	Jackson’s Oxford Journal	1803.05.07_Jackson'sOxfordJournal_0003	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+249	337	335	1803	05	07	Jackson’s Oxford Journal	1803.05.07_Jackson'sOxfordJournal_0003	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+214	272	285	1803	05	07	Jackson’s Oxford Journal	1803.05.07_Jackson'sOxfordJournal_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+299	495	491	1803	05	12	Derby Mercury	1803.05.12_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+275	429	434	1803	05	12	Trewman’s Exeter Flying Post	1803.05.12_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+239	357	344	1803	05	14	Jackson’s Oxford Journal	1803.05.14_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+217	346	336	1803	05	14	Jackson’s Oxford Journal	1803.05.14_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+301	437	436	1803	05	14	Jackson’s Oxford Journal	1803.05.14_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+309	494	491	1803	05	14	Jackson’s Oxford Journal	1803.05.14_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+205	361	348	1803	05	19	Derby Mercury	1803.05.19_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+244	356	360	1803	05	21	Jackson’s Oxford Journal	1803.05.21_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+219	354	343	1803	05	21	Jackson’s Oxford Journal	1803.05.21_Jackson'sOxfordJournal_0001	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0003
+395	605	593	1803	05	21	Jackson’s Oxford Journal	1803.05.21_Jackson'sOxfordJournal_0001	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+341	498	508	1803	05	21	Jackson’s Oxford Journal	1803.05.21_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+220	357	362	1803	05	21	Jackson’s Oxford Journal	1803.05.21_Jackson'sOxfordJournal_0004	1802	11	13	Jackson’s Oxford Journal	1802.11.13_Jackson'sOxfordJournal_0004
+229	353	353	1803	05	21	Jackson’s Oxford Journal	1803.05.21_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+255	350	354	1803	05	21	Newcastle Courant	1803.05.21_TheNewcastleCourantetc_0003	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+245	421	423	1803	05	26	Derby Mercury	1803.05.26_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+282	423	427	1803	05	26	Trewman’s Exeter Flying Post	1803.05.26_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+201	322	313	1803	05	26	Trewman’s Exeter Flying Post	1803.05.26_Trewman'sExeterFlyingPost_0003	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0003
+207	300	302	1803	05	28	Jackson’s Oxford Journal	1803.05.28_Jackson'sOxfordJournal_0001	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+229	332	326	1803	05	28	Jackson’s Oxford Journal	1803.05.28_Jackson'sOxfordJournal_0002	1802	11	20	Jackson’s Oxford Journal	1802.11.20_Jackson'sOxfordJournal_0001
+288	475	477	1803	05	30	Hampshire/Portsmouth Telegraph	1803.05.30_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0002
+307	469	448	1803	05	30	Hampshire/Portsmouth Telegraph	1803.05.30_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+314	491	476	1803	05	30	Hampshire/Portsmouth Telegraph	1803.05.30_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+272	404	395	1803	05	30	Hampshire/Portsmouth Telegraph	1803.05.30_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+417	594	597	1803	05	30	Hampshire/Portsmouth Telegraph	1803.05.30_HampshireTelegraph&PortsmouthGazette_0004	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+225	324	335	1803	06	02	Trewman’s Exeter Flying Post	1803.06.02_Trewman'sExeterFlyingPost_0001	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+286	452	440	1803	06	04	Jackson’s Oxford Journal	1803.06.04_Jackson'sOxfordJournal_0001	1802	11	06	Jackson’s Oxford Journal	1802.11.06_Jackson'sOxfordJournal_0001
+258	360	362	1803	06	04	Jackson’s Oxford Journal	1803.06.04_Jackson'sOxfordJournal_0004	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0004
+229	348	366	1803	06	06	Hampshire/Portsmouth Telegraph	1803.06.06_HampshireTelegraph&PortsmouthGazette_0004	1802	11	01	Hampshire/Portsmouth Telegraph	1802.11.01_HampshireTelegraph&PortsmouthGazette_0004
+215	307	322	1803	06	06	Hampshire/Portsmouth Telegraph	1803.06.06_HampshireTelegraph&PortsmouthGazette_0004	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0004
+235	367	384	1803	06	09	Trewman’s Exeter Flying Post	1803.06.09_Trewman'sExeterFlyingPost_0001	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+219	357	353	1803	06	09	Trewman’s Exeter Flying Post	1803.06.09_Trewman'sExeterFlyingPost_0003	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+250	384	390	1803	06	09	Trewman’s Exeter Flying Post	1803.06.09_Trewman'sExeterFlyingPost_0003	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+254	410	420	1803	06	16	Derby Mercury	1803.06.16_TheDerbyMercury_0004	1802	11	18	Derby Mercury	1802.11.18_TheDerbyMercury_0003
+257	436	424	1803	06	16	Derby Mercury	1803.06.16_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002
+238	365	373	1803	06	16	Trewman’s Exeter Flying Post	1803.06.16_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+211	379	370	1803	06	18	Newcastle Courant	1803.06.18_TheNewcastleCourantetc_0003	1802	11	25	Trewman’s Exeter Flying Post	1802.11.25_Trewman'sExeterFlyingPost_0003
+271	402	402	1803	06	23	Trewman’s Exeter Flying Post	1803.06.23_Trewman'sExeterFlyingPost_0002	1802	11	15	Hampshire/Portsmouth Telegraph	1802.11.15_HampshireTelegraph&PortsmouthGazette_0004
+231	314	322	1803	06	23	Trewman’s Exeter Flying Post	1803.06.23_Trewman'sExeterFlyingPost_0003	1802	11	04	Trewman’s Exeter Flying Post	1802.11.04_Trewman'sExeterFlyingPost_0002
+303	415	428	1803	06	23	Trewman’s Exeter Flying Post	1803.06.23_Trewman'sExeterFlyingPost_0003	1802	11	11	Trewman’s Exeter Flying Post	1802.11.11_Trewman'sExeterFlyingPost_0003
+218	279	277	1803	06	25	Jackson’s Oxford Journal	1803.06.25_Jackson'sOxfordJournal_0002	1802	11	27	Jackson’s Oxford Journal	1802.11.27_Jackson'sOxfordJournal_0001
+202	337	340	1803	06	25	Newcastle Courant	1803.06.25_TheNewcastleCourantetc_0003	1802	11	08	Hampshire/Portsmouth Telegraph	1802.11.08_HampshireTelegraph&PortsmouthGazette_0001
+200	303	318	1803	06	25	Newcastle Courant	1803.06.25_TheNewcastleCourantetc_0003	1802	11	29	Hampshire/Portsmouth Telegraph	1802.11.29_HampshireTelegraph&PortsmouthGazette_0004
+227	381	378	1803	06	30	Derby Mercury	1803.06.30_TheDerbyMercury_0004	1802	11	25	Derby Mercury	1802.11.25_TheDerbyMercury_0002

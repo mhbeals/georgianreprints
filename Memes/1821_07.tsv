@@ -1,0 +1,328 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1821	07	02	Glasgow Herald	0004	1821	07	02	Caledonian Mercury	0003
+1821	07	03	Freeman’s Journal	0004	1821	07	02	Caledonian Mercury	0003
+1821	07	05	Trewman’s Exeter Flying Post	0003	1821	07	02	Caledonian Mercury	0003
+1821	07	05	Trewman’s Exeter Flying Post	0003	1821	07	03	Freeman’s Journal	0003
+1821	07	05	Trewman’s Exeter Flying Post	0003	1821	07	03	Freeman’s Journal	0004
+1821	07	06	Glasgow Herald	0004	1821	07	05	Freeman’s Journal	0003
+1821	07	06	Liverpool Mercury	0005	1821	07	05	Trewman’s Exeter Flying Post	0003
+1821	07	06	Liverpool Mercury	0007	1821	07	05	Trewman’s Exeter Flying Post	0003
+1821	07	07	Caledonian Mercury	0002	1821	07	05	Freeman’s Journal	0003
+1821	07	07	Caledonian Mercury	0002	1821	07	06	Glasgow Herald	0004
+1821	07	07	Cobbett’s Weekly Political Register	0018	1821	07	07	Caledonian Mercury	0002
+1821	07	07	Freeman’s Journal	0002	1821	07	07	Caledonian Mercury	0003
+1821	07	07	Jackson’s Oxford Journal	0001	1821	07	05	Freeman’s Journal	0003
+1821	07	07	Jackson’s Oxford Journal	0001	1821	07	07	Caledonian Mercury	0002
+1821	07	07	Jackson’s Oxford Journal	0002	1821	07	05	Trewman’s Exeter Flying Post	0003
+1821	07	07	Jackson’s Oxford Journal	0002	1821	07	06	Liverpool Mercury	0005
+1821	07	07	Jackson’s Oxford Journal	0002	1821	07	06	Liverpool Mercury	0007
+1821	07	07	Jackson’s Oxford Journal	0002	1821	07	07	Caledonian Mercury	0003
+1821	07	07	Jackson’s Oxford Journal	0004	1821	07	05	Freeman’s Journal	0004
+1821	07	07	Jackson’s Oxford Journal	0004	1821	07	05	Trewman’s Exeter Flying Post	0003
+1821	07	07	Jackson’s Oxford Journal	0004	1821	07	06	Liverpool Mercury	0006
+1821	07	07	Bristol Mercury	0001	1821	07	05	Caledonian Mercury	0004
+1821	07	07	Bristol Mercury	0001	1821	07	05	Freeman’s Journal	0003
+1821	07	07	Bristol Mercury	0001	1821	07	05	Trewman’s Exeter Flying Post	0003
+1821	07	07	Bristol Mercury	0001	1821	07	06	Liverpool Mercury	0002
+1821	07	07	Bristol Mercury	0001	1821	07	06	Liverpool Mercury	0005
+1821	07	07	Bristol Mercury	0001	1821	07	06	Liverpool Mercury	0007
+1821	07	07	Bristol Mercury	0001	1821	07	07	Caledonian Mercury	0002
+1821	07	07	Bristol Mercury	0001	1821	07	07	Jackson’s Oxford Journal	0002
+1821	07	07	Bristol Mercury	0002	1821	07	07	Jackson’s Oxford Journal	0003
+1821	07	07	Bristol Mercury	0004	1821	07	07	Jackson’s Oxford Journal	0004
+1821	07	07	Ipswich Journal	0001	1821	07	05	Trewman’s Exeter Flying Post	0003
+1821	07	07	Ipswich Journal	0001	1821	07	07	Bristol Mercury	0001
+1821	07	08	Examiner	0005	1821	07	07	Caledonian Mercury	0003
+1821	07	08	Examiner	0005	1821	07	07	Jackson’s Oxford Journal	0002
+1821	07	08	Examiner	0011	1821	07	07	Freeman’s Journal	0002
+1821	07	09	Caledonian Mercury	0001	1821	07	05	Trewman’s Exeter Flying Post	0003
+1821	07	09	Caledonian Mercury	0001	1821	07	06	Liverpool Mercury	0005
+1821	07	09	Caledonian Mercury	0001	1821	07	06	Liverpool Mercury	0007
+1821	07	09	Caledonian Mercury	0001	1821	07	07	Jackson’s Oxford Journal	0002
+1821	07	09	Caledonian Mercury	0001	1821	07	07	Bristol Mercury	0001
+1821	07	09	Caledonian Mercury	0001	1821	07	07	Bristol Mercury	0002
+1821	07	09	Caledonian Mercury	0002	1821	07	07	Jackson’s Oxford Journal	0003
+1821	07	09	Caledonian Mercury	0002	1821	07	07	Bristol Mercury	0002
+1821	07	09	Caledonian Mercury	0002	1821	07	08	Examiner	0006
+1821	07	09	Caledonian Mercury	0003	1821	07	08	Examiner	0006
+1821	07	09	Caledonian Mercury	0004	1821	07	02	Glasgow Herald	0004
+1821	07	09	Caledonian Mercury	0004	1821	07	04	Aberdeen Journal	0004
+1821	07	09	Caledonian Mercury	0004	1821	07	05	Trewman’s Exeter Flying Post	0003
+1821	07	09	Freeman’s Journal	0004	1821	07	07	Jackson’s Oxford Journal	0002
+1821	07	09	Freeman’s Journal	0004	1821	07	08	Examiner	0005
+1821	07	09	Freeman’s Journal	0004	1821	07	08	Examiner	0006
+1821	07	09	Freeman’s Journal	0004	1821	07	09	Caledonian Mercury	0002
+1821	07	09	Glasgow Herald	0002	1821	07	09	Caledonian Mercury	0002
+1821	07	09	Glasgow Herald	0004	1821	07	03	Freeman’s Journal	0003
+1821	07	09	Glasgow Herald	0004	1821	07	06	Liverpool Mercury	0006
+1821	07	09	Glasgow Herald	0004	1821	07	07	Jackson’s Oxford Journal	0004
+1821	07	09	Glasgow Herald	0004	1821	07	07	Bristol Mercury	0004
+1821	07	09	Hampshire/Portsmouth Telegraph	0001	1821	07	05	Trewman’s Exeter Flying Post	0003
+1821	07	09	Hampshire/Portsmouth Telegraph	0001	1821	07	07	Bristol Mercury	0001
+1821	07	10	Freeman’s Journal	0003	1821	07	08	Examiner	0006
+1821	07	10	Freeman’s Journal	0003	1821	07	09	Caledonian Mercury	0003
+1821	07	10	Freeman’s Journal	0004	1821	07	07	Jackson’s Oxford Journal	0003
+1821	07	10	Freeman’s Journal	0004	1821	07	09	Caledonian Mercury	0002
+1821	07	11	Aberdeen Journal	0002	1821	07	02	Caledonian Mercury	0003
+1821	07	11	Aberdeen Journal	0002	1821	07	03	Freeman’s Journal	0002
+1821	07	11	Aberdeen Journal	0002	1821	07	05	Caledonian Mercury	0002
+1821	07	11	Aberdeen Journal	0002	1821	07	05	Freeman’s Journal	0003
+1821	07	11	Aberdeen Journal	0002	1821	07	07	Caledonian Mercury	0003
+1821	07	11	Aberdeen Journal	0003	1821	07	07	Caledonian Mercury	0003
+1821	07	12	Caledonian Mercury	0004	1821	07	11	Freeman’s Journal	0003
+1821	07	12	Caledonian Mercury	0004	1821	07	11	Freeman’s Journal	0004
+1821	07	12	Freeman’s Journal	0002	1821	07	12	Caledonian Mercury	0002
+1821	07	12	Freeman’s Journal	0003	1821	07	12	Caledonian Mercury	0002
+1821	07	12	Freeman’s Journal	0004	1821	07	07	Cobbett’s Weekly Political Register	0030
+1821	07	12	Freeman’s Journal	0004	1821	07	07	Cobbett’s Weekly Political Register	0031
+1821	07	12	Trewman’s Exeter Flying Post	0002	1821	07	07	Freeman’s Journal	0002
+1821	07	12	Trewman’s Exeter Flying Post	0002	1821	07	07	Jackson’s Oxford Journal	0002
+1821	07	12	Trewman’s Exeter Flying Post	0002	1821	07	08	Examiner	0005
+1821	07	12	Trewman’s Exeter Flying Post	0002	1821	07	09	Freeman’s Journal	0004
+1821	07	12	Trewman’s Exeter Flying Post	0003	1821	07	07	Caledonian Mercury	0002
+1821	07	12	Trewman’s Exeter Flying Post	0003	1821	07	09	Caledonian Mercury	0002
+1821	07	12	Trewman’s Exeter Flying Post	0003	1821	07	10	Freeman’s Journal	0004
+1821	07	12	Trewman’s Exeter Flying Post	0003	1821	07	11	Freeman’s Journal	0004
+1821	07	12	Trewman’s Exeter Flying Post	0003	1821	07	12	Caledonian Mercury	0004
+1821	07	13	Glasgow Herald	0001	1821	07	08	Examiner	0006
+1821	07	13	Glasgow Herald	0001	1821	07	11	Freeman’s Journal	0003
+1821	07	13	Glasgow Herald	0001	1821	07	11	Freeman’s Journal	0004
+1821	07	13	Glasgow Herald	0001	1821	07	12	Caledonian Mercury	0002
+1821	07	13	Glasgow Herald	0001	1821	07	12	Caledonian Mercury	0004
+1821	07	13	Glasgow Herald	0001	1821	07	12	Trewman’s Exeter Flying Post	0003
+1821	07	13	Glasgow Herald	0002	1821	07	12	Caledonian Mercury	0003
+1821	07	13	Glasgow Herald	0004	1821	07	05	Freeman’s Journal	0004
+1821	07	13	Glasgow Herald	0004	1821	07	06	Liverpool Mercury	0007
+1821	07	13	Liverpool Mercury	0002	1821	07	07	Caledonian Mercury	0003
+1821	07	13	Liverpool Mercury	0002	1821	07	07	Freeman’s Journal	0002
+1821	07	13	Liverpool Mercury	0002	1821	07	08	Examiner	0011
+1821	07	13	Liverpool Mercury	0002	1821	07	08	Examiner	0012
+1821	07	13	Liverpool Mercury	0002	1821	07	11	Freeman’s Journal	0003
+1821	07	14	Caledonian Mercury	0002	1821	07	13	Liverpool Mercury	0002
+1821	07	14	Caledonian Mercury	0003	1821	07	13	Liverpool Mercury	0008
+1821	07	14	Jackson’s Oxford Journal	0002	1821	07	13	Liverpool Mercury	0008
+1821	07	14	Jackson’s Oxford Journal	0002	1821	07	14	Caledonian Mercury	0003
+1821	07	14	Jackson’s Oxford Journal	0004	1821	07	11	Freeman’s Journal	0003
+1821	07	14	Jackson’s Oxford Journal	0004	1821	07	12	Caledonian Mercury	0002
+1821	07	14	Jackson’s Oxford Journal	0004	1821	07	12	Caledonian Mercury	0004
+1821	07	14	Jackson’s Oxford Journal	0004	1821	07	14	Caledonian Mercury	0002
+1821	07	14	Bristol Mercury	0002	1821	07	14	Caledonian Mercury	0003
+1821	07	14	Bristol Mercury	0002	1821	07	14	Jackson’s Oxford Journal	0002
+1821	07	14	Leeds Mercury	0002	1821	07	11	Freeman’s Journal	0003
+1821	07	14	Leeds Mercury	0002	1821	07	12	Caledonian Mercury	0002
+1821	07	14	Leeds Mercury	0002	1821	07	12	Caledonian Mercury	0004
+1821	07	14	Leeds Mercury	0002	1821	07	14	Caledonian Mercury	0002
+1821	07	14	Leeds Mercury	0002	1821	07	14	Jackson’s Oxford Journal	0004
+1821	07	14	Leeds Mercury	0003	1821	07	13	Liverpool Mercury	0008
+1821	07	14	Leeds Mercury	0003	1821	07	14	Caledonian Mercury	0003
+1821	07	14	Leeds Mercury	0003	1821	07	14	Jackson’s Oxford Journal	0002
+1821	07	14	Leeds Mercury	0004	1821	07	13	Liverpool Mercury	0002
+1821	07	15	Examiner	0002	1821	07	11	Freeman’s Journal	0003
+1821	07	15	Examiner	0002	1821	07	12	Caledonian Mercury	0004
+1821	07	15	Examiner	0002	1821	07	13	Liverpool Mercury	0002
+1821	07	15	Examiner	0002	1821	07	14	Jackson’s Oxford Journal	0004
+1821	07	15	Examiner	0002	1821	07	14	Leeds Mercury	0002
+1821	07	15	Examiner	0003	1821	07	12	Caledonian Mercury	0002
+1821	07	15	Examiner	0003	1821	07	13	Liverpool Mercury	0002
+1821	07	15	Examiner	0003	1821	07	14	Caledonian Mercury	0002
+1821	07	15	Examiner	0003	1821	07	14	Jackson’s Oxford Journal	0004
+1821	07	15	Examiner	0006	1821	07	13	Liverpool Mercury	0008
+1821	07	15	Examiner	0009	1821	07	14	Jackson’s Oxford Journal	0002
+1821	07	15	Examiner	0009	1821	07	14	Leeds Mercury	0003
+1821	07	16	Freeman’s Journal	0002	1821	07	16	Caledonian Mercury	0002
+1821	07	16	Freeman’s Journal	0003	1821	07	14	Jackson’s Oxford Journal	0002
+1821	07	16	Freeman’s Journal	0003	1821	07	15	Examiner	0009
+1821	07	16	Freeman’s Journal	0004	1821	07	14	Jackson’s Oxford Journal	0002
+1821	07	16	Glasgow Herald	0002	1821	07	16	Caledonian Mercury	0003
+1821	07	16	Glasgow Herald	0004	1821	07	10	Freeman’s Journal	0003
+1821	07	16	Glasgow Herald	0004	1821	07	12	Caledonian Mercury	0002
+1821	07	16	Glasgow Herald	0004	1821	07	14	Caledonian Mercury	0003
+1821	07	16	Glasgow Herald	0004	1821	07	14	Jackson’s Oxford Journal	0004
+1821	07	17	Freeman’s Journal	0003	1821	07	16	Caledonian Mercury	0002
+1821	07	17	Freeman’s Journal	0004	1821	07	16	Caledonian Mercury	0002
+1821	07	18	Aberdeen Journal	0002	1821	07	12	Caledonian Mercury	0002
+1821	07	18	Aberdeen Journal	0002	1821	07	14	Caledonian Mercury	0003
+1821	07	18	Aberdeen Journal	0002	1821	07	14	Jackson’s Oxford Journal	0002
+1821	07	18	Aberdeen Journal	0004	1821	07	12	Caledonian Mercury	0003
+1821	07	18	Derby Mercury	0001	1821	07	14	Jackson’s Oxford Journal	0002
+1821	07	18	Derby Mercury	0001	1821	07	14	Leeds Mercury	0003
+1821	07	18	Derby Mercury	0001	1821	07	15	Examiner	0009
+1821	07	18	Derby Mercury	0001	1821	07	16	Freeman’s Journal	0003
+1821	07	19	Caledonian Mercury	0003	1821	07	10	Freeman’s Journal	0003
+1821	07	19	Caledonian Mercury	0004	1821	07	16	Freeman’s Journal	0003
+1821	07	19	Caledonian Mercury	0004	1821	07	16	Freeman’s Journal	0004
+1821	07	19	Caledonian Mercury	0004	1821	07	17	Freeman’s Journal	0002
+1821	07	19	Freeman’s Journal	0004	1821	07	16	Caledonian Mercury	0002
+1821	07	19	Freeman’s Journal	0004	1821	07	19	Caledonian Mercury	0002
+1821	07	19	Trewman’s Exeter Flying Post	0002	1821	07	13	Liverpool Mercury	0008
+1821	07	19	Trewman’s Exeter Flying Post	0002	1821	07	14	Caledonian Mercury	0003
+1821	07	19	Trewman’s Exeter Flying Post	0002	1821	07	14	Jackson’s Oxford Journal	0002
+1821	07	19	Trewman’s Exeter Flying Post	0002	1821	07	14	Bristol Mercury	0002
+1821	07	19	Trewman’s Exeter Flying Post	0002	1821	07	16	Freeman’s Journal	0004
+1821	07	19	Trewman’s Exeter Flying Post	0002	1821	07	18	Aberdeen Journal	0002
+1821	07	19	Trewman’s Exeter Flying Post	0003	1821	07	14	Jackson’s Oxford Journal	0002
+1821	07	19	Trewman’s Exeter Flying Post	0003	1821	07	14	Leeds Mercury	0003
+1821	07	19	Trewman’s Exeter Flying Post	0003	1821	07	15	Examiner	0009
+1821	07	19	Trewman’s Exeter Flying Post	0003	1821	07	16	Caledonian Mercury	0002
+1821	07	19	Trewman’s Exeter Flying Post	0003	1821	07	16	Freeman’s Journal	0003
+1821	07	19	Trewman’s Exeter Flying Post	0003	1821	07	16	Freeman’s Journal	0004
+1821	07	19	Trewman’s Exeter Flying Post	0003	1821	07	17	Freeman’s Journal	0003
+1821	07	19	Trewman’s Exeter Flying Post	0003	1821	07	18	Derby Mercury	0001
+1821	07	20	Glasgow Herald	0001	1821	07	16	Freeman’s Journal	0003
+1821	07	20	Glasgow Herald	0001	1821	07	17	Freeman’s Journal	0002
+1821	07	20	Glasgow Herald	0001	1821	07	19	Caledonian Mercury	0004
+1821	07	20	Glasgow Herald	0004	1821	07	10	Freeman’s Journal	0003
+1821	07	20	Glasgow Herald	0004	1821	07	19	Caledonian Mercury	0003
+1821	07	20	Liverpool Mercury	0002	1821	07	16	Caledonian Mercury	0002
+1821	07	20	Liverpool Mercury	0002	1821	07	19	Freeman’s Journal	0002
+1821	07	21	Caledonian Mercury	0002	1821	07	19	Trewman’s Exeter Flying Post	0004
+1821	07	21	Caledonian Mercury	0002	1821	07	20	Liverpool Mercury	0005
+1821	07	21	Caledonian Mercury	0003	1821	07	20	Glasgow Herald	0002
+1821	07	21	Freeman’s Journal	0002	1821	07	20	Liverpool Mercury	0005
+1821	07	21	Freeman’s Journal	0002	1821	07	21	Caledonian Mercury	0002
+1821	07	21	Freeman’s Journal	0003	1821	07	19	Trewman’s Exeter Flying Post	0002
+1821	07	21	Freeman’s Journal	0004	1821	07	14	Cobbett’s Weekly Political Register	0023
+1821	07	21	Freeman’s Journal	0004	1821	07	21	Caledonian Mercury	0002
+1821	07	21	Jackson’s Oxford Journal	0001	1821	07	19	Caledonian Mercury	0002
+1821	07	21	Jackson’s Oxford Journal	0001	1821	07	19	Trewman’s Exeter Flying Post	0003
+1821	07	21	Jackson’s Oxford Journal	0002	1821	07	20	Glasgow Herald	0004
+1821	07	21	Jackson’s Oxford Journal	0002	1821	07	20	Liverpool Mercury	0005
+1821	07	21	Jackson’s Oxford Journal	0002	1821	07	21	Caledonian Mercury	0002
+1821	07	21	Jackson’s Oxford Journal	0004	1821	07	16	Caledonian Mercury	0002
+1821	07	21	Jackson’s Oxford Journal	0004	1821	07	17	Freeman’s Journal	0004
+1821	07	21	Jackson’s Oxford Journal	0004	1821	07	21	Caledonian Mercury	0004
+1821	07	21	Bristol Mercury	0001	1821	07	19	Trewman’s Exeter Flying Post	0003
+1821	07	21	Bristol Mercury	0001	1821	07	21	Jackson’s Oxford Journal	0001
+1821	07	21	Ipswich Journal	0001	1821	07	20	Liverpool Mercury	0007
+1821	07	21	Leeds Mercury	0002	1821	07	20	Liverpool Mercury	0005
+1821	07	21	Leeds Mercury	0002	1821	07	21	Caledonian Mercury	0002
+1821	07	21	Leeds Mercury	0002	1821	07	21	Freeman’s Journal	0002
+1821	07	21	Leeds Mercury	0002	1821	07	21	Jackson’s Oxford Journal	0002
+1821	07	21	Leeds Mercury	0002	1821	07	21	Jackson’s Oxford Journal	0003
+1821	07	21	Newcastle Courant	0002	1821	07	14	Jackson’s Oxford Journal	0002
+1821	07	21	Newcastle Courant	0002	1821	07	15	Examiner	0009
+1821	07	21	Newcastle Courant	0002	1821	07	16	Freeman’s Journal	0003
+1821	07	21	Newcastle Courant	0002	1821	07	19	Trewman’s Exeter Flying Post	0002
+1821	07	21	Newcastle Courant	0002	1821	07	19	Trewman’s Exeter Flying Post	0003
+1821	07	21	Newcastle Courant	0003	1821	07	19	Trewman’s Exeter Flying Post	0002
+1821	07	22	Examiner	0011	1821	07	20	Liverpool Mercury	0005
+1821	07	22	Examiner	0011	1821	07	21	Caledonian Mercury	0002
+1821	07	22	Examiner	0011	1821	07	21	Leeds Mercury	0002
+1821	07	23	Caledonian Mercury	0002	1821	07	21	Jackson’s Oxford Journal	0003
+1821	07	23	Caledonian Mercury	0002	1821	07	21	Leeds Mercury	0002
+1821	07	23	Caledonian Mercury	0003	1821	07	19	Freeman’s Journal	0004
+1821	07	23	Caledonian Mercury	0003	1821	07	21	Jackson’s Oxford Journal	0003
+1821	07	23	Caledonian Mercury	0003	1821	07	21	Leeds Mercury	0003
+1821	07	23	Freeman’s Journal	0002	1821	07	21	Jackson’s Oxford Journal	0003
+1821	07	23	Freeman’s Journal	0002	1821	07	21	Leeds Mercury	0002
+1821	07	23	Freeman’s Journal	0002	1821	07	23	Caledonian Mercury	0002
+1821	07	23	Freeman’s Journal	0003	1821	07	23	Caledonian Mercury	0003
+1821	07	23	Freeman’s Journal	0004	1821	07	21	Leeds Mercury	0002
+1821	07	23	Freeman’s Journal	0004	1821	07	23	Caledonian Mercury	0002
+1821	07	23	Glasgow Herald	0001	1821	07	21	Caledonian Mercury	0003
+1821	07	24	Freeman’s Journal	0004	1821	07	19	Caledonian Mercury	0003
+1821	07	25	Freeman’s Journal	0004	1821	07	19	Caledonian Mercury	0003
+1821	07	25	Aberdeen Journal	0002	1821	07	21	Caledonian Mercury	0003
+1821	07	25	Aberdeen Journal	0002	1821	07	21	Leeds Mercury	0003
+1821	07	25	Aberdeen Journal	0002	1821	07	23	Caledonian Mercury	0003
+1821	07	25	Aberdeen Journal	0004	1821	07	16	Caledonian Mercury	0003
+1821	07	25	Aberdeen Journal	0004	1821	07	19	Caledonian Mercury	0002
+1821	07	25	Aberdeen Journal	0004	1821	07	19	Caledonian Mercury	0003
+1821	07	25	Aberdeen Journal	0004	1821	07	20	Liverpool Mercury	0005
+1821	07	25	Aberdeen Journal	0004	1821	07	21	Caledonian Mercury	0002
+1821	07	25	Aberdeen Journal	0004	1821	07	21	Freeman’s Journal	0002
+1821	07	25	Aberdeen Journal	0004	1821	07	21	Jackson’s Oxford Journal	0004
+1821	07	25	Aberdeen Journal	0004	1821	07	21	Leeds Mercury	0002
+1821	07	25	Derby Mercury	0004	1821	07	20	Liverpool Mercury	0005
+1821	07	25	Derby Mercury	0004	1821	07	21	Caledonian Mercury	0002
+1821	07	25	Derby Mercury	0004	1821	07	21	Leeds Mercury	0002
+1821	07	26	Caledonian Mercury	0002	1821	07	24	Freeman’s Journal	0002
+1821	07	26	Caledonian Mercury	0004	1821	07	24	Freeman’s Journal	0002
+1821	07	26	Freeman’s Journal	0002	1821	07	26	Caledonian Mercury	0002
+1821	07	26	Freeman’s Journal	0004	1821	07	21	Cobbett’s Weekly Political Register	0023
+1821	07	26	Freeman’s Journal	0004	1821	07	26	Caledonian Mercury	0004
+1821	07	26	Trewman’s Exeter Flying Post	0002	1821	07	21	Leeds Mercury	0002
+1821	07	26	Trewman’s Exeter Flying Post	0002	1821	07	21	Leeds Mercury	0003
+1821	07	26	Trewman’s Exeter Flying Post	0002	1821	07	23	Caledonian Mercury	0002
+1821	07	26	Trewman’s Exeter Flying Post	0004	1821	07	26	Caledonian Mercury	0002
+1821	07	27	Glasgow Herald	0001	1821	07	25	Freeman’s Journal	0002
+1821	07	27	Glasgow Herald	0001	1821	07	26	Caledonian Mercury	0003
+1821	07	27	Glasgow Herald	0002	1821	07	26	Caledonian Mercury	0003
+1821	07	27	Glasgow Herald	0004	1821	07	24	Freeman’s Journal	0002
+1821	07	27	Glasgow Herald	0004	1821	07	26	Caledonian Mercury	0002
+1821	07	27	Liverpool Mercury	0002	1821	07	22	Examiner	0003
+1821	07	27	Liverpool Mercury	0002	1821	07	22	Examiner	0004
+1821	07	27	Liverpool Mercury	0002	1821	07	23	Caledonian Mercury	0002
+1821	07	27	Liverpool Mercury	0002	1821	07	23	Freeman’s Journal	0004
+1821	07	27	Liverpool Mercury	0003	1821	07	22	Examiner	0006
+1821	07	28	Caledonian Mercury	0004	1821	07	27	Glasgow Herald	0002
+1821	07	28	Freeman’s Journal	0003	1821	07	28	Caledonian Mercury	0003
+1821	07	28	Freeman’s Journal	0003	1821	07	28	Caledonian Mercury	0004
+1821	07	28	Freeman’s Journal	0004	1821	07	28	Caledonian Mercury	0004
+1821	07	28	Jackson’s Oxford Journal	0001	1821	07	26	Freeman’s Journal	0002
+1821	07	28	Jackson’s Oxford Journal	0002	1821	07	25	Freeman’s Journal	0002
+1821	07	28	Jackson’s Oxford Journal	0002	1821	07	26	Trewman’s Exeter Flying Post	0004
+1821	07	28	Jackson’s Oxford Journal	0002	1821	07	27	Glasgow Herald	0001
+1821	07	28	Jackson’s Oxford Journal	0002	1821	07	28	Caledonian Mercury	0003
+1821	07	28	Jackson’s Oxford Journal	0002	1821	07	28	Freeman’s Journal	0003
+1821	07	28	Jackson’s Oxford Journal	0004	1821	07	21	Leeds Mercury	0002
+1821	07	28	Jackson’s Oxford Journal	0004	1821	07	23	Caledonian Mercury	0002
+1821	07	28	Jackson’s Oxford Journal	0004	1821	07	26	Trewman’s Exeter Flying Post	0002
+1821	07	28	Bristol Mercury	0001	1821	07	24	Freeman’s Journal	0002
+1821	07	28	Bristol Mercury	0001	1821	07	26	Caledonian Mercury	0002
+1821	07	28	Bristol Mercury	0001	1821	07	28	Caledonian Mercury	0004
+1821	07	28	Bristol Mercury	0002	1821	07	28	Cobbett’s Weekly Political Register	0023
+1821	07	28	Leeds Mercury	0002	1821	07	28	Bristol Mercury	0001
+1821	07	28	Leeds Mercury	0003	1821	07	28	Caledonian Mercury	0002
+1821	07	28	Newcastle Courant	0002	1821	07	21	Leeds Mercury	0002
+1821	07	28	Newcastle Courant	0002	1821	07	23	Caledonian Mercury	0002
+1821	07	28	Newcastle Courant	0002	1821	07	28	Jackson’s Oxford Journal	0004
+1821	07	30	Caledonian Mercury	0003	1821	07	21	Freeman’s Journal	0003
+1821	07	30	Caledonian Mercury	0003	1821	07	28	Bristol Mercury	0001
+1821	07	30	Glasgow Herald	0001	1821	07	19	Caledonian Mercury	0003
+1821	07	30	Glasgow Herald	0001	1821	07	28	Caledonian Mercury	0002
+1821	07	30	Glasgow Herald	0002	1821	07	30	Caledonian Mercury	0002
+1821	07	30	Glasgow Herald	0002	1821	07	30	Caledonian Mercury	0003
+1821	08	01	Freeman’s Journal	0004	1821	07	26	Caledonian Mercury	0003
+1821	08	01	Freeman’s Journal	0004	1821	07	27	Glasgow Herald	0001
+1821	08	01	Freeman’s Journal	0004	1821	07	30	Caledonian Mercury	0002
+1821	08	01	Aberdeen Journal	0004	1821	07	16	Caledonian Mercury	0004
+1821	08	01	Aberdeen Journal	0004	1821	07	19	Caledonian Mercury	0003
+1821	08	01	Aberdeen Journal	0004	1821	07	24	Freeman’s Journal	0002
+1821	08	01	Aberdeen Journal	0004	1821	07	25	Freeman’s Journal	0004
+1821	08	01	Aberdeen Journal	0004	1821	07	28	Bristol Mercury	0001
+1821	08	01	Derby Mercury	0004	1821	07	28	Caledonian Mercury	0003
+1821	08	01	Derby Mercury	0004	1821	07	28	Freeman’s Journal	0003
+1821	08	02	Freeman’s Journal	0004	1821	07	25	Derby Mercury	0004
+1821	08	02	Trewman’s Exeter Flying Post	0003	1821	07	30	Caledonian Mercury	0002
+1821	08	02	Trewman’s Exeter Flying Post	0003	1821	07	30	Caledonian Mercury	0003
+1821	08	02	Trewman’s Exeter Flying Post	0003	1821	07	30	Glasgow Herald	0002
+1821	08	04	Freeman’s Journal	0004	1821	07	28	Cobbett’s Weekly Political Register	0013
+1821	08	04	Freeman’s Journal	0004	1821	07	28	Cobbett’s Weekly Political Register	0014
+1821	08	04	Freeman’s Journal	0004	1821	07	28	Cobbett’s Weekly Political Register	0015
+1821	08	04	Leeds Mercury	0003	1821	07	28	Caledonian Mercury	0003
+1821	08	04	Leeds Mercury	0003	1821	07	28	Freeman’s Journal	0003
+1821	08	04	Leeds Mercury	0003	1821	07	28	Jackson’s Oxford Journal	0002
+1821	08	05	Examiner	0003	1821	07	26	Caledonian Mercury	0003
+1821	08	05	Examiner	0003	1821	07	27	Glasgow Herald	0001
+1821	08	05	Examiner	0004	1821	07	26	Caledonian Mercury	0003
+1821	08	05	Examiner	0004	1821	07	27	Glasgow Herald	0001
+1821	08	06	Caledonian Mercury	0001	1821	07	28	Jackson’s Oxford Journal	0002
+1821	08	06	Caledonian Mercury	0004	1821	07	30	Glasgow Herald	0004
+1821	08	08	Aberdeen Journal	0004	1821	07	21	Jackson’s Oxford Journal	0004
+1821	08	08	Aberdeen Journal	0004	1821	07	30	Caledonian Mercury	0003
+1821	08	08	Derby Mercury	0004	1821	07	26	Caledonian Mercury	0003
+1821	08	10	Liverpool Mercury	0007	1821	07	28	Jackson’s Oxford Journal	0002
+1821	08	13	Glasgow Herald	0004	1821	07	11	Freeman’s Journal	0002
+1821	08	18	Ipswich Journal	0001	1821	07	28	Jackson’s Oxford Journal	0002
+1821	08	25	Leeds Mercury	0004	1821	07	21	Jackson’s Oxford Journal	0001
+1821	08	31	Liverpool Mercury	0003	1821	07	28	Jackson’s Oxford Journal	0002
+1821	09	01	Leeds Mercury	0004	1821	07	07	Jackson’s Oxford Journal	0001
+1821	09	01	Leeds Mercury	0004	1821	07	14	Jackson’s Oxford Journal	0004
+1821	09	06	Trewman’s Exeter Flying Post	0002	1821	07	14	Jackson’s Oxford Journal	0004
+1821	09	07	Liverpool Mercury	0005	1821	07	21	Newcastle Courant	0003
+1821	09	12	Aberdeen Journal	0004	1821	07	12	Caledonian Mercury	0004
+1821	09	15	Jackson’s Oxford Journal	0004	1821	07	14	Leeds Mercury	0004
+1821	10	31	Aberdeen Journal	0004	1821	07	12	Caledonian Mercury	0004
+1821	12	01	Leeds Mercury	0001	1821	07	28	Jackson’s Oxford Journal	0002
+1821	12	15	Jackson’s Oxford Journal	0004	1821	07	21	Leeds Mercury	0004

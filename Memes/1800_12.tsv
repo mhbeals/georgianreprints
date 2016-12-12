@@ -1,0 +1,145 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1800	12	02	Hull Packet	0002	1800	12	01	Caledonian Mercury	0002
+1800	12	02	Hull Packet	0004	1800	12	01	Hampshire/Portsmouth Telegraph	0004
+1800	12	04	Caledonian Mercury	0002	1800	12	01	Hampshire/Portsmouth Telegraph	0003
+1800	12	04	Derby Mercury	0002	1800	12	02	Hull Packet	0004
+1800	12	04	Trewman’s Exeter Flying Post	0002	1800	12	01	Hampshire/Portsmouth Telegraph	0003
+1800	12	06	Jackson’s Oxford Journal	0001	1800	12	04	Caledonian Mercury	0002
+1800	12	06	Jackson’s Oxford Journal	0002	1800	12	06	Caledonian Mercury	0004
+1800	12	06	Jackson’s Oxford Journal	0004	1800	12	01	Hampshire/Portsmouth Telegraph	0003
+1800	12	06	Jackson’s Oxford Journal	0004	1800	12	04	Caledonian Mercury	0002
+1800	12	06	Jackson’s Oxford Journal	0004	1800	12	04	Trewman’s Exeter Flying Post	0002
+1800	12	08	Hampshire/Portsmouth Telegraph	0003	1800	12	08	Caledonian Mercury	0002
+1800	12	08	Aberdeen Journal	0004	1800	12	04	Caledonian Mercury	0002
+1800	12	09	Hull Packet	0001	1800	12	04	Trewman’s Exeter Flying Post	0003
+1800	12	09	Hull Packet	0001	1800	12	06	Caledonian Mercury	0004
+1800	12	09	Hull Packet	0001	1800	12	06	Jackson’s Oxford Journal	0002
+1800	12	09	Hull Packet	0001	1800	12	06	Jackson’s Oxford Journal	0004
+1800	12	09	Hull Packet	0004	1800	12	06	Jackson’s Oxford Journal	0004
+1800	12	09	Hull Packet	0004	1800	12	08	Caledonian Mercury	0004
+1800	12	11	Caledonian Mercury	0002	1800	12	08	Hampshire/Portsmouth Telegraph	0003
+1800	12	11	Trewman’s Exeter Flying Post	0002	1800	12	08	Caledonian Mercury	0002
+1800	12	11	Trewman’s Exeter Flying Post	0002	1800	12	08	Hampshire/Portsmouth Telegraph	0003
+1800	12	11	Trewman’s Exeter Flying Post	0003	1800	12	08	Aberdeen Journal	0003
+1800	12	11	Trewman’s Exeter Flying Post	0003	1800	12	11	Caledonian Mercury	0002
+1800	12	11	Trewman’s Exeter Flying Post	0004	1800	12	06	Caledonian Mercury	0003
+1800	12	13	Jackson’s Oxford Journal	0002	1800	12	13	Caledonian Mercury	0002
+1800	12	13	Jackson’s Oxford Journal	0004	1800	12	11	Caledonian Mercury	0002
+1800	12	13	Ipswich Journal	0001	1800	12	11	Caledonian Mercury	0002
+1800	12	13	Ipswich Journal	0001	1800	12	11	Trewman’s Exeter Flying Post	0004
+1800	12	15	Caledonian Mercury	0002	1800	12	13	Jackson’s Oxford Journal	0002
+1800	12	15	Aberdeen Journal	0003	1800	12	08	Caledonian Mercury	0002
+1800	12	15	Aberdeen Journal	0003	1800	12	08	Caledonian Mercury	0003
+1800	12	16	Hull Packet	0001	1800	12	11	Caledonian Mercury	0002
+1800	12	16	Hull Packet	0001	1800	12	13	Ipswich Journal	0001
+1800	12	16	Hull Packet	0001	1800	12	15	Hampshire/Portsmouth Telegraph	0004
+1800	12	16	Hull Packet	0004	1800	12	13	Caledonian Mercury	0003
+1800	12	18	Caledonian Mercury	0002	1800	12	15	Hampshire/Portsmouth Telegraph	0003
+1800	12	18	Caledonian Mercury	0004	1800	12	15	Hampshire/Portsmouth Telegraph	0002
+1800	12	18	Trewman’s Exeter Flying Post	0001	1800	12	02	Hull Packet	0001
+1800	12	18	Trewman’s Exeter Flying Post	0003	1800	12	18	Caledonian Mercury	0002
+1800	12	18	Trewman’s Exeter Flying Post	0004	1800	12	18	Derby Mercury	0003
+1800	12	20	Caledonian Mercury	0002	1800	12	18	Derby Mercury	0004
+1800	12	20	Caledonian Mercury	0002	1800	12	18	Trewman’s Exeter Flying Post	0003
+1800	12	20	Jackson’s Oxford Journal	0002	1800	12	18	Derby Mercury	0004
+1800	12	20	Jackson’s Oxford Journal	0002	1800	12	20	Caledonian Mercury	0002
+1800	12	20	Jackson’s Oxford Journal	0004	1800	12	18	Trewman’s Exeter Flying Post	0003
+1800	12	22	Caledonian Mercury	0003	1800	12	20	Jackson’s Oxford Journal	0004
+1800	12	22	Hampshire/Portsmouth Telegraph	0002	1800	12	22	Caledonian Mercury	0002
+1800	12	22	Hampshire/Portsmouth Telegraph	0004	1800	12	20	Jackson’s Oxford Journal	0004
+1800	12	22	Hampshire/Portsmouth Telegraph	0004	1800	12	22	Caledonian Mercury	0003
+1800	12	22	Aberdeen Journal	0002	1800	12	11	Caledonian Mercury	0003
+1800	12	22	Aberdeen Journal	0002	1800	12	15	Hampshire/Portsmouth Telegraph	0003
+1800	12	22	Aberdeen Journal	0002	1800	12	18	Caledonian Mercury	0002
+1800	12	22	Aberdeen Journal	0003	1800	12	13	Jackson’s Oxford Journal	0001
+1800	12	22	Aberdeen Journal	0003	1800	12	15	Caledonian Mercury	0003
+1800	12	23	Hull Packet	0001	1800	12	18	Derby Mercury	0003
+1800	12	23	Hull Packet	0001	1800	12	18	Derby Mercury	0004
+1800	12	23	Hull Packet	0001	1800	12	18	Trewman’s Exeter Flying Post	0003
+1800	12	23	Hull Packet	0001	1800	12	20	Caledonian Mercury	0002
+1800	12	23	Hull Packet	0001	1800	12	20	Jackson’s Oxford Journal	0002
+1800	12	23	Hull Packet	0001	1800	12	22	Hampshire/Portsmouth Telegraph	0004
+1800	12	23	Hull Packet	0004	1800	12	20	Jackson’s Oxford Journal	0002
+1800	12	23	Hull Packet	0004	1800	12	20	Jackson’s Oxford Journal	0004
+1800	12	23	Hull Packet	0004	1800	12	22	Caledonian Mercury	0003
+1800	12	23	Hull Packet	0004	1800	12	22	Hampshire/Portsmouth Telegraph	0004
+1800	12	25	Caledonian Mercury	0002	1800	12	22	Hampshire/Portsmouth Telegraph	0003
+1800	12	25	Derby Mercury	0001	1800	12	23	Hull Packet	0002
+1800	12	25	Derby Mercury	0002	1800	12	20	Ipswich Journal	0001
+1800	12	25	Derby Mercury	0002	1800	12	25	Caledonian Mercury	0002
+1800	12	25	Trewman’s Exeter Flying Post	0001	1800	12	25	Derby Mercury	0002
+1800	12	25	Trewman’s Exeter Flying Post	0002	1800	12	25	Caledonian Mercury	0002
+1800	12	25	Trewman’s Exeter Flying Post	0002	1800	12	25	Derby Mercury	0002
+1800	12	25	Trewman’s Exeter Flying Post	0003	1800	12	25	Derby Mercury	0002
+1800	12	27	Caledonian Mercury	0001	1800	12	25	Derby Mercury	0004
+1800	12	27	Jackson’s Oxford Journal	0001	1800	12	01	Caledonian Mercury	0001
+1800	12	27	Jackson’s Oxford Journal	0001	1800	12	20	Ipswich Journal	0001
+1800	12	27	Jackson’s Oxford Journal	0001	1800	12	23	Hull Packet	0001
+1800	12	27	Jackson’s Oxford Journal	0001	1800	12	25	Derby Mercury	0002
+1800	12	27	Jackson’s Oxford Journal	0001	1800	12	25	Trewman’s Exeter Flying Post	0001
+1800	12	27	Jackson’s Oxford Journal	0001	1800	12	27	Caledonian Mercury	0003
+1800	12	27	Jackson’s Oxford Journal	0002	1800	12	25	Trewman’s Exeter Flying Post	0003
+1800	12	27	Jackson’s Oxford Journal	0002	1800	12	27	Caledonian Mercury	0002
+1800	12	27	Jackson’s Oxford Journal	0002	1800	12	27	Caledonian Mercury	0003
+1800	12	27	Jackson’s Oxford Journal	0003	1800	12	25	Derby Mercury	0001
+1800	12	27	Jackson’s Oxford Journal	0003	1800	12	25	Derby Mercury	0004
+1800	12	27	Jackson’s Oxford Journal	0003	1800	12	27	Caledonian Mercury	0001
+1800	12	27	Jackson’s Oxford Journal	0004	1800	12	25	Caledonian Mercury	0002
+1800	12	27	Jackson’s Oxford Journal	0004	1800	12	25	Derby Mercury	0002
+1800	12	27	Jackson’s Oxford Journal	0004	1800	12	25	Trewman’s Exeter Flying Post	0002
+1800	12	27	Ipswich Journal	0004	1800	12	27	Jackson’s Oxford Journal	0002
+1800	12	29	Hampshire/Portsmouth Telegraph	0002	1800	12	27	Jackson’s Oxford Journal	0003
+1800	12	29	Aberdeen Journal	0002	1800	12	20	Caledonian Mercury	0002
+1800	12	29	Aberdeen Journal	0003	1800	12	15	Hampshire/Portsmouth Telegraph	0004
+1800	12	29	Aberdeen Journal	0003	1800	12	20	Caledonian Mercury	0003
+1800	12	29	Aberdeen Journal	0004	1800	12	25	Caledonian Mercury	0003
+1801	01	01	Caledonian Mercury	0002	1800	12	29	Hampshire/Portsmouth Telegraph	0003
+1801	01	01	Derby Mercury	0002	1800	12	27	Jackson’s Oxford Journal	0001
+1801	01	01	Derby Mercury	0002	1800	12	27	Jackson’s Oxford Journal	0002
+1801	01	01	Derby Mercury	0002	1800	12	29	Hampshire/Portsmouth Telegraph	0003
+1801	01	01	Derby Mercury	0003	1800	12	04	Trewman’s Exeter Flying Post	0004
+1801	01	01	Derby Mercury	0003	1800	12	25	Trewman’s Exeter Flying Post	0004
+1801	01	01	Trewman’s Exeter Flying Post	0001	1800	12	29	Hampshire/Portsmouth Telegraph	0003
+1801	01	03	Jackson’s Oxford Journal	0001	1800	12	20	Ipswich Journal	0001
+1801	01	03	Jackson’s Oxford Journal	0004	1800	12	29	Hampshire/Portsmouth Telegraph	0003
+1801	01	05	Aberdeen Journal	0001	1800	12	13	Ipswich Journal	0001
+1801	01	05	Aberdeen Journal	0001	1800	12	16	Hull Packet	0001
+1801	01	05	Aberdeen Journal	0002	1800	12	27	Jackson’s Oxford Journal	0002
+1801	01	05	Aberdeen Journal	0003	1800	12	27	Caledonian Mercury	0003
+1801	01	05	Aberdeen Journal	0003	1800	12	27	Jackson’s Oxford Journal	0002
+1801	01	05	Aberdeen Journal	0003	1800	12	29	Caledonian Mercury	0002
+1801	01	06	Morning Chronicle	0004	1800	12	13	Jackson’s Oxford Journal	0001
+1801	01	06	Morning Chronicle	0004	1800	12	27	Jackson’s Oxford Journal	0002
+1801	01	06	Hull Packet	0001	1800	12	25	Derby Mercury	0001
+1801	01	08	Derby Mercury	0003	1800	12	20	Ipswich Journal	0004
+1801	01	08	Trewman’s Exeter Flying Post	0002	1800	12	27	Jackson’s Oxford Journal	0002
+1801	01	09	Morning Chronicle	0002	1800	12	23	Hull Packet	0001
+1801	01	10	Jackson’s Oxford Journal	0002	1800	12	04	Trewman’s Exeter Flying Post	0004
+1801	01	10	Jackson’s Oxford Journal	0002	1800	12	25	Trewman’s Exeter Flying Post	0004
+1801	01	15	Trewman’s Exeter Flying Post	0003	1800	12	18	Derby Mercury	0003
+1801	01	15	Trewman’s Exeter Flying Post	0003	1800	12	23	Hull Packet	0001
+1801	01	19	Hampshire/Portsmouth Telegraph	0003	1800	12	27	Jackson’s Oxford Journal	0003
+1801	01	22	Trewman’s Exeter Flying Post	0003	1800	12	27	Jackson’s Oxford Journal	0002
+1801	01	24	Jackson’s Oxford Journal	0003	1800	12	25	Trewman’s Exeter Flying Post	0004
+1801	01	24	Jackson’s Oxford Journal	0004	1800	12	23	Hull Packet	0001
+1801	01	26	Caledonian Mercury	0001	1800	12	18	Derby Mercury	0003
+1801	01	26	Caledonian Mercury	0001	1800	12	23	Hull Packet	0001
+1801	01	29	Derby Mercury	0001	1800	12	06	Jackson’s Oxford Journal	0004
+1801	02	03	Hull Packet	0001	1800	12	18	Derby Mercury	0003
+1801	02	09	Hampshire/Portsmouth Telegraph	0006	1800	12	23	Hull Packet	0001
+1801	02	17	Hull Packet	0004	1800	12	18	Derby Mercury	0003
+1801	03	05	Derby Mercury	0003	1800	12	11	Trewman’s Exeter Flying Post	0001
+1801	03	09	Hampshire/Portsmouth Telegraph	0006	1800	12	23	Hull Packet	0001
+1801	03	14	Jackson’s Oxford Journal	0001	1800	12	25	Trewman’s Exeter Flying Post	0004
+1801	03	16	Aberdeen Journal	0003	1800	12	18	Derby Mercury	0003
+1801	03	16	Aberdeen Journal	0003	1800	12	23	Hull Packet	0001
+1801	03	21	Ipswich Journal	0001	1800	12	27	Jackson’s Oxford Journal	0001
+1801	03	30	Aberdeen Journal	0003	1800	12	04	Trewman’s Exeter Flying Post	0004
+1801	05	02	Caledonian Mercury	0004	1800	12	18	Derby Mercury	0003
+1801	05	02	Caledonian Mercury	0004	1800	12	23	Hull Packet	0001
+1801	05	04	Aberdeen Journal	0001	1800	12	18	Derby Mercury	0003
+1801	05	04	Aberdeen Journal	0001	1800	12	23	Hull Packet	0001
+1801	05	23	Jackson’s Oxford Journal	0004	1800	12	25	Trewman’s Exeter Flying Post	0004
+1801	06	18	Derby Mercury	0004	1800	12	23	Hull Packet	0002
+1801	06	23	Hull Packet	0001	1800	12	25	Derby Mercury	0001
+1801	06	26	Morning Chronicle	0002	1800	12	23	Hull Packet	0002

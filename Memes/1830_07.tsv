@@ -1,0 +1,757 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1830	07	02	Liverpool Mercury	0001	1830	07	01	North Wales Chronicle	0001
+1830	07	02	Belfast News-Letter	0002	1830	07	01	Freeman’s Journal	0004
+1830	07	02	Belfast News-Letter	0004	1830	07	01	North Wales Chronicle	0002
+1830	07	03	Ipswich Journal	0004	1830	07	01	Freeman’s Journal	0003
+1830	07	03	Ipswich Journal	0004	1830	07	01	Freeman’s Journal	0004
+1830	07	03	Newcastle Courant	0003	1830	07	02	Liverpool Mercury	0003
+1830	07	03	Newcastle Courant	0004	1830	07	03	Ipswich Journal	0001
+1830	07	03	Newcastle Courant	0004	1830	07	03	Ipswich Journal	0002
+1830	07	04	Examiner	0006	1830	07	02	Belfast News-Letter	0002
+1830	07	04	Examiner	0006	1830	07	03	Ipswich Journal	0004
+1830	07	05	Hampshire/Portsmouth Telegraph	0001	1830	07	01	Freeman’s Journal	0004
+1830	07	05	Hampshire/Portsmouth Telegraph	0001	1830	07	02	Belfast News-Letter	0002
+1830	07	05	Hampshire/Portsmouth Telegraph	0001	1830	07	04	Examiner	0006
+1830	07	05	Hampshire/Portsmouth Telegraph	0002	1830	07	03	Ipswich Journal	0002
+1830	07	05	Hampshire/Portsmouth Telegraph	0002	1830	07	03	Ipswich Journal	0004
+1830	07	06	Belfast News-Letter	0003	1830	07	03	Freeman’s Journal	0002
+1830	07	06	Belfast News-Letter	0004	1830	07	02	Freeman’s Journal	0003
+1830	07	06	Belfast News-Letter	0004	1830	07	03	Caledonian Mercury	0002
+1830	07	06	Belfast News-Letter	0004	1830	07	03	Ipswich Journal	0002
+1830	07	06	Belfast News-Letter	0004	1830	07	03	Ipswich Journal	0004
+1830	07	06	Belfast News-Letter	0004	1830	07	04	Examiner	0010
+1830	07	06	Belfast News-Letter	0004	1830	07	05	Freeman’s Journal	0001
+1830	07	06	Bristol Mercury	0001	1830	07	05	Freeman’s Journal	0001
+1830	07	06	Bristol Mercury	0001	1830	07	05	Hampshire/Portsmouth Telegraph	0003
+1830	07	06	Bristol Mercury	0001	1830	07	06	Belfast News-Letter	0004
+1830	07	06	Bristol Mercury	0002	1830	07	03	Ipswich Journal	0002
+1830	07	06	Bristol Mercury	0002	1830	07	05	Hampshire/Portsmouth Telegraph	0003
+1830	07	06	Bristol Mercury	0002	1830	07	06	Belfast News-Letter	0004
+1830	07	06	Bristol Mercury	0004	1830	07	03	Ipswich Journal	0002
+1830	07	06	Hull Packet	0001	1830	07	03	Freeman’s Journal	0003
+1830	07	06	Hull Packet	0001	1830	07	05	Freeman’s Journal	0003
+1830	07	06	Hull Packet	0002	1830	07	03	Ipswich Journal	0002
+1830	07	06	Hull Packet	0002	1830	07	05	Hampshire/Portsmouth Telegraph	0003
+1830	07	06	Hull Packet	0002	1830	07	06	Belfast News-Letter	0004
+1830	07	06	Hull Packet	0004	1830	07	01	Caledonian Mercury	0002
+1830	07	06	Hull Packet	0004	1830	07	01	Freeman’s Journal	0003
+1830	07	06	Hull Packet	0004	1830	07	03	Ipswich Journal	0004
+1830	07	06	Hull Packet	0004	1830	07	04	Examiner	0006
+1830	07	06	Hull Packet	0004	1830	07	05	Hampshire/Portsmouth Telegraph	0001
+1830	07	06	Hull Packet	0004	1830	07	06	Belfast News-Letter	0004
+1830	07	06	Hull Packet	0004	1830	07	06	Bristol Mercury	0001
+1830	07	07	Aberdeen Journal	0002	1830	07	01	Caledonian Mercury	0002
+1830	07	07	Aberdeen Journal	0002	1830	07	01	Freeman’s Journal	0003
+1830	07	07	Aberdeen Journal	0002	1830	07	02	Belfast News-Letter	0002
+1830	07	07	Aberdeen Journal	0002	1830	07	03	Ipswich Journal	0004
+1830	07	07	Aberdeen Journal	0002	1830	07	03	Newcastle Courant	0002
+1830	07	07	Aberdeen Journal	0002	1830	07	04	Examiner	0006
+1830	07	07	Aberdeen Journal	0002	1830	07	05	Hampshire/Portsmouth Telegraph	0001
+1830	07	07	Aberdeen Journal	0002	1830	07	06	Hull Packet	0004
+1830	07	07	Aberdeen Journal	0004	1830	07	06	Bristol Mercury	0004
+1830	07	07	Derby Mercury	0001	1830	07	03	Ipswich Journal	0002
+1830	07	07	Derby Mercury	0001	1830	07	03	Newcastle Courant	0004
+1830	07	07	Derby Mercury	0001	1830	07	05	Hampshire/Portsmouth Telegraph	0003
+1830	07	07	Derby Mercury	0002	1830	07	07	Freeman’s Journal	0004
+1830	07	07	Derby Mercury	0004	1830	07	03	Ipswich Journal	0004
+1830	07	07	Derby Mercury	0004	1830	07	05	Freeman’s Journal	0001
+1830	07	07	Derby Mercury	0004	1830	07	06	Belfast News-Letter	0004
+1830	07	07	Derby Mercury	0004	1830	07	06	Bristol Mercury	0001
+1830	07	07	Derby Mercury	0004	1830	07	06	Hull Packet	0004
+1830	07	08	Freeman’s Journal	0003	1830	07	07	Derby Mercury	0002
+1830	07	08	North Wales Chronicle	0001	1830	07	05	Freeman’s Journal	0001
+1830	07	08	North Wales Chronicle	0001	1830	07	06	Belfast News-Letter	0004
+1830	07	08	North Wales Chronicle	0001	1830	07	06	Bristol Mercury	0001
+1830	07	08	North Wales Chronicle	0001	1830	07	07	Derby Mercury	0004
+1830	07	08	North Wales Chronicle	0002	1830	07	06	Belfast News-Letter	0004
+1830	07	09	Liverpool Mercury	0001	1830	07	01	North Wales Chronicle	0001
+1830	07	09	Belfast News-Letter	0002	1830	07	08	Freeman’s Journal	0003
+1830	07	09	Belfast News-Letter	0004	1830	07	02	Liverpool Mercury	0007
+1830	07	09	Belfast News-Letter	0004	1830	07	05	Freeman’s Journal	0004
+1830	07	10	Cobbett’s Weekly Political Register	0014	1830	07	03	Ipswich Journal	0002
+1830	07	10	Cobbett’s Weekly Political Register	0014	1830	07	06	Hull Packet	0002
+1830	07	10	Freeman’s Journal	0004	1830	07	07	Derby Mercury	0002
+1830	07	10	Ipswich Journal	0001	1830	07	08	Freeman’s Journal	0003
+1830	07	10	Newcastle Courant	0002	1830	07	05	Freeman’s Journal	0003
+1830	07	10	Newcastle Courant	0002	1830	07	05	Hampshire/Portsmouth Telegraph	0003
+1830	07	10	Newcastle Courant	0002	1830	07	06	Belfast News-Letter	0002
+1830	07	10	Newcastle Courant	0002	1830	07	06	Bristol Mercury	0002
+1830	07	10	Newcastle Courant	0002	1830	07	07	Freeman’s Journal	0004
+1830	07	10	Newcastle Courant	0002	1830	07	07	Derby Mercury	0001
+1830	07	10	Newcastle Courant	0002	1830	07	08	Freeman’s Journal	0003
+1830	07	10	Newcastle Courant	0003	1830	07	08	Freeman’s Journal	0004
+1830	07	10	Newcastle Courant	0004	1830	07	10	Ipswich Journal	0004
+1830	07	12	Freeman’s Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	07	12	Freeman’s Journal	0002	1830	07	12	Caledonian Mercury	0002
+1830	07	12	Hampshire/Portsmouth Telegraph	0003	1830	07	12	Freeman’s Journal	0003
+1830	07	13	Freeman’s Journal	0003	1830	07	11	Examiner	0004
+1830	07	13	Belfast News-Letter	0001	1830	07	07	Freeman’s Journal	0002
+1830	07	13	Belfast News-Letter	0001	1830	07	08	Freeman’s Journal	0004
+1830	07	13	Belfast News-Letter	0001	1830	07	10	Freeman’s Journal	0001
+1830	07	13	Belfast News-Letter	0001	1830	07	12	Freeman’s Journal	0001
+1830	07	13	Belfast News-Letter	0004	1830	07	10	Ipswich Journal	0002
+1830	07	13	Belfast News-Letter	0004	1830	07	11	Examiner	0004
+1830	07	13	Belfast News-Letter	0004	1830	07	12	Freeman’s Journal	0004
+1830	07	13	Bristol Mercury	0001	1830	07	12	Hampshire/Portsmouth Telegraph	0003
+1830	07	13	Bristol Mercury	0004	1830	07	10	Ipswich Journal	0001
+1830	07	13	Bristol Mercury	0004	1830	07	12	Hampshire/Portsmouth Telegraph	0002
+1830	07	13	Hull Packet	0001	1830	07	10	Freeman’s Journal	0004
+1830	07	13	Hull Packet	0001	1830	07	10	Ipswich Journal	0001
+1830	07	13	Hull Packet	0002	1830	07	11	Examiner	0004
+1830	07	13	Hull Packet	0002	1830	07	13	Belfast News-Letter	0004
+1830	07	14	Freeman’s Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	07	14	Freeman’s Journal	0001	1830	07	13	Belfast News-Letter	0001
+1830	07	14	Aberdeen Journal	0002	1830	07	07	Derby Mercury	0002
+1830	07	14	Aberdeen Journal	0002	1830	07	10	Ipswich Journal	0001
+1830	07	14	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	07	14	Derby Mercury	0001	1830	07	06	Belfast News-Letter	0003
+1830	07	14	Derby Mercury	0001	1830	07	13	Freeman’s Journal	0002
+1830	07	14	Derby Mercury	0002	1830	07	12	Freeman’s Journal	0004
+1830	07	14	Derby Mercury	0002	1830	07	12	Hampshire/Portsmouth Telegraph	0003
+1830	07	14	Derby Mercury	0002	1830	07	13	Freeman’s Journal	0003
+1830	07	14	Derby Mercury	0002	1830	07	13	Belfast News-Letter	0002
+1830	07	14	Derby Mercury	0002	1830	07	13	Bristol Mercury	0001
+1830	07	14	Derby Mercury	0002	1830	07	13	Hull Packet	0002
+1830	07	15	Freeman’s Journal	0002	1830	07	15	Caledonian Mercury	0002
+1830	07	16	Freeman’s Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	07	16	Freeman’s Journal	0001	1830	07	13	Belfast News-Letter	0001
+1830	07	16	Liverpool Mercury	0002	1830	07	04	Examiner	0002
+1830	07	16	Liverpool Mercury	0003	1830	07	13	Bristol Mercury	0002
+1830	07	16	Liverpool Mercury	0006	1830	07	13	Freeman’s Journal	0003
+1830	07	16	Liverpool Mercury	0006	1830	07	13	Belfast News-Letter	0002
+1830	07	16	Liverpool Mercury	0006	1830	07	14	Derby Mercury	0002
+1830	07	17	Ipswich Journal	0001	1830	07	12	Hampshire/Portsmouth Telegraph	0004
+1830	07	17	Ipswich Journal	0001	1830	07	14	Derby Mercury	0002
+1830	07	17	Ipswich Journal	0001	1830	07	16	Freeman’s Journal	0004
+1830	07	17	Ipswich Journal	0004	1830	07	14	Derby Mercury	0004
+1830	07	17	Ipswich Journal	0004	1830	07	16	Freeman’s Journal	0004
+1830	07	17	Ipswich Journal	0004	1830	07	17	Freeman’s Journal	0003
+1830	07	17	Newcastle Courant	0002	1830	07	10	Ipswich Journal	0003
+1830	07	17	Newcastle Courant	0002	1830	07	12	Freeman’s Journal	0004
+1830	07	17	Newcastle Courant	0002	1830	07	12	Hampshire/Portsmouth Telegraph	0003
+1830	07	17	Newcastle Courant	0002	1830	07	13	Belfast News-Letter	0004
+1830	07	17	Newcastle Courant	0002	1830	07	13	Hull Packet	0002
+1830	07	17	Newcastle Courant	0002	1830	07	14	Derby Mercury	0001
+1830	07	17	Newcastle Courant	0002	1830	07	14	Derby Mercury	0002
+1830	07	17	Newcastle Courant	0003	1830	07	13	Freeman’s Journal	0004
+1830	07	17	Newcastle Courant	0003	1830	07	14	Derby Mercury	0004
+1830	07	18	Examiner	0008	1830	07	17	Freeman’s Journal	0004
+1830	07	19	Caledonian Mercury	0004	1830	07	13	Freeman’s Journal	0003
+1830	07	19	Freeman’s Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	07	19	Freeman’s Journal	0001	1830	07	13	Belfast News-Letter	0001
+1830	07	19	Freeman’s Journal	0003	1830	07	18	Examiner	0006
+1830	07	19	Freeman’s Journal	0004	1830	07	18	Examiner	0007
+1830	07	19	Freeman’s Journal	0004	1830	07	19	Caledonian Mercury	0004
+1830	07	19	Hampshire/Portsmouth Telegraph	0002	1830	07	17	Freeman’s Journal	0002
+1830	07	19	Hampshire/Portsmouth Telegraph	0002	1830	07	17	Ipswich Journal	0002
+1830	07	19	Hampshire/Portsmouth Telegraph	0002	1830	07	18	Examiner	0006
+1830	07	19	Hampshire/Portsmouth Telegraph	0002	1830	07	18	Examiner	0007
+1830	07	19	Hampshire/Portsmouth Telegraph	0002	1830	07	19	Freeman’s Journal	0004
+1830	07	20	Freeman’s Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	07	20	Freeman’s Journal	0001	1830	07	14	Derby Mercury	0001
+1830	07	20	Belfast News-Letter	0001	1830	07	14	Freeman’s Journal	0001
+1830	07	20	Belfast News-Letter	0001	1830	07	16	Freeman’s Journal	0001
+1830	07	20	Belfast News-Letter	0001	1830	07	17	Ipswich Journal	0002
+1830	07	20	Belfast News-Letter	0001	1830	07	18	Examiner	0007
+1830	07	20	Belfast News-Letter	0001	1830	07	19	Freeman’s Journal	0001
+1830	07	20	Belfast News-Letter	0001	1830	07	19	Freeman’s Journal	0004
+1830	07	20	Belfast News-Letter	0001	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	20	Belfast News-Letter	0002	1830	07	17	Ipswich Journal	0002
+1830	07	20	Belfast News-Letter	0002	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	20	Bristol Mercury	0001	1830	07	12	Hampshire/Portsmouth Telegraph	0002
+1830	07	20	Bristol Mercury	0001	1830	07	19	Freeman’s Journal	0002
+1830	07	20	Bristol Mercury	0001	1830	07	19	Freeman’s Journal	0004
+1830	07	20	Bristol Mercury	0001	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	20	Bristol Mercury	0002	1830	07	20	Freeman’s Journal	0002
+1830	07	20	Bristol Mercury	0002	1830	07	20	Freeman’s Journal	0003
+1830	07	20	Bristol Mercury	0004	1830	07	17	Ipswich Journal	0002
+1830	07	20	Bristol Mercury	0004	1830	07	18	Examiner	0006
+1830	07	20	Bristol Mercury	0004	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	20	Bristol Mercury	0004	1830	07	20	Belfast News-Letter	0001
+1830	07	20	Bristol Mercury	0004	1830	07	20	Belfast News-Letter	0002
+1830	07	20	Hull Packet	0001	1830	07	18	Examiner	0006
+1830	07	20	Hull Packet	0001	1830	07	19	Freeman’s Journal	0003
+1830	07	20	Hull Packet	0001	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	20	Hull Packet	0001	1830	07	20	Bristol Mercury	0004
+1830	07	20	Hull Packet	0002	1830	07	18	Examiner	0007
+1830	07	20	Hull Packet	0002	1830	07	19	Freeman’s Journal	0004
+1830	07	20	Hull Packet	0002	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	20	Hull Packet	0002	1830	07	20	Belfast News-Letter	0001
+1830	07	20	Hull Packet	0002	1830	07	20	Bristol Mercury	0001
+1830	07	21	Freeman’s Journal	0004	1830	07	18	Examiner	0002
+1830	07	21	Freeman’s Journal	0004	1830	07	18	Examiner	0003
+1830	07	21	Aberdeen Journal	0001	1830	07	03	Freeman’s Journal	0002
+1830	07	21	Aberdeen Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	07	21	Aberdeen Journal	0001	1830	07	14	Derby Mercury	0001
+1830	07	21	Aberdeen Journal	0001	1830	07	20	Freeman’s Journal	0001
+1830	07	21	Aberdeen Journal	0002	1830	07	17	Ipswich Journal	0002
+1830	07	21	Aberdeen Journal	0002	1830	07	18	Examiner	0006
+1830	07	21	Aberdeen Journal	0002	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	21	Aberdeen Journal	0002	1830	07	20	Bristol Mercury	0004
+1830	07	21	Aberdeen Journal	0002	1830	07	20	Hull Packet	0001
+1830	07	21	Aberdeen Journal	0004	1830	07	18	Examiner	0007
+1830	07	21	Aberdeen Journal	0004	1830	07	19	Freeman’s Journal	0004
+1830	07	21	Aberdeen Journal	0004	1830	07	20	Belfast News-Letter	0001
+1830	07	21	Derby Mercury	0001	1830	07	17	Caledonian Mercury	0002
+1830	07	21	Derby Mercury	0001	1830	07	17	Ipswich Journal	0002
+1830	07	21	Derby Mercury	0001	1830	07	18	Examiner	0006
+1830	07	21	Derby Mercury	0001	1830	07	19	Freeman’s Journal	0003
+1830	07	21	Derby Mercury	0001	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	21	Derby Mercury	0001	1830	07	20	Belfast News-Letter	0001
+1830	07	21	Derby Mercury	0001	1830	07	20	Belfast News-Letter	0002
+1830	07	21	Derby Mercury	0001	1830	07	20	Bristol Mercury	0004
+1830	07	21	Derby Mercury	0001	1830	07	20	Hull Packet	0001
+1830	07	21	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0002
+1830	07	21	Derby Mercury	0004	1830	07	17	Freeman’s Journal	0004
+1830	07	21	Derby Mercury	0004	1830	07	17	Ipswich Journal	0002
+1830	07	22	North Wales Chronicle	0001	1830	07	17	Ipswich Journal	0004
+1830	07	22	North Wales Chronicle	0001	1830	07	17	Newcastle Courant	0004
+1830	07	22	North Wales Chronicle	0001	1830	07	20	Hull Packet	0004
+1830	07	22	North Wales Chronicle	0002	1830	07	17	Ipswich Journal	0002
+1830	07	22	North Wales Chronicle	0002	1830	07	18	Examiner	0007
+1830	07	22	North Wales Chronicle	0002	1830	07	19	Freeman’s Journal	0004
+1830	07	22	North Wales Chronicle	0002	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	22	North Wales Chronicle	0002	1830	07	20	Belfast News-Letter	0001
+1830	07	22	North Wales Chronicle	0002	1830	07	20	Bristol Mercury	0004
+1830	07	22	North Wales Chronicle	0002	1830	07	20	Hull Packet	0002
+1830	07	22	North Wales Chronicle	0002	1830	07	21	Derby Mercury	0001
+1830	07	22	North Wales Chronicle	0003	1830	07	18	Examiner	0007
+1830	07	23	Liverpool Mercury	0002	1830	07	18	Examiner	0011
+1830	07	23	Liverpool Mercury	0002	1830	07	21	Derby Mercury	0001
+1830	07	23	Liverpool Mercury	0002	1830	07	22	Freeman’s Journal	0004
+1830	07	23	Liverpool Mercury	0005	1830	07	21	Derby Mercury	0001
+1830	07	23	Liverpool Mercury	0007	1830	07	09	Belfast News-Letter	0004
+1830	07	23	Belfast News-Letter	0002	1830	07	21	Derby Mercury	0002
+1830	07	23	Belfast News-Letter	0004	1830	07	20	Freeman’s Journal	0003
+1830	07	24	Ipswich Journal	0002	1830	07	13	Belfast News-Letter	0002
+1830	07	24	Ipswich Journal	0002	1830	07	14	Derby Mercury	0002
+1830	07	24	Ipswich Journal	0002	1830	07	16	Liverpool Mercury	0006
+1830	07	24	Newcastle Courant	0002	1830	07	17	Ipswich Journal	0002
+1830	07	24	Newcastle Courant	0002	1830	07	18	Examiner	0007
+1830	07	24	Newcastle Courant	0002	1830	07	19	Caledonian Mercury	0004
+1830	07	24	Newcastle Courant	0002	1830	07	19	Freeman’s Journal	0004
+1830	07	24	Newcastle Courant	0002	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	24	Newcastle Courant	0002	1830	07	20	Belfast News-Letter	0001
+1830	07	24	Newcastle Courant	0002	1830	07	20	Belfast News-Letter	0002
+1830	07	24	Newcastle Courant	0002	1830	07	20	Bristol Mercury	0004
+1830	07	24	Newcastle Courant	0002	1830	07	20	Hull Packet	0001
+1830	07	24	Newcastle Courant	0002	1830	07	21	Aberdeen Journal	0002
+1830	07	24	Newcastle Courant	0002	1830	07	21	Derby Mercury	0001
+1830	07	24	Newcastle Courant	0002	1830	07	22	North Wales Chronicle	0002
+1830	07	24	Newcastle Courant	0002	1830	07	23	Liverpool Mercury	0002
+1830	07	24	Newcastle Courant	0003	1830	07	17	Caledonian Mercury	0002
+1830	07	24	Newcastle Courant	0003	1830	07	18	Examiner	0007
+1830	07	24	Newcastle Courant	0003	1830	07	19	Freeman’s Journal	0004
+1830	07	24	Newcastle Courant	0003	1830	07	19	Hampshire/Portsmouth Telegraph	0002
+1830	07	24	Newcastle Courant	0003	1830	07	20	Freeman’s Journal	0002
+1830	07	24	Newcastle Courant	0003	1830	07	20	Belfast News-Letter	0001
+1830	07	24	Newcastle Courant	0003	1830	07	20	Hull Packet	0002
+1830	07	24	Newcastle Courant	0003	1830	07	21	Aberdeen Journal	0004
+1830	07	24	Newcastle Courant	0003	1830	07	22	North Wales Chronicle	0002
+1830	07	24	Newcastle Courant	0003	1830	07	22	North Wales Chronicle	0003
+1830	07	25	Examiner	0003	1830	07	21	Freeman’s Journal	0003
+1830	07	25	Examiner	0003	1830	07	23	Freeman’s Journal	0003
+1830	07	25	Examiner	0010	1830	07	24	Ipswich Journal	0001
+1830	07	25	Examiner	0013	1830	07	03	Freeman’s Journal	0002
+1830	07	25	Examiner	0013	1830	07	06	Belfast News-Letter	0003
+1830	07	25	Examiner	0013	1830	07	14	Derby Mercury	0001
+1830	07	25	Examiner	0013	1830	07	20	Freeman’s Journal	0001
+1830	07	25	Examiner	0013	1830	07	21	Aberdeen Journal	0001
+1830	07	26	Caledonian Mercury	0002	1830	07	25	Examiner	0007
+1830	07	26	Freeman’s Journal	0003	1830	07	25	Examiner	0007
+1830	07	26	Freeman’s Journal	0003	1830	07	26	Caledonian Mercury	0002
+1830	07	26	Hampshire/Portsmouth Telegraph	0002	1830	07	10	Ipswich Journal	0004
+1830	07	26	Hampshire/Portsmouth Telegraph	0002	1830	07	24	Freeman’s Journal	0004
+1830	07	26	Hampshire/Portsmouth Telegraph	0002	1830	07	25	Examiner	0003
+1830	07	26	Hampshire/Portsmouth Telegraph	0003	1830	07	25	Examiner	0007
+1830	07	26	Hampshire/Portsmouth Telegraph	0003	1830	07	26	Caledonian Mercury	0002
+1830	07	26	Hampshire/Portsmouth Telegraph	0003	1830	07	26	Freeman’s Journal	0003
+1830	07	26	Hampshire/Portsmouth Telegraph	0004	1830	07	26	Freeman’s Journal	0003
+1830	07	27	Belfast News-Letter	0001	1830	07	14	Freeman’s Journal	0001
+1830	07	27	Belfast News-Letter	0001	1830	07	16	Freeman’s Journal	0001
+1830	07	27	Belfast News-Letter	0001	1830	07	19	Freeman’s Journal	0001
+1830	07	27	Belfast News-Letter	0002	1830	07	25	Examiner	0007
+1830	07	27	Belfast News-Letter	0002	1830	07	26	Freeman’s Journal	0003
+1830	07	27	Belfast News-Letter	0002	1830	07	26	Hampshire/Portsmouth Telegraph	0003
+1830	07	27	Belfast News-Letter	0002	1830	07	27	Freeman’s Journal	0003
+1830	07	27	Bristol Mercury	0001	1830	07	23	Belfast News-Letter	0002
+1830	07	27	Bristol Mercury	0001	1830	07	24	Ipswich Journal	0002
+1830	07	27	Bristol Mercury	0001	1830	07	26	Freeman’s Journal	0003
+1830	07	27	Bristol Mercury	0001	1830	07	26	Hampshire/Portsmouth Telegraph	0002
+1830	07	27	Bristol Mercury	0002	1830	07	18	Examiner	0005
+1830	07	27	Bristol Mercury	0002	1830	07	25	Examiner	0007
+1830	07	27	Bristol Mercury	0002	1830	07	26	Caledonian Mercury	0002
+1830	07	27	Bristol Mercury	0002	1830	07	26	Freeman’s Journal	0003
+1830	07	27	Bristol Mercury	0002	1830	07	26	Hampshire/Portsmouth Telegraph	0003
+1830	07	27	Bristol Mercury	0002	1830	07	27	Belfast News-Letter	0002
+1830	07	27	Bristol Mercury	0004	1830	07	21	Derby Mercury	0003
+1830	07	27	Hull Packet	0001	1830	07	22	Freeman’s Journal	0002
+1830	07	27	Hull Packet	0002	1830	07	24	Freeman’s Journal	0004
+1830	07	27	Hull Packet	0002	1830	07	25	Examiner	0007
+1830	07	27	Hull Packet	0002	1830	07	26	Caledonian Mercury	0002
+1830	07	27	Hull Packet	0002	1830	07	26	Freeman’s Journal	0003
+1830	07	27	Hull Packet	0002	1830	07	26	Hampshire/Portsmouth Telegraph	0003
+1830	07	27	Hull Packet	0002	1830	07	27	Belfast News-Letter	0002
+1830	07	27	Hull Packet	0002	1830	07	27	Bristol Mercury	0002
+1830	07	28	Freeman’s Journal	0004	1830	07	24	Cobbett’s Weekly Political Register	0010
+1830	07	28	Freeman’s Journal	0004	1830	07	24	Cobbett’s Weekly Political Register	0011
+1830	07	28	Freeman’s Journal	0004	1830	07	24	Cobbett’s Weekly Political Register	0012
+1830	07	28	Aberdeen Journal	0002	1830	07	21	Derby Mercury	0002
+1830	07	28	Aberdeen Journal	0002	1830	07	23	Belfast News-Letter	0002
+1830	07	28	Aberdeen Journal	0002	1830	07	26	Freeman’s Journal	0004
+1830	07	28	Aberdeen Journal	0002	1830	07	27	Bristol Mercury	0001
+1830	07	28	Aberdeen Journal	0003	1830	07	27	Bristol Mercury	0002
+1830	07	28	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	07	28	Derby Mercury	0001	1830	07	06	Belfast News-Letter	0003
+1830	07	28	Derby Mercury	0001	1830	07	20	Freeman’s Journal	0001
+1830	07	28	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0001
+1830	07	28	Derby Mercury	0001	1830	07	24	Freeman’s Journal	0004
+1830	07	28	Derby Mercury	0001	1830	07	25	Examiner	0013
+1830	07	28	Derby Mercury	0001	1830	07	26	Hampshire/Portsmouth Telegraph	0002
+1830	07	28	Derby Mercury	0002	1830	07	24	Ipswich Journal	0004
+1830	07	28	Derby Mercury	0004	1830	07	25	Examiner	0007
+1830	07	28	Derby Mercury	0004	1830	07	26	Caledonian Mercury	0002
+1830	07	28	Derby Mercury	0004	1830	07	26	Freeman’s Journal	0003
+1830	07	28	Derby Mercury	0004	1830	07	26	Hampshire/Portsmouth Telegraph	0003
+1830	07	28	Derby Mercury	0004	1830	07	26	Hampshire/Portsmouth Telegraph	0004
+1830	07	28	Derby Mercury	0004	1830	07	27	Belfast News-Letter	0002
+1830	07	28	Derby Mercury	0004	1830	07	27	Bristol Mercury	0002
+1830	07	28	Derby Mercury	0004	1830	07	27	Hull Packet	0002
+1830	07	28	Derby Mercury	0004	1830	07	28	Aberdeen Journal	0003
+1830	07	29	Freeman’s Journal	0002	1830	07	28	Derby Mercury	0002
+1830	07	29	Freeman’s Journal	0003	1830	07	28	Derby Mercury	0002
+1830	07	29	Freeman’s Journal	0004	1830	07	26	Hampshire/Portsmouth Telegraph	0004
+1830	07	29	North Wales Chronicle	0002	1830	07	26	Freeman’s Journal	0003
+1830	07	29	North Wales Chronicle	0002	1830	07	28	Derby Mercury	0004
+1830	07	29	North Wales Chronicle	0004	1830	07	18	Examiner	0002
+1830	07	29	North Wales Chronicle	0004	1830	07	18	Examiner	0003
+1830	07	30	Liverpool Mercury	0002	1830	07	21	Derby Mercury	0003
+1830	07	30	Liverpool Mercury	0002	1830	07	25	Examiner	0007
+1830	07	30	Liverpool Mercury	0002	1830	07	26	Freeman’s Journal	0003
+1830	07	30	Liverpool Mercury	0002	1830	07	26	Hampshire/Portsmouth Telegraph	0003
+1830	07	30	Liverpool Mercury	0002	1830	07	26	Hampshire/Portsmouth Telegraph	0004
+1830	07	30	Liverpool Mercury	0002	1830	07	27	Belfast News-Letter	0002
+1830	07	30	Liverpool Mercury	0002	1830	07	27	Bristol Mercury	0002
+1830	07	30	Liverpool Mercury	0002	1830	07	27	Hull Packet	0002
+1830	07	30	Liverpool Mercury	0002	1830	07	28	Derby Mercury	0004
+1830	07	30	Liverpool Mercury	0002	1830	07	29	North Wales Chronicle	0002
+1830	07	30	Liverpool Mercury	0003	1830	07	21	Derby Mercury	0001
+1830	07	30	Belfast News-Letter	0001	1830	07	10	Freeman’s Journal	0001
+1830	07	30	Belfast News-Letter	0001	1830	07	12	Freeman’s Journal	0001
+1830	07	30	Belfast News-Letter	0001	1830	07	14	Freeman’s Journal	0001
+1830	07	30	Belfast News-Letter	0001	1830	07	16	Freeman’s Journal	0001
+1830	07	30	Belfast News-Letter	0001	1830	07	19	Freeman’s Journal	0001
+1830	07	30	Belfast News-Letter	0001	1830	07	22	Freeman’s Journal	0001
+1830	07	30	Belfast News-Letter	0001	1830	07	28	Freeman’s Journal	0001
+1830	07	30	Belfast News-Letter	0002	1830	07	28	Derby Mercury	0002
+1830	07	30	Belfast News-Letter	0002	1830	07	29	Freeman’s Journal	0003
+1830	07	30	Belfast News-Letter	0004	1830	07	02	Liverpool Mercury	0007
+1830	07	30	Belfast News-Letter	0004	1830	07	23	Liverpool Mercury	0007
+1830	07	30	Belfast News-Letter	0004	1830	07	27	Freeman’s Journal	0003
+1830	07	31	Cobbett’s Weekly Political Register	0008	1830	07	20	Freeman’s Journal	0004
+1830	07	31	Freeman’s Journal	0003	1830	07	31	Caledonian Mercury	0002
+1830	07	31	Freeman’s Journal	0004	1830	07	30	Liverpool Mercury	0002
+1830	07	31	Ipswich Journal	0001	1830	07	25	Examiner	0007
+1830	07	31	Ipswich Journal	0001	1830	07	26	Caledonian Mercury	0002
+1830	07	31	Ipswich Journal	0001	1830	07	26	Freeman’s Journal	0003
+1830	07	31	Ipswich Journal	0001	1830	07	26	Hampshire/Portsmouth Telegraph	0003
+1830	07	31	Ipswich Journal	0001	1830	07	26	Hampshire/Portsmouth Telegraph	0004
+1830	07	31	Ipswich Journal	0001	1830	07	27	Belfast News-Letter	0002
+1830	07	31	Ipswich Journal	0001	1830	07	27	Bristol Mercury	0002
+1830	07	31	Ipswich Journal	0001	1830	07	27	Hull Packet	0002
+1830	07	31	Ipswich Journal	0001	1830	07	28	Derby Mercury	0002
+1830	07	31	Ipswich Journal	0001	1830	07	28	Derby Mercury	0004
+1830	07	31	Ipswich Journal	0001	1830	07	29	North Wales Chronicle	0002
+1830	07	31	Ipswich Journal	0001	1830	07	30	Freeman’s Journal	0002
+1830	07	31	Ipswich Journal	0001	1830	07	30	Liverpool Mercury	0002
+1830	07	31	Ipswich Journal	0002	1830	07	31	Freeman’s Journal	0003
+1830	07	31	Ipswich Journal	0002	1830	07	31	Freeman’s Journal	0004
+1830	07	31	Ipswich Journal	0004	1830	07	23	Freeman’s Journal	0003
+1830	07	31	Ipswich Journal	0004	1830	07	25	Examiner	0003
+1830	07	31	Ipswich Journal	0004	1830	07	28	Derby Mercury	0001
+1830	07	31	Ipswich Journal	0004	1830	07	28	Derby Mercury	0002
+1830	07	31	Ipswich Journal	0004	1830	07	29	Freeman’s Journal	0003
+1830	07	31	Ipswich Journal	0004	1830	07	30	Belfast News-Letter	0002
+1830	07	31	Newcastle Courant	0001	1830	07	28	Derby Mercury	0001
+1830	07	31	Newcastle Courant	0002	1830	07	24	Ipswich Journal	0002
+1830	07	31	Newcastle Courant	0002	1830	07	24	Ipswich Journal	0004
+1830	07	31	Newcastle Courant	0002	1830	07	26	Hampshire/Portsmouth Telegraph	0003
+1830	07	31	Newcastle Courant	0002	1830	07	27	Freeman’s Journal	0003
+1830	07	31	Newcastle Courant	0002	1830	07	27	Freeman’s Journal	0004
+1830	07	31	Newcastle Courant	0002	1830	07	27	Belfast News-Letter	0004
+1830	07	31	Newcastle Courant	0002	1830	07	27	Bristol Mercury	0002
+1830	07	31	Newcastle Courant	0002	1830	07	28	Derby Mercury	0001
+1830	07	31	Newcastle Courant	0002	1830	07	28	Derby Mercury	0002
+1830	07	31	Newcastle Courant	0002	1830	07	28	Derby Mercury	0004
+1830	07	31	Newcastle Courant	0002	1830	07	29	Freeman’s Journal	0003
+1830	07	31	Newcastle Courant	0002	1830	07	29	North Wales Chronicle	0002
+1830	07	31	Newcastle Courant	0002	1830	07	30	Belfast News-Letter	0004
+1830	07	31	Newcastle Courant	0002	1830	07	31	Ipswich Journal	0004
+1830	07	31	Newcastle Courant	0003	1830	07	25	Examiner	0007
+1830	07	31	Newcastle Courant	0003	1830	07	26	Caledonian Mercury	0002
+1830	07	31	Newcastle Courant	0003	1830	07	26	Freeman’s Journal	0003
+1830	07	31	Newcastle Courant	0003	1830	07	26	Hampshire/Portsmouth Telegraph	0003
+1830	07	31	Newcastle Courant	0003	1830	07	27	Belfast News-Letter	0002
+1830	07	31	Newcastle Courant	0003	1830	07	27	Bristol Mercury	0002
+1830	07	31	Newcastle Courant	0003	1830	07	27	Hull Packet	0002
+1830	07	31	Newcastle Courant	0003	1830	07	28	Derby Mercury	0004
+1830	07	31	Newcastle Courant	0003	1830	07	30	Liverpool Mercury	0002
+1830	07	31	Newcastle Courant	0003	1830	07	31	Ipswich Journal	0001
+1830	08	01	Examiner	0006	1830	07	31	Freeman’s Journal	0003
+1830	08	01	Examiner	0006	1830	07	31	Ipswich Journal	0002
+1830	08	01	Examiner	0007	1830	07	31	Freeman’s Journal	0003
+1830	08	01	Examiner	0007	1830	07	31	Freeman’s Journal	0004
+1830	08	01	Examiner	0007	1830	07	31	Ipswich Journal	0002
+1830	08	01	Examiner	0008	1830	07	30	Liverpool Mercury	0002
+1830	08	01	Examiner	0008	1830	07	31	Freeman’s Journal	0004
+1830	08	02	Caledonian Mercury	0002	1830	07	31	Ipswich Journal	0002
+1830	08	02	Freeman’s Journal	0001	1830	07	30	Belfast News-Letter	0001
+1830	08	02	Freeman’s Journal	0003	1830	07	31	Ipswich Journal	0002
+1830	08	02	Freeman’s Journal	0004	1830	07	31	Ipswich Journal	0002
+1830	08	02	Hampshire/Portsmouth Telegraph	0002	1830	07	30	Liverpool Mercury	0002
+1830	08	02	Hampshire/Portsmouth Telegraph	0002	1830	07	31	Freeman’s Journal	0004
+1830	08	02	Hampshire/Portsmouth Telegraph	0003	1830	07	31	Freeman’s Journal	0001
+1830	08	03	Belfast News-Letter	0001	1830	07	14	Freeman’s Journal	0001
+1830	08	03	Belfast News-Letter	0001	1830	07	16	Freeman’s Journal	0001
+1830	08	03	Belfast News-Letter	0001	1830	07	19	Freeman’s Journal	0001
+1830	08	03	Belfast News-Letter	0002	1830	07	31	Ipswich Journal	0002
+1830	08	03	Belfast News-Letter	0003	1830	07	03	Freeman’s Journal	0002
+1830	08	03	Belfast News-Letter	0003	1830	07	14	Derby Mercury	0001
+1830	08	03	Belfast News-Letter	0003	1830	07	20	Freeman’s Journal	0001
+1830	08	03	Belfast News-Letter	0003	1830	07	25	Examiner	0013
+1830	08	03	Belfast News-Letter	0003	1830	07	28	Derby Mercury	0001
+1830	08	03	Belfast News-Letter	0004	1830	07	30	Liverpool Mercury	0002
+1830	08	03	Belfast News-Letter	0004	1830	07	31	Freeman’s Journal	0003
+1830	08	03	Belfast News-Letter	0004	1830	07	31	Freeman’s Journal	0004
+1830	08	03	Bristol Mercury	0001	1830	07	31	Ipswich Journal	0002
+1830	08	03	Hull Packet	0001	1830	07	21	Derby Mercury	0001
+1830	08	03	Hull Packet	0003	1830	07	30	Liverpool Mercury	0002
+1830	08	03	Hull Packet	0003	1830	07	31	Freeman’s Journal	0004
+1830	08	03	Hull Packet	0004	1830	07	13	Belfast News-Letter	0002
+1830	08	03	Hull Packet	0004	1830	07	14	Derby Mercury	0002
+1830	08	03	Hull Packet	0004	1830	07	16	Liverpool Mercury	0006
+1830	08	03	Hull Packet	0004	1830	07	24	Ipswich Journal	0002
+1830	08	03	Hull Packet	0004	1830	07	29	Freeman’s Journal	0003
+1830	08	03	Hull Packet	0004	1830	07	31	Ipswich Journal	0004
+1830	08	03	Hull Packet	0004	1830	07	31	Newcastle Courant	0002
+1830	08	04	Freeman’s Journal	0002	1830	07	30	Belfast News-Letter	0001
+1830	08	04	Aberdeen Journal	0001	1830	07	03	Freeman’s Journal	0002
+1830	08	04	Aberdeen Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	08	04	Aberdeen Journal	0001	1830	07	14	Derby Mercury	0001
+1830	08	04	Aberdeen Journal	0001	1830	07	20	Freeman’s Journal	0001
+1830	08	04	Aberdeen Journal	0001	1830	07	25	Examiner	0013
+1830	08	04	Aberdeen Journal	0001	1830	07	28	Derby Mercury	0001
+1830	08	04	Derby Mercury	0001	1830	07	31	Freeman’s Journal	0003
+1830	08	04	Derby Mercury	0001	1830	07	31	Ipswich Journal	0002
+1830	08	04	Derby Mercury	0004	1830	07	30	Freeman’s Journal	0004
+1830	08	04	Derby Mercury	0004	1830	07	30	Liverpool Mercury	0006
+1830	08	05	North Wales Chronicle	0001	1830	07	02	Liverpool Mercury	0001
+1830	08	05	North Wales Chronicle	0001	1830	07	09	Liverpool Mercury	0001
+1830	08	05	North Wales Chronicle	0001	1830	07	23	Liverpool Mercury	0004
+1830	08	05	North Wales Chronicle	0002	1830	07	30	Liverpool Mercury	0002
+1830	08	05	North Wales Chronicle	0002	1830	07	31	Freeman’s Journal	0004
+1830	08	05	North Wales Chronicle	0004	1830	07	28	Derby Mercury	0002
+1830	08	05	North Wales Chronicle	0004	1830	07	30	Belfast News-Letter	0002
+1830	08	05	North Wales Chronicle	0004	1830	07	31	Ipswich Journal	0004
+1830	08	06	Freeman’s Journal	0001	1830	07	30	Belfast News-Letter	0001
+1830	08	06	Belfast News-Letter	0001	1830	07	10	Freeman’s Journal	0001
+1830	08	06	Belfast News-Letter	0001	1830	07	12	Freeman’s Journal	0001
+1830	08	06	Belfast News-Letter	0001	1830	07	14	Freeman’s Journal	0001
+1830	08	06	Belfast News-Letter	0001	1830	07	16	Freeman’s Journal	0001
+1830	08	06	Belfast News-Letter	0001	1830	07	19	Freeman’s Journal	0001
+1830	08	06	Belfast News-Letter	0001	1830	07	22	Freeman’s Journal	0001
+1830	08	06	Belfast News-Letter	0001	1830	07	28	Freeman’s Journal	0001
+1830	08	06	Belfast News-Letter	0004	1830	07	02	Liverpool Mercury	0007
+1830	08	06	Belfast News-Letter	0004	1830	07	23	Liverpool Mercury	0007
+1830	08	07	Cobbett’s Weekly Political Register	0005	1830	07	31	Caledonian Mercury	0002
+1830	08	07	Cobbett’s Weekly Political Register	0005	1830	07	31	Freeman’s Journal	0003
+1830	08	07	Cobbett’s Weekly Political Register	0005	1830	07	31	Ipswich Journal	0002
+1830	08	07	Cobbett’s Weekly Political Register	0007	1830	07	31	Freeman’s Journal	0004
+1830	08	07	Newcastle Courant	0002	1830	07	31	Freeman’s Journal	0003
+1830	08	07	Newcastle Courant	0002	1830	07	31	Freeman’s Journal	0004
+1830	08	09	Freeman’s Journal	0001	1830	07	30	Belfast News-Letter	0001
+1830	08	10	Belfast News-Letter	0001	1830	07	10	Freeman’s Journal	0001
+1830	08	10	Belfast News-Letter	0001	1830	07	12	Freeman’s Journal	0001
+1830	08	10	Belfast News-Letter	0001	1830	07	14	Freeman’s Journal	0001
+1830	08	10	Belfast News-Letter	0001	1830	07	16	Freeman’s Journal	0001
+1830	08	10	Belfast News-Letter	0001	1830	07	19	Freeman’s Journal	0001
+1830	08	10	Belfast News-Letter	0001	1830	07	22	Freeman’s Journal	0001
+1830	08	10	Belfast News-Letter	0001	1830	07	28	Freeman’s Journal	0001
+1830	08	11	Freeman’s Journal	0001	1830	07	30	Belfast News-Letter	0001
+1830	08	11	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	08	11	Derby Mercury	0001	1830	07	06	Belfast News-Letter	0003
+1830	08	11	Derby Mercury	0001	1830	07	20	Freeman’s Journal	0001
+1830	08	11	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0001
+1830	08	11	Derby Mercury	0001	1830	07	23	Liverpool Mercury	0005
+1830	08	11	Derby Mercury	0001	1830	07	25	Examiner	0013
+1830	08	11	Derby Mercury	0001	1830	07	30	Liverpool Mercury	0003
+1830	08	11	Derby Mercury	0001	1830	07	31	Newcastle Courant	0001
+1830	08	12	Freeman’s Journal	0001	1830	07	14	Derby Mercury	0001
+1830	08	12	Freeman’s Journal	0001	1830	07	21	Aberdeen Journal	0001
+1830	08	12	Freeman’s Journal	0001	1830	07	28	Derby Mercury	0001
+1830	08	13	Freeman’s Journal	0002	1830	07	30	Belfast News-Letter	0001
+1830	08	13	Liverpool Mercury	0005	1830	07	28	Derby Mercury	0001
+1830	08	13	Liverpool Mercury	0005	1830	07	31	Newcastle Courant	0001
+1830	08	13	Belfast News-Letter	0001	1830	07	10	Freeman’s Journal	0001
+1830	08	13	Belfast News-Letter	0001	1830	07	12	Freeman’s Journal	0001
+1830	08	13	Belfast News-Letter	0001	1830	07	14	Freeman’s Journal	0001
+1830	08	13	Belfast News-Letter	0001	1830	07	16	Freeman’s Journal	0001
+1830	08	13	Belfast News-Letter	0001	1830	07	19	Freeman’s Journal	0001
+1830	08	13	Belfast News-Letter	0001	1830	07	21	Freeman’s Journal	0001
+1830	08	13	Belfast News-Letter	0001	1830	07	22	Freeman’s Journal	0001
+1830	08	13	Belfast News-Letter	0001	1830	07	28	Freeman’s Journal	0001
+1830	08	13	Belfast News-Letter	0004	1830	07	23	Liverpool Mercury	0007
+1830	08	14	Newcastle Courant	0003	1830	07	28	Derby Mercury	0001
+1830	08	16	Hampshire/Portsmouth Telegraph	0002	1830	07	21	Derby Mercury	0001
+1830	08	17	Bristol Mercury	0004	1830	07	23	Liverpool Mercury	0007
+1830	08	18	Aberdeen Journal	0001	1830	07	03	Freeman’s Journal	0002
+1830	08	18	Aberdeen Journal	0001	1830	07	14	Derby Mercury	0001
+1830	08	18	Aberdeen Journal	0001	1830	07	25	Examiner	0013
+1830	08	18	Aberdeen Journal	0001	1830	07	28	Derby Mercury	0001
+1830	08	18	Derby Mercury	0004	1830	07	16	Belfast News-Letter	0004
+1830	08	20	Belfast News-Letter	0003	1830	07	28	Freeman’s Journal	0002
+1830	08	22	Examiner	0014	1830	07	03	Freeman’s Journal	0002
+1830	08	22	Examiner	0014	1830	07	06	Belfast News-Letter	0003
+1830	08	22	Examiner	0014	1830	07	14	Derby Mercury	0001
+1830	08	22	Examiner	0014	1830	07	20	Freeman’s Journal	0001
+1830	08	22	Examiner	0014	1830	07	21	Aberdeen Journal	0001
+1830	08	22	Examiner	0014	1830	07	28	Derby Mercury	0001
+1830	08	23	Freeman’s Journal	0001	1830	07	14	Derby Mercury	0001
+1830	08	23	Freeman’s Journal	0001	1830	07	21	Aberdeen Journal	0001
+1830	08	23	Freeman’s Journal	0001	1830	07	25	Examiner	0013
+1830	08	23	Freeman’s Journal	0001	1830	07	28	Derby Mercury	0001
+1830	08	24	Bristol Mercury	0004	1830	07	23	Liverpool Mercury	0007
+1830	08	25	Aberdeen Journal	0001	1830	07	03	Newcastle Courant	0003
+1830	08	25	Aberdeen Journal	0001	1830	07	17	Newcastle Courant	0003
+1830	08	25	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	08	25	Derby Mercury	0001	1830	07	06	Belfast News-Letter	0003
+1830	08	25	Derby Mercury	0001	1830	07	20	Freeman’s Journal	0001
+1830	08	25	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0001
+1830	08	25	Derby Mercury	0001	1830	07	25	Examiner	0013
+1830	08	26	Caledonian Mercury	0001	1830	07	07	Derby Mercury	0001
+1830	08	27	Belfast News-Letter	0004	1830	07	23	Liverpool Mercury	0007
+1830	08	31	Belfast News-Letter	0003	1830	07	07	Aberdeen Journal	0002
+1830	08	31	Belfast News-Letter	0003	1830	07	28	Freeman’s Journal	0002
+1830	09	01	Aberdeen Journal	0001	1830	07	03	Freeman’s Journal	0002
+1830	09	01	Aberdeen Journal	0001	1830	07	14	Derby Mercury	0001
+1830	09	01	Aberdeen Journal	0001	1830	07	28	Derby Mercury	0001
+1830	09	07	Belfast News-Letter	0003	1830	07	03	Freeman’s Journal	0002
+1830	09	07	Belfast News-Letter	0003	1830	07	14	Derby Mercury	0001
+1830	09	07	Belfast News-Letter	0003	1830	07	20	Freeman’s Journal	0001
+1830	09	07	Belfast News-Letter	0003	1830	07	21	Aberdeen Journal	0001
+1830	09	07	Belfast News-Letter	0003	1830	07	25	Examiner	0013
+1830	09	07	Belfast News-Letter	0003	1830	07	28	Derby Mercury	0001
+1830	09	08	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	09	08	Derby Mercury	0001	1830	07	06	Belfast News-Letter	0003
+1830	09	08	Derby Mercury	0001	1830	07	20	Freeman’s Journal	0001
+1830	09	08	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0001
+1830	09	08	Derby Mercury	0001	1830	07	25	Examiner	0013
+1830	09	08	Derby Mercury	0002	1830	07	31	Newcastle Courant	0001
+1830	09	10	Liverpool Mercury	0005	1830	07	26	Hampshire/Portsmouth Telegraph	0002
+1830	09	10	Liverpool Mercury	0005	1830	07	28	Derby Mercury	0001
+1830	09	10	Liverpool Mercury	0005	1830	07	31	Newcastle Courant	0001
+1830	09	10	Liverpool Mercury	0007	1830	07	09	Belfast News-Letter	0004
+1830	09	11	Ipswich Journal	0001	1830	07	28	Derby Mercury	0001
+1830	09	11	Newcastle Courant	0003	1830	07	21	Derby Mercury	0001
+1830	09	11	Newcastle Courant	0003	1830	07	28	Derby Mercury	0001
+1830	09	11	Newcastle Courant	0004	1830	07	20	Bristol Mercury	0002
+1830	09	12	Examiner	0015	1830	07	03	Freeman’s Journal	0002
+1830	09	12	Examiner	0015	1830	07	06	Belfast News-Letter	0003
+1830	09	12	Examiner	0015	1830	07	14	Derby Mercury	0001
+1830	09	12	Examiner	0015	1830	07	20	Freeman’s Journal	0001
+1830	09	12	Examiner	0015	1830	07	21	Aberdeen Journal	0001
+1830	09	12	Examiner	0015	1830	07	28	Derby Mercury	0001
+1830	09	13	Freeman’s Journal	0001	1830	07	28	Aberdeen Journal	0002
+1830	09	13	Hampshire/Portsmouth Telegraph	0001	1830	07	28	Derby Mercury	0001
+1830	09	15	Aberdeen Journal	0001	1830	07	03	Freeman’s Journal	0002
+1830	09	15	Aberdeen Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	09	15	Aberdeen Journal	0001	1830	07	14	Derby Mercury	0001
+1830	09	15	Aberdeen Journal	0001	1830	07	20	Freeman’s Journal	0001
+1830	09	15	Aberdeen Journal	0001	1830	07	25	Examiner	0013
+1830	09	15	Aberdeen Journal	0001	1830	07	28	Derby Mercury	0001
+1830	09	18	Freeman’s Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	09	18	Freeman’s Journal	0001	1830	07	14	Derby Mercury	0001
+1830	09	18	Freeman’s Journal	0001	1830	07	21	Aberdeen Journal	0001
+1830	09	18	Freeman’s Journal	0001	1830	07	25	Examiner	0013
+1830	09	18	Freeman’s Journal	0001	1830	07	28	Derby Mercury	0001
+1830	09	22	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	09	22	Derby Mercury	0001	1830	07	06	Belfast News-Letter	0003
+1830	09	22	Derby Mercury	0001	1830	07	20	Freeman’s Journal	0001
+1830	09	22	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0001
+1830	09	22	Derby Mercury	0001	1830	07	25	Examiner	0013
+1830	09	23	North Wales Chronicle	0001	1830	07	18	Examiner	0015
+1830	09	26	Examiner	0014	1830	07	03	Freeman’s Journal	0002
+1830	09	26	Examiner	0014	1830	07	14	Derby Mercury	0001
+1830	09	26	Examiner	0014	1830	07	20	Freeman’s Journal	0001
+1830	09	26	Examiner	0014	1830	07	21	Aberdeen Journal	0001
+1830	09	26	Examiner	0014	1830	07	28	Derby Mercury	0001
+1830	09	28	Bristol Mercury	0004	1830	07	30	Belfast News-Letter	0004
+1830	09	28	Hull Packet	0001	1830	07	18	Examiner	0015
+1830	09	29	Aberdeen Journal	0001	1830	07	03	Freeman’s Journal	0002
+1830	09	29	Aberdeen Journal	0001	1830	07	14	Derby Mercury	0001
+1830	09	29	Aberdeen Journal	0001	1830	07	20	Freeman’s Journal	0001
+1830	09	29	Aberdeen Journal	0001	1830	07	28	Derby Mercury	0001
+1830	09	30	North Wales Chronicle	0001	1830	07	18	Examiner	0015
+1830	10	01	Belfast News-Letter	0003	1830	07	20	Freeman’s Journal	0001
+1830	10	01	Belfast News-Letter	0003	1830	07	27	Freeman’s Journal	0001
+1830	10	06	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	10	06	Derby Mercury	0001	1830	07	06	Belfast News-Letter	0003
+1830	10	06	Derby Mercury	0001	1830	07	20	Freeman’s Journal	0001
+1830	10	06	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0001
+1830	10	06	Derby Mercury	0001	1830	07	25	Examiner	0013
+1830	10	07	North Wales Chronicle	0001	1830	07	02	Liverpool Mercury	0001
+1830	10	07	North Wales Chronicle	0001	1830	07	09	Liverpool Mercury	0001
+1830	10	08	Liverpool Mercury	0003	1830	07	01	North Wales Chronicle	0001
+1830	10	08	Belfast News-Letter	0003	1830	07	03	Freeman’s Journal	0002
+1830	10	08	Belfast News-Letter	0003	1830	07	14	Derby Mercury	0001
+1830	10	08	Belfast News-Letter	0003	1830	07	20	Freeman’s Journal	0001
+1830	10	08	Belfast News-Letter	0003	1830	07	21	Aberdeen Journal	0001
+1830	10	08	Belfast News-Letter	0003	1830	07	25	Examiner	0013
+1830	10	08	Belfast News-Letter	0003	1830	07	28	Derby Mercury	0001
+1830	10	08	Belfast News-Letter	0004	1830	07	02	Liverpool Mercury	0007
+1830	10	08	Belfast News-Letter	0004	1830	07	23	Liverpool Mercury	0007
+1830	10	08	Belfast News-Letter	0004	1830	07	30	Liverpool Mercury	0007
+1830	10	10	Examiner	0015	1830	07	03	Freeman’s Journal	0002
+1830	10	10	Examiner	0015	1830	07	06	Belfast News-Letter	0003
+1830	10	10	Examiner	0015	1830	07	14	Derby Mercury	0001
+1830	10	10	Examiner	0015	1830	07	20	Freeman’s Journal	0001
+1830	10	10	Examiner	0015	1830	07	21	Aberdeen Journal	0001
+1830	10	10	Examiner	0015	1830	07	28	Derby Mercury	0001
+1830	10	12	Belfast News-Letter	0001	1830	07	23	Liverpool Mercury	0006
+1830	10	13	Aberdeen Journal	0001	1830	07	03	Freeman’s Journal	0002
+1830	10	13	Aberdeen Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	10	13	Aberdeen Journal	0001	1830	07	14	Derby Mercury	0001
+1830	10	13	Aberdeen Journal	0001	1830	07	20	Freeman’s Journal	0001
+1830	10	13	Aberdeen Journal	0001	1830	07	25	Examiner	0013
+1830	10	13	Aberdeen Journal	0001	1830	07	28	Derby Mercury	0001
+1830	10	15	Freeman’s Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	10	15	Freeman’s Journal	0001	1830	07	14	Derby Mercury	0001
+1830	10	15	Freeman’s Journal	0001	1830	07	21	Aberdeen Journal	0001
+1830	10	15	Freeman’s Journal	0001	1830	07	25	Examiner	0013
+1830	10	15	Freeman’s Journal	0001	1830	07	28	Derby Mercury	0001
+1830	10	18	Hampshire/Portsmouth Telegraph	0001	1830	07	14	Derby Mercury	0001
+1830	10	18	Hampshire/Portsmouth Telegraph	0001	1830	07	28	Derby Mercury	0001
+1830	10	20	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	10	27	Aberdeen Journal	0004	1830	07	03	Freeman’s Journal	0002
+1830	10	27	Aberdeen Journal	0004	1830	07	14	Derby Mercury	0001
+1830	10	27	Aberdeen Journal	0004	1830	07	28	Derby Mercury	0001
+1830	10	28	Freeman’s Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	10	28	Freeman’s Journal	0001	1830	07	14	Derby Mercury	0001
+1830	10	28	Freeman’s Journal	0001	1830	07	21	Aberdeen Journal	0001
+1830	10	28	Freeman’s Journal	0001	1830	07	25	Examiner	0013
+1830	10	28	Freeman’s Journal	0001	1830	07	28	Derby Mercury	0001
+1830	11	02	Belfast News-Letter	0003	1830	07	03	Freeman’s Journal	0002
+1830	11	02	Belfast News-Letter	0003	1830	07	14	Derby Mercury	0001
+1830	11	02	Belfast News-Letter	0003	1830	07	20	Freeman’s Journal	0001
+1830	11	02	Belfast News-Letter	0003	1830	07	21	Aberdeen Journal	0001
+1830	11	02	Belfast News-Letter	0003	1830	07	25	Examiner	0013
+1830	11	02	Belfast News-Letter	0003	1830	07	28	Derby Mercury	0001
+1830	11	03	Aberdeen Journal	0004	1830	07	03	Newcastle Courant	0003
+1830	11	06	Newcastle Courant	0002	1830	07	30	Belfast News-Letter	0004
+1830	11	09	Hull Packet	0001	1830	07	18	Examiner	0015
+1830	11	10	Aberdeen Journal	0001	1830	07	03	Freeman’s Journal	0002
+1830	11	10	Aberdeen Journal	0001	1830	07	14	Derby Mercury	0001
+1830	11	10	Aberdeen Journal	0001	1830	07	20	Freeman’s Journal	0001
+1830	11	10	Aberdeen Journal	0001	1830	07	25	Examiner	0013
+1830	11	10	Aberdeen Journal	0001	1830	07	28	Derby Mercury	0001
+1830	11	10	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	11	10	Derby Mercury	0001	1830	07	06	Belfast News-Letter	0003
+1830	11	10	Derby Mercury	0001	1830	07	20	Freeman’s Journal	0001
+1830	11	10	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0001
+1830	11	10	Derby Mercury	0001	1830	07	25	Examiner	0013
+1830	11	16	Hull Packet	0001	1830	07	18	Examiner	0015
+1830	11	18	North Wales Chronicle	0003	1830	07	09	Belfast News-Letter	0004
+1830	11	19	Belfast News-Letter	0004	1830	07	23	Liverpool Mercury	0007
+1830	11	24	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	11	24	Derby Mercury	0001	1830	07	20	Freeman’s Journal	0001
+1830	11	24	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0001
+1830	11	24	Derby Mercury	0001	1830	07	25	Examiner	0013
+1830	11	26	Liverpool Mercury	0007	1830	07	09	Belfast News-Letter	0004
+1830	11	26	Belfast News-Letter	0004	1830	07	23	Liverpool Mercury	0007
+1830	11	27	Freeman’s Journal	0002	1830	07	14	Derby Mercury	0001
+1830	11	27	Freeman’s Journal	0002	1830	07	21	Aberdeen Journal	0001
+1830	11	27	Freeman’s Journal	0002	1830	07	25	Examiner	0013
+1830	11	27	Freeman’s Journal	0002	1830	07	28	Derby Mercury	0001
+1830	11	27	Newcastle Courant	0003	1830	07	20	Bristol Mercury	0002
+1830	11	27	Newcastle Courant	0003	1830	07	21	Derby Mercury	0001
+1830	12	04	Newcastle Courant	0003	1830	07	09	Liverpool Mercury	0005
+1830	12	04	Newcastle Courant	0003	1830	07	21	Derby Mercury	0001
+1830	12	05	Examiner	0014	1830	07	03	Freeman’s Journal	0002
+1830	12	05	Examiner	0014	1830	07	06	Belfast News-Letter	0003
+1830	12	05	Examiner	0014	1830	07	14	Derby Mercury	0001
+1830	12	05	Examiner	0014	1830	07	20	Freeman’s Journal	0001
+1830	12	05	Examiner	0014	1830	07	21	Aberdeen Journal	0001
+1830	12	05	Examiner	0014	1830	07	28	Derby Mercury	0001
+1830	12	06	Hampshire/Portsmouth Telegraph	0001	1830	07	03	Freeman’s Journal	0002
+1830	12	06	Hampshire/Portsmouth Telegraph	0001	1830	07	14	Derby Mercury	0001
+1830	12	06	Hampshire/Portsmouth Telegraph	0001	1830	07	28	Derby Mercury	0001
+1830	12	07	Belfast News-Letter	0003	1830	07	03	Freeman’s Journal	0002
+1830	12	07	Belfast News-Letter	0003	1830	07	14	Derby Mercury	0001
+1830	12	07	Belfast News-Letter	0003	1830	07	20	Freeman’s Journal	0001
+1830	12	07	Belfast News-Letter	0003	1830	07	21	Aberdeen Journal	0001
+1830	12	07	Belfast News-Letter	0003	1830	07	25	Examiner	0013
+1830	12	07	Belfast News-Letter	0003	1830	07	28	Derby Mercury	0001
+1830	12	08	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	12	08	Derby Mercury	0001	1830	07	06	Belfast News-Letter	0003
+1830	12	08	Derby Mercury	0001	1830	07	20	Freeman’s Journal	0001
+1830	12	08	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0001
+1830	12	08	Derby Mercury	0001	1830	07	25	Examiner	0013
+1830	12	10	Belfast News-Letter	0004	1830	07	02	Liverpool Mercury	0007
+1830	12	10	Belfast News-Letter	0004	1830	07	16	Liverpool Mercury	0007
+1830	12	11	Newcastle Courant	0003	1830	07	14	Derby Mercury	0001
+1830	12	11	Newcastle Courant	0003	1830	07	21	Aberdeen Journal	0001
+1830	12	11	Newcastle Courant	0003	1830	07	28	Derby Mercury	0001
+1830	12	14	Hull Packet	0001	1830	07	18	Examiner	0015
+1830	12	15	Derby Mercury	0001	1830	07	03	Freeman’s Journal	0002
+1830	12	15	Derby Mercury	0001	1830	07	06	Belfast News-Letter	0003
+1830	12	15	Derby Mercury	0001	1830	07	20	Freeman’s Journal	0001
+1830	12	15	Derby Mercury	0001	1830	07	21	Aberdeen Journal	0001
+1830	12	15	Derby Mercury	0001	1830	07	25	Examiner	0013
+1830	12	16	Freeman’s Journal	0001	1830	07	06	Belfast News-Letter	0003
+1830	12	16	Freeman’s Journal	0001	1830	07	14	Derby Mercury	0001
+1830	12	16	Freeman’s Journal	0001	1830	07	21	Aberdeen Journal	0001
+1830	12	16	Freeman’s Journal	0001	1830	07	25	Examiner	0013
+1830	12	16	Freeman’s Journal	0001	1830	07	28	Derby Mercury	0001
+1830	12	24	Liverpool Mercury	0007	1830	07	09	Belfast News-Letter	0004
+1830	12	24	Belfast News-Letter	0004	1830	07	02	Liverpool Mercury	0007
+1830	12	30	Freeman’s Journal	0002	1830	07	14	Derby Mercury	0001
+1830	12	30	Freeman’s Journal	0002	1830	07	21	Aberdeen Journal	0001
+1830	12	30	Freeman’s Journal	0002	1830	07	28	Derby Mercury	0001
+1830	12	31	Liverpool Mercury	0007	1830	07	30	Belfast News-Letter	0004
+1831	01	01	Preston Chronicle	0003	1830	07	02	Liverpool Mercury	0007
+1831	01	01	Preston Chronicle	0003	1830	07	23	Liverpool Mercury	0007
+1831	01	04	Belfast News-Letter	0003	1830	07	03	Freeman’s Journal	0002
+1831	01	04	Belfast News-Letter	0003	1830	07	14	Derby Mercury	0001
+1831	01	04	Belfast News-Letter	0003	1830	07	25	Examiner	0013
+1831	01	04	Belfast News-Letter	0003	1830	07	28	Derby Mercury	0001
+1831	01	07	Liverpool Mercury	0003	1830	07	06	Belfast News-Letter	0003
+1831	01	07	Liverpool Mercury	0003	1830	07	14	Derby Mercury	0001
+1831	01	07	Liverpool Mercury	0003	1830	07	25	Examiner	0013
+1831	01	07	Liverpool Mercury	0003	1830	07	28	Derby Mercury	0001
+1831	01	07	Belfast News-Letter	0004	1830	07	02	Liverpool Mercury	0007
+1831	01	08	Preston Chronicle	0003	1830	07	02	Liverpool Mercury	0007
+1831	01	08	Preston Chronicle	0003	1830	07	23	Liverpool Mercury	0007
+1831	01	14	Freeman’s Journal	0001	1830	07	06	Belfast News-Letter	0003
+1831	01	14	Freeman’s Journal	0001	1830	07	14	Derby Mercury	0001
+1831	01	14	Freeman’s Journal	0001	1830	07	21	Aberdeen Journal	0001
+1831	01	14	Freeman’s Journal	0001	1830	07	25	Examiner	0013
+1831	01	14	Freeman’s Journal	0001	1830	07	28	Derby Mercury	0001
+1831	01	21	Liverpool Mercury	0008	1830	07	25	Examiner	0014
+1831	01	22	Preston Chronicle	0003	1830	07	23	Liverpool Mercury	0007
+1831	01	22	Preston Chronicle	0003	1830	07	30	Liverpool Mercury	0007
+1831	01	25	Hull Packet	0001	1830	07	18	Examiner	0015
+1831	01	28	Belfast News-Letter	0004	1830	07	16	Liverpool Mercury	0007
+1831	01	28	Belfast News-Letter	0004	1830	07	23	Liverpool Mercury	0007
+1831	01	29	Freeman’s Journal	0001	1830	07	14	Derby Mercury	0001
+1831	01	29	Freeman’s Journal	0001	1830	07	21	Aberdeen Journal	0001
+1831	01	29	Freeman’s Journal	0001	1830	07	25	Examiner	0013
+1831	01	29	Freeman’s Journal	0001	1830	07	28	Derby Mercury	0001
+1831	01	30	Examiner	0013	1830	07	14	Derby Mercury	0001
+1831	01	30	Examiner	0013	1830	07	20	Freeman’s Journal	0001
+1831	01	30	Examiner	0013	1830	07	21	Aberdeen Journal	0001
+1831	01	30	Examiner	0013	1830	07	28	Derby Mercury	0001
+1831	02	01	Belfast News-Letter	0003	1830	07	25	Examiner	0013
+1831	02	01	Belfast News-Letter	0003	1830	07	28	Derby Mercury	0001
+1831	02	08	Bristol Mercury	0004	1830	07	23	Liverpool Mercury	0007
+1831	02	08	Bristol Mercury	0004	1830	07	25	Examiner	0014
+1831	02	12	Preston Chronicle	0004	1830	07	30	Liverpool Mercury	0007

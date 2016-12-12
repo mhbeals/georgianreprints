@@ -1,0 +1,879 @@
+
+249	455	450	1816	11	02	Leeds Mercury	1816.11.02_TheLeedsMercury_0004	1816	11	02	Caledonian Mercury	1816.11.02_CaledonianMercury_0004
+262	349	367	1816	11	03	Examiner	1816.11.03_TheExaminer_0016	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0008
+440	627	649	1816	11	04	Caledonian Mercury	1816.11.04_CaledonianMercury_0002	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0002
+348	445	431	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0002	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0003
+202	305	319	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0001	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0004
+200	230	232	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0002	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0003
+224	365	380	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+233	425	420	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0001	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0001
+254	415	424	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0004	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0004
+281	467	465	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+244	405	405	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0004	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0004
+213	307	316	1816	11	07	Caledonian Mercury	1816.11.07_CaledonianMercury_0002	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0003
+473	630	634	1816	11	07	Caledonian Mercury	1816.11.07_CaledonianMercury_0002	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0002
+372	605	576	1816	11	07	Caledonian Mercury	1816.11.07_CaledonianMercury_0002	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0002
+245	371	386	1816	11	07	Derby Mercury	1816.11.07_TheDerbyMercury_0001	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0003
+348	551	565	1816	11	07	Derby Mercury	1816.11.07_TheDerbyMercury_0001	1816	11	07	Caledonian Mercury	1816.11.07_CaledonianMercury_0002
+396	643	624	1816	11	07	Morning Chronicle	1816.11.07_TheMorningChronicle_0001	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0001
+224	384	392	1816	11	07	Morning Chronicle	1816.11.07_TheMorningChronicle_0004	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0004
+233	379	380	1816	11	07	Morning Chronicle	1816.11.07_TheMorningChronicle_0004	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0004
+223	308	308	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+258	413	421	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0004
+272	328	330	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0003
+950	1231	1247	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0004	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0004
+254	372	366	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0004	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0001
+215	354	354	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0001
+302	439	436	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+289	396	388	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+298	397	402	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0006	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0003
+283	465	480	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0004
+213	349	351	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+299	436	428	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0004
+213	310	300	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0004
+204	322	323	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004	1816	11	07	Morning Chronicle	1816.11.07_TheMorningChronicle_0004
+231	291	297	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0002	1816	11	07	Morning Chronicle	1816.11.07_TheMorningChronicle_0002
+218	300	308	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003	1816	11	07	Caledonian Mercury	1816.11.07_CaledonianMercury_0001
+316	430	425	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0004	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0003
+361	530	539	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0004	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0003
+247	320	313	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+322	532	506	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0004
+323	537	534	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0004
+242	381	382	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+276	452	468	1816	11	10	Examiner	1816.11.10_TheExaminer_0004	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0004
+396	613	632	1816	11	10	Examiner	1816.11.10_TheExaminer_0005	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0002
+810	1109	1103	1816	11	11	Caledonian Mercury	1816.11.11_CaledonianMercury_0002	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0002
+293	430	432	1816	11	11	Caledonian Mercury	1816.11.11_CaledonianMercury_0002	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0002
+380	588	575	1816	11	11	Caledonian Mercury	1816.11.11_CaledonianMercury_0002	1816	11	10	Examiner	1816.11.10_TheExaminer_0005
+402	667	667	1816	11	11	Caledonian Mercury	1816.11.11_CaledonianMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+289	466	478	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+531	890	919	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0004
+269	434	418	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0004
+359	587	594	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0004
+339	532	542	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004	1816	11	07	Morning Chronicle	1816.11.07_TheMorningChronicle_0004
+417	650	659	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+388	637	645	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+256	417	425	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0001	1816	11	07	Morning Chronicle	1816.11.07_TheMorningChronicle_0001
+655	946	965	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0003	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0002
+323	453	444	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0003	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0003
+325	542	519	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0004	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0004
+230	385	395	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+216	351	351	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+256	403	396	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0001	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0001
+276	429	428	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0001	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0001
+314	575	566	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+545	796	791	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+276	499	499	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+629	1014	999	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+348	533	545	1816	11	14	Caledonian Mercury	1816.11.14_CaledonianMercury_0001	1816	11	07	Caledonian Mercury	1816.11.07_CaledonianMercury_0001
+269	449	446	1816	11	14	Caledonian Mercury	1816.11.14_CaledonianMercury_0001	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+208	334	336	1816	11	14	Caledonian Mercury	1816.11.14_CaledonianMercury_0002	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0002
+299	413	425	1816	11	14	Caledonian Mercury	1816.11.14_CaledonianMercury_0004	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0002
+320	528	520	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0001	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0001
+231	380	397	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+466	744	764	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+494	733	769	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+686	799	805	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+440	555	586	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+222	269	267	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+314	437	446	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+841	1119	1148	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0002
+220	336	317	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+446	678	662	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	10	Examiner	1816.11.10_TheExaminer_0005
+857	1137	1161	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	11	Caledonian Mercury	1816.11.11_CaledonianMercury_0002
+541	647	663	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+221	325	313	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0003
+316	502	492	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Caledonian Mercury	1816.11.14_CaledonianMercury_0004
+596	817	828	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0002	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0003
+748	983	980	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0002	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0002
+541	823	823	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0002	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0004
+309	497	469	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0002	1816	11	10	Examiner	1816.11.10_TheExaminer_0005
+489	684	671	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0002	1816	11	11	Caledonian Mercury	1816.11.11_CaledonianMercury_0002
+500	653	632	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0002	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+315	406	414	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0004	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0004
+596	787	816	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0004
+321	522	533	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0004
+310	448	453	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0004
+294	446	460	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+392	643	654	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+247	403	404	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0004
+288	435	467	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+239	352	370	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0004
+649	1003	996	1816	11	16	Caledonian Mercury	1816.11.16_CaledonianMercury_0002	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0002
+215	347	326	1816	11	16	Caledonian Mercury	1816.11.16_CaledonianMercury_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+464	711	713	1816	11	16	Caledonian Mercury	1816.11.16_CaledonianMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+222	382	367	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+431	677	681	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0002	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0002
+209	338	329	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+257	352	360	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+255	414	422	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004	1816	11	14	Caledonian Mercury	1816.11.14_CaledonianMercury_0003
+409	625	627	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+229	362	371	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004	1816	11	16	Caledonian Mercury	1816.11.16_CaledonianMercury_0004
+213	315	316	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0001
+202	295	285	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001	1816	11	07	Morning Chronicle	1816.11.07_TheMorningChronicle_0001
+470	751	756	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0001
+239	386	393	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0001
+632	997	1000	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0001
+1053	1567	1584	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0001
+201	324	324	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0001
+687	1035	1034	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0002	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0001
+258	408	398	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0004
+270	445	453	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0004
+365	592	564	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0004
+454	762	741	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+378	601	604	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+290	479	457	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0004
+547	858	860	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+296	416	392	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0004
+215	314	328	1816	11	18	Caledonian Mercury	1816.11.18_CaledonianMercury_0002	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0002
+556	776	768	1816	11	18	Caledonian Mercury	1816.11.18_CaledonianMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+628	790	774	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0002	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0007
+481	590	600	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0002	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0008
+276	486	501	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0004	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0004
+370	619	648	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+216	336	339	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0004	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0004
+224	321	350	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+210	341	345	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0001	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0001
+285	453	448	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0001	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0001
+475	737	725	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0001	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001
+212	346	353	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+271	472	504	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0004
+377	558	551	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0004
+355	550	561	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+347	549	575	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+946	1446	1475	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+377	604	607	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0004
+287	455	482	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+253	356	371	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0004
+508	816	809	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004
+389	565	593	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+478	765	773	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0004
+206	327	335	1816	11	20	Aberdeen Journal	1816.11.20_TheAberdeenJournal_0001	1816	11	06	Aberdeen Journal	1816.11.06_TheAberdeenJournal_0001
+352	622	626	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0001	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0001
+234	389	406	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0001	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0001
+235	378	384	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0004
+417	693	701	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004	1816	11	06	Morning Chronicle	1816.11.06_TheMorningChronicle_0004
+254	412	412	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+295	492	518	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+201	319	325	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004
+616	916	955	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+566	922	885	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0004
+278	434	423	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+281	439	433	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0001	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+341	607	611	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0002	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0001
+271	340	340	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0002	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0002
+277	404	402	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0002	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0001
+365	510	514	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0002	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0002
+548	885	917	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0001	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0001
+215	324	335	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0001	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001
+541	845	871	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0001	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0001
+244	409	425	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+228	339	341	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0004
+324	471	503	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+314	421	438	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0004
+324	452	479	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+258	432	446	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0004
+640	987	996	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+217	342	348	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004
+333	494	476	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+205	290	295	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+337	465	468	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+308	423	418	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+366	434	434	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+216	317	306	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0001
+298	365	374	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0003
+289	334	334	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+961	1202	1209	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+260	328	339	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0006
+241	319	330	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0002
+210	312	311	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0001
+335	485	482	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0002
+562	854	803	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+230	287	294	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0002	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0002
+228	319	319	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0002	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0002
+717	972	970	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+445	579	588	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0004	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0004
+561	752	758	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0004
+214	322	308	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0001
+575	788	761	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0004	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0004
+265	338	333	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0004	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+285	405	388	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+258	382	382	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+578	827	821	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0005
+241	338	339	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0001	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001
+644	1071	1071	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0001	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0001
+244	401	412	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0004
+224	362	382	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+545	847	849	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+433	689	706	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+351	582	606	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+291	429	411	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0004
+298	526	529	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004
+201	294	296	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+533	827	817	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+347	572	578	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004
+356	548	525	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004
+324	433	422	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+538	743	724	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0003
+222	375	374	1816	11	23	Ipswich Journal	1816.11.23_TheIpswichJournal_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+303	528	540	1816	11	23	Leeds Mercury	1816.11.23_TheLeedsMercury_0001	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+315	495	496	1816	11	23	Leeds Mercury	1816.11.23_TheLeedsMercury_0002	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0002
+573	964	924	1816	11	23	Leeds Mercury	1816.11.23_TheLeedsMercury_0002	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0002
+270	427	438	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0001	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0001
+870	1293	1272	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0001	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001
+205	329	330	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0001	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0001
+610	1023	991	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0001	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0001
+307	504	482	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0001	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0001
+211	335	328	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0002	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0001
+914	1374	1354	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0002	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0002
+230	396	401	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+521	833	849	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+201	335	318	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0004
+525	849	863	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004
+273	458	446	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004
+324	538	530	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+230	395	400	1816	11	25	Caledonian Mercury	1816.11.25_CaledonianMercury_0001	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0001
+711	969	975	1816	11	25	Caledonian Mercury	1816.11.25_CaledonianMercury_0002	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0002
+207	322	332	1816	11	25	Caledonian Mercury	1816.11.25_CaledonianMercury_0003	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0001
+200	308	305	1816	11	25	Caledonian Mercury	1816.11.25_CaledonianMercury_0004	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0006
+344	545	552	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+259	415	441	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0004
+264	419	400	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	05	Morning Chronicle	1816.11.05_TheMorningChronicle_0004
+292	407	421	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+777	1164	1162	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+381	601	615	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+382	603	610	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004
+227	340	338	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+205	323	319	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	18	Morning Chronicle	1816.11.18_TheMorningChronicle_0004
+847	1301	1291	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+655	1046	1046	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+392	662	654	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004
+381	612	605	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0001	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001
+232	398	388	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0001	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0001
+436	691	684	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0001	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0001
+457	763	766	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0001	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0001
+202	300	301	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+205	334	340	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+216	343	360	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+216	353	353	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+291	460	481	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+456	739	729	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+389	595	559	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004
+554	915	923	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+290	497	516	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004
+284	492	506	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004
+202	330	329	1816	11	27	Aberdeen Journal	1816.11.27_TheAberdeenJournal_0001	1816	11	06	Aberdeen Journal	1816.11.06_TheAberdeenJournal_0001
+233	411	397	1816	11	27	Aberdeen Journal	1816.11.27_TheAberdeenJournal_0001	1816	11	20	Aberdeen Journal	1816.11.20_TheAberdeenJournal_0001
+222	399	409	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0001	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0001
+307	530	505	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0001	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0001
+272	433	430	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0001	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0001
+207	316	322	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+353	550	545	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004
+280	454	440	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+534	874	874	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004
+518	772	772	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004
+506	841	829	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0001	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0001
+251	407	392	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0001	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0003
+258	447	450	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0002	1816	11	07	Caledonian Mercury	1816.11.07_CaledonianMercury_0002
+220	368	355	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0002	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0002
+447	560	573	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0002	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0002
+386	520	555	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0003	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0003
+369	631	603	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0003
+238	357	345	1816	11	28	Morning Chronicle	1816.11.28_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+371	585	545	1816	11	28	Morning Chronicle	1816.11.28_TheMorningChronicle_0004	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004
+251	368	368	1816	11	28	Morning Chronicle	1816.11.28_TheMorningChronicle_0004	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004
+390	628	623	1816	11	28	Morning Chronicle	1816.11.28_TheMorningChronicle_0004	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004
+387	591	591	1816	11	28	Morning Chronicle	1816.11.28_TheMorningChronicle_0004	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004
+620	856	876	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+408	540	563	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+614	830	822	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0002
+344	533	537	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+227	367	352	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+344	482	497	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0002
+279	397	398	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	25	Caledonian Mercury	1816.11.25_CaledonianMercury_0002
+263	342	346	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+273	375	369	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+250	338	336	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+285	420	407	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0003
+300	437	442	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+477	589	581	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+409	560	584	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0003
+206	301	328	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+347	533	534	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+269	374	373	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0004
+457	597	583	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0004	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0004
+552	738	731	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0004
+299	419	411	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+421	573	561	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+317	454	461	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+243	351	347	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+600	810	820	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0005
+901	1290	1338	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+242	400	409	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0001	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0001
+213	324	322	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0001	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001
+234	377	386	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0001	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0001
+455	731	708	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0001	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0001
+316	508	505	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0001	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0001
+434	693	697	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0001	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0001
+304	485	481	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+365	546	541	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+390	594	578	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+288	465	471	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+321	534	521	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004
+650	1000	966	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+348	487	469	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004
+1027	1623	1598	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+607	898	877	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004
+788	1204	1202	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004
+593	899	891	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004
+647	944	940	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004	1816	11	28	Morning Chronicle	1816.11.28_TheMorningChronicle_0004
+204	361	351	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0001	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0002
+306	531	523	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0002	1816	11	30	Caledonian Mercury	1816.11.30_CaledonianMercury_0002
+270	390	361	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004	1816	11	02	Jackson’s Oxford Journal	1816.11.02_Jackson'sOxfordJournal_0004
+303	413	414	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+265	410	396	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004	1816	11	23	Jackson’s Oxford Journal	1816.11.23_Jackson'sOxfordJournal_0004
+247	431	429	1816	11	30	Ipswich Journal	1816.11.30_TheIpswichJournal_0001	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+204	375	380	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0001	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+237	337	349	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+357	562	553	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0001	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001
+380	634	614	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0001	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0001
+395	646	622	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0004
+257	392	373	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+317	496	496	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+406	706	679	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004
+378	598	584	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+366	606	594	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004
+636	972	980	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004
+258	370	377	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004
+203	372	358	1816	12	02	Caledonian Mercury	1816.12.02_CaledonianMercury_0001	1816	11	18	Caledonian Mercury	1816.11.18_CaledonianMercury_0001
+220	326	314	1816	12	02	Caledonian Mercury	1816.12.02_CaledonianMercury_0001	1816	11	25	Caledonian Mercury	1816.11.25_CaledonianMercury_0001
+264	414	416	1816	12	02	Morning Chronicle	1816.12.02_TheMorningChronicle_0004	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004
+207	349	350	1816	12	02	Morning Chronicle	1816.12.02_TheMorningChronicle_0004	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004
+236	367	361	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0001	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0001
+209	315	317	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0001	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0001
+219	322	318	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0001	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+383	604	618	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0001	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0001
+225	371	369	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0001	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0001
+234	362	370	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0001	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0001
+436	677	657	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+222	318	318	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0004	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004
+211	328	338	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+528	832	840	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0004	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004
+365	545	546	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0004	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004
+808	1221	1225	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0004	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004
+344	498	489	1816	12	03	Morning Chronicle	1816.12.03_TheMorningChronicle_0004	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004
+274	419	430	1816	12	04	Morning Chronicle	1816.12.04_TheMorningChronicle_0001	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0001
+302	483	490	1816	12	04	Morning Chronicle	1816.12.04_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+293	487	470	1816	12	04	Morning Chronicle	1816.12.04_TheMorningChronicle_0004	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004
+284	486	477	1816	12	04	Morning Chronicle	1816.12.04_TheMorningChronicle_0004	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004
+451	730	719	1816	12	04	Morning Chronicle	1816.12.04_TheMorningChronicle_0004	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004
+299	488	481	1816	12	04	Morning Chronicle	1816.12.04_TheMorningChronicle_0004	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004
+507	797	786	1816	12	04	Morning Chronicle	1816.12.04_TheMorningChronicle_0004	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004
+228	366	360	1816	12	05	Caledonian Mercury	1816.12.05_CaledonianMercury_0001	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0001
+419	621	621	1816	12	05	Caledonian Mercury	1816.12.05_CaledonianMercury_0001	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0003
+779	1200	1253	1816	12	05	Caledonian Mercury	1816.12.05_CaledonianMercury_0001	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0001
+213	362	376	1816	12	05	Caledonian Mercury	1816.12.05_CaledonianMercury_0002	1816	11	07	Caledonian Mercury	1816.11.07_CaledonianMercury_0002
+230	388	376	1816	12	05	Caledonian Mercury	1816.12.05_CaledonianMercury_0002	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0002
+321	529	522	1816	12	05	Caledonian Mercury	1816.12.05_CaledonianMercury_0002	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0002
+200	342	327	1816	12	05	Caledonian Mercury	1816.12.05_CaledonianMercury_0004	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0004
+635	841	855	1816	12	05	Caledonian Mercury	1816.12.05_CaledonianMercury_0004	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0002
+301	511	492	1816	12	05	Morning Chronicle	1816.12.05_TheMorningChronicle_0004	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004
+439	665	662	1816	12	05	Morning Chronicle	1816.12.05_TheMorningChronicle_0004	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004
+244	371	385	1816	12	05	Morning Chronicle	1816.12.05_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+278	463	458	1816	12	05	Morning Chronicle	1816.12.05_TheMorningChronicle_0004	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004
+236	389	384	1816	12	05	Morning Chronicle	1816.12.05_TheMorningChronicle_0004	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0004
+319	535	529	1816	12	05	Morning Chronicle	1816.12.05_TheMorningChronicle_0004	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004
+390	539	503	1816	12	05	Trewman’s Exeter Flying Post	1816.12.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+329	447	462	1816	12	05	Trewman’s Exeter Flying Post	1816.12.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+225	323	315	1816	12	05	Trewman’s Exeter Flying Post	1816.12.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+703	832	794	1816	12	05	Trewman’s Exeter Flying Post	1816.12.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+263	363	339	1816	12	05	Trewman’s Exeter Flying Post	1816.12.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+389	498	484	1816	12	05	Trewman’s Exeter Flying Post	1816.12.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+354	426	437	1816	12	05	Trewman’s Exeter Flying Post	1816.12.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0003
+651	875	866	1816	12	05	Trewman’s Exeter Flying Post	1816.12.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+330	512	512	1816	12	05	Trewman’s Exeter Flying Post	1816.12.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0003
+489	635	621	1816	12	05	Trewman’s Exeter Flying Post	1816.12.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+291	404	389	1816	12	06	Liverpool Mercury	1816.12.06_LiverpoolMercuryetc_0004	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0004
+349	528	515	1816	12	06	Liverpool Mercury	1816.12.06_LiverpoolMercuryetc_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0004
+262	346	352	1816	12	06	Liverpool Mercury	1816.12.06_LiverpoolMercuryetc_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+640	856	836	1816	12	06	Liverpool Mercury	1816.12.06_LiverpoolMercuryetc_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0004
+265	376	372	1816	12	06	Liverpool Mercury	1816.12.06_LiverpoolMercuryetc_0005	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0005
+208	323	320	1816	12	06	Liverpool Mercury	1816.12.06_LiverpoolMercuryetc_0005	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+520	741	718	1816	12	06	Liverpool Mercury	1816.12.06_LiverpoolMercuryetc_0005	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+402	638	634	1816	12	06	Liverpool Mercury	1816.12.06_LiverpoolMercuryetc_0007	1816	11	27	Morning Chronicle	1816.11.27_TheMorningChronicle_0003
+267	387	368	1816	12	06	Liverpool Mercury	1816.12.06_LiverpoolMercuryetc_0007	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0002
+242	357	360	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0001	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0001
+206	315	321	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0004
+234	376	385	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+508	730	739	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+361	535	536	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+225	322	339	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+328	528	527	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004
+437	687	680	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+791	1220	1220	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+434	622	622	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004
+626	915	957	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004
+812	1129	1161	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004
+516	753	774	1816	12	06	Morning Chronicle	1816.12.06_TheMorningChronicle_0004	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004
+281	446	446	1816	12	07	Caledonian Mercury	1816.12.07_CaledonianMercury_0001	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+332	562	552	1816	12	07	Caledonian Mercury	1816.12.07_CaledonianMercury_0001	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0001
+313	497	488	1816	12	07	Caledonian Mercury	1816.12.07_CaledonianMercury_0001	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0001
+288	470	448	1816	12	07	Caledonian Mercury	1816.12.07_CaledonianMercury_0003	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+299	496	479	1816	12	07	Caledonian Mercury	1816.12.07_CaledonianMercury_0003	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+216	383	384	1816	12	07	Jackson’s Oxford Journal	1816.12.07_Jackson'sOxfordJournal_0001	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0001
+218	359	372	1816	12	07	Jackson’s Oxford Journal	1816.12.07_Jackson'sOxfordJournal_0004	1816	11	23	Jackson’s Oxford Journal	1816.11.23_Jackson'sOxfordJournal_0004
+382	588	588	1816	12	07	Jackson’s Oxford Journal	1816.12.07_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+428	764	767	1816	12	07	Ipswich Journal	1816.12.07_TheIpswichJournal_0001	1816	11	30	Ipswich Journal	1816.11.30_TheIpswichJournal_0003
+592	831	823	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0001	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001
+300	447	459	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0001	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0001
+300	452	443	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0001	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0001
+244	386	401	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0001	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0001
+291	432	451	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0004	1816	11	01	Morning Chronicle	1816.11.01_TheMorningChronicle_0004
+216	353	372	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0004	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0004
+335	509	536	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+267	404	402	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0004	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0004
+487	657	700	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+264	400	397	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+335	510	532	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0004	1816	11	20	Morning Chronicle	1816.11.20_TheMorningChronicle_0004
+219	324	319	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0004	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004
+345	567	587	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0004	1816	11	23	Morning Chronicle	1816.11.23_TheMorningChronicle_0004
+541	849	888	1816	12	07	Morning Chronicle	1816.12.07_TheMorningChronicle_0004	1816	11	30	Morning Chronicle	1816.11.30_TheMorningChronicle_0004
+208	339	335	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	02	Morning Chronicle	1816.11.02_TheMorningChronicle_0004
+228	394	406	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	04	Morning Chronicle	1816.11.04_TheMorningChronicle_0004
+238	377	371	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	08	Morning Chronicle	1816.11.08_TheMorningChronicle_0004
+615	1000	965	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+230	408	390	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0004
+233	396	395	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	13	Morning Chronicle	1816.11.13_TheMorningChronicle_0004
+209	377	351	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	15	Morning Chronicle	1816.11.15_TheMorningChronicle_0004
+636	1058	1028	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+381	617	593	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+767	1168	1142	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004
+236	389	389	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	26	Morning Chronicle	1816.11.26_TheMorningChronicle_0004
+348	528	525	1816	12	10	Morning Chronicle	1816.12.10_TheMorningChronicle_0004	1816	11	29	Morning Chronicle	1816.11.29_TheMorningChronicle_0004
+318	503	502	1816	12	12	Caledonian Mercury	1816.12.12_CaledonianMercury_0001	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+261	447	434	1816	12	12	Caledonian Mercury	1816.12.12_CaledonianMercury_0001	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0001
+584	901	925	1816	12	12	Caledonian Mercury	1816.12.12_CaledonianMercury_0001	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0001
+215	377	375	1816	12	12	Caledonian Mercury	1816.12.12_CaledonianMercury_0002	1816	11	07	Caledonian Mercury	1816.11.07_CaledonianMercury_0002
+275	478	468	1816	12	12	Caledonian Mercury	1816.12.12_CaledonianMercury_0002	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0002
+206	350	330	1816	12	12	Caledonian Mercury	1816.12.12_CaledonianMercury_0004	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0004
+350	515	515	1816	12	12	Morning Chronicle	1816.12.12_TheMorningChronicle_0004	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004
+264	355	372	1816	12	12	Trewman’s Exeter Flying Post	1816.12.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+216	278	294	1816	12	12	Trewman’s Exeter Flying Post	1816.12.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+629	735	732	1816	12	12	Trewman’s Exeter Flying Post	1816.12.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+294	423	409	1816	12	12	Trewman’s Exeter Flying Post	1816.12.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+235	316	324	1816	12	12	Trewman’s Exeter Flying Post	1816.12.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+283	387	382	1816	12	12	Trewman’s Exeter Flying Post	1816.12.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+244	304	303	1816	12	12	Trewman’s Exeter Flying Post	1816.12.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+262	382	375	1816	12	12	Trewman’s Exeter Flying Post	1816.12.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+391	572	571	1816	12	12	Trewman’s Exeter Flying Post	1816.12.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+741	978	976	1816	12	12	Trewman’s Exeter Flying Post	1816.12.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+227	305	293	1816	12	13	Liverpool Mercury	1816.12.13_LiverpoolMercuryetc_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0004
+310	443	438	1816	12	13	Liverpool Mercury	1816.12.13_LiverpoolMercuryetc_0005	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+298	466	466	1816	12	13	Morning Chronicle	1816.12.13_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+214	349	333	1816	12	14	Caledonian Mercury	1816.12.14_CaledonianMercury_0001	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0001
+202	339	315	1816	12	14	Caledonian Mercury	1816.12.14_CaledonianMercury_0001	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+360	554	555	1816	12	14	Jackson’s Oxford Journal	1816.12.14_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+344	599	581	1816	12	14	Leeds Mercury	1816.12.14_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+217	372	375	1816	12	14	Leeds Mercury	1816.12.14_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+246	448	443	1816	12	14	Leeds Mercury	1816.12.14_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+376	570	570	1816	12	14	Morning Chronicle	1816.12.14_TheMorningChronicle_0001	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001
+234	353	338	1816	12	16	Caledonian Mercury	1816.12.16_CaledonianMercury_0004	1816	11	28	Morning Chronicle	1816.11.28_TheMorningChronicle_0003
+314	486	480	1816	12	19	Caledonian Mercury	1816.12.19_CaledonianMercury_0003	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+324	519	514	1816	12	19	Caledonian Mercury	1816.12.19_CaledonianMercury_0003	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0001
+216	355	356	1816	12	19	Caledonian Mercury	1816.12.19_CaledonianMercury_0003	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0001
+211	345	351	1816	12	19	Morning Chronicle	1816.12.19_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+241	343	347	1816	12	19	Morning Chronicle	1816.12.19_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+390	541	544	1816	12	19	Morning Chronicle	1816.12.19_TheMorningChronicle_0004	1816	11	21	Morning Chronicle	1816.11.21_TheMorningChronicle_0004
+253	346	348	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+245	324	325	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+215	294	287	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+338	492	515	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+204	271	281	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+573	727	730	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+222	298	303	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+210	287	290	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+203	290	293	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+212	270	272	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+272	386	401	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+236	339	321	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+464	637	627	1816	12	19	Trewman’s Exeter Flying Post	1816.12.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+203	328	338	1816	12	20	Morning Chronicle	1816.12.20_TheMorningChronicle_0004	1816	11	22	Morning Chronicle	1816.11.22_TheMorningChronicle_0004
+250	395	401	1816	12	21	Jackson’s Oxford Journal	1816.12.21_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+202	305	301	1816	12	21	Leeds Mercury	1816.12.21_TheLeedsMercury_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+509	746	740	1816	12	21	Leeds Mercury	1816.12.21_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+225	362	378	1816	12	21	Leeds Mercury	1816.12.21_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+216	325	325	1816	12	21	Leeds Mercury	1816.12.21_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+343	596	612	1816	12	21	Leeds Mercury	1816.12.21_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+239	403	404	1816	12	21	Leeds Mercury	1816.12.21_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+320	482	497	1816	12	21	Leeds Mercury	1816.12.21_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+283	462	474	1816	12	21	Leeds Mercury	1816.12.21_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+310	449	436	1816	12	23	Caledonian Mercury	1816.12.23_CaledonianMercury_0003	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+294	433	424	1816	12	23	Caledonian Mercury	1816.12.23_CaledonianMercury_0003	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+217	371	377	1816	12	23	Morning Chronicle	1816.12.23_TheMorningChronicle_0004	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004
+271	428	411	1816	12	26	Caledonian Mercury	1816.12.26_CaledonianMercury_0003	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+240	421	402	1816	12	26	Caledonian Mercury	1816.12.26_CaledonianMercury_0003	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0001
+237	389	384	1816	12	26	Caledonian Mercury	1816.12.26_CaledonianMercury_0003	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0001
+294	455	446	1816	12	26	Caledonian Mercury	1816.12.26_CaledonianMercury_0003	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0003
+390	510	505	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+262	381	390	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+262	343	345	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+200	330	332	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+405	565	590	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+203	285	296	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+224	328	334	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+633	791	785	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+231	297	296	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+283	382	385	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+207	278	278	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+245	322	320	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+241	343	347	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+226	380	380	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+579	823	774	1816	12	26	Trewman’s Exeter Flying Post	1816.12.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+209	313	306	1816	12	27	Liverpool Mercury	1816.12.27_LiverpoolMercuryetc_0005	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+488	641	630	1816	12	27	Liverpool Mercury	1816.12.27_LiverpoolMercuryetc_0005	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+273	376	392	1816	12	27	Liverpool Mercury	1816.12.27_LiverpoolMercuryetc_0005	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+326	443	438	1816	12	27	Liverpool Mercury	1816.12.27_LiverpoolMercuryetc_0005	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+251	331	339	1816	12	27	Liverpool Mercury	1816.12.27_LiverpoolMercuryetc_0005	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0005
+203	331	332	1816	12	27	Liverpool Mercury	1816.12.27_LiverpoolMercuryetc_0005	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+354	536	552	1816	12	27	Liverpool Mercury	1816.12.27_LiverpoolMercuryetc_0005	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+497	693	704	1816	12	27	Liverpool Mercury	1816.12.27_LiverpoolMercuryetc_0005	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+225	370	370	1816	12	27	Liverpool Mercury	1816.12.27_LiverpoolMercuryetc_0005	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+236	327	328	1816	12	27	Liverpool Mercury	1816.12.27_LiverpoolMercuryetc_0006	1816	11	23	Leeds Mercury	1816.11.23_TheLeedsMercury_0004
+250	394	388	1816	12	28	Jackson’s Oxford Journal	1816.12.28_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+421	629	610	1816	12	28	Leeds Mercury	1816.12.28_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+218	322	330	1816	12	28	Leeds Mercury	1816.12.28_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+218	334	331	1816	12	28	Leeds Mercury	1816.12.28_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+206	323	330	1816	12	28	Leeds Mercury	1816.12.28_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+248	390	382	1816	12	28	Leeds Mercury	1816.12.28_TheLeedsMercury_0004	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+288	439	437	1816	12	28	Leeds Mercury	1816.12.28_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+211	352	346	1816	12	30	Morning Chronicle	1816.12.30_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+201	347	345	1816	12	30	Morning Chronicle	1816.12.30_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+222	350	351	1816	12	30	Morning Chronicle	1816.12.30_TheMorningChronicle_0004	1816	11	25	Morning Chronicle	1816.11.25_TheMorningChronicle_0004
+326	452	477	1817	01	02	Trewman’s Exeter Flying Post	1817.01.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+429	513	517	1817	01	02	Trewman’s Exeter Flying Post	1817.01.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+204	284	283	1817	01	02	Trewman’s Exeter Flying Post	1817.01.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+391	483	483	1817	01	02	Trewman’s Exeter Flying Post	1817.01.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+206	278	277	1817	01	02	Trewman’s Exeter Flying Post	1817.01.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+440	595	589	1817	01	02	Trewman’s Exeter Flying Post	1817.01.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+205	291	298	1817	01	02	Trewman’s Exeter Flying Post	1817.01.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+422	552	548	1817	01	02	Trewman’s Exeter Flying Post	1817.01.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+214	309	303	1817	01	02	Trewman’s Exeter Flying Post	1817.01.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+215	285	275	1817	01	02	Trewman’s Exeter Flying Post	1817.01.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+215	314	295	1817	01	03	Liverpool Mercury	1817.01.03_LiverpoolMercuryetc_0005	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+217	333	314	1817	01	03	Liverpool Mercury	1817.01.03_LiverpoolMercuryetc_0005	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+240	364	349	1817	01	03	Liverpool Mercury	1817.01.03_LiverpoolMercuryetc_0005	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+286	441	446	1817	01	03	Liverpool Mercury	1817.01.03_LiverpoolMercuryetc_0006	1816	11	14	Morning Chronicle	1816.11.14_TheMorningChronicle_0004
+281	424	418	1817	01	04	Caledonian Mercury	1817.01.04_CaledonianMercury_0003	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+205	345	360	1817	01	04	Caledonian Mercury	1817.01.04_CaledonianMercury_0003	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0001
+218	328	328	1817	01	04	Caledonian Mercury	1817.01.04_CaledonianMercury_0003	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+210	353	350	1817	01	04	Jackson’s Oxford Journal	1817.01.04_Jackson'sOxfordJournal_0004	1816	11	23	Jackson’s Oxford Journal	1816.11.23_Jackson'sOxfordJournal_0004
+346	543	530	1817	01	04	Jackson’s Oxford Journal	1817.01.04_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+216	362	355	1817	01	04	Morning Chronicle	1817.01.04_TheMorningChronicle_0001	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0001
+264	448	440	1817	01	06	Caledonian Mercury	1817.01.06_CaledonianMercury_0001	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0003
+254	431	427	1817	01	09	Caledonian Mercury	1817.01.09_CaledonianMercury_0002	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0002
+405	654	660	1817	01	09	Morning Chronicle	1817.01.09_TheMorningChronicle_0004	1816	11	02	Leeds Mercury	1816.11.02_TheLeedsMercury_0004
+387	577	624	1817	01	09	Morning Chronicle	1817.01.09_TheMorningChronicle_0004	1816	11	27	Aberdeen Journal	1816.11.27_TheAberdeenJournal_0004
+236	356	375	1817	01	09	Trewman’s Exeter Flying Post	1817.01.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+266	338	340	1817	01	09	Trewman’s Exeter Flying Post	1817.01.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+238	362	362	1817	01	09	Trewman’s Exeter Flying Post	1817.01.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+200	282	280	1817	01	09	Trewman’s Exeter Flying Post	1817.01.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+211	295	294	1817	01	09	Trewman’s Exeter Flying Post	1817.01.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+226	295	292	1817	01	09	Trewman’s Exeter Flying Post	1817.01.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+212	275	274	1817	01	09	Trewman’s Exeter Flying Post	1817.01.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+272	396	399	1817	01	09	Trewman’s Exeter Flying Post	1817.01.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+222	322	318	1817	01	10	Liverpool Mercury	1817.01.10_LiverpoolMercuryetc_0008	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+398	518	505	1817	01	10	Liverpool Mercury	1817.01.10_LiverpoolMercuryetc_0008	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+210	290	295	1817	01	10	Liverpool Mercury	1817.01.10_LiverpoolMercuryetc_0008	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+284	360	355	1817	01	10	Liverpool Mercury	1817.01.10_LiverpoolMercuryetc_0008	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+213	281	278	1817	01	10	Liverpool Mercury	1817.01.10_LiverpoolMercuryetc_0008	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0005
+227	329	334	1817	01	10	Liverpool Mercury	1817.01.10_LiverpoolMercuryetc_0008	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+277	373	373	1817	01	10	Liverpool Mercury	1817.01.10_LiverpoolMercuryetc_0008	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+200	325	317	1817	01	10	Liverpool Mercury	1817.01.10_LiverpoolMercuryetc_0008	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+319	535	514	1817	01	11	Jackson’s Oxford Journal	1817.01.11_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+295	500	489	1817	01	11	Leeds Mercury	1817.01.11_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+212	352	354	1817	01	11	Leeds Mercury	1817.01.11_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+237	392	386	1817	01	16	Caledonian Mercury	1817.01.16_CaledonianMercury_0002	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0002
+208	281	284	1817	01	16	Trewman’s Exeter Flying Post	1817.01.16_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+206	295	296	1817	01	16	Trewman’s Exeter Flying Post	1817.01.16_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+343	467	467	1817	01	16	Trewman’s Exeter Flying Post	1817.01.16_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+200	294	293	1817	01	16	Trewman’s Exeter Flying Post	1817.01.16_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+628	695	695	1817	01	16	Trewman’s Exeter Flying Post	1817.01.16_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+237	350	351	1817	01	17	Liverpool Mercury	1817.01.17_LiverpoolMercuryetc_0008	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+452	600	591	1817	01	17	Liverpool Mercury	1817.01.17_LiverpoolMercuryetc_0008	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+250	353	368	1817	01	17	Liverpool Mercury	1817.01.17_LiverpoolMercuryetc_0008	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+276	361	356	1817	01	17	Liverpool Mercury	1817.01.17_LiverpoolMercuryetc_0008	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+270	410	427	1817	01	17	Liverpool Mercury	1817.01.17_LiverpoolMercuryetc_0008	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+385	534	542	1817	01	17	Liverpool Mercury	1817.01.17_LiverpoolMercuryetc_0008	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+220	337	348	1817	01	17	Liverpool Mercury	1817.01.17_LiverpoolMercuryetc_0008	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+447	647	636	1817	01	18	Caledonian Mercury	1817.01.18_CaledonianMercury_0003	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+503	725	735	1817	01	18	Caledonian Mercury	1817.01.18_CaledonianMercury_0003	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+486	746	735	1817	01	18	Jackson’s Oxford Journal	1817.01.18_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+202	304	296	1817	01	18	Leeds Mercury	1817.01.18_TheLeedsMercury_0004	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+535	715	697	1817	01	18	Leeds Mercury	1817.01.18_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+249	355	360	1817	01	18	Leeds Mercury	1817.01.18_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+287	398	387	1817	01	18	Leeds Mercury	1817.01.18_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+243	415	419	1817	01	18	Leeds Mercury	1817.01.18_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+370	586	582	1817	01	18	Leeds Mercury	1817.01.18_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+259	384	393	1817	01	18	Leeds Mercury	1817.01.18_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+209	294	286	1817	01	18	Leeds Mercury	1817.01.18_TheLeedsMercury_0004	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+366	545	547	1817	01	18	Leeds Mercury	1817.01.18_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+245	387	392	1817	01	18	Leeds Mercury	1817.01.18_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+217	286	292	1817	01	20	Caledonian Mercury	1817.01.20_CaledonianMercury_0003	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+203	328	315	1817	01	22	Morning Chronicle	1817.01.22_TheMorningChronicle_0004	1816	11	11	Morning Chronicle	1816.11.11_TheMorningChronicle_0004
+204	316	304	1817	01	23	Caledonian Mercury	1817.01.23_CaledonianMercury_0001	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+228	381	393	1817	01	23	Morning Chronicle	1817.01.23_TheMorningChronicle_0004	1816	11	09	Morning Chronicle	1816.11.09_TheMorningChronicle_0004
+329	552	557	1817	01	23	Morning Chronicle	1817.01.23_TheMorningChronicle_0004	1816	11	12	Morning Chronicle	1816.11.12_TheMorningChronicle_0004
+219	303	320	1817	01	23	Morning Chronicle	1817.01.23_TheMorningChronicle_0004	1816	11	16	Morning Chronicle	1816.11.16_TheMorningChronicle_0004
+266	410	409	1817	01	23	Morning Chronicle	1817.01.23_TheMorningChronicle_0004	1816	11	19	Morning Chronicle	1816.11.19_TheMorningChronicle_0004
+480	699	671	1817	01	23	Trewman’s Exeter Flying Post	1817.01.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+210	301	277	1817	01	23	Trewman’s Exeter Flying Post	1817.01.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+240	323	304	1817	01	23	Trewman’s Exeter Flying Post	1817.01.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+218	331	318	1817	01	23	Trewman’s Exeter Flying Post	1817.01.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+201	283	285	1817	01	24	Liverpool Mercury	1817.01.24_LiverpoolMercuryetc_0005	1816	11	15	Liverpool Mercury	1816.11.15_LiverpoolMercuryetc_0005
+219	381	365	1817	01	25	Jackson’s Oxford Journal	1817.01.25_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+212	322	309	1817	01	25	Leeds Mercury	1817.01.25_TheLeedsMercury_0004	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+534	740	713	1817	01	25	Leeds Mercury	1817.01.25_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+226	309	308	1817	01	25	Leeds Mercury	1817.01.25_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+256	351	341	1817	01	25	Leeds Mercury	1817.01.25_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+202	332	334	1817	01	25	Leeds Mercury	1817.01.25_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+299	516	510	1817	01	25	Leeds Mercury	1817.01.25_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+246	365	372	1817	01	25	Leeds Mercury	1817.01.25_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+322	437	434	1817	01	25	Leeds Mercury	1817.01.25_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+214	347	342	1817	01	25	Leeds Mercury	1817.01.25_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+339	382	380	1817	01	30	Trewman’s Exeter Flying Post	1817.01.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+398	466	458	1817	01	30	Trewman’s Exeter Flying Post	1817.01.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+214	278	273	1817	01	30	Trewman’s Exeter Flying Post	1817.01.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+224	378	377	1817	02	01	Jackson’s Oxford Journal	1817.02.01_Jackson'sOxfordJournal_0004	1816	11	02	Jackson’s Oxford Journal	1816.11.02_Jackson'sOxfordJournal_0004
+287	418	410	1817	02	01	Jackson’s Oxford Journal	1817.02.01_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+317	445	431	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+273	383	381	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0002	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+222	357	355	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0002	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+206	288	288	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0004	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+553	735	732	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+229	322	332	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+233	326	316	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+209	367	373	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+283	464	469	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+273	403	414	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+348	478	486	1817	02	01	Leeds Mercury	1817.02.01_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+252	328	322	1817	02	06	Trewman’s Exeter Flying Post	1817.02.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+632	840	831	1817	02	06	Trewman’s Exeter Flying Post	1817.02.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+245	405	410	1817	02	06	Trewman’s Exeter Flying Post	1817.02.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+251	344	322	1817	02	06	Trewman’s Exeter Flying Post	1817.02.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+215	254	253	1817	02	07	Liverpool Mercury	1817.02.07_LiverpoolMercuryetc_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+225	386	390	1817	02	08	Jackson’s Oxford Journal	1817.02.08_Jackson'sOxfordJournal_0004	1816	11	23	Jackson’s Oxford Journal	1816.11.23_Jackson'sOxfordJournal_0004
+301	495	471	1817	02	08	Jackson’s Oxford Journal	1817.02.08_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+371	476	480	1817	02	08	Leeds Mercury	1817.02.08_TheLeedsMercury_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+203	265	278	1817	02	08	Leeds Mercury	1817.02.08_TheLeedsMercury_0002	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+259	329	329	1817	02	08	Leeds Mercury	1817.02.08_TheLeedsMercury_0002	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+221	344	348	1817	02	08	Leeds Mercury	1817.02.08_TheLeedsMercury_0002	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+245	317	323	1817	02	08	Leeds Mercury	1817.02.08_TheLeedsMercury_0002	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+351	545	545	1817	02	08	Leeds Mercury	1817.02.08_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+258	401	412	1817	02	08	Leeds Mercury	1817.02.08_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+202	301	293	1817	02	13	Trewman’s Exeter Flying Post	1817.02.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+323	425	420	1817	02	13	Trewman’s Exeter Flying Post	1817.02.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+200	286	291	1817	02	13	Trewman’s Exeter Flying Post	1817.02.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+304	401	394	1817	02	13	Trewman’s Exeter Flying Post	1817.02.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+251	338	341	1817	02	13	Trewman’s Exeter Flying Post	1817.02.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+345	492	485	1817	02	13	Trewman’s Exeter Flying Post	1817.02.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+209	278	274	1817	02	14	Liverpool Mercury	1817.02.14_LiverpoolMercuryetc_0008	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+210	262	258	1817	02	14	Liverpool Mercury	1817.02.14_LiverpoolMercuryetc_0008	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+291	428	410	1817	02	15	Caledonian Mercury	1817.02.15_CaledonianMercury_0004	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+283	433	432	1817	02	15	Caledonian Mercury	1817.02.15_CaledonianMercury_0004	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+356	568	557	1817	02	15	Jackson’s Oxford Journal	1817.02.15_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+334	468	465	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+229	316	316	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0002	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+231	337	351	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0002	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+519	704	708	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+243	365	376	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+252	357	349	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+395	648	637	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+233	343	352	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+200	288	288	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0004	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+325	468	478	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+213	335	340	1817	02	15	Leeds Mercury	1817.02.15_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+372	540	532	1817	02	20	Trewman’s Exeter Flying Post	1817.02.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+236	333	337	1817	02	20	Trewman’s Exeter Flying Post	1817.02.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+256	342	338	1817	02	20	Trewman’s Exeter Flying Post	1817.02.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+367	554	569	1817	02	20	Trewman’s Exeter Flying Post	1817.02.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+203	339	347	1817	02	22	Jackson’s Oxford Journal	1817.02.22_Jackson'sOxfordJournal_0004	1816	11	23	Jackson’s Oxford Journal	1816.11.23_Jackson'sOxfordJournal_0004
+363	605	625	1817	02	22	Jackson’s Oxford Journal	1817.02.22_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+303	423	419	1817	02	22	Leeds Mercury	1817.02.22_TheLeedsMercury_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+202	282	284	1817	02	22	Leeds Mercury	1817.02.22_TheLeedsMercury_0002	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+208	302	308	1817	02	22	Leeds Mercury	1817.02.22_TheLeedsMercury_0002	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+462	644	643	1817	02	22	Leeds Mercury	1817.02.22_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+236	354	376	1817	02	22	Leeds Mercury	1817.02.22_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+215	316	316	1817	02	22	Leeds Mercury	1817.02.22_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+229	378	388	1817	02	22	Leeds Mercury	1817.02.22_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+213	372	366	1817	02	22	Leeds Mercury	1817.02.22_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+227	341	356	1817	02	22	Leeds Mercury	1817.02.22_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+331	502	514	1817	02	22	Leeds Mercury	1817.02.22_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+211	298	300	1817	02	27	Trewman’s Exeter Flying Post	1817.02.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+210	289	285	1817	02	27	Trewman’s Exeter Flying Post	1817.02.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+228	290	291	1817	02	27	Trewman’s Exeter Flying Post	1817.02.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+206	292	295	1817	02	27	Trewman’s Exeter Flying Post	1817.02.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+274	377	375	1817	03	01	Caledonian Mercury	1817.03.01_CaledonianMercury_0004	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+291	407	417	1817	03	01	Caledonian Mercury	1817.03.01_CaledonianMercury_0004	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+425	664	646	1817	03	01	Jackson’s Oxford Journal	1817.03.01_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+213	304	314	1817	03	06	Trewman’s Exeter Flying Post	1817.03.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+204	285	290	1817	03	06	Trewman’s Exeter Flying Post	1817.03.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+379	458	462	1817	03	06	Trewman’s Exeter Flying Post	1817.03.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+221	291	300	1817	03	06	Trewman’s Exeter Flying Post	1817.03.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+308	529	528	1817	03	08	Jackson’s Oxford Journal	1817.03.08_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+229	344	327	1817	03	08	Leeds Mercury	1817.03.08_TheLeedsMercury_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+218	341	324	1817	03	08	Leeds Mercury	1817.03.08_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+267	379	384	1817	03	13	Trewman’s Exeter Flying Post	1817.03.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+211	291	295	1817	03	13	Trewman’s Exeter Flying Post	1817.03.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+454	600	596	1817	03	13	Trewman’s Exeter Flying Post	1817.03.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+219	270	275	1817	03	14	Liverpool Mercury	1817.03.14_LiverpoolMercuryetc_0005	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+357	483	471	1817	03	15	Caledonian Mercury	1817.03.15_CaledonianMercury_0004	1816	11	09	Caledonian Mercury	1816.11.09_CaledonianMercury_0003
+357	491	491	1817	03	15	Caledonian Mercury	1817.03.15_CaledonianMercury_0004	1816	11	23	Caledonian Mercury	1816.11.23_CaledonianMercury_0002
+393	563	555	1817	03	15	Leeds Mercury	1817.03.15_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+236	346	361	1817	03	15	Leeds Mercury	1817.03.15_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+308	475	486	1817	03	15	Leeds Mercury	1817.03.15_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+498	660	644	1817	03	20	Trewman’s Exeter Flying Post	1817.03.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+203	318	300	1817	03	22	Jackson’s Oxford Journal	1817.03.22_Jackson'sOxfordJournal_0006	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+216	341	341	1817	03	22	Jackson’s Oxford Journal	1817.03.22_Jackson'sOxfordJournal_0006	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+431	634	618	1817	03	22	Leeds Mercury	1817.03.22_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+223	329	334	1817	03	22	Leeds Mercury	1817.03.22_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+253	406	402	1817	03	22	Leeds Mercury	1817.03.22_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+232	372	363	1817	03	27	Caledonian Mercury	1817.03.27_CaledonianMercury_0004	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0004
+213	334	336	1817	03	27	Caledonian Mercury	1817.03.27_CaledonianMercury_0004	1816	11	28	Caledonian Mercury	1816.11.28_CaledonianMercury_0004
+218	296	302	1817	03	27	Trewman’s Exeter Flying Post	1817.03.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+209	275	276	1817	03	27	Trewman’s Exeter Flying Post	1817.03.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+256	340	338	1817	03	27	Trewman’s Exeter Flying Post	1817.03.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+561	776	775	1817	03	29	Leeds Mercury	1817.03.29_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+252	382	393	1817	03	29	Leeds Mercury	1817.03.29_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+303	413	410	1817	03	29	Leeds Mercury	1817.03.29_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+287	465	486	1817	03	29	Leeds Mercury	1817.03.29_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+261	449	452	1817	03	29	Leeds Mercury	1817.03.29_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+238	350	360	1817	03	29	Leeds Mercury	1817.03.29_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+311	478	490	1817	03	29	Leeds Mercury	1817.03.29_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+229	352	366	1817	03	29	Leeds Mercury	1817.03.29_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+210	289	283	1817	04	03	Caledonian Mercury	1817.04.03_CaledonianMercury_0003	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0003
+320	387	387	1817	04	03	Trewman’s Exeter Flying Post	1817.04.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+219	358	355	1817	04	05	Caledonian Mercury	1817.04.05_CaledonianMercury_0003	1816	11	30	Caledonian Mercury	1816.11.30_CaledonianMercury_0003
+264	402	386	1817	04	05	Leeds Mercury	1817.04.05_TheLeedsMercury_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+202	329	330	1817	04	05	Leeds Mercury	1817.04.05_TheLeedsMercury_0002	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+247	388	389	1817	04	05	Leeds Mercury	1817.04.05_TheLeedsMercury_0002	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+236	399	401	1817	04	05	Leeds Mercury	1817.04.05_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+212	361	360	1817	04	05	Leeds Mercury	1817.04.05_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+205	329	320	1817	04	10	Caledonian Mercury	1817.04.10_CaledonianMercury_0004	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0004
+331	467	458	1817	04	10	Trewman’s Exeter Flying Post	1817.04.10_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+240	349	338	1817	04	12	Leeds Mercury	1817.04.12_TheLeedsMercury_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+200	339	343	1817	04	12	Leeds Mercury	1817.04.12_TheLeedsMercury_0002	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+475	656	661	1817	04	12	Leeds Mercury	1817.04.12_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+230	340	352	1817	04	12	Leeds Mercury	1817.04.12_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+251	337	348	1817	04	12	Leeds Mercury	1817.04.12_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+264	438	448	1817	04	12	Leeds Mercury	1817.04.12_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+223	370	370	1817	04	12	Leeds Mercury	1817.04.12_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+227	325	339	1817	04	12	Leeds Mercury	1817.04.12_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+338	505	524	1817	04	12	Leeds Mercury	1817.04.12_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+364	504	476	1817	04	17	Trewman’s Exeter Flying Post	1817.04.17_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+414	585	559	1817	04	17	Trewman’s Exeter Flying Post	1817.04.17_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+507	749	733	1817	04	19	Leeds Mercury	1817.04.19_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+212	342	346	1817	04	19	Leeds Mercury	1817.04.19_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+295	438	430	1817	04	19	Leeds Mercury	1817.04.19_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+247	416	432	1817	04	19	Leeds Mercury	1817.04.19_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+241	416	405	1817	04	19	Leeds Mercury	1817.04.19_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+220	338	342	1817	04	19	Leeds Mercury	1817.04.19_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+309	514	512	1817	04	19	Leeds Mercury	1817.04.19_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+219	369	372	1817	04	19	Leeds Mercury	1817.04.19_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+229	354	351	1817	04	24	Trewman’s Exeter Flying Post	1817.04.24_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+329	393	395	1817	04	24	Trewman’s Exeter Flying Post	1817.04.24_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+517	769	729	1817	04	26	Leeds Mercury	1817.04.26_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+233	356	346	1817	04	26	Leeds Mercury	1817.04.26_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+266	382	376	1817	04	26	Leeds Mercury	1817.04.26_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+233	389	383	1817	04	26	Leeds Mercury	1817.04.26_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+226	355	347	1817	04	26	Leeds Mercury	1817.04.26_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+219	325	320	1817	04	26	Leeds Mercury	1817.04.26_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+331	515	498	1817	04	26	Leeds Mercury	1817.04.26_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+207	316	312	1817	04	26	Leeds Mercury	1817.04.26_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+226	308	304	1817	05	02	Liverpool Mercury	1817.05.02_LiverpoolMercuryetc_0001	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+418	533	534	1817	05	02	Liverpool Mercury	1817.05.02_LiverpoolMercuryetc_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+284	390	402	1817	05	02	Liverpool Mercury	1817.05.02_LiverpoolMercuryetc_0001	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+226	283	281	1817	05	02	Liverpool Mercury	1817.05.02_LiverpoolMercuryetc_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+264	369	384	1817	05	02	Liverpool Mercury	1817.05.02_LiverpoolMercuryetc_0001	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+406	529	543	1817	05	02	Liverpool Mercury	1817.05.02_LiverpoolMercuryetc_0001	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+475	682	677	1817	05	03	Leeds Mercury	1817.05.03_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+231	367	373	1817	05	03	Leeds Mercury	1817.05.03_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+256	367	358	1817	05	03	Leeds Mercury	1817.05.03_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+247	413	422	1817	05	03	Leeds Mercury	1817.05.03_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+209	356	357	1817	05	03	Leeds Mercury	1817.05.03_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+229	348	350	1817	05	03	Leeds Mercury	1817.05.03_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+335	522	516	1817	05	03	Leeds Mercury	1817.05.03_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+333	454	426	1817	05	08	Trewman’s Exeter Flying Post	1817.05.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+201	304	291	1817	05	08	Trewman’s Exeter Flying Post	1817.05.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004
+258	394	397	1817	05	10	Caledonian Mercury	1817.05.10_CaledonianMercury_0003	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0002
+234	346	335	1817	05	10	Leeds Mercury	1817.05.10_TheLeedsMercury_0004	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+606	793	790	1817	05	10	Leeds Mercury	1817.05.10_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+264	365	375	1817	05	10	Leeds Mercury	1817.05.10_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+314	411	398	1817	05	10	Leeds Mercury	1817.05.10_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+274	462	473	1817	05	10	Leeds Mercury	1817.05.10_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+417	666	661	1817	05	10	Leeds Mercury	1817.05.10_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+306	446	467	1817	05	10	Leeds Mercury	1817.05.10_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+214	317	303	1817	05	10	Leeds Mercury	1817.05.10_TheLeedsMercury_0004	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+429	600	605	1817	05	10	Leeds Mercury	1817.05.10_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+259	421	429	1817	05	10	Leeds Mercury	1817.05.10_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+205	344	326	1817	05	15	Caledonian Mercury	1817.05.15_CaledonianMercury_0004	1816	11	21	Caledonian Mercury	1816.11.21_CaledonianMercury_0004
+201	271	269	1817	05	15	Trewman’s Exeter Flying Post	1817.05.15_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+343	432	429	1817	05	15	Trewman’s Exeter Flying Post	1817.05.15_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+471	571	566	1817	05	15	Trewman’s Exeter Flying Post	1817.05.15_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+413	523	513	1817	05	17	Leeds Mercury	1817.05.17_TheLeedsMercury_0002	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+233	316	326	1817	05	17	Leeds Mercury	1817.05.17_TheLeedsMercury_0002	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+250	324	322	1817	05	17	Leeds Mercury	1817.05.17_TheLeedsMercury_0002	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+289	469	481	1817	05	17	Leeds Mercury	1817.05.17_TheLeedsMercury_0002	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+260	378	393	1817	05	17	Leeds Mercury	1817.05.17_TheLeedsMercury_0002	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+302	395	404	1817	05	17	Leeds Mercury	1817.05.17_TheLeedsMercury_0002	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+376	539	505	1817	05	17	Leeds Mercury	1817.05.17_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+228	321	304	1817	05	17	Leeds Mercury	1817.05.17_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+273	408	395	1817	05	17	Leeds Mercury	1817.05.17_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+247	329	327	1817	05	22	Trewman’s Exeter Flying Post	1817.05.22_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+228	310	304	1817	05	22	Trewman’s Exeter Flying Post	1817.05.22_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+322	426	414	1817	05	23	Liverpool Mercury	1817.05.23_LiverpoolMercuryetc_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+248	359	358	1817	05	23	Liverpool Mercury	1817.05.23_LiverpoolMercuryetc_0001	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+200	266	255	1817	05	23	Liverpool Mercury	1817.05.23_LiverpoolMercuryetc_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+233	350	354	1817	05	23	Liverpool Mercury	1817.05.23_LiverpoolMercuryetc_0001	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+316	456	449	1817	05	23	Liverpool Mercury	1817.05.23_LiverpoolMercuryetc_0001	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+221	325	319	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0001	1816	11	01	Liverpool Mercury	1816.11.01_LiverpoolMercuryetc_0005
+354	475	469	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+231	306	303	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+269	422	426	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0001	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+255	342	348	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0001	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+514	691	674	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+235	337	338	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+280	385	372	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+228	393	392	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+244	414	393	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+251	381	382	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+378	544	539	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+247	400	390	1817	05	24	Leeds Mercury	1817.05.24_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+221	294	283	1817	05	29	Trewman’s Exeter Flying Post	1817.05.29_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+358	435	400	1817	05	29	Trewman’s Exeter Flying Post	1817.05.29_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+561	752	749	1817	05	31	Leeds Mercury	1817.05.31_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+284	402	410	1817	05	31	Leeds Mercury	1817.05.31_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+290	412	415	1817	05	31	Leeds Mercury	1817.05.31_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+249	420	431	1817	05	31	Leeds Mercury	1817.05.31_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+310	527	523	1817	05	31	Leeds Mercury	1817.05.31_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+254	371	378	1817	05	31	Leeds Mercury	1817.05.31_TheLeedsMercury_0004	1816	11	22	Liverpool Mercury	1816.11.22_LiverpoolMercuryetc_0005
+356	512	512	1817	05	31	Leeds Mercury	1817.05.31_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+247	407	414	1817	05	31	Leeds Mercury	1817.05.31_TheLeedsMercury_0004	1816	11	30	Leeds Mercury	1816.11.30_TheLeedsMercury_0002
+204	275	283	1817	06	05	Trewman’s Exeter Flying Post	1817.06.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+226	301	294	1817	06	12	Trewman’s Exeter Flying Post	1817.06.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+445	597	604	1817	06	12	Trewman’s Exeter Flying Post	1817.06.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+256	311	304	1817	06	12	Trewman’s Exeter Flying Post	1817.06.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+417	645	610	1817	06	14	Leeds Mercury	1817.06.14_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+200	326	318	1817	06	14	Leeds Mercury	1817.06.14_TheLeedsMercury_0004	1816	11	08	Liverpool Mercury	1816.11.08_LiverpoolMercuryetc_0005
+217	328	308	1817	06	14	Leeds Mercury	1817.06.14_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+297	449	432	1817	06	14	Leeds Mercury	1817.06.14_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+247	356	359	1817	06	19	Trewman’s Exeter Flying Post	1817.06.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+290	416	413	1817	06	19	Trewman’s Exeter Flying Post	1817.06.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+407	569	549	1817	06	21	Leeds Mercury	1817.06.21_TheLeedsMercury_0004	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+293	410	404	1817	06	21	Leeds Mercury	1817.06.21_TheLeedsMercury_0004	1816	11	14	Trewman’s Exeter Flying Post	1816.11.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+222	365	373	1817	06	21	Leeds Mercury	1817.06.21_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0001
+225	372	372	1817	06	21	Leeds Mercury	1817.06.21_TheLeedsMercury_0004	1816	11	16	Leeds Mercury	1816.11.16_TheLeedsMercury_0004
+220	301	301	1817	06	21	Leeds Mercury	1817.06.21_TheLeedsMercury_0004	1816	11	28	Trewman’s Exeter Flying Post	1816.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+270	391	391	1817	06	21	Leeds Mercury	1817.06.21_TheLeedsMercury_0004	1816	11	29	Liverpool Mercury	1816.11.29_LiverpoolMercuryetc_0005
+311	424	412	1817	06	26	Trewman’s Exeter Flying Post	1817.06.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	07	Trewman’s Exeter Flying Post	1816.11.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+288	397	392	1817	06	26	Trewman’s Exeter Flying Post	1817.06.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1816	11	21	Trewman’s Exeter Flying Post	1816.11.21_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+374	574	576	1817	06	28	Jackson’s Oxford Journal	1817.06.28_Jackson'sOxfordJournal_0004	1816	11	30	Jackson’s Oxford Journal	1816.11.30_Jackson'sOxfordJournal_0004

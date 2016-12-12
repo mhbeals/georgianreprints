@@ -1,0 +1,108 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1825	05	02	Caledonian Mercury	0002	1825	05	01	Examiner	0007
+1825	05	02	Hampshire/Portsmouth Telegraph	0002	1825	05	01	Examiner	0004
+1825	05	04	Derby Mercury	0002	1825	05	02	Hampshire/Portsmouth Telegraph	0002
+1825	05	05	Caledonian Mercury	0002	1825	05	04	Derby Mercury	0004
+1825	05	05	Trewman’s Exeter Flying Post	0002	1825	05	04	Derby Mercury	0002
+1825	05	06	Liverpool Mercury	0002	1825	05	01	Examiner	0007
+1825	05	06	Liverpool Mercury	0007	1825	05	04	Derby Mercury	0004
+1825	05	07	Cobbett’s Weekly Political Register	0022	1825	05	04	Morning Chronicle	0003
+1825	05	07	Cobbett’s Weekly Political Register	0023	1825	05	04	Morning Chronicle	0003
+1825	05	07	Cobbett’s Weekly Political Register	0028	1825	05	04	Derby Mercury	0004
+1825	05	07	Ipswich Journal	0002	1825	05	05	Morning Chronicle	0003
+1825	05	07	Ipswich Journal	0004	1825	05	04	Derby Mercury	0002
+1825	05	07	Newcastle Courant	0001	1825	05	06	Liverpool Mercury	0001
+1825	05	07	Newcastle Courant	0002	1825	05	02	Caledonian Mercury	0002
+1825	05	09	Caledonian Mercury	0002	1825	05	06	Morning Chronicle	0002
+1825	05	09	Bristol Mercury	0001	1825	05	07	Ipswich Journal	0004
+1825	05	09	Bristol Mercury	0002	1825	05	04	Morning Chronicle	0001
+1825	05	09	Bristol Mercury	0004	1825	05	01	Examiner	0015
+1825	05	11	Derby Mercury	0001	1825	05	05	Morning Chronicle	0002
+1825	05	11	Derby Mercury	0002	1825	05	08	Examiner	0007
+1825	05	12	Caledonian Mercury	0001	1825	05	11	Derby Mercury	0001
+1825	05	12	Caledonian Mercury	0002	1825	05	06	Morning Chronicle	0002
+1825	05	12	Caledonian Mercury	0004	1825	05	09	Hampshire/Portsmouth Telegraph	0004
+1825	05	14	Ipswich Journal	0003	1825	05	11	Derby Mercury	0001
+1825	05	14	Ipswich Journal	0004	1825	05	11	Morning Chronicle	0004
+1825	05	14	Newcastle Courant	0001	1825	05	11	Derby Mercury	0001
+1825	05	14	Newcastle Courant	0002	1825	05	11	Derby Mercury	0001
+1825	05	16	Caledonian Mercury	0002	1825	05	14	Ipswich Journal	0002
+1825	05	16	Hampshire/Portsmouth Telegraph	0001	1825	05	11	Derby Mercury	0001
+1825	05	16	Hampshire/Portsmouth Telegraph	0002	1825	05	11	Morning Chronicle	0003
+1825	05	16	Bristol Mercury	0001	1825	05	13	Morning Chronicle	0002
+1825	05	18	Derby Mercury	0002	1825	05	14	Ipswich Journal	0002
+1825	05	19	Caledonian Mercury	0002	1825	05	16	Morning Chronicle	0002
+1825	05	19	Caledonian Mercury	0004	1825	05	18	Derby Mercury	0004
+1825	05	20	Morning Chronicle	0004	1825	05	13	Liverpool Mercury	0003
+1825	05	21	Cobbett’s Weekly Political Register	0028	1825	05	18	Derby Mercury	0004
+1825	05	21	Ipswich Journal	0002	1825	05	18	Morning Chronicle	0003
+1825	05	21	Ipswich Journal	0003	1825	05	16	Morning Chronicle	0004
+1825	05	21	Ipswich Journal	0004	1825	05	16	Morning Chronicle	0002
+1825	05	21	Leeds Mercury	0003	1825	05	19	Morning Chronicle	0003
+1825	05	21	Newcastle Courant	0002	1825	05	16	Morning Chronicle	0002
+1825	05	23	Hampshire/Portsmouth Telegraph	0002	1825	05	18	Morning Chronicle	0003
+1825	05	23	Hampshire/Portsmouth Telegraph	0003	1825	05	21	Ipswich Journal	0001
+1825	05	23	Bristol Mercury	0001	1825	05	21	Caledonian Mercury	0002
+1825	05	23	Bristol Mercury	0002	1825	05	06	Morning Chronicle	0001
+1825	05	25	Derby Mercury	0002	1825	05	24	Morning Chronicle	0003
+1825	05	25	Derby Mercury	0004	1825	05	18	Morning Chronicle	0002
+1825	05	26	Caledonian Mercury	0002	1825	05	25	Derby Mercury	0002
+1825	05	26	Morning Chronicle	0004	1825	05	22	Examiner	0016
+1825	05	26	Trewman’s Exeter Flying Post	0001	1825	05	18	Derby Mercury	0001
+1825	05	26	Trewman’s Exeter Flying Post	0003	1825	05	23	Caledonian Mercury	0002
+1825	05	27	Liverpool Mercury	0002	1825	05	22	Examiner	0009
+1825	05	28	Caledonian Mercury	0002	1825	05	23	Morning Chronicle	0004
+1825	05	28	Cobbett’s Weekly Political Register	0030	1825	05	18	Derby Mercury	0002
+1825	05	28	Ipswich Journal	0002	1825	05	26	Morning Chronicle	0003
+1825	05	28	Newcastle Courant	0001	1825	05	25	Derby Mercury	0001
+1825	05	28	Newcastle Courant	0002	1825	05	25	Derby Mercury	0002
+1825	05	28	Newcastle Courant	0003	1825	05	23	Caledonian Mercury	0003
+1825	05	29	Examiner	0012	1825	05	26	Morning Chronicle	0003
+1825	05	29	Examiner	0015	1825	05	26	Morning Chronicle	0003
+1825	05	29	Examiner	0016	1825	05	18	Derby Mercury	0004
+1825	05	30	Caledonian Mercury	0002	1825	05	25	Derby Mercury	0002
+1825	05	30	Hampshire/Portsmouth Telegraph	0002	1825	05	25	Morning Chronicle	0002
+1825	05	30	Bristol Mercury	0001	1825	05	28	Caledonian Mercury	0002
+1825	05	30	Bristol Mercury	0004	1825	05	29	Examiner	0004
+1825	06	01	Aberdeen Journal	0004	1825	05	23	Caledonian Mercury	0002
+1825	06	01	Derby Mercury	0002	1825	05	29	Examiner	0007
+1825	06	01	Derby Mercury	0004	1825	05	28	Ipswich Journal	0002
+1825	06	02	Caledonian Mercury	0002	1825	05	25	Morning Chronicle	0003
+1825	06	03	Liverpool Mercury	0002	1825	05	29	Examiner	0006
+1825	06	03	Liverpool Mercury	0005	1825	05	30	Bristol Mercury	0002
+1825	06	04	Caledonian Mercury	0001	1825	05	28	Newcastle Courant	0001
+1825	06	04	Ipswich Journal	0004	1825	05	26	Morning Chronicle	0002
+1825	06	04	Leeds Mercury	0001	1825	05	25	Derby Mercury	0001
+1825	06	04	Leeds Mercury	0002	1825	05	29	Examiner	0007
+1825	06	04	Leeds Mercury	0004	1825	05	04	Derby Mercury	0001
+1825	06	04	Newcastle Courant	0002	1825	05	29	Examiner	0006
+1825	06	05	Examiner	0012	1825	05	31	Morning Chronicle	0004
+1825	06	05	Examiner	0014	1825	05	24	Morning Chronicle	0002
+1825	06	06	Caledonian Mercury	0002	1825	05	31	Morning Chronicle	0003
+1825	06	06	Hampshire/Portsmouth Telegraph	0002	1825	05	31	Morning Chronicle	0004
+1825	06	06	Bristol Mercury	0002	1825	05	28	Ipswich Journal	0002
+1825	06	11	Leeds Mercury	0004	1825	05	28	Ipswich Journal	0002
+1825	06	13	Bristol Mercury	0002	1825	05	07	Ipswich Journal	0001
+1825	06	17	Liverpool Mercury	0003	1825	05	18	Derby Mercury	0002
+1825	06	18	Ipswich Journal	0004	1825	05	30	Bristol Mercury	0001
+1825	06	24	Liverpool Mercury	0005	1825	05	28	Newcastle Courant	0001
+1825	06	25	Caledonian Mercury	0001	1825	05	28	Newcastle Courant	0001
+1825	06	25	Caledonian Mercury	0004	1825	05	25	Derby Mercury	0004
+1825	06	26	Examiner	0014	1825	05	18	Derby Mercury	0002
+1825	06	27	Hampshire/Portsmouth Telegraph	0001	1825	05	28	Newcastle Courant	0001
+1825	07	02	Caledonian Mercury	0001	1825	05	28	Newcastle Courant	0001
+1825	07	04	Hampshire/Portsmouth Telegraph	0001	1825	05	14	Ipswich Journal	0003
+1825	07	04	Hampshire/Portsmouth Telegraph	0002	1825	05	29	Examiner	0016
+1825	07	09	Caledonian Mercury	0001	1825	05	28	Newcastle Courant	0001
+1825	07	09	Cobbett’s Weekly Political Register	0030	1825	05	18	Derby Mercury	0002
+1825	07	09	Leeds Mercury	0004	1825	05	04	Derby Mercury	0001
+1825	07	13	Aberdeen Journal	0001	1825	05	28	Newcastle Courant	0001
+1825	07	23	Leeds Mercury	0004	1825	05	04	Derby Mercury	0001
+1825	07	30	Leeds Mercury	0004	1825	05	04	Derby Mercury	0001
+1825	09	17	Leeds Mercury	0004	1825	05	14	Newcastle Courant	0003
+1825	10	01	Leeds Mercury	0004	1825	05	18	Derby Mercury	0001
+1825	10	08	Leeds Mercury	0004	1825	05	18	Derby Mercury	0001
+1825	10	22	Cobbett’s Weekly Political Register	0030	1825	05	18	Derby Mercury	0002
+1825	10	29	Cobbett’s Weekly Political Register	0030	1825	05	18	Derby Mercury	0002
+1825	11	12	Cobbett’s Weekly Political Register	0030	1825	05	18	Derby Mercury	0002
+1825	11	19	Ipswich Journal	0001	1825	05	23	Bristol Mercury	0003

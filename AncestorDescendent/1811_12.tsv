@@ -1,0 +1,53 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1811	12	05	Caledonian Mercury	0002	1811	12	03	Morning Chronicle	0002
+1811	12	06	Liverpool Mercury	0002	1811	12	05	Morning Chronicle	0002
+1811	12	06	Liverpool Mercury	0003	1811	12	05	Caledonian Mercury	0002
+1811	12	07	Caledonian Mercury	0002	1811	12	06	Liverpool Mercury	0002
+1811	12	07	Cobbett’s Weekly Political Register	0011	1811	12	06	Liverpool Mercury	0002
+1811	12	07	Cobbett’s Weekly Political Register	0012	1811	12	06	Liverpool Mercury	0002
+1811	12	07	Cobbett’s Weekly Political Register	0013	1811	12	06	Liverpool Mercury	0002
+1811	12	07	Cobbett’s Weekly Political Register	0015	1811	12	03	Hull Packet	0004
+1811	12	07	Cobbett’s Weekly Political Register	0016	1811	12	03	Hull Packet	0004
+1811	12	07	Ipswich Journal	0001	1811	12	05	Caledonian Mercury	0002
+1811	12	09	Caledonian Mercury	0002	1811	12	06	Morning Chronicle	0003
+1811	12	10	Hull Packet	0002	1811	12	04	Morning Chronicle	0002
+1811	12	10	Hull Packet	0004	1811	12	03	Morning Chronicle	0002
+1811	12	11	Aberdeen Journal	0002	1811	12	05	Caledonian Mercury	0002
+1811	12	11	Aberdeen Journal	0003	1811	12	07	Caledonian Mercury	0002
+1811	12	12	Caledonian Mercury	0002	1811	12	09	Morning Chronicle	0002
+1811	12	16	Caledonian Mercury	0002	1811	12	14	Cobbett’s Weekly Political Register	0013
+1811	12	17	Hull Packet	0003	1811	12	16	Caledonian Mercury	0002
+1811	12	17	Hull Packet	0004	1811	12	12	Caledonian Mercury	0002
+1811	12	18	Aberdeen Journal	0001	1811	12	02	Caledonian Mercury	0004
+1811	12	18	Aberdeen Journal	0003	1811	12	14	Caledonian Mercury	0003
+1811	12	19	Derby Mercury	0001	1811	12	16	Caledonian Mercury	0001
+1811	12	19	Trewman’s Exeter Flying Post	0003	1811	12	16	Caledonian Mercury	0002
+1811	12	21	Caledonian Mercury	0002	1811	12	18	Morning Chronicle	0002
+1811	12	21	Caledonian Mercury	0004	1811	12	18	Morning Chronicle	0003
+1811	12	21	Ipswich Journal	0001	1811	12	19	Derby Mercury	0001
+1811	12	22	Examiner	0006	1811	12	21	Caledonian Mercury	0002
+1811	12	23	Caledonian Mercury	0002	1811	12	21	Morning Chronicle	0002
+1811	12	23	Hampshire/Portsmouth Telegraph	0004	1811	12	21	Caledonian Mercury	0002
+1811	12	24	Hull Packet	0004	1811	12	19	Caledonian Mercury	0002
+1811	12	25	Aberdeen Journal	0002	1811	12	21	Caledonian Mercury	0002
+1811	12	25	Aberdeen Journal	0003	1811	12	21	Caledonian Mercury	0003
+1811	12	26	Caledonian Mercury	0004	1811	12	21	Morning Chronicle	0004
+1811	12	26	Derby Mercury	0001	1811	12	23	Caledonian Mercury	0001
+1811	12	26	Derby Mercury	0004	1811	12	23	Caledonian Mercury	0002
+1811	12	26	Trewman’s Exeter Flying Post	0002	1811	12	21	Caledonian Mercury	0002
+1811	12	28	Caledonian Mercury	0002	1811	12	25	Morning Chronicle	0002
+1811	12	28	Cobbett’s Weekly Political Register	0007	1811	12	23	Caledonian Mercury	0002
+1811	12	28	Cobbett’s Weekly Political Register	0009	1811	12	25	Morning Chronicle	0002
+1811	12	28	Jackson’s Oxford Journal	0004	1811	12	26	Caledonian Mercury	0002
+1811	12	28	Ipswich Journal	0001	1811	12	26	Derby Mercury	0001
+1811	12	28	Ipswich Journal	0004	1811	12	26	Caledonian Mercury	0002
+1811	12	30	Caledonian Mercury	0003	1811	12	28	Morning Chronicle	0003
+1811	12	31	Hull Packet	0001	1811	12	26	Derby Mercury	0001
+1811	12	31	Hull Packet	0003	1811	12	24	Morning Chronicle	0004
+1811	12	31	Hull Packet	0004	1811	12	25	Morning Chronicle	0002
+1812	01	05	Examiner	0005	1811	12	31	Morning Chronicle	0003
+1812	01	08	Aberdeen Journal	0002	1811	12	28	Caledonian Mercury	0003
+1812	03	05	Trewman’s Exeter Flying Post	0001	1811	12	21	Ipswich Journal	0004
+1812	05	09	Leeds Mercury	0004	1811	12	24	Hull Packet	0001
+1812	05	28	Derby Mercury	0002	1811	12	21	Ipswich Journal	0003
+1812	06	04	Derby Mercury	0002	1811	12	21	Ipswich Journal	0003

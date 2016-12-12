@@ -1,0 +1,151 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1804	11	01	Derby Mercury	0002	1804	11	01	Caledonian Mercury	0002
+1804	11	01	Trewman’s Exeter Flying Post	0002	1804	11	01	Caledonian Mercury	0002
+1804	11	01	Trewman’s Exeter Flying Post	0004	1804	11	01	Caledonian Mercury	0002
+1804	11	03	Caledonian Mercury	0002	1804	11	01	Trewman’s Exeter Flying Post	0004
+1804	11	03	Jackson’s Oxford Journal	0001	1804	11	01	Caledonian Mercury	0002
+1804	11	03	Jackson’s Oxford Journal	0001	1804	11	01	Trewman’s Exeter Flying Post	0004
+1804	11	03	Jackson’s Oxford Journal	0002	1804	11	01	Trewman’s Exeter Flying Post	0004
+1804	11	03	Jackson’s Oxford Journal	0002	1804	11	03	Caledonian Mercury	0002
+1804	11	03	Jackson’s Oxford Journal	0004	1804	11	01	Caledonian Mercury	0002
+1804	11	03	Jackson’s Oxford Journal	0004	1804	11	01	Trewman’s Exeter Flying Post	0002
+1804	11	03	Jackson’s Oxford Journal	0004	1804	11	03	Caledonian Mercury	0003
+1804	11	05	Hampshire/Portsmouth Telegraph	0001	1804	11	01	Trewman’s Exeter Flying Post	0004
+1804	11	05	Hampshire/Portsmouth Telegraph	0001	1804	11	03	Jackson’s Oxford Journal	0001
+1804	11	05	Hampshire/Portsmouth Telegraph	0002	1804	11	03	Caledonian Mercury	0003
+1804	11	05	Hampshire/Portsmouth Telegraph	0002	1804	11	03	Jackson’s Oxford Journal	0002
+1804	11	05	Hampshire/Portsmouth Telegraph	0002	1804	11	03	Jackson’s Oxford Journal	0004
+1804	11	05	Hampshire/Portsmouth Telegraph	0004	1804	11	03	Jackson’s Oxford Journal	0001
+1804	11	05	Hull Packet	0004	1804	11	03	Jackson’s Oxford Journal	0004
+1804	11	06	Morning Chronicle	0003	1804	11	05	Hampshire/Portsmouth Telegraph	0003
+1804	11	08	Derby Mercury	0001	1804	11	03	Jackson’s Oxford Journal	0003
+1804	11	08	Trewman’s Exeter Flying Post	0001	1804	11	05	Caledonian Mercury	0003
+1804	11	08	Trewman’s Exeter Flying Post	0002	1804	11	03	Morning Chronicle	0003
+1804	11	08	Trewman’s Exeter Flying Post	0004	1804	11	06	Morning Chronicle	0002
+1804	11	08	Trewman’s Exeter Flying Post	0004	1804	11	07	Morning Chronicle	0002
+1804	11	10	Caledonian Mercury	0002	1804	11	07	Morning Chronicle	0002
+1804	11	10	Caledonian Mercury	0002	1804	11	08	Morning Chronicle	0002
+1804	11	10	Caledonian Mercury	0002	1804	11	08	Trewman’s Exeter Flying Post	0004
+1804	11	10	Jackson’s Oxford Journal	0001	1804	11	08	Trewman’s Exeter Flying Post	0004
+1804	11	10	Jackson’s Oxford Journal	0002	1804	11	07	Morning Chronicle	0002
+1804	11	10	Jackson’s Oxford Journal	0002	1804	11	08	Trewman’s Exeter Flying Post	0002
+1804	11	10	Jackson’s Oxford Journal	0002	1804	11	09	Morning Chronicle	0002
+1804	11	10	Jackson’s Oxford Journal	0002	1804	11	10	Caledonian Mercury	0002
+1804	11	10	Jackson’s Oxford Journal	0003	1804	11	09	Morning Chronicle	0004
+1804	11	12	Caledonian Mercury	0002	1804	11	07	Morning Chronicle	0002
+1804	11	12	Caledonian Mercury	0002	1804	11	09	Morning Chronicle	0002
+1804	11	12	Hampshire/Portsmouth Telegraph	0002	1804	11	07	Morning Chronicle	0002
+1804	11	12	Hampshire/Portsmouth Telegraph	0002	1804	11	09	Morning Chronicle	0002
+1804	11	12	Hampshire/Portsmouth Telegraph	0002	1804	11	12	Caledonian Mercury	0002
+1804	11	12	Morning Chronicle	0004	1804	11	03	Jackson’s Oxford Journal	0003
+1804	11	12	Morning Chronicle	0004	1804	11	10	Jackson’s Oxford Journal	0003
+1804	11	13	Hull Packet	0004	1804	11	10	Jackson’s Oxford Journal	0004
+1804	11	14	Aberdeen Journal	0002	1804	11	10	Caledonian Mercury	0004
+1804	11	14	Aberdeen Journal	0003	1804	11	10	Caledonian Mercury	0003
+1804	11	14	Morning Chronicle	0003	1804	11	10	Cobbett’s Weekly Political Register	0012
+1804	11	14	Morning Chronicle	0003	1804	11	10	Cobbett’s Weekly Political Register	0013
+1804	11	14	Morning Chronicle	0004	1804	11	03	Jackson’s Oxford Journal	0003
+1804	11	14	Morning Chronicle	0004	1804	11	10	Jackson’s Oxford Journal	0003
+1804	11	15	Caledonian Mercury	0002	1804	11	12	Morning Chronicle	0002
+1804	11	15	Derby Mercury	0002	1804	11	14	Morning Chronicle	0002
+1804	11	15	Derby Mercury	0002	1804	11	15	Caledonian Mercury	0002
+1804	11	15	Trewman’s Exeter Flying Post	0001	1804	11	12	Caledonian Mercury	0002
+1804	11	15	Trewman’s Exeter Flying Post	0004	1804	11	15	Caledonian Mercury	0002
+1804	11	15	Trewman’s Exeter Flying Post	0004	1804	11	15	Derby Mercury	0002
+1804	11	17	Caledonian Mercury	0002	1804	11	15	Morning Chronicle	0002
+1804	11	17	Caledonian Mercury	0002	1804	11	15	Trewman’s Exeter Flying Post	0004
+1804	11	17	Caledonian Mercury	0003	1804	11	14	Morning Chronicle	0002
+1804	11	17	Cobbett’s Weekly Political Register	0012	1804	11	01	Trewman’s Exeter Flying Post	0004
+1804	11	17	Cobbett’s Weekly Political Register	0012	1804	11	03	Jackson’s Oxford Journal	0001
+1804	11	17	Cobbett’s Weekly Political Register	0013	1804	11	01	Trewman’s Exeter Flying Post	0002
+1804	11	17	Cobbett’s Weekly Political Register	0018	1804	11	02	Morning Chronicle	0002
+1804	11	17	Cobbett’s Weekly Political Register	0019	1804	11	02	Morning Chronicle	0002
+1804	11	17	Cobbett’s Weekly Political Register	0022	1804	11	05	Caledonian Mercury	0002
+1804	11	17	Cobbett’s Weekly Political Register	0022	1804	11	05	Morning Chronicle	0002
+1804	11	17	Cobbett’s Weekly Political Register	0023	1804	11	15	Morning Chronicle	0002
+1804	11	17	Cobbett’s Weekly Political Register	0023	1804	11	17	Caledonian Mercury	0002
+1804	11	17	Jackson’s Oxford Journal	0001	1804	11	12	Morning Chronicle	0002
+1804	11	17	Jackson’s Oxford Journal	0001	1804	11	14	Morning Chronicle	0002
+1804	11	17	Jackson’s Oxford Journal	0001	1804	11	15	Derby Mercury	0002
+1804	11	17	Jackson’s Oxford Journal	0002	1804	11	01	Trewman’s Exeter Flying Post	0003
+1804	11	17	Jackson’s Oxford Journal	0002	1804	11	15	Trewman’s Exeter Flying Post	0004
+1804	11	17	Jackson’s Oxford Journal	0002	1804	11	17	Caledonian Mercury	0002
+1804	11	17	Jackson’s Oxford Journal	0002	1804	11	17	Caledonian Mercury	0003
+1804	11	17	Jackson’s Oxford Journal	0004	1804	11	08	Derby Mercury	0004
+1804	11	17	Jackson’s Oxford Journal	0004	1804	11	08	Trewman’s Exeter Flying Post	0002
+1804	11	17	Jackson’s Oxford Journal	0004	1804	11	15	Trewman’s Exeter Flying Post	0002
+1804	11	19	Caledonian Mercury	0002	1804	11	15	Morning Chronicle	0002
+1804	11	19	Caledonian Mercury	0002	1804	11	16	Morning Chronicle	0002
+1804	11	19	Caledonian Mercury	0002	1804	11	17	Morning Chronicle	0002
+1804	11	19	Hampshire/Portsmouth Telegraph	0002	1804	11	17	Caledonian Mercury	0002
+1804	11	19	Hampshire/Portsmouth Telegraph	0004	1804	11	14	Morning Chronicle	0002
+1804	11	19	Hampshire/Portsmouth Telegraph	0004	1804	11	15	Derby Mercury	0002
+1804	11	19	Hampshire/Portsmouth Telegraph	0004	1804	11	17	Jackson’s Oxford Journal	0001
+1804	11	20	Hull Packet	0001	1804	11	08	Trewman’s Exeter Flying Post	0002
+1804	11	20	Hull Packet	0001	1804	11	17	Jackson’s Oxford Journal	0004
+1804	11	20	Hull Packet	0004	1804	11	17	Jackson’s Oxford Journal	0001
+1804	11	22	Caledonian Mercury	0002	1804	11	20	Morning Chronicle	0002
+1804	11	22	Derby Mercury	0001	1804	11	19	Caledonian Mercury	0002
+1804	11	22	Derby Mercury	0002	1804	11	22	Caledonian Mercury	0002
+1804	11	22	Derby Mercury	0004	1804	11	17	Jackson’s Oxford Journal	0002
+1804	11	22	Trewman’s Exeter Flying Post	0004	1804	11	21	Morning Chronicle	0002
+1804	11	24	Caledonian Mercury	0002	1804	11	21	Morning Chronicle	0002
+1804	11	24	Caledonian Mercury	0002	1804	11	22	Morning Chronicle	0002
+1804	11	24	Caledonian Mercury	0002	1804	11	22	Morning Chronicle	0003
+1804	11	24	Caledonian Mercury	0002	1804	11	22	Trewman’s Exeter Flying Post	0004
+1804	11	24	Jackson’s Oxford Journal	0002	1804	11	21	Morning Chronicle	0002
+1804	11	24	Jackson’s Oxford Journal	0002	1804	11	22	Trewman’s Exeter Flying Post	0004
+1804	11	24	Jackson’s Oxford Journal	0002	1804	11	24	Caledonian Mercury	0002
+1804	11	24	Jackson’s Oxford Journal	0004	1804	11	22	Caledonian Mercury	0002
+1804	11	26	Caledonian Mercury	0002	1804	11	23	Morning Chronicle	0002
+1804	11	26	Caledonian Mercury	0003	1804	11	23	Morning Chronicle	0004
+1804	11	26	Hampshire/Portsmouth Telegraph	0002	1804	11	24	Caledonian Mercury	0002
+1804	11	26	Hampshire/Portsmouth Telegraph	0004	1804	11	17	Morning Chronicle	0003
+1804	11	26	Hampshire/Portsmouth Telegraph	0004	1804	11	19	Caledonian Mercury	0002
+1804	11	26	Hampshire/Portsmouth Telegraph	0004	1804	11	21	Morning Chronicle	0002
+1804	11	26	Hampshire/Portsmouth Telegraph	0004	1804	11	22	Trewman’s Exeter Flying Post	0004
+1804	11	26	Hampshire/Portsmouth Telegraph	0004	1804	11	24	Caledonian Mercury	0002
+1804	11	26	Hampshire/Portsmouth Telegraph	0004	1804	11	24	Jackson’s Oxford Journal	0002
+1804	11	27	Hull Packet	0004	1804	11	21	Morning Chronicle	0002
+1804	11	27	Hull Packet	0004	1804	11	22	Caledonian Mercury	0002
+1804	11	27	Hull Packet	0004	1804	11	22	Trewman’s Exeter Flying Post	0004
+1804	11	27	Hull Packet	0004	1804	11	24	Caledonian Mercury	0002
+1804	11	27	Hull Packet	0004	1804	11	24	Jackson’s Oxford Journal	0002
+1804	11	27	Hull Packet	0004	1804	11	24	Jackson’s Oxford Journal	0004
+1804	11	28	Aberdeen Journal	0001	1804	11	17	Caledonian Mercury	0004
+1804	11	28	Aberdeen Journal	0003	1804	11	22	Caledonian Mercury	0003
+1804	11	29	Caledonian Mercury	0002	1804	11	26	Morning Chronicle	0002
+1804	11	29	Derby Mercury	0004	1804	11	08	Trewman’s Exeter Flying Post	0003
+1804	11	29	Trewman’s Exeter Flying Post	0001	1804	11	22	Morning Chronicle	0003
+1804	11	29	Trewman’s Exeter Flying Post	0001	1804	11	24	Caledonian Mercury	0002
+1804	11	29	Trewman’s Exeter Flying Post	0004	1804	11	27	Morning Chronicle	0002
+1804	12	01	Caledonian Mercury	0002	1804	11	28	Morning Chronicle	0002
+1804	12	01	Caledonian Mercury	0002	1804	11	29	Morning Chronicle	0002
+1804	12	01	Caledonian Mercury	0003	1804	11	29	Morning Chronicle	0003
+1804	12	05	Aberdeen Journal	0003	1804	11	26	Caledonian Mercury	0003
+1804	12	06	Trewman’s Exeter Flying Post	0002	1804	11	29	Morning Chronicle	0003
+1804	12	08	Cobbett’s Weekly Political Register	0012	1804	11	22	Caledonian Mercury	0002
+1804	12	11	Hull Packet	0004	1804	11	29	Derby Mercury	0004
+1804	12	12	Aberdeen Journal	0004	1804	11	15	Caledonian Mercury	0001
+1804	12	20	Trewman’s Exeter Flying Post	0003	1804	11	17	Jackson’s Oxford Journal	0002
+1804	12	29	Jackson’s Oxford Journal	0004	1804	11	01	Derby Mercury	0004
+1805	01	03	Trewman’s Exeter Flying Post	0002	1804	11	29	Derby Mercury	0004
+1805	01	17	Trewman’s Exeter Flying Post	0003	1804	11	01	Derby Mercury	0004
+1805	01	17	Trewman’s Exeter Flying Post	0003	1804	11	17	Jackson’s Oxford Journal	0002
+1805	01	26	Newcastle Courant	0003	1804	11	17	Jackson’s Oxford Journal	0002
+1805	01	31	Derby Mercury	0004	1804	11	01	Trewman’s Exeter Flying Post	0003
+1805	02	13	Aberdeen Journal	0002	1804	11	20	Hull Packet	0001
+1805	02	14	Trewman’s Exeter Flying Post	0003	1804	11	01	Derby Mercury	0004
+1805	02	14	Trewman’s Exeter Flying Post	0003	1804	11	29	Derby Mercury	0004
+1805	03	28	Derby Mercury	0004	1804	11	01	Trewman’s Exeter Flying Post	0003
+1805	03	28	Derby Mercury	0004	1804	11	17	Jackson’s Oxford Journal	0002
+1805	04	04	Trewman’s Exeter Flying Post	0003	1804	11	01	Derby Mercury	0004
+1805	04	04	Trewman’s Exeter Flying Post	0003	1804	11	29	Derby Mercury	0004
+1805	04	25	Trewman’s Exeter Flying Post	0003	1804	11	01	Derby Mercury	0004
+1805	04	25	Trewman’s Exeter Flying Post	0003	1804	11	29	Derby Mercury	0004
+1805	05	09	Trewman’s Exeter Flying Post	0003	1804	11	17	Jackson’s Oxford Journal	0002
+1805	05	13	Hampshire/Portsmouth Telegraph	0004	1804	11	01	Derby Mercury	0004
+1805	05	16	Trewman’s Exeter Flying Post	0003	1804	11	01	Derby Mercury	0004
+1805	05	16	Trewman’s Exeter Flying Post	0003	1804	11	29	Derby Mercury	0004
+1805	06	01	Jackson’s Oxford Journal	0004	1804	11	29	Derby Mercury	0004
+1805	06	06	Trewman’s Exeter Flying Post	0003	1804	11	29	Derby Mercury	0004

@@ -1,0 +1,93 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1802	06	03	Caledonian Mercury	0001	1802	06	02	Aberdeen Journal	0001
+1802	06	05	Caledonian Mercury	0003	1802	06	02	Morning Chronicle	0003
+1802	06	05	Jackson’s Oxford Journal	0001	1802	06	03	Caledonian Mercury	0002
+1802	06	05	Jackson’s Oxford Journal	0004	1802	06	03	Caledonian Mercury	0003
+1802	06	07	Caledonian Mercury	0004	1802	06	02	Morning Chronicle	0002
+1802	06	09	Aberdeen Journal	0001	1802	06	07	Caledonian Mercury	0001
+1802	06	09	Aberdeen Journal	0002	1802	06	05	Caledonian Mercury	0004
+1802	06	09	Aberdeen Journal	0003	1802	06	05	Jackson’s Oxford Journal	0004
+1802	06	10	Caledonian Mercury	0002	1802	06	07	Morning Chronicle	0002
+1802	06	10	Caledonian Mercury	0003	1802	06	09	Aberdeen Journal	0004
+1802	06	10	Derby Mercury	0003	1802	06	02	Aberdeen Journal	0004
+1802	06	12	Caledonian Mercury	0002	1802	06	08	Morning Chronicle	0003
+1802	06	12	Jackson’s Oxford Journal	0002	1802	06	09	Morning Chronicle	0003
+1802	06	12	Jackson’s Oxford Journal	0004	1802	06	10	Caledonian Mercury	0002
+1802	06	14	Caledonian Mercury	0003	1802	06	10	Morning Chronicle	0003
+1802.06.14_HampshireTelegraph&PortsmouthGazette_0004,1802.06.12_Jackson'sOxfordJournal_0004
+1802	06	16	Aberdeen Journal	0002	1802	06	14	Caledonian Mercury	0003
+1802	06	16	Aberdeen Journal	0003	1802	06	12	Caledonian Mercury	0003
+1802	06	17	Caledonian Mercury	0004	1802	06	16	Aberdeen Journal	0001
+1802	06	17	Morning Chronicle	0002	1802	06	12	Cobbett’s Weekly Political Register	0012
+1802	06	17	Trewman’s Exeter Flying Post	0002	1802	06	12	Jackson’s Oxford Journal	0002
+1802	06	19	Jackson’s Oxford Journal	0004	1802	06	14	Morning Chronicle	0003
+1802	06	23	Aberdeen Journal	0002	1802	06	19	Caledonian Mercury	0003
+1802	06	23	Morning Chronicle	0001	1802	06	17	Trewman’s Exeter Flying Post	0002
+1802	06	24	Derby Mercury	0002	1802	06	19	Ipswich Journal	0004
+1802	06	24	Derby Mercury	0003	1802	06	12	Jackson’s Oxford Journal	0004
+1802	06	24	Morning Chronicle	0003	1802	06	19	Cobbett’s Weekly Political Register	0007
+1802	06	24	Trewman’s Exeter Flying Post	0002	1802	06	19	Jackson’s Oxford Journal	0004
+1802	06	26	Caledonian Mercury	0002	1802	06	19	Cobbett’s Weekly Political Register	0011
+1802	06	26	Cobbett’s Weekly Political Register	0002	1802	06	24	Morning Chronicle	0001
+1802	06	26	Cobbett’s Weekly Political Register	0003	1802	06	24	Morning Chronicle	0001
+1802	06	26	Jackson’s Oxford Journal	0001	1802	06	24	Derby Mercury	0001
+1802	06	26	Jackson’s Oxford Journal	0002	1802	06	24	Derby Mercury	0002
+1802	06	26	Jackson’s Oxford Journal	0004	1802	06	17	Trewman’s Exeter Flying Post	0002
+1802	06	26	Ipswich Journal	0004	1802	06	24	Derby Mercury	0002
+1802	06	28	Caledonian Mercury	0001	1802	06	24	Derby Mercury	0002
+1802.06.28_HampshireTelegraph&PortsmouthGazette_0004,1802.06.19_Cobbett'sAnnualRegister_0011
+1802	06	29	Morning Chronicle	0002	1802	06	26	Cobbett’s Weekly Political Register	0009
+1802	06	30	Aberdeen Journal	0003	1802	06	24	Caledonian Mercury	0003
+1802	07	01	Caledonian Mercury	0002	1802	06	29	Morning Chronicle	0002
+1802	07	01	Caledonian Mercury	0004	1802	06	16	Aberdeen Journal	0001
+1802	07	01	Derby Mercury	0002	1802	06	28	Caledonian Mercury	0002
+1802	07	01	Derby Mercury	0003	1802	06	28	Caledonian Mercury	0002
+1802	07	01	Trewman’s Exeter Flying Post	0004	1802	06	29	Morning Chronicle	0002
+1802	07	02	Morning Chronicle	0002	1802	06	30	Cobbett’s Weekly Political Register	0007
+1802	07	03	Caledonian Mercury	0002	1802	06	29	Morning Chronicle	0002
+1802	07	03	Jackson’s Oxford Journal	0001	1802	06	29	Morning Chronicle	0002
+1802	07	03	Jackson’s Oxford Journal	0002	1802	06	30	Morning Chronicle	0002
+1802	07	03	Jackson’s Oxford Journal	0004	1802	06	19	Ipswich Journal	0004
+1802	07	03	Ipswich Journal	0004	1802	06	28	Caledonian Mercury	0001
+1802	07	03	Morning Chronicle	0002	1802	06	30	Cobbett’s Weekly Political Register	0007
+1802	07	05	Caledonian Mercury	0004	1802	06	29	Morning Chronicle	0002
+1802.07.05_HampshireTelegraph&PortsmouthGazette_0004,1802.06.29_TheMorningChronicle_0002
+1802	07	05	Morning Chronicle	0002	1802	06	30	Cobbett’s Weekly Political Register	0007
+1802	07	07	Aberdeen Journal	0002	1802	06	29	Morning Chronicle	0002
+1802	07	07	Morning Chronicle	0001	1802	06	30	Cobbett’s Weekly Political Register	0007
+1802	07	07	Morning Chronicle	0002	1802	06	30	Cobbett’s Weekly Political Register	0006
+1802	07	08	Caledonian Mercury	0004	1802	06	23	Aberdeen Journal	0004
+1802	07	08	Derby Mercury	0003	1802	06	19	Jackson’s Oxford Journal	0004
+1802	07	08	Trewman’s Exeter Flying Post	0003	1802	06	12	Jackson’s Oxford Journal	0004
+1802	07	10	Jackson’s Oxford Journal	0004	1802	06	24	Trewman’s Exeter Flying Post	0002
+1802	07	10	Ipswich Journal	0004	1802	06	28	Caledonian Mercury	0001
+1802	07	15	Derby Mercury	0003	1802	06	02	Aberdeen Journal	0004
+1802	07	15	Trewman’s Exeter Flying Post	0003	1802	06	19	Jackson’s Oxford Journal	0004
+1802	07	17	Jackson’s Oxford Journal	0004	1802	06	03	Derby Mercury	0003
+1802	07	22	Derby Mercury	0003	1802	06	12	Jackson’s Oxford Journal	0004
+1802	07	24	Jackson’s Oxford Journal	0003	1802	06	26	Morning Chronicle	0004
+1802	07	29	Caledonian Mercury	0004	1802	06	23	Aberdeen Journal	0004
+1802	07	29	Derby Mercury	0003	1802	06	05	Jackson’s Oxford Journal	0004
+1802	07	31	Ipswich Journal	0004	1802	06	19	Jackson’s Oxford Journal	0004
+1802	08	07	Ipswich Journal	0004	1802	06	12	Jackson’s Oxford Journal	0004
+1802	08	12	Derby Mercury	0003	1802	06	12	Jackson’s Oxford Journal	0004
+1802	08	14	Ipswich Journal	0004	1802	06	19	Jackson’s Oxford Journal	0004
+1802	08	19	Morning Chronicle	0001	1802	06	12	Jackson’s Oxford Journal	0004
+1802	08	26	Derby Mercury	0003	1802	06	12	Jackson’s Oxford Journal	0004
+1802	09	02	Trewman’s Exeter Flying Post	0001	1802	06	10	Derby Mercury	0003
+1802.09.06_HampshireTelegraph&PortsmouthGazette_0003,1802.06.17_TheDerbyMercury_0003
+1802	09	16	Derby Mercury	0003	1802	06	05	Jackson’s Oxford Journal	0004
+1802	10	09	Jackson’s Oxford Journal	0001	1802	06	24	Trewman’s Exeter Flying Post	0002
+1802	10	13	Aberdeen Journal	0001	1802	06	28	Caledonian Mercury	0001
+1802	10	21	Trewman’s Exeter Flying Post	0003	1802	06	10	Derby Mercury	0003
+1802	10	22	Morning Chronicle	0001	1802	06	12	Jackson’s Oxford Journal	0004
+1802	10	23	Ipswich Journal	0004	1802	06	03	Derby Mercury	0003
+1802.11.08_HampshireTelegraph&PortsmouthGazette_0001,1802.06.03_TheDerbyMercury_0003
+1802	11	24	Aberdeen Journal	0001	1802	06	17	Caledonian Mercury	0004
+1802.11.29_HampshireTelegraph&PortsmouthGazette_0004,1802.06.03_TheDerbyMercury_0003
+1802	12	02	Trewman’s Exeter Flying Post	0003	1802	06	17	Derby Mercury	0003
+1802	12	16	Trewman’s Exeter Flying Post	0003	1802	06	03	Derby Mercury	0003
+1802	12	23	Trewman’s Exeter Flying Post	0003	1802	06	24	Derby Mercury	0003
+1802	12	25	Jackson’s Oxford Journal	0001	1802	06	24	Derby Mercury	0003
+1802	12	30	Derby Mercury	0001	1802	06	26	Jackson’s Oxford Journal	0004
+1802	12	30	Trewman’s Exeter Flying Post	0002	1802	06	17	Derby Mercury	0003

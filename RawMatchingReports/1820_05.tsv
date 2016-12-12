@@ -1,0 +1,795 @@
+PM	OL	OR	RYEAR	RMONTH	RDAY	RTITLE	RFILENAME	OYEAR	OMONTH	ODAY	OTITLE	OFILENAME
+485	733	728	1820	05	01	Glasgow Herald	1820.05.01_GlasgowHerald_0002	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0003
+363	544	557	1820	05	02	Freeman’s Journal	1820.05.02_Freeman'sJournalandDailyCommercialAdvertiser_0003	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0003
+509	747	760	1820	05	03	Freeman’s Journal	1820.05.03_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	02	Freeman’s Journal	1820.05.02_Freeman'sJournalandDailyCommercialAdvertiser_0001
+356	497	526	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0002
+386	607	598	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1820	05	02	Freeman’s Journal	1820.05.02_Freeman'sJournalandDailyCommercialAdvertiser_0003
+429	653	680	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0004
+250	365	375	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	01	Glasgow Herald	1820.05.01_GlasgowHerald_0002
+265	440	442	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0002
+239	383	395	1820	05	05	Glasgow Herald	1820.05.05_GlasgowHerald_0001	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0004
+327	477	484	1820	05	05	Glasgow Herald	1820.05.05_GlasgowHerald_0004	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0003
+212	330	349	1820	05	05	Liverpool Mercury	1820.05.05_LiverpoolMercuryetc_0002	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0004
+428	624	636	1820	05	05	Liverpool Mercury	1820.05.05_LiverpoolMercuryetc_0002	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+625	842	835	1820	05	05	Liverpool Mercury	1820.05.05_LiverpoolMercuryetc_0007	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0002
+588	859	845	1820	05	05	Liverpool Mercury	1820.05.05_LiverpoolMercuryetc_0007	1820	05	05	Glasgow Herald	1820.05.05_GlasgowHerald_0001
+419	596	586	1820	05	05	Liverpool Mercury	1820.05.05_LiverpoolMercuryetc_0008	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+224	318	315	1820	05	06	Cobbett’s Weekly Political Register	1820.05.06_Cobbett'sWeeklyPoliticalRegister_0020	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+287	372	369	1820	05	06	Cobbett’s Weekly Political Register	1820.05.06_Cobbett'sWeeklyPoliticalRegister_0034	1820	05	06	Caledonian Mercury	1820.05.06_CaledonianMercury_0002
+2187	3296	3333	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0001	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0002
+211	283	298	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0003
+259	349	362	1820	05	06	Leeds Mercury	1820.05.06_TheLeedsMercury_0002	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0003
+251	402	397	1820	05	06	Leeds Mercury	1820.05.06_TheLeedsMercury_0002	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+318	487	507	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0002	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0004
+214	322	342	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0002	1820	05	01	Glasgow Herald	1820.05.01_GlasgowHerald_0002
+248	395	398	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0002	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0002
+413	669	666	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0002	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+476	673	672	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0002	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+332	509	509	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0002	1820	05	05	Liverpool Mercury	1820.05.05_LiverpoolMercuryetc_0002
+639	887	933	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0002	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+358	546	567	1820	05	07	Examiner	1820.05.07_TheExaminer_0014	1820	05	06	Caledonian Mercury	1820.05.06_CaledonianMercury_0002
+211	334	341	1820	05	08	Caledonian Mercury	1820.05.08_CaledonianMercury_0001	1820	05	06	Caledonian Mercury	1820.05.06_CaledonianMercury_0003
+339	515	502	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0002	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0002
+206	273	291	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0004	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0002
+212	318	331	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0004	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+609	811	845	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0004	1820	05	06	Caledonian Mercury	1820.05.06_CaledonianMercury_0002
+237	317	325	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0004	1820	05	06	Cobbett’s Weekly Political Register	1820.05.06_Cobbett'sWeeklyPoliticalRegister_0034
+273	421	448	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+329	562	567	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0004	1820	05	07	Examiner	1820.05.07_TheExaminer_0014
+1030	1575	1586	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0003	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0002
+647	1045	1026	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0003	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0001
+887	1284	1281	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0004	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0002
+237	418	409	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0004	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0004
+549	852	841	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0001
+679	1002	959	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0005	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0004
+294	417	432	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0007	1820	05	01	Caledonian Mercury	1820.05.01_CaledonianMercury_0003
+461	587	587	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0007	1820	05	06	Caledonian Mercury	1820.05.06_CaledonianMercury_0002
+237	324	331	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0007	1820	05	06	Cobbett’s Weekly Political Register	1820.05.06_Cobbett'sWeeklyPoliticalRegister_0034
+226	332	323	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0007	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+460	710	694	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0007	1820	05	06	Leeds Mercury	1820.05.06_TheLeedsMercury_0002
+219	365	356	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0007	1820	05	07	Examiner	1820.05.07_TheExaminer_0014
+353	518	510	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0007	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0004
+947	1337	1278	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0008	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+228	343	355	1820	05	10	Freeman’s Journal	1820.05.10_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	02	Freeman’s Journal	1820.05.02_Freeman'sJournalandDailyCommercialAdvertiser_0001
+569	852	847	1820	05	10	Freeman’s Journal	1820.05.10_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	03	Freeman’s Journal	1820.05.03_Freeman'sJournalandDailyCommercialAdvertiser_0001
+227	360	364	1820	05	10	Freeman’s Journal	1820.05.10_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	09	Freeman’s Journal	1820.05.09_Freeman'sJournalandDailyCommercialAdvertiser_0001
+200	278	269	1820	05	10	Freeman’s Journal	1820.05.10_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	09	Freeman’s Journal	1820.05.09_Freeman'sJournalandDailyCommercialAdvertiser_0002
+234	401	400	1820	05	10	Aberdeen Journal	1820.05.10_TheAberdeenJournal_0001	1820	05	03	Aberdeen Journal	1820.05.03_TheAberdeenJournal_0004
+639	966	987	1820	05	10	Aberdeen Journal	1820.05.10_TheAberdeenJournal_0004	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0002
+389	561	576	1820	05	10	Aberdeen Journal	1820.05.10_TheAberdeenJournal_0004	1820	05	05	Liverpool Mercury	1820.05.05_LiverpoolMercuryetc_0007
+330	555	555	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0001	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0001
+208	351	354	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0003
+237	383	365	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004	1820	05	05	Glasgow Herald	1820.05.05_GlasgowHerald_0004
+334	513	505	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+200	309	293	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+1070	1451	1466	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+548	704	730	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	08	Caledonian Mercury	1820.05.08_CaledonianMercury_0002
+394	587	599	1820	05	12	Glasgow Herald	1820.05.12_GlasgowHerald_0001	1820	05	10	Freeman’s Journal	1820.05.10_Freeman'sJournalandDailyCommercialAdvertiser_0004
+1031	1538	1565	1820	05	12	Glasgow Herald	1820.05.12_GlasgowHerald_0001	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0002
+495	723	714	1820	05	12	Glasgow Herald	1820.05.12_GlasgowHerald_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+1022	1515	1510	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+511	795	796	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0003
+1313	1824	1932	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+525	780	777	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0003	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0003
+311	433	418	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+1299	1772	1791	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+305	456	425	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004	1820	05	10	Freeman’s Journal	1820.05.10_Freeman'sJournalandDailyCommercialAdvertiser_0002
+205	331	330	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0001	1820	05	06	Leeds Mercury	1820.05.06_TheLeedsMercury_0001
+462	801	777	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0002	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+279	426	439	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0002	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0008
+285	459	472	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0002	1820	05	10	Derby Mercury	1820.05.10_TheDerbyMercury_0002
+292	432	427	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0002	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0002
+311	503	502	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0003
+235	404	399	1820	05	14	Examiner	1820.05.14_TheExaminer_0005	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0001
+289	489	489	1820	05	14	Examiner	1820.05.14_TheExaminer_0005	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0004
+348	558	543	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0001
+344	531	545	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+225	406	394	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0004	1820	05	08	Caledonian Mercury	1820.05.08_CaledonianMercury_0004
+625	928	939	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+759	1089	1126	1820	05	15	Glasgow Herald	1820.05.15_GlasgowHerald_0001	1820	05	13	Caledonian Mercury	1820.05.13_CaledonianMercury_0002
+534	858	841	1820	05	15	Glasgow Herald	1820.05.15_GlasgowHerald_0002	1820	05	13	Caledonian Mercury	1820.05.13_CaledonianMercury_0003
+350	589	582	1820	05	15	Glasgow Herald	1820.05.15_GlasgowHerald_0003	1820	05	12	Glasgow Herald	1820.05.12_GlasgowHerald_0003
+209	354	367	1820	05	15	Glasgow Herald	1820.05.15_GlasgowHerald_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+293	533	523	1820	05	15	Glasgow Herald	1820.05.15_GlasgowHerald_0004	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0004
+261	399	396	1820	05	15	Bristol Mercury	1820.05.15_TheBristolMercury_0001	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0001
+365	549	536	1820	05	15	Bristol Mercury	1820.05.15_TheBristolMercury_0002	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0001
+316	466	460	1820	05	17	Freeman’s Journal	1820.05.17_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	03	Freeman’s Journal	1820.05.03_Freeman'sJournalandDailyCommercialAdvertiser_0001
+362	561	558	1820	05	17	Freeman’s Journal	1820.05.17_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	10	Freeman’s Journal	1820.05.10_Freeman'sJournalandDailyCommercialAdvertiser_0001
+235	360	368	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0001	1820	05	03	Aberdeen Journal	1820.05.03_TheAberdeenJournal_0001
+270	457	447	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0001	1820	05	03	Aberdeen Journal	1820.05.03_TheAberdeenJournal_0004
+474	738	714	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0001	1820	05	10	Aberdeen Journal	1820.05.10_TheAberdeenJournal_0001
+426	744	732	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0001	1820	05	10	Aberdeen Journal	1820.05.10_TheAberdeenJournal_0002
+283	445	433	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0001	1820	05	10	Aberdeen Journal	1820.05.10_TheAberdeenJournal_0003
+544	781	801	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0004	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0003
+331	526	528	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0004	1820	05	05	Glasgow Herald	1820.05.05_GlasgowHerald_0004
+324	481	490	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0004	1820	05	13	Caledonian Mercury	1820.05.13_CaledonianMercury_0002
+272	443	424	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0004	1820	05	13	Ipswich Journal	1820.05.13_TheIpswichJournal_0002
+424	685	684	1820	05	17	Derby Mercury	1820.05.17_TheDerbyMercury_0001	1820	05	10	Derby Mercury	1820.05.10_TheDerbyMercury_0002
+240	398	393	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0001	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0001
+242	359	368	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+278	445	438	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+245	349	355	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+515	760	759	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+693	958	949	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+315	480	474	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+253	394	395	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+736	1029	1031	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+302	391	396	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+792	1120	1124	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+372	488	493	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0002
+236	384	391	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	17	Derby Mercury	1820.05.17_TheDerbyMercury_0001
+431	637	641	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+420	650	649	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+279	450	453	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0003
+837	1155	1232	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+2081	3040	3097	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0001
+225	343	343	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0002
+266	408	407	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0003
+303	501	513	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001	1820	05	19	Freeman’s Journal	1820.05.19_Freeman'sJournalandDailyCommercialAdvertiser_0004
+307	448	461	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+520	654	698	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+1066	1470	1518	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+968	1373	1377	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+224	391	395	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004	1820	05	13	Ipswich Journal	1820.05.13_TheIpswichJournal_0004
+236	350	368	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004	1820	05	17	Derby Mercury	1820.05.17_TheDerbyMercury_0004
+349	531	526	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+224	340	322	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004	1820	05	19	Freeman’s Journal	1820.05.19_Freeman'sJournalandDailyCommercialAdvertiser_0003
+375	676	668	1820	05	20	Ipswich Journal	1820.05.20_TheIpswichJournal_0001	1820	05	13	Ipswich Journal	1820.05.13_TheIpswichJournal_0001
+229	415	423	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0001	1820	05	06	Leeds Mercury	1820.05.06_TheLeedsMercury_0001
+292	502	483	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0001	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0001
+222	418	403	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+272	467	473	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0004
+226	375	383	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0002
+335	553	567	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0002	1820	05	17	Derby Mercury	1820.05.17_TheDerbyMercury_0004
+327	478	488	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0002	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+437	687	687	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0001
+469	744	736	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0003
+516	829	844	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0001
+450	707	701	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+212	289	301	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0004	1820	05	20	Ipswich Journal	1820.05.20_TheIpswichJournal_0004
+734	1102	1110	1820	05	22	Glasgow Herald	1820.05.22_GlasgowHerald_0001	1820	05	20	Caledonian Mercury	1820.05.20_CaledonianMercury_0003
+556	836	787	1820	05	22	Glasgow Herald	1820.05.22_GlasgowHerald_0001	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+474	694	720	1820	05	22	Glasgow Herald	1820.05.22_GlasgowHerald_0002	1820	05	22	Caledonian Mercury	1820.05.22_CaledonianMercury_0002
+386	552	548	1820	05	22	Bristol Mercury	1820.05.22_TheBristolMercury_0002	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0001
+261	324	322	1820	05	22	Bristol Mercury	1820.05.22_TheBristolMercury_0002	1820	05	08	Bristol Mercury	1820.05.08_TheBristolMercury_0002
+1039	1389	1371	1820	05	22	Bristol Mercury	1820.05.22_TheBristolMercury_0002	1820	05	15	Bristol Mercury	1820.05.15_TheBristolMercury_0002
+334	495	518	1820	05	24	Freeman’s Journal	1820.05.24_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	23	Freeman’s Journal	1820.05.23_Freeman'sJournalandDailyCommercialAdvertiser_0001
+219	320	319	1820	05	24	Freeman’s Journal	1820.05.24_Freeman'sJournalandDailyCommercialAdvertiser_0002	1820	05	19	Freeman’s Journal	1820.05.19_Freeman'sJournalandDailyCommercialAdvertiser_0002
+213	344	349	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0001	1820	05	10	Aberdeen Journal	1820.05.10_TheAberdeenJournal_0003
+550	877	873	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0001	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0001
+285	456	467	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0001	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0002
+608	976	963	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0001	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0003
+353	577	589	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0002	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0002
+207	362	356	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0002	1820	05	20	Caledonian Mercury	1820.05.20_CaledonianMercury_0003
+843	1400	1357	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0004	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+580	882	914	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0004	1820	05	09	Liverpool Mercury	1820.05.09_LiverpoolMercuryetc_S0008
+311	560	549	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0004	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0002
+273	474	464	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0004	1820	05	19	Freeman’s Journal	1820.05.19_Freeman'sJournalandDailyCommercialAdvertiser_0004
+260	348	350	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0004	1820	05	20	Ipswich Journal	1820.05.20_TheIpswichJournal_0004
+580	992	1013	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0001	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0001
+233	365	360	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+254	392	374	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+224	346	355	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003	1820	05	20	Caledonian Mercury	1820.05.20_CaledonianMercury_0003
+628	1116	1069	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+240	307	311	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+202	293	298	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+674	907	925	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+454	575	589	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1820	05	22	Caledonian Mercury	1820.05.22_CaledonianMercury_0002
+259	358	359	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+316	432	433	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+218	339	338	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+475	671	691	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	22	Glasgow Herald	1820.05.22_GlasgowHerald_0002
+249	362	365	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+505	772	762	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+245	446	427	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0003	1820	05	13	Caledonian Mercury	1820.05.13_CaledonianMercury_0001
+232	359	341	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0003	1820	05	13	Caledonian Mercury	1820.05.13_CaledonianMercury_0003
+299	401	392	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0003	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003
+337	538	547	1820	05	27	Freeman’s Journal	1820.05.27_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	24	Freeman’s Journal	1820.05.24_Freeman'sJournalandDailyCommercialAdvertiser_0001
+249	409	387	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+720	972	986	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+1196	1859	1814	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0001
+248	406	397	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0003
+241	321	326	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+205	304	294	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+1004	1596	1495	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001
+539	750	750	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+346	485	481	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+440	553	564	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0002
+630	868	869	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0002
+239	337	332	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0003	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0003
+497	727	726	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0003	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0003
+218	296	302	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+817	1126	1154	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+1050	1438	1466	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+669	817	822	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+798	1092	1084	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+368	483	490	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+403	653	667	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0001	1820	05	13	Ipswich Journal	1820.05.13_TheIpswichJournal_0001
+435	712	720	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0001	1820	05	20	Ipswich Journal	1820.05.20_TheIpswichJournal_0001
+448	754	763	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0001	1820	05	20	Ipswich Journal	1820.05.20_TheIpswichJournal_0003
+284	379	402	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0002	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+396	578	583	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+308	436	449	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+563	782	815	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0002	1820	05	20	Caledonian Mercury	1820.05.20_CaledonianMercury_0003
+221	280	283	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0002	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+385	467	494	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0002	1820	05	22	Caledonian Mercury	1820.05.22_CaledonianMercury_0002
+528	670	693	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0002	1820	05	22	Caledonian Mercury	1820.05.22_CaledonianMercury_0003
+372	543	562	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0002	1820	05	22	Glasgow Herald	1820.05.22_GlasgowHerald_0001
+800	1149	1184	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0002	1820	05	22	Glasgow Herald	1820.05.22_GlasgowHerald_0002
+480	643	660	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0002	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+275	451	460	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0001
+463	720	738	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+227	317	328	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+1143	1756	1757	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0001
+916	1471	1498	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+301	423	429	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+375	554	573	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0001	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003
+235	361	338	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0002	1820	05	28	Examiner	1820.05.28_TheExaminer_0009
+292	383	397	1820	05	29	Glasgow Herald	1820.05.29_GlasgowHerald_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+778	1141	1144	1820	05	29	Glasgow Herald	1820.05.29_GlasgowHerald_0002	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0002
+664	1064	1029	1820	05	29	Glasgow Herald	1820.05.29_GlasgowHerald_0004	1820	05	23	Freeman’s Journal	1820.05.23_Freeman'sJournalandDailyCommercialAdvertiser_0003
+281	395	381	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0001
+314	452	451	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001	1820	05	15	Bristol Mercury	1820.05.15_TheBristolMercury_0001
+224	320	329	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0002
+200	270	270	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+260	346	347	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+277	354	368	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0002
+647	973	959	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0002	1820	05	22	Bristol Mercury	1820.05.22_TheBristolMercury_0002
+202	304	306	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0004	1820	05	02	Freeman’s Journal	1820.05.02_Freeman'sJournalandDailyCommercialAdvertiser_0004
+485	653	676	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+618	989	985	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0004	1820	05	28	Examiner	1820.05.28_TheExaminer_0013
+221	331	331	1820	05	31	Freeman’s Journal	1820.05.31_Freeman'sJournalandDailyCommercialAdvertiser_0002	1820	05	19	Freeman’s Journal	1820.05.19_Freeman'sJournalandDailyCommercialAdvertiser_0002
+228	368	363	1820	05	31	Aberdeen Journal	1820.05.31_TheAberdeenJournal_0001	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0001
+374	601	612	1820	05	31	Aberdeen Journal	1820.05.31_TheAberdeenJournal_0001	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0001
+429	694	687	1820	05	31	Aberdeen Journal	1820.05.31_TheAberdeenJournal_0001	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0002
+439	768	772	1820	05	31	Aberdeen Journal	1820.05.31_TheAberdeenJournal_0001	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0003
+306	449	442	1820	05	31	Aberdeen Journal	1820.05.31_TheAberdeenJournal_0004	1820	05	22	Caledonian Mercury	1820.05.22_CaledonianMercury_0003
+861	1331	1315	1820	05	31	Aberdeen Journal	1820.05.31_TheAberdeenJournal_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0002
+276	377	396	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0001	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0002
+364	525	555	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+210	334	336	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0001	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001
+304	401	405	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0001	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0002
+319	508	522	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0004	1820	05	17	Derby Mercury	1820.05.17_TheDerbyMercury_0004
+320	483	497	1820	06	01	Caledonian Mercury	1820.06.01_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+203	306	307	1820	06	01	Caledonian Mercury	1820.06.01_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+249	417	400	1820	06	01	Caledonian Mercury	1820.06.01_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+410	598	595	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+418	577	567	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+341	479	486	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+214	330	340	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0002
+232	342	345	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001
+201	264	274	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0002
+207	329	324	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0001
+229	354	350	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0002
+223	314	313	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0002
+598	876	897	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+270	398	411	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	29	Glasgow Herald	1820.05.29_GlasgowHerald_0002
+361	496	488	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001
+301	374	382	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0002
+523	710	715	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0001
+410	566	565	1820	06	01	Trewman’s Exeter Flying Post	1820.06.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+255	430	439	1820	06	02	Freeman’s Journal	1820.06.02_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	27	Freeman’s Journal	1820.05.27_Freeman'sJournalandDailyCommercialAdvertiser_0002
+277	412	425	1820	06	02	Freeman’s Journal	1820.06.02_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	31	Freeman’s Journal	1820.05.31_Freeman'sJournalandDailyCommercialAdvertiser_0001
+269	426	434	1820	06	03	Caledonian Mercury	1820.06.03_CaledonianMercury_0001	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0003
+244	367	347	1820	06	03	Caledonian Mercury	1820.06.03_CaledonianMercury_0003	1820	05	13	Caledonian Mercury	1820.05.13_CaledonianMercury_0003
+384	539	543	1820	06	03	Caledonian Mercury	1820.06.03_CaledonianMercury_0003	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0003
+327	411	413	1820	06	03	Caledonian Mercury	1820.06.03_CaledonianMercury_0004	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0002
+418	542	546	1820	06	03	Caledonian Mercury	1820.06.03_CaledonianMercury_0004	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0001
+378	543	549	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+268	416	404	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0003
+667	921	946	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0001
+411	644	666	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0002
+630	934	933	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0001	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001
+342	500	502	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0001	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0001
+1702	2334	2410	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+809	1129	1188	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+432	548	543	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0003
+309	473	468	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0003	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0003
+1201	1732	1761	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0003	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0003
+919	1273	1309	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+821	1151	1166	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+268	437	426	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+706	895	891	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+1081	1475	1446	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+301	411	425	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+1578	1937	1925	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+292	437	422	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+206	281	294	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0002
+222	308	308	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001
+257	405	403	1820	06	03	Jackson’s Oxford Journal	1820.06.03_Jackson'sOxfordJournal_0004	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0004
+203	371	373	1820	06	03	Ipswich Journal	1820.06.03_TheIpswichJournal_0001	1820	05	20	Ipswich Journal	1820.05.20_TheIpswichJournal_0003
+257	448	446	1820	06	03	Ipswich Journal	1820.06.03_TheIpswichJournal_0001	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0001
+371	670	670	1820	06	03	Ipswich Journal	1820.06.03_TheIpswichJournal_0001	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0003
+252	402	410	1820	06	03	Ipswich Journal	1820.06.03_TheIpswichJournal_0004	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0001
+265	439	435	1820	06	03	Leeds Mercury	1820.06.03_TheLeedsMercury_0001	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0001
+204	281	283	1820	06	03	Leeds Mercury	1820.06.03_TheLeedsMercury_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+366	509	511	1820	06	03	Leeds Mercury	1820.06.03_TheLeedsMercury_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+356	573	559	1820	06	03	Leeds Mercury	1820.06.03_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+232	382	383	1820	06	03	Leeds Mercury	1820.06.03_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0004
+242	385	374	1820	06	03	Leeds Mercury	1820.06.03_TheLeedsMercury_0004	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+231	334	329	1820	06	03	Leeds Mercury	1820.06.03_TheLeedsMercury_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+544	850	853	1820	06	03	Leeds Mercury	1820.06.03_TheLeedsMercury_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+214	295	300	1820	06	03	Leeds Mercury	1820.06.03_TheLeedsMercury_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+426	710	713	1820	06	03	Leeds Mercury	1820.06.03_TheLeedsMercury_0004	1820	05	27	Leeds Mercury	1820.05.27_TheLeedsMercury_0004
+211	308	303	1820	06	03	Newcastle Courant	1820.06.03_TheNewcastleCourantetc_0001	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0003
+273	475	483	1820	06	03	Newcastle Courant	1820.06.03_TheNewcastleCourantetc_0002	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0004
+403	622	623	1820	06	03	Newcastle Courant	1820.06.03_TheNewcastleCourantetc_0003	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0003
+936	1443	1431	1820	06	03	Newcastle Courant	1820.06.03_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0001
+665	1081	1093	1820	06	03	Newcastle Courant	1820.06.03_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+785	1258	1243	1820	06	03	Newcastle Courant	1820.06.03_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0001
+1002	1491	1476	1820	06	03	Newcastle Courant	1820.06.03_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+222	312	334	1820	06	03	Newcastle Courant	1820.06.03_TheNewcastleCourantetc_0004	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0002
+226	312	316	1820	06	03	Newcastle Courant	1820.06.03_TheNewcastleCourantetc_0004	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001
+230	400	407	1820	06	05	Caledonian Mercury	1820.06.05_CaledonianMercury_0001	1820	05	08	Caledonian Mercury	1820.05.08_CaledonianMercury_0001
+218	318	328	1820	06	05	Caledonian Mercury	1820.06.05_CaledonianMercury_0001	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003
+216	326	337	1820	06	05	Caledonian Mercury	1820.06.05_CaledonianMercury_0001	1820	05	22	Caledonian Mercury	1820.05.22_CaledonianMercury_0001
+485	655	665	1820	06	05	Caledonian Mercury	1820.06.05_CaledonianMercury_0003	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003
+348	532	527	1820	06	05	Caledonian Mercury	1820.06.05_CaledonianMercury_0003	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0001
+419	610	627	1820	06	05	Caledonian Mercury	1820.06.05_CaledonianMercury_0004	1820	05	22	Glasgow Herald	1820.05.22_GlasgowHerald_0002
+478	612	612	1820	06	05	Caledonian Mercury	1820.06.05_CaledonianMercury_0004	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+494	579	573	1820	06	05	Caledonian Mercury	1820.06.05_CaledonianMercury_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+387	532	524	1820	06	05	Caledonian Mercury	1820.06.05_CaledonianMercury_0004	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0002
+238	386	377	1820	06	05	Bristol Mercury	1820.06.05_TheBristolMercury_0001	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0001
+457	616	613	1820	06	05	Bristol Mercury	1820.06.05_TheBristolMercury_0002	1820	05	22	Bristol Mercury	1820.05.22_TheBristolMercury_0002
+572	815	830	1820	06	05	Bristol Mercury	1820.06.05_TheBristolMercury_0002	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0002
+203	312	318	1820	06	06	Freeman’s Journal	1820.06.06_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	23	Freeman’s Journal	1820.05.23_Freeman'sJournalandDailyCommercialAdvertiser_0001
+234	380	386	1820	06	06	Freeman’s Journal	1820.06.06_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	27	Freeman’s Journal	1820.05.27_Freeman'sJournalandDailyCommercialAdvertiser_0002
+216	287	297	1820	06	06	Freeman’s Journal	1820.06.06_Freeman'sJournalandDailyCommercialAdvertiser_0001	1820	05	31	Freeman’s Journal	1820.05.31_Freeman'sJournalandDailyCommercialAdvertiser_0001
+215	366	365	1820	06	07	Aberdeen Journal	1820.06.07_TheAberdeenJournal_0001	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0001
+426	710	709	1820	06	07	Aberdeen Journal	1820.06.07_TheAberdeenJournal_0001	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0001
+213	349	351	1820	06	07	Aberdeen Journal	1820.06.07_TheAberdeenJournal_0001	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0002
+290	461	470	1820	06	07	Aberdeen Journal	1820.06.07_TheAberdeenJournal_0001	1820	05	31	Aberdeen Journal	1820.05.31_TheAberdeenJournal_0001
+732	1118	1120	1820	06	07	Aberdeen Journal	1820.06.07_TheAberdeenJournal_0002	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0003
+203	342	330	1820	06	07	Aberdeen Journal	1820.06.07_TheAberdeenJournal_0004	1820	05	26	Glasgow Herald	1820.05.26_GlasgowHerald_0001
+266	408	412	1820	06	07	Aberdeen Journal	1820.06.07_TheAberdeenJournal_0004	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0002
+386	682	703	1820	06	08	Caledonian Mercury	1820.06.08_CaledonianMercury_0001	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0001
+402	720	743	1820	06	08	Caledonian Mercury	1820.06.08_CaledonianMercury_0001	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0001
+291	477	486	1820	06	08	Caledonian Mercury	1820.06.08_CaledonianMercury_0003	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0003
+271	399	397	1820	06	08	Caledonian Mercury	1820.06.08_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+279	393	386	1820	06	08	Caledonian Mercury	1820.06.08_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+234	351	366	1820	06	08	Caledonian Mercury	1820.06.08_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+433	775	759	1820	06	08	Caledonian Mercury	1820.06.08_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+471	825	794	1820	06	08	Caledonian Mercury	1820.06.08_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+295	458	453	1820	06	08	Trewman’s Exeter Flying Post	1820.06.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+478	620	617	1820	06	08	Trewman’s Exeter Flying Post	1820.06.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+685	1006	994	1820	06	08	Trewman’s Exeter Flying Post	1820.06.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+300	416	425	1820	06	08	Trewman’s Exeter Flying Post	1820.06.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+230	333	336	1820	06	09	Glasgow Herald	1820.06.09_GlasgowHerald_0001	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0002
+202	333	344	1820	06	10	Caledonian Mercury	1820.06.10_CaledonianMercury_0001	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0003
+278	420	397	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+654	989	938	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0001
+203	364	336	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0003
+412	650	609	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0001	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001
+1527	2515	2400	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+737	1131	1124	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+252	362	361	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0003	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0003
+969	1263	1302	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0003	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0003
+781	1117	1136	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+1066	1493	1473	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+552	697	691	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+721	1011	974	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+264	393	384	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0004	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+1266	1680	1641	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+250	417	418	1820	06	10	Jackson’s Oxford Journal	1820.06.10_Jackson'sOxfordJournal_0004	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0001
+488	833	819	1820	06	10	Ipswich Journal	1820.06.10_TheIpswichJournal_0001	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0001
+248	417	412	1820	06	10	Leeds Mercury	1820.06.10_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+272	474	469	1820	06	10	Leeds Mercury	1820.06.10_TheLeedsMercury_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+214	284	300	1820	06	10	Newcastle Courant	1820.06.10_TheNewcastleCourantetc_0003	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+381	590	587	1820	06	10	Newcastle Courant	1820.06.10_TheNewcastleCourantetc_0003	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+374	609	605	1820	06	10	Newcastle Courant	1820.06.10_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0001
+325	509	509	1820	06	10	Newcastle Courant	1820.06.10_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+785	1278	1262	1820	06	10	Newcastle Courant	1820.06.10_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0001
+746	1124	1114	1820	06	10	Newcastle Courant	1820.06.10_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+434	728	707	1820	06	12	Caledonian Mercury	1820.06.12_CaledonianMercury_0001	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003
+203	347	334	1820	06	12	Caledonian Mercury	1820.06.12_CaledonianMercury_0001	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0003
+232	384	373	1820	06	14	Aberdeen Journal	1820.06.14_TheAberdeenJournal_0003	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0003
+288	480	492	1820	06	15	Caledonian Mercury	1820.06.15_CaledonianMercury_0001	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0001
+206	344	351	1820	06	15	Caledonian Mercury	1820.06.15_CaledonianMercury_0001	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0001
+202	342	332	1820	06	15	Caledonian Mercury	1820.06.15_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+261	453	451	1820	06	15	Caledonian Mercury	1820.06.15_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+249	455	443	1820	06	15	Caledonian Mercury	1820.06.15_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+247	495	470	1820	06	15	Caledonian Mercury	1820.06.15_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+290	369	361	1820	06	15	Trewman’s Exeter Flying Post	1820.06.15_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+335	447	459	1820	06	15	Trewman’s Exeter Flying Post	1820.06.15_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	11	Trewman’s Exeter Flying Post	1820.05.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+299	407	415	1820	06	15	Trewman’s Exeter Flying Post	1820.06.15_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+303	471	456	1820	06	16	Glasgow Herald	1820.06.16_GlasgowHerald_0004	1820	05	12	Glasgow Herald	1820.05.12_GlasgowHerald_0004
+295	468	463	1820	06	16	Glasgow Herald	1820.06.16_GlasgowHerald_0004	1820	05	19	Glasgow Herald	1820.05.19_GlasgowHerald_0004
+369	527	534	1820	06	17	Jackson’s Oxford Journal	1820.06.17_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0002
+592	786	820	1820	06	17	Jackson’s Oxford Journal	1820.06.17_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0001
+574	869	877	1820	06	17	Jackson’s Oxford Journal	1820.06.17_Jackson'sOxfordJournal_0001	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0001
+787	1117	1195	1820	06	17	Jackson’s Oxford Journal	1820.06.17_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+429	534	568	1820	06	17	Jackson’s Oxford Journal	1820.06.17_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+758	1149	1124	1820	06	17	Jackson’s Oxford Journal	1820.06.17_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+898	1256	1215	1820	06	17	Jackson’s Oxford Journal	1820.06.17_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+353	469	458	1820	06	17	Jackson’s Oxford Journal	1820.06.17_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+983	1425	1381	1820	06	17	Jackson’s Oxford Journal	1820.06.17_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+818	1136	1085	1820	06	17	Jackson’s Oxford Journal	1820.06.17_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+238	416	410	1820	06	17	Ipswich Journal	1820.06.17_TheIpswichJournal_0001	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0001
+243	375	367	1820	06	17	Leeds Mercury	1820.06.17_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+494	812	808	1820	06	17	Newcastle Courant	1820.06.17_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+323	509	502	1820	06	17	Newcastle Courant	1820.06.17_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+503	774	746	1820	06	19	Caledonian Mercury	1820.06.19_CaledonianMercury_0001	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003
+282	453	424	1820	06	19	Caledonian Mercury	1820.06.19_CaledonianMercury_0001	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0001
+210	391	380	1820	06	19	Caledonian Mercury	1820.06.19_CaledonianMercury_0004	1820	05	08	Caledonian Mercury	1820.05.08_CaledonianMercury_0004
+225	384	373	1820	06	19	Caledonian Mercury	1820.06.19_CaledonianMercury_0004	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0004
+243	362	351	1820	06	21	Aberdeen Journal	1820.06.21_TheAberdeenJournal_0001	1820	05	17	Aberdeen Journal	1820.05.17_TheAberdeenJournal_0001
+227	381	373	1820	06	21	Aberdeen Journal	1820.06.21_TheAberdeenJournal_0001	1820	05	31	Aberdeen Journal	1820.05.31_TheAberdeenJournal_0002
+289	459	433	1820	06	21	Aberdeen Journal	1820.06.21_TheAberdeenJournal_0004	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0003
+395	669	683	1820	06	21	Derby Mercury	1820.06.21_TheDerbyMercury_0004	1820	05	24	Derby Mercury	1820.05.24_TheDerbyMercury_0004
+219	371	385	1820	06	22	Caledonian Mercury	1820.06.22_CaledonianMercury_0001	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0001
+348	521	545	1820	06	22	Caledonian Mercury	1820.06.22_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+237	352	356	1820	06	22	Caledonian Mercury	1820.06.22_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+222	359	373	1820	06	22	Caledonian Mercury	1820.06.22_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+394	580	607	1820	06	24	Caledonian Mercury	1820.06.24_CaledonianMercury_0003	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0003
+277	503	478	1820	06	24	Caledonian Mercury	1820.06.24_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+239	448	430	1820	06	24	Caledonian Mercury	1820.06.24_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+204	322	338	1820	06	24	Jackson’s Oxford Journal	1820.06.24_Jackson'sOxfordJournal_0003	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0003
+239	362	370	1820	06	24	Jackson’s Oxford Journal	1820.06.24_Jackson'sOxfordJournal_0003	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0003
+635	959	957	1820	06	24	Jackson’s Oxford Journal	1820.06.24_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+688	971	963	1820	06	24	Jackson’s Oxford Journal	1820.06.24_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+652	966	934	1820	06	24	Jackson’s Oxford Journal	1820.06.24_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+226	339	342	1820	06	24	Jackson’s Oxford Journal	1820.06.24_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+732	1052	1030	1820	06	24	Jackson’s Oxford Journal	1820.06.24_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+208	367	370	1820	06	24	Ipswich Journal	1820.06.24_TheIpswichJournal_0001	1820	05	27	Ipswich Journal	1820.05.27_TheIpswichJournal_0001
+333	567	570	1820	06	24	Leeds Mercury	1820.06.24_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+213	332	335	1820	06	24	Leeds Mercury	1820.06.24_TheLeedsMercury_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+308	528	559	1820	06	24	Leeds Mercury	1820.06.24_TheLeedsMercury_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+204	347	367	1820	06	24	Leeds Mercury	1820.06.24_TheLeedsMercury_0004	1820	05	27	Leeds Mercury	1820.05.27_TheLeedsMercury_0004
+218	415	407	1820	06	24	Newcastle Courant	1820.06.24_TheNewcastleCourantetc_0003	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+273	475	472	1820	06	24	Newcastle Courant	1820.06.24_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+365	571	561	1820	06	24	Newcastle Courant	1820.06.24_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+269	418	401	1820	06	24	Newcastle Courant	1820.06.24_TheNewcastleCourantetc_0003	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001
+215	372	375	1820	06	28	Aberdeen Journal	1820.06.28_TheAberdeenJournal_0001	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0003
+201	359	355	1820	06	28	Derby Mercury	1820.06.28_TheDerbyMercury_0004	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0004
+257	407	426	1820	06	29	Caledonian Mercury	1820.06.29_CaledonianMercury_0001	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0001
+228	343	348	1820	06	29	Caledonian Mercury	1820.06.29_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+213	317	312	1820	06	29	Caledonian Mercury	1820.06.29_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+211	338	336	1820	06	29	Caledonian Mercury	1820.06.29_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+359	559	577	1820	06	30	Glasgow Herald	1820.06.30_GlasgowHerald_0004	1820	05	01	Glasgow Herald	1820.05.01_GlasgowHerald_0004
+341	492	516	1820	07	01	Jackson’s Oxford Journal	1820.07.01_Jackson'sOxfordJournal_0002	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+496	745	760	1820	07	01	Jackson’s Oxford Journal	1820.07.01_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+588	935	918	1820	07	01	Jackson’s Oxford Journal	1820.07.01_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+316	431	437	1820	07	01	Jackson’s Oxford Journal	1820.07.01_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+499	724	720	1820	07	01	Jackson’s Oxford Journal	1820.07.01_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+678	990	963	1820	07	01	Jackson’s Oxford Journal	1820.07.01_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+215	326	323	1820	07	01	Newcastle Courant	1820.07.01_TheNewcastleCourantetc_0003	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0003
+322	492	497	1820	07	01	Newcastle Courant	1820.07.01_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+326	524	544	1820	07	06	Caledonian Mercury	1820.07.06_CaledonianMercury_0003	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0003
+227	355	379	1820	07	06	Caledonian Mercury	1820.07.06_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+206	310	310	1820	07	06	Caledonian Mercury	1820.07.06_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+221	357	363	1820	07	06	Caledonian Mercury	1820.07.06_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+258	480	459	1820	07	06	Caledonian Mercury	1820.07.06_CaledonianMercury_0004	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0004
+324	569	543	1820	07	06	Caledonian Mercury	1820.07.06_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+336	608	582	1820	07	06	Caledonian Mercury	1820.07.06_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+500	741	751	1820	07	08	Jackson’s Oxford Journal	1820.07.08_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+552	825	821	1820	07	08	Jackson’s Oxford Journal	1820.07.08_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+212	329	329	1820	07	08	Jackson’s Oxford Journal	1820.07.08_Jackson'sOxfordJournal_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+200	308	300	1820	07	08	Jackson’s Oxford Journal	1820.07.08_Jackson'sOxfordJournal_0004	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+395	566	559	1820	07	08	Jackson’s Oxford Journal	1820.07.08_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+430	701	674	1820	07	08	Jackson’s Oxford Journal	1820.07.08_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+239	317	314	1820	07	08	Jackson’s Oxford Journal	1820.07.08_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+275	414	399	1820	07	08	Jackson’s Oxford Journal	1820.07.08_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+625	964	935	1820	07	08	Jackson’s Oxford Journal	1820.07.08_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+216	357	342	1820	07	08	Leeds Mercury	1820.07.08_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+260	473	471	1820	07	08	Leeds Mercury	1820.07.08_TheLeedsMercury_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+254	415	404	1820	07	08	Newcastle Courant	1820.07.08_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+221	375	373	1820	07	10	Caledonian Mercury	1820.07.10_CaledonianMercury_0001	1820	05	08	Caledonian Mercury	1820.05.08_CaledonianMercury_0001
+267	383	395	1820	07	10	Caledonian Mercury	1820.07.10_CaledonianMercury_0001	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003
+247	376	381	1820	07	10	Caledonian Mercury	1820.07.10_CaledonianMercury_0001	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0001
+275	449	450	1820	07	10	Caledonian Mercury	1820.07.10_CaledonianMercury_0001	1820	05	29	Caledonian Mercury	1820.05.29_CaledonianMercury_0001
+218	290	294	1820	07	10	Bristol Mercury	1820.07.10_TheBristolMercury_0001	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0001
+207	326	319	1820	07	13	Caledonian Mercury	1820.07.13_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+211	293	280	1820	07	13	Caledonian Mercury	1820.07.13_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+212	325	321	1820	07	13	Caledonian Mercury	1820.07.13_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+352	630	615	1820	07	13	Caledonian Mercury	1820.07.13_CaledonianMercury_0004	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0004
+479	859	826	1820	07	13	Caledonian Mercury	1820.07.13_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+383	719	684	1820	07	13	Caledonian Mercury	1820.07.13_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+314	488	483	1820	07	15	Jackson’s Oxford Journal	1820.07.15_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+364	654	624	1820	07	15	Jackson’s Oxford Journal	1820.07.15_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+305	434	412	1820	07	15	Jackson’s Oxford Journal	1820.07.15_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+390	638	628	1820	07	15	Jackson’s Oxford Journal	1820.07.15_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+555	864	848	1820	07	15	Jackson’s Oxford Journal	1820.07.15_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+208	298	288	1820	07	15	Leeds Mercury	1820.07.15_TheLeedsMercury_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+355	546	538	1820	07	15	Leeds Mercury	1820.07.15_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+248	434	413	1820	07	15	Leeds Mercury	1820.07.15_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0004
+248	392	370	1820	07	15	Leeds Mercury	1820.07.15_TheLeedsMercury_0004	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+231	344	344	1820	07	15	Leeds Mercury	1820.07.15_TheLeedsMercury_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+410	684	682	1820	07	15	Leeds Mercury	1820.07.15_TheLeedsMercury_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+233	333	329	1820	07	15	Leeds Mercury	1820.07.15_TheLeedsMercury_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+280	446	445	1820	07	15	Newcastle Courant	1820.07.15_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+219	347	328	1820	07	15	Newcastle Courant	1820.07.15_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+264	442	422	1820	07	17	Caledonian Mercury	1820.07.17_CaledonianMercury_0001	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0001
+329	559	546	1820	07	20	Caledonian Mercury	1820.07.20_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+219	333	324	1820	07	20	Caledonian Mercury	1820.07.20_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+285	524	519	1820	07	20	Caledonian Mercury	1820.07.20_CaledonianMercury_0004	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0004
+526	907	857	1820	07	20	Caledonian Mercury	1820.07.20_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+351	599	592	1820	07	20	Caledonian Mercury	1820.07.20_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+284	397	398	1820	07	20	Trewman’s Exeter Flying Post	1820.07.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+206	328	329	1820	07	20	Trewman’s Exeter Flying Post	1820.07.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+255	357	359	1820	07	20	Trewman’s Exeter Flying Post	1820.07.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+216	369	356	1820	07	22	Jackson’s Oxford Journal	1820.07.22_Jackson'sOxfordJournal_0003	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0003
+308	473	480	1820	07	22	Jackson’s Oxford Journal	1820.07.22_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+433	693	674	1820	07	22	Jackson’s Oxford Journal	1820.07.22_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+384	655	636	1820	07	22	Jackson’s Oxford Journal	1820.07.22_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+459	763	743	1820	07	22	Jackson’s Oxford Journal	1820.07.22_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+271	439	432	1820	07	22	Leeds Mercury	1820.07.22_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+210	358	359	1820	07	22	Leeds Mercury	1820.07.22_TheLeedsMercury_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+211	312	334	1820	07	22	Newcastle Courant	1820.07.22_TheNewcastleCourantetc_0003	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+204	317	326	1820	07	22	Newcastle Courant	1820.07.22_TheNewcastleCourantetc_0003	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+247	406	397	1820	07	22	Newcastle Courant	1820.07.22_TheNewcastleCourantetc_0003	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+324	470	463	1820	07	22	Newcastle Courant	1820.07.22_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+372	603	593	1820	07	22	Newcastle Courant	1820.07.22_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+292	455	467	1820	07	27	Caledonian Mercury	1820.07.27_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+204	324	319	1820	07	27	Caledonian Mercury	1820.07.27_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+207	313	321	1820	07	27	Caledonian Mercury	1820.07.27_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+221	307	315	1820	07	27	Trewman’s Exeter Flying Post	1820.07.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
+316	441	438	1820	07	27	Trewman’s Exeter Flying Post	1820.07.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+203	306	301	1820	07	28	Liverpool Mercury	1820.07.28_LiverpoolMercuryetc_0004	1820	05	05	Liverpool Mercury	1820.05.05_LiverpoolMercuryetc_0004
+397	643	642	1820	07	29	Jackson’s Oxford Journal	1820.07.29_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+428	672	665	1820	07	29	Jackson’s Oxford Journal	1820.07.29_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+230	363	356	1820	07	29	Jackson’s Oxford Journal	1820.07.29_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+434	701	681	1820	07	29	Jackson’s Oxford Journal	1820.07.29_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+509	819	810	1820	07	29	Jackson’s Oxford Journal	1820.07.29_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+244	336	346	1820	07	29	Leeds Mercury	1820.07.29_TheLeedsMercury_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+229	316	329	1820	07	29	Leeds Mercury	1820.07.29_TheLeedsMercury_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+211	311	302	1820	07	29	Leeds Mercury	1820.07.29_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+221	353	352	1820	07	29	Leeds Mercury	1820.07.29_TheLeedsMercury_0004	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+254	346	351	1820	07	29	Leeds Mercury	1820.07.29_TheLeedsMercury_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+281	453	455	1820	07	29	Leeds Mercury	1820.07.29_TheLeedsMercury_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+231	326	323	1820	07	29	Leeds Mercury	1820.07.29_TheLeedsMercury_0004	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+204	302	313	1820	07	29	Leeds Mercury	1820.07.29_TheLeedsMercury_0004	1820	05	27	Leeds Mercury	1820.05.27_TheLeedsMercury_0004
+336	543	544	1820	07	29	Newcastle Courant	1820.07.29_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+225	364	360	1820	07	29	Newcastle Courant	1820.07.29_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+209	351	356	1820	07	31	Caledonian Mercury	1820.07.31_CaledonianMercury_0004	1820	05	08	Caledonian Mercury	1820.05.08_CaledonianMercury_0004
+282	497	486	1820	07	31	Caledonian Mercury	1820.07.31_CaledonianMercury_0004	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0004
+217	334	326	1820	08	03	Caledonian Mercury	1820.08.03_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+207	316	319	1820	08	03	Caledonian Mercury	1820.08.03_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+272	495	492	1820	08	03	Caledonian Mercury	1820.08.03_CaledonianMercury_0004	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0004
+380	636	610	1820	08	03	Caledonian Mercury	1820.08.03_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+282	509	501	1820	08	03	Caledonian Mercury	1820.08.03_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+201	316	319	1820	08	05	Caledonian Mercury	1820.08.05_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0001
+201	294	305	1820	08	05	Caledonian Mercury	1820.08.05_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0001
+295	438	432	1820	08	05	Jackson’s Oxford Journal	1820.08.05_Jackson'sOxfordJournal_0002	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+288	438	444	1820	08	05	Jackson’s Oxford Journal	1820.08.05_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+330	516	518	1820	08	05	Jackson’s Oxford Journal	1820.08.05_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+324	501	512	1820	08	05	Jackson’s Oxford Journal	1820.08.05_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+332	522	526	1820	08	05	Jackson’s Oxford Journal	1820.08.05_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+202	293	290	1820	08	05	Leeds Mercury	1820.08.05_TheLeedsMercury_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+225	357	359	1820	08	05	Leeds Mercury	1820.08.05_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+249	396	383	1820	08	05	Leeds Mercury	1820.08.05_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0004
+206	366	361	1820	08	05	Leeds Mercury	1820.08.05_TheLeedsMercury_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+321	509	521	1820	08	05	Newcastle Courant	1820.08.05_TheNewcastleCourantetc_0003	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+290	456	459	1820	08	05	Newcastle Courant	1820.08.05_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+491	625	634	1820	08	07	Bristol Mercury	1820.08.07_TheBristolMercury_0001	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0001
+224	339	345	1820	08	10	Caledonian Mercury	1820.08.10_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+225	361	372	1820	08	10	Caledonian Mercury	1820.08.10_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+285	432	400	1820	08	12	Jackson’s Oxford Journal	1820.08.12_Jackson'sOxfordJournal_0001	1820	05	29	Bristol Mercury	1820.05.29_TheBristolMercury_0001
+453	702	724	1820	08	12	Jackson’s Oxford Journal	1820.08.12_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+558	819	796	1820	08	12	Jackson’s Oxford Journal	1820.08.12_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+617	917	905	1820	08	12	Jackson’s Oxford Journal	1820.08.12_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+591	883	863	1820	08	12	Jackson’s Oxford Journal	1820.08.12_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+315	472	481	1820	08	12	Newcastle Courant	1820.08.12_TheNewcastleCourantetc_0001	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+320	539	532	1820	08	12	Newcastle Courant	1820.08.12_TheNewcastleCourantetc_0001	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+209	318	327	1820	08	12	Newcastle Courant	1820.08.12_TheNewcastleCourantetc_0003	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+209	289	302	1820	08	12	Newcastle Courant	1820.08.12_TheNewcastleCourantetc_0003	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+357	590	593	1820	08	12	Newcastle Courant	1820.08.12_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+347	532	532	1820	08	12	Newcastle Courant	1820.08.12_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+222	407	387	1820	08	14	Caledonian Mercury	1820.08.14_CaledonianMercury_0004	1820	05	08	Caledonian Mercury	1820.05.08_CaledonianMercury_0004
+205	332	333	1820	08	14	Caledonian Mercury	1820.08.14_CaledonianMercury_0004	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0004
+221	332	344	1820	08	17	Caledonian Mercury	1820.08.17_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+234	356	357	1820	08	17	Caledonian Mercury	1820.08.17_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+317	565	562	1820	08	17	Caledonian Mercury	1820.08.17_CaledonianMercury_0004	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0004
+359	674	650	1820	08	17	Caledonian Mercury	1820.08.17_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+284	495	465	1820	08	17	Caledonian Mercury	1820.08.17_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+245	344	349	1820	08	17	Trewman’s Exeter Flying Post	1820.08.17_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+204	303	305	1820	08	17	Trewman’s Exeter Flying Post	1820.08.17_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+228	332	336	1820	08	17	Trewman’s Exeter Flying Post	1820.08.17_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+234	368	368	1820	08	19	Caledonian Mercury	1820.08.19_CaledonianMercury_0001	1820	05	27	Caledonian Mercury	1820.05.27_CaledonianMercury_0003
+493	705	727	1820	08	19	Jackson’s Oxford Journal	1820.08.19_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+608	915	914	1820	08	19	Jackson’s Oxford Journal	1820.08.19_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+230	333	332	1820	08	19	Jackson’s Oxford Journal	1820.08.19_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+722	1020	1030	1820	08	19	Jackson’s Oxford Journal	1820.08.19_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+795	1190	1193	1820	08	19	Jackson’s Oxford Journal	1820.08.19_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+264	428	422	1820	08	19	Newcastle Courant	1820.08.19_TheNewcastleCourantetc_0002	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+204	284	289	1820	08	19	Newcastle Courant	1820.08.19_TheNewcastleCourantetc_0003	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+244	398	393	1820	08	19	Newcastle Courant	1820.08.19_TheNewcastleCourantetc_0003	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+201	297	303	1820	08	19	Newcastle Courant	1820.08.19_TheNewcastleCourantetc_0003	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+494	808	799	1820	08	19	Newcastle Courant	1820.08.19_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+471	747	737	1820	08	19	Newcastle Courant	1820.08.19_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+293	460	466	1820	08	24	Caledonian Mercury	1820.08.24_CaledonianMercury_0001	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0001
+308	540	539	1820	08	24	Caledonian Mercury	1820.08.24_CaledonianMercury_0003	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0004
+796	1229	1214	1820	08	24	Caledonian Mercury	1820.08.24_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+266	403	389	1820	08	24	Caledonian Mercury	1820.08.24_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0004
+461	790	804	1820	08	24	Caledonian Mercury	1820.08.24_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+439	691	698	1820	08	26	Jackson’s Oxford Journal	1820.08.26_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+429	676	684	1820	08	26	Jackson’s Oxford Journal	1820.08.26_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+212	283	289	1820	08	26	Jackson’s Oxford Journal	1820.08.26_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+386	622	622	1820	08	26	Jackson’s Oxford Journal	1820.08.26_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+490	764	764	1820	08	26	Jackson’s Oxford Journal	1820.08.26_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+452	719	704	1820	08	26	Newcastle Courant	1820.08.26_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+354	605	594	1820	08	26	Newcastle Courant	1820.08.26_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+244	386	373	1820	08	31	Caledonian Mercury	1820.08.31_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+200	326	313	1820	08	31	Caledonian Mercury	1820.08.31_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+643	927	958	1820	09	02	Jackson’s Oxford Journal	1820.09.02_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+741	1100	1127	1820	09	02	Jackson’s Oxford Journal	1820.09.02_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+200	281	287	1820	09	02	Jackson’s Oxford Journal	1820.09.02_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+576	843	841	1820	09	02	Jackson’s Oxford Journal	1820.09.02_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+759	1118	1129	1820	09	02	Jackson’s Oxford Journal	1820.09.02_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+235	355	342	1820	09	02	Jackson’s Oxford Journal	1820.09.02_Jackson'sOxfordJournal_0004	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+416	663	672	1820	09	02	Newcastle Courant	1820.09.02_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+317	536	540	1820	09	02	Newcastle Courant	1820.09.02_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+209	372	371	1820	09	09	Caledonian Mercury	1820.09.09_CaledonianMercury_0001	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0001
+710	1040	1003	1820	09	09	Jackson’s Oxford Journal	1820.09.09_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+769	1123	1100	1820	09	09	Jackson’s Oxford Journal	1820.09.09_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+273	388	371	1820	09	09	Jackson’s Oxford Journal	1820.09.09_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+701	1069	1033	1820	09	09	Jackson’s Oxford Journal	1820.09.09_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+802	1179	1133	1820	09	09	Jackson’s Oxford Journal	1820.09.09_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+208	300	287	1820	09	09	Jackson’s Oxford Journal	1820.09.09_Jackson'sOxfordJournal_0004	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+202	316	309	1820	09	09	Leeds Mercury	1820.09.09_TheLeedsMercury_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+348	522	527	1820	09	09	Newcastle Courant	1820.09.09_TheNewcastleCourantetc_0003	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+332	450	452	1820	09	09	Newcastle Courant	1820.09.09_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+221	385	381	1820	09	13	Derby Mercury	1820.09.13_TheDerbyMercury_0004	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0004
+209	299	314	1820	09	14	Caledonian Mercury	1820.09.14_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+206	297	310	1820	09	14	Caledonian Mercury	1820.09.14_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+205	369	350	1820	09	14	Caledonian Mercury	1820.09.14_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+252	381	377	1820	09	14	Trewman’s Exeter Flying Post	1820.09.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+281	368	370	1820	09	14	Trewman’s Exeter Flying Post	1820.09.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+222	321	322	1820	09	14	Trewman’s Exeter Flying Post	1820.09.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+204	326	331	1820	09	14	Trewman’s Exeter Flying Post	1820.09.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+252	346	351	1820	09	14	Trewman’s Exeter Flying Post	1820.09.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+648	919	944	1820	09	16	Jackson’s Oxford Journal	1820.09.16_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+685	1026	1016	1820	09	16	Jackson’s Oxford Journal	1820.09.16_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+239	335	341	1820	09	16	Jackson’s Oxford Journal	1820.09.16_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+771	1088	1075	1820	09	16	Jackson’s Oxford Journal	1820.09.16_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+927	1312	1295	1820	09	16	Jackson’s Oxford Journal	1820.09.16_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+263	414	405	1820	09	16	Newcastle Courant	1820.09.16_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+274	482	463	1820	09	20	Derby Mercury	1820.09.20_TheDerbyMercury_0004	1820	05	31	Derby Mercury	1820.05.31_TheDerbyMercury_0004
+213	332	323	1820	09	21	Caledonian Mercury	1820.09.21_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+287	406	406	1820	09	21	Caledonian Mercury	1820.09.21_CaledonianMercury_0003	1820	05	13	Caledonian Mercury	1820.05.13_CaledonianMercury_0003
+398	711	705	1820	09	21	Caledonian Mercury	1820.09.21_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+392	673	653	1820	09	21	Caledonian Mercury	1820.09.21_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+216	306	307	1820	09	23	Jackson’s Oxford Journal	1820.09.23_Jackson'sOxfordJournal_0002	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+664	928	960	1820	09	23	Jackson’s Oxford Journal	1820.09.23_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+590	884	875	1820	09	23	Jackson’s Oxford Journal	1820.09.23_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+740	1057	1044	1820	09	23	Jackson’s Oxford Journal	1820.09.23_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+348	479	468	1820	09	23	Jackson’s Oxford Journal	1820.09.23_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+639	951	932	1820	09	23	Jackson’s Oxford Journal	1820.09.23_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+266	386	373	1820	09	23	Jackson’s Oxford Journal	1820.09.23_Jackson'sOxfordJournal_0004	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+227	400	405	1820	09	23	Newcastle Courant	1820.09.23_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+249	432	436	1820	09	23	Newcastle Courant	1820.09.23_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+613	1028	1002	1820	09	28	Caledonian Mercury	1820.09.28_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+504	875	872	1820	09	28	Caledonian Mercury	1820.09.28_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+600	825	854	1820	09	30	Jackson’s Oxford Journal	1820.09.30_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+760	1117	1133	1820	09	30	Jackson’s Oxford Journal	1820.09.30_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+652	945	933	1820	09	30	Jackson’s Oxford Journal	1820.09.30_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+736	1052	1041	1820	09	30	Jackson’s Oxford Journal	1820.09.30_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+203	358	367	1820	09	30	Newcastle Courant	1820.09.30_TheNewcastleCourantetc_0001	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+247	412	411	1820	09	30	Newcastle Courant	1820.09.30_TheNewcastleCourantetc_0001	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+209	319	318	1820	09	30	Newcastle Courant	1820.09.30_TheNewcastleCourantetc_0003	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0003
+318	463	466	1820	09	30	Newcastle Courant	1820.09.30_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+227	312	307	1820	10	02	Bristol Mercury	1820.10.02_TheBristolMercury_0001	1820	05	01	Bristol Mercury	1820.05.01_TheBristolMercury_0001
+247	372	366	1820	10	05	Caledonian Mercury	1820.10.05_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+224	329	326	1820	10	05	Caledonian Mercury	1820.10.05_CaledonianMercury_0003	1820	05	18	Caledonian Mercury	1820.05.18_CaledonianMercury_0003
+204	331	334	1820	10	05	Caledonian Mercury	1820.10.05_CaledonianMercury_0003	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0003
+560	1000	976	1820	10	05	Caledonian Mercury	1820.10.05_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+494	892	903	1820	10	05	Caledonian Mercury	1820.10.05_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+346	588	575	1820	10	06	Liverpool Mercury	1820.10.06_LiverpoolMercuryetc_0006	1820	05	26	Glasgow Herald	1820.05.26_GlasgowHerald_0001
+349	484	479	1820	10	07	Jackson’s Oxford Journal	1820.10.07_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+675	944	982	1820	10	07	Jackson’s Oxford Journal	1820.10.07_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+605	903	914	1820	10	07	Jackson’s Oxford Journal	1820.10.07_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+816	1145	1161	1820	10	07	Jackson’s Oxford Journal	1820.10.07_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+680	1007	986	1820	10	07	Jackson’s Oxford Journal	1820.10.07_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+225	328	320	1820	10	07	Jackson’s Oxford Journal	1820.10.07_Jackson'sOxfordJournal_0004	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+322	506	517	1820	10	07	Newcastle Courant	1820.10.07_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+449	738	736	1820	10	07	Newcastle Courant	1820.10.07_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+270	328	332	1820	10	12	Trewman’s Exeter Flying Post	1820.10.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+342	522	520	1820	10	12	Trewman’s Exeter Flying Post	1820.10.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+257	341	347	1820	10	12	Trewman’s Exeter Flying Post	1820.10.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+242	336	347	1820	10	14	Jackson’s Oxford Journal	1820.10.14_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+228	300	313	1820	10	14	Jackson’s Oxford Journal	1820.10.14_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+300	437	441	1820	10	14	Jackson’s Oxford Journal	1820.10.14_Jackson'sOxfordJournal_0001	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+296	420	434	1820	10	14	Jackson’s Oxford Journal	1820.10.14_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+498	727	738	1820	10	14	Jackson’s Oxford Journal	1820.10.14_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+435	660	657	1820	10	14	Jackson’s Oxford Journal	1820.10.14_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+600	847	846	1820	10	14	Jackson’s Oxford Journal	1820.10.14_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+312	414	429	1820	10	14	Jackson’s Oxford Journal	1820.10.14_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+473	693	688	1820	10	14	Jackson’s Oxford Journal	1820.10.14_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+476	710	710	1820	10	21	Jackson’s Oxford Journal	1820.10.21_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+583	891	870	1820	10	21	Jackson’s Oxford Journal	1820.10.21_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+203	284	285	1820	10	21	Jackson’s Oxford Journal	1820.10.21_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+547	867	867	1820	10	21	Jackson’s Oxford Journal	1820.10.21_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+247	382	388	1820	10	21	Jackson’s Oxford Journal	1820.10.21_Jackson'sOxfordJournal_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+506	769	751	1820	10	21	Jackson’s Oxford Journal	1820.10.21_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+253	427	428	1820	10	21	Newcastle Courant	1820.10.21_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+382	611	587	1820	10	21	Newcastle Courant	1820.10.21_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+421	606	633	1820	10	28	Jackson’s Oxford Journal	1820.10.28_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+398	545	545	1820	10	28	Jackson’s Oxford Journal	1820.10.28_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+564	809	820	1820	10	28	Jackson’s Oxford Journal	1820.10.28_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+381	533	533	1820	10	28	Jackson’s Oxford Journal	1820.10.28_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+593	925	929	1820	10	28	Newcastle Courant	1820.10.28_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+691	1067	1060	1820	10	28	Newcastle Courant	1820.10.28_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+237	372	375	1820	11	02	Caledonian Mercury	1820.11.02_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+211	392	384	1820	11	02	Caledonian Mercury	1820.11.02_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+262	411	410	1820	11	04	Caledonian Mercury	1820.11.04_CaledonianMercury_0003	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0001
+408	557	580	1820	11	04	Caledonian Mercury	1820.11.04_CaledonianMercury_0003	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003
+210	294	295	1820	11	04	Jackson’s Oxford Journal	1820.11.04_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+339	519	533	1820	11	04	Jackson’s Oxford Journal	1820.11.04_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+403	646	672	1820	11	04	Jackson’s Oxford Journal	1820.11.04_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+231	376	380	1820	11	04	Jackson’s Oxford Journal	1820.11.04_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+200	275	274	1820	11	04	Newcastle Courant	1820.11.04_TheNewcastleCourantetc_0003	1820	05	06	Newcastle Courant	1820.05.06_TheNewcastleCourantetc_0003
+391	602	603	1820	11	04	Newcastle Courant	1820.11.04_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+271	390	385	1820	11	04	Newcastle Courant	1820.11.04_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+260	346	347	1820	11	09	Trewman’s Exeter Flying Post	1820.11.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+214	323	327	1820	11	09	Trewman’s Exeter Flying Post	1820.11.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+282	394	399	1820	11	09	Trewman’s Exeter Flying Post	1820.11.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+299	493	505	1820	11	09	Trewman’s Exeter Flying Post	1820.11.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+208	325	324	1820	11	09	Trewman’s Exeter Flying Post	1820.11.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+238	385	406	1820	11	09	Trewman’s Exeter Flying Post	1820.11.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+258	357	363	1820	11	09	Trewman’s Exeter Flying Post	1820.11.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+292	466	471	1820	11	11	Caledonian Mercury	1820.11.11_CaledonianMercury_0003	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0001
+219	340	355	1820	11	11	Caledonian Mercury	1820.11.11_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+402	522	548	1820	11	11	Caledonian Mercury	1820.11.11_CaledonianMercury_0003	1820	05	15	Caledonian Mercury	1820.05.15_CaledonianMercury_0003
+385	532	544	1820	11	11	Jackson’s Oxford Journal	1820.11.11_Jackson'sOxfordJournal_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+206	274	279	1820	11	11	Jackson’s Oxford Journal	1820.11.11_Jackson'sOxfordJournal_0001	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+300	427	411	1820	11	11	Jackson’s Oxford Journal	1820.11.11_Jackson'sOxfordJournal_0001	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+233	301	301	1820	11	11	Jackson’s Oxford Journal	1820.11.11_Jackson'sOxfordJournal_0001	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+215	325	321	1820	11	11	Jackson’s Oxford Journal	1820.11.11_Jackson'sOxfordJournal_0001	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+276	427	428	1820	11	11	Jackson’s Oxford Journal	1820.11.11_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+270	441	422	1820	11	11	Jackson’s Oxford Journal	1820.11.11_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+376	614	627	1820	11	11	Jackson’s Oxford Journal	1820.11.11_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+279	436	434	1820	11	11	Jackson’s Oxford Journal	1820.11.11_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+251	392	389	1820	11	11	Leeds Mercury	1820.11.11_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+235	368	354	1820	11	11	Leeds Mercury	1820.11.11_TheLeedsMercury_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+229	395	396	1820	11	11	Leeds Mercury	1820.11.11_TheLeedsMercury_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+261	423	427	1820	11	16	Caledonian Mercury	1820.11.16_CaledonianMercury_0003	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0003
+317	484	500	1820	11	18	Jackson’s Oxford Journal	1820.11.18_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+378	588	582	1820	11	18	Jackson’s Oxford Journal	1820.11.18_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+462	664	682	1820	11	18	Jackson’s Oxford Journal	1820.11.18_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+324	448	444	1820	11	18	Jackson’s Oxford Journal	1820.11.18_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+389	570	574	1820	11	18	Jackson’s Oxford Journal	1820.11.18_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+285	455	444	1820	11	22	Aberdeen Journal	1820.11.22_TheAberdeenJournal_0001	1820	05	24	Aberdeen Journal	1820.05.24_TheAberdeenJournal_0003
+357	640	597	1820	11	23	Caledonian Mercury	1820.11.23_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+377	664	650	1820	11	23	Caledonian Mercury	1820.11.23_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+562	805	832	1820	11	25	Jackson’s Oxford Journal	1820.11.25_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+518	769	761	1820	11	25	Jackson’s Oxford Journal	1820.11.25_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+770	1142	1162	1820	11	25	Jackson’s Oxford Journal	1820.11.25_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+529	779	757	1820	11	25	Jackson’s Oxford Journal	1820.11.25_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+254	420	417	1820	11	25	Leeds Mercury	1820.11.25_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+207	334	318	1820	11	25	Leeds Mercury	1820.11.25_TheLeedsMercury_0004	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+208	341	339	1820	11	25	Leeds Mercury	1820.11.25_TheLeedsMercury_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0002
+251	428	437	1820	11	25	Leeds Mercury	1820.11.25_TheLeedsMercury_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+203	329	324	1820	11	25	Newcastle Courant	1820.11.25_TheNewcastleCourantetc_0003	1820	05	20	Newcastle Courant	1820.05.20_TheNewcastleCourantetc_0003
+276	443	423	1820	11	25	Newcastle Courant	1820.11.25_TheNewcastleCourantetc_0003	1820	05	27	Newcastle Courant	1820.05.27_TheNewcastleCourantetc_0003
+200	249	253	1820	12	01	Liverpool Mercury	1820.12.01_LiverpoolMercuryetc_0005	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0001
+432	646	644	1820	12	02	Jackson’s Oxford Journal	1820.12.02_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+476	730	713	1820	12	02	Jackson’s Oxford Journal	1820.12.02_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+567	873	874	1820	12	02	Jackson’s Oxford Journal	1820.12.02_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+365	498	488	1820	12	02	Jackson’s Oxford Journal	1820.12.02_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0002
+490	717	693	1820	12	02	Jackson’s Oxford Journal	1820.12.02_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+213	317	312	1820	12	02	Leeds Mercury	1820.12.02_TheLeedsMercury_0001	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+210	324	326	1820	12	02	Newcastle Courant	1820.12.02_TheNewcastleCourantetc_0003	1820	05	13	Newcastle Courant	1820.05.13_TheNewcastleCourantetc_0003
+246	445	436	1820	12	07	Caledonian Mercury	1820.12.07_CaledonianMercury_0004	1820	05	04	Caledonian Mercury	1820.05.04_CaledonianMercury_0004
+339	573	569	1820	12	07	Caledonian Mercury	1820.12.07_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+280	512	500	1820	12	07	Caledonian Mercury	1820.12.07_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+283	377	381	1820	12	07	Trewman’s Exeter Flying Post	1820.12.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	04	Trewman’s Exeter Flying Post	1820.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+208	314	318	1820	12	07	Trewman’s Exeter Flying Post	1820.12.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	18	Trewman’s Exeter Flying Post	1820.05.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+244	356	365	1820	12	07	Trewman’s Exeter Flying Post	1820.12.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001	1820	05	25	Trewman’s Exeter Flying Post	1820.05.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+383	560	586	1820	12	09	Jackson’s Oxford Journal	1820.12.09_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+412	605	600	1820	12	09	Jackson’s Oxford Journal	1820.12.09_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+607	912	949	1820	12	09	Jackson’s Oxford Journal	1820.12.09_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+219	344	365	1820	12	09	Jackson’s Oxford Journal	1820.12.09_Jackson'sOxfordJournal_0004	1820	05	20	Leeds Mercury	1820.05.20_TheLeedsMercury_0004
+460	662	656	1820	12	09	Jackson’s Oxford Journal	1820.12.09_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+241	376	393	1820	12	16	Jackson’s Oxford Journal	1820.12.16_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+206	338	335	1820	12	16	Leeds Mercury	1820.12.16_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+210	304	315	1820	12	18	Glasgow Herald	1820.12.18_GlasgowHerald_0004	1820	05	01	Glasgow Herald	1820.05.01_GlasgowHerald_0004
+352	517	527	1820	12	23	Jackson’s Oxford Journal	1820.12.23_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+419	625	630	1820	12	23	Jackson’s Oxford Journal	1820.12.23_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+461	682	685	1820	12	23	Jackson’s Oxford Journal	1820.12.23_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+467	675	674	1820	12	23	Jackson’s Oxford Journal	1820.12.23_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004
+216	381	376	1820	12	23	Leeds Mercury	1820.12.23_TheLeedsMercury_0004	1820	05	13	Leeds Mercury	1820.05.13_TheLeedsMercury_0002
+326	575	549	1820	12	28	Caledonian Mercury	1820.12.28_CaledonianMercury_0004	1820	05	11	Caledonian Mercury	1820.05.11_CaledonianMercury_0004
+299	529	521	1820	12	28	Caledonian Mercury	1820.12.28_CaledonianMercury_0004	1820	05	25	Caledonian Mercury	1820.05.25_CaledonianMercury_0004
+297	457	459	1820	12	30	Jackson’s Oxford Journal	1820.12.30_Jackson'sOxfordJournal_0004	1820	05	06	Jackson’s Oxford Journal	1820.05.06_Jackson'sOxfordJournal_0004
+304	475	467	1820	12	30	Jackson’s Oxford Journal	1820.12.30_Jackson'sOxfordJournal_0004	1820	05	13	Jackson’s Oxford Journal	1820.05.13_Jackson'sOxfordJournal_0004
+390	592	610	1820	12	30	Jackson’s Oxford Journal	1820.12.30_Jackson'sOxfordJournal_0004	1820	05	20	Jackson’s Oxford Journal	1820.05.20_Jackson'sOxfordJournal_0004
+336	502	493	1820	12	30	Jackson’s Oxford Journal	1820.12.30_Jackson'sOxfordJournal_0004	1820	05	27	Jackson’s Oxford Journal	1820.05.27_Jackson'sOxfordJournal_0004

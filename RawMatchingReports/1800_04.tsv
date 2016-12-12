@@ -1,0 +1,971 @@
+PM	OL	OR	RYEAR	RMONTH	RDAY	RTITLE	RFILENAME	OYEAR	OMONTH	ODAY	OTITLE	OFILENAME
+613	838	861	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0002	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0002
+290	456	430	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0002	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0003
+453	648	652	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0002
+848	1281	1246	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0003
+1238	1801	1804	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0002
+300	445	432	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0004
+221	352	347	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0003	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0002
+400	591	594	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0002
+210	346	334	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0003
+741	1109	1100	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0002
+749	1170	1181	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002
+1147	1555	1530	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+374	500	496	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+200	305	316	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0003
+496	659	694	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0002
+411	655	656	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0002
+431	751	731	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0003
+1348	2126	2145	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0002
+1166	1872	1917	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002
+690	1106	1125	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+542	791	781	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+299	521	525	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0004	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0002
+384	660	632	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0004	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0003
+880	1428	1422	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0002
+828	1356	1360	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002
+221	346	351	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0003
+507	828	818	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+763	1267	1253	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0004	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004
+589	778	780	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+458	667	666	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0004
+798	1007	1014	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0001
+206	301	299	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0002	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0002
+261	382	369	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0002
+477	654	634	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0002
+203	309	311	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002
+277	432	413	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+212	362	357	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0004
+312	474	446	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0001
+352	521	497	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+288	396	390	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0002	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0004
+251	359	350	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0002	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+600	828	813	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0003	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0002
+685	1059	986	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0003	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0003
+1311	1747	1669	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0003	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0002
+1515	2170	2113	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0003	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002
+904	1334	1296	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0003	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+1209	1933	1836	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0003	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004
+909	1491	1444	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0003	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0004
+208	329	335	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0003	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+294	438	443	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0003
+676	962	955	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0001	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0001
+503	706	706	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0002
+217	336	317	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0004
+344	498	491	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+207	302	313	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0003	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0003
+323	457	482	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0003	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+487	758	730	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0002
+516	771	740	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+205	307	304	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0003
+938	1614	1533	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004
+512	760	729	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0001
+347	494	482	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+310	459	445	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0002	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0003
+281	437	424	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0002	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+289	408	391	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0002	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0003
+361	539	535	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0004
+296	432	439	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+599	846	824	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0004
+396	517	505	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+298	470	464	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0001
+461	647	640	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0002
+269	407	422	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+335	511	496	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0003
+402	565	582	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0002
+265	409	401	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0002
+267	356	359	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+416	701	693	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004
+207	303	306	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+602	930	959	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+226	312	310	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+421	690	688	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0004
+363	564	569	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0003
+296	424	444	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0002	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+317	462	469	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0002	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0003
+281	394	414	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0002	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0002
+458	703	718	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0002	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002
+461	697	696	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+211	310	327	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002
+498	634	627	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0001
+372	457	450	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+306	433	436	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0001
+216	304	309	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0003	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0003
+304	463	471	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+201	308	300	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+411	681	668	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0001	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0002
+235	343	345	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0002	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0002
+765	1214	1263	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0003	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0003
+234	343	344	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+201	317	306	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0002
+235	338	338	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+852	1239	1252	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0001
+759	1139	1140	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0003
+207	323	330	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+263	414	420	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0003
+415	738	746	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002
+219	323	324	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003
+217	367	353	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0002
+216	323	318	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0003	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0003
+270	443	442	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0004	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002
+467	642	622	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+353	455	458	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+322	448	439	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0001
+266	343	338	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001
+1082	1598	1608	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+1261	1655	1606	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+398	538	550	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
+208	310	324	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0002
+251	394	393	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0003
+455	749	759	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+303	402	424	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0002
+250	369	363	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0002
+610	788	766	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0002
+360	517	498	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+314	444	413	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0003
+551	822	802	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0002
+943	1385	1335	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002
+354	531	499	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0002
+255	411	383	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001
+218	333	333	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0003	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+303	485	463	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+223	326	310	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0001
+281	423	402	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+569	894	867	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0004	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+200	283	295	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0004	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0003
+591	877	878	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0001	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0001
+669	956	970	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0001	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0001
+327	513	501	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0001	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+328	458	468	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0002	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+207	306	295	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0003	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0002
+266	434	427	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0004	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0004
+208	318	321	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+407	648	656	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0004	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003
+287	444	453	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0001
+287	397	399	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0001	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+222	316	323	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0002	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002
+315	495	491	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0002	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0002
+257	350	339	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0003	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+319	379	366	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0003	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+203	253	246	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0003	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+320	411	420	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0003	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+794	1212	1151	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0004
+564	861	855	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+216	301	292	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0003
+351	504	501	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002
+303	450	466	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+409	553	532	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0002
+206	294	309	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+333	495	490	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0002	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0002
+551	854	852	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0002	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0002
+394	573	566	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0002	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0003
+440	650	643	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+292	467	467	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+201	317	311	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002
+251	391	383	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003
+430	674	655	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0004
+449	755	764	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0001
+572	868	873	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0003
+606	950	957	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0001	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0001
+240	379	372	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0001	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0002
+214	272	276	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0002	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0002
+642	904	896	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0002	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0002
+293	387	397	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0003	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0002
+1197	1787	1790	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+226	368	364	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0001
+656	1016	1015	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+280	466	466	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0003
+262	347	351	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0001
+391	496	500	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0001	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001
+366	511	509	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0001	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0001
+304	431	423	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0002	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0003
+467	662	647	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+563	759	740	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001
+259	412	426	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+278	409	405	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0001	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0001
+372	520	530	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0001	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0001
+549	844	809	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0001	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0002
+325	482	477	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0001	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0003
+264	385	380	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0001	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0003
+231	325	328	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0001	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0002
+306	425	418	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0002	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0002
+619	915	967	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0003	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0003
+879	1291	1298	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0003	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0003
+291	411	405	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+256	400	402	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0001
+348	591	584	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004
+261	395	399	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+243	388	388	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+265	388	386	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0002
+622	857	875	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0002
+724	1040	1074	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+547	814	800	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0002
+252	390	390	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003
+249	350	355	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0002
+484	708	709	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0001	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0001
+263	388	382	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0001	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0003
+597	842	828	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0001	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001
+1278	1972	1982	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0001	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0003
+204	310	311	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+208	316	316	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0001
+359	563	559	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0004
+202	308	314	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+402	613	606	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001
+424	724	735	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+210	345	345	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0002
+716	1131	1131	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+406	547	538	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+542	771	778	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+206	289	297	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+314	379	391	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0004
+691	938	935	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+238	363	362	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+273	378	375	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0001
+374	511	507	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0001
+206	322	326	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+355	524	520	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+461	618	623	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+579	859	869	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+983	1380	1371	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+371	520	531	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0003
+1393	1987	2019	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+318	443	442	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002
+330	512	515	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
+259	370	370	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+502	759	749	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
+338	474	479	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+418	554	567	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0002
+204	288	267	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0002
+442	686	694	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+363	536	547	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+586	974	971	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+635	984	968	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+430	686	675	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004
+285	462	449	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+296	467	446	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0001
+329	500	480	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+989	1510	1467	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+209	315	298	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003
+362	565	540	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0003
+568	854	866	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0004
+215	288	289	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0002	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0002
+787	1037	1044	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0002	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0002
+285	415	418	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0002	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+405	593	595	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+376	562	543	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0002
+250	370	364	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+406	624	593	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0002
+326	445	428	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+447	613	602	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0002
+228	311	297	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0002
+554	811	812	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0001	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0001
+213	279	275	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0002
+229	354	337	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0004
+251	340	342	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+395	584	581	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+242	343	342	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003
+230	348	345	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001
+206	302	303	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0004
+219	331	336	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003
+220	311	312	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+215	323	324	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004
+206	327	326	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+378	584	605	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0002
+372	633	664	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+469	756	762	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+221	388	396	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0004	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004
+245	402	416	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0004	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+451	660	687	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0004	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0002
+276	405	389	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+339	424	409	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+223	318	321	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+337	445	449	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+400	504	507	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001
+212	318	312	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+228	347	345	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0004
+315	396	401	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0003
+271	358	369	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0001
+325	432	452	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004
+377	520	526	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+355	517	503	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0004
+225	341	335	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+337	488	480	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003
+221	284	283	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+258	329	335	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0003
+359	487	506	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+213	336	339	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004
+206	351	360	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0001
+269	390	369	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+256	448	451	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0001	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0002
+242	315	311	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002
+212	279	302	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002
+200	286	285	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+223	281	287	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0002
+389	552	551	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0002
+276	382	379	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+219	324	322	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0001
+235	337	337	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+207	284	281	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002
+281	404	403	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003
+209	319	314	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001
+624	926	935	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003
+777	1069	1084	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+208	297	296	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+211	328	324	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004
+221	309	308	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0001
+238	342	336	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002
+335	516	515	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+227	382	379	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0001
+255	402	403	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0003
+322	532	523	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0001	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0001
+373	660	633	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0001	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+1109	1558	1551	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0001	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0001
+207	337	338	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0001	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+360	592	575	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0002	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0001
+214	339	341	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0002	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0002
+224	324	327	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0002	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002
+461	607	616	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0003	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0002
+322	458	467	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0003	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002
+213	318	333	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+689	971	982	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+262	356	373	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+1381	2128	2146	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+241	340	342	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+753	1091	1079	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+207	283	289	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0003
+230	314	331	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+209	269	277	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0001
+210	282	290	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0001	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001
+206	256	265	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0001	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0001
+558	726	749	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0001	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0001
+202	261	277	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0001	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+217	289	288	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0002	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+834	1237	1237	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+251	399	396	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0004
+306	373	375	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+408	639	644	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004
+344	521	526	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+226	380	364	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0001	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0002
+481	760	769	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0001	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0001
+536	754	746	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0001	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0003
+377	579	614	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0001	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0002
+261	398	396	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0002	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0002
+222	364	370	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0003	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0003
+346	530	517	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0003	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0002
+293	500	486	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0003	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0003
+390	568	561	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0003	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0002
+819	1262	1216	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0003	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0003
+253	446	448	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+256	434	430	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+245	378	381	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0002
+537	871	869	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0003
+340	537	541	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0001	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0003
+589	916	920	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0001	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0001
+938	1513	1540	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0001	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0003
+385	621	622	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0002	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0002
+308	505	517	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+237	376	380	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0004	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0004
+206	304	321	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0004	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+228	384	390	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0004	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001
+214	369	368	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0004	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0004
+418	674	681	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0004	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004
+226	363	365	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+260	365	362	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+292	351	348	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+310	413	402	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+218	305	306	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+260	348	357	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+214	330	331	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+268	330	339	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0003
+572	782	794	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+750	951	976	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001
+351	464	465	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0001
+294	352	351	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0003
+295	400	412	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0002	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+467	672	661	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0002	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0002
+426	622	595	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0002	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0002
+203	288	285	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0003	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+252	326	320	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0003	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+516	713	696	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+1068	1427	1456	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+1113	1508	1516	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+377	521	532	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+373	471	491	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0003
+1766	2334	2430	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+407	582	580	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+2016	2804	2826	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+288	394	407	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+223	349	343	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0002
+201	315	304	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+210	336	326	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+418	649	628	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
+261	358	350	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+223	294	281	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0002
+202	363	358	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+407	675	663	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+249	427	428	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+282	461	435	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0002
+251	442	437	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+247	405	402	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0003
+310	478	470	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0004
+329	598	592	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001
+294	412	424	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0003	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0002
+261	374	368	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0003	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0002
+270	412	405	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0003	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0001
+424	602	617	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0001	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0001
+219	308	312	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0001	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0001
+357	496	496	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0001	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002
+341	514	521	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0001	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0002
+213	255	261	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0002
+210	278	291	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0002	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0002
+215	359	363	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0002	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+225	345	337	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0004
+226	325	332	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+217	331	342	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+215	321	322	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003
+220	338	340	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0004
+220	325	330	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+430	626	640	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002
+211	311	318	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003
+461	661	681	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0003
+386	545	561	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0002
+202	334	340	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004
+258	454	451	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0004
+207	279	291	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002
+268	339	339	1800	05	01	Caledonian Mercury	1800.05.01_CaledonianMercury_0001	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+211	316	317	1800	05	01	Caledonian Mercury	1800.05.01_CaledonianMercury_0001	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0004
+364	499	522	1800	05	01	Caledonian Mercury	1800.05.01_CaledonianMercury_0001	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001
+326	420	435	1800	05	01	Caledonian Mercury	1800.05.01_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+231	344	335	1800	05	01	Caledonian Mercury	1800.05.01_CaledonianMercury_0002	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+711	948	938	1800	05	01	Caledonian Mercury	1800.05.01_CaledonianMercury_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0004
+299	434	437	1800	05	01	Caledonian Mercury	1800.05.01_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+874	1236	1270	1800	05	01	Caledonian Mercury	1800.05.01_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+713	967	969	1800	05	01	Caledonian Mercury	1800.05.01_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+274	437	440	1800	05	01	Caledonian Mercury	1800.05.01_CaledonianMercury_0004	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+287	476	487	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+203	343	346	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003
+236	380	387	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+255	371	396	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0001	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+213	363	365	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0001	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003
+495	769	789	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0002
+212	325	322	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0001	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0002
+226	377	358	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0002	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+417	614	616	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0003	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0002
+214	353	360	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0003	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0002
+248	381	392	1800	05	01	Derby Mercury	1800.05.01_TheDerbyMercury_0003	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0002
+338	569	574	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+203	342	340	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0001	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+444	747	743	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0001	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+258	388	405	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0001	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0002
+351	572	577	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0001	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+242	354	349	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0001	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0002
+245	348	345	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0001	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0002
+225	326	316	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0004
+285	381	380	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+268	437	437	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+222	323	322	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0001
+253	365	369	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+248	344	339	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003
+250	361	355	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001
+235	359	360	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003
+514	728	715	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0001
+816	1193	1221	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+255	360	368	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+208	312	315	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004
+218	336	333	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+263	368	365	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002
+254	359	360	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003
+525	781	775	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0001
+382	612	611	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0002
+265	417	388	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0002
+753	1042	1023	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0002
+231	334	336	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0003
+235	339	335	1800	05	01	Trewman’s Exeter Flying Post	1800.05.01_Trewman'sExeterFlyingPost_0004	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004
+231	318	322	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0001
+340	490	491	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0001	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0001
+290	416	400	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+204	238	248	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0003	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0004
+225	259	260	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0003	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+293	369	375	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+273	366	365	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+236	284	287	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0004	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001
+546	750	776	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0004	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004
+581	805	824	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0004	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004
+233	310	310	1800	05	03	Caledonian Mercury	1800.05.03_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+228	341	338	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+205	320	319	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0001	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003
+272	429	444	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0001	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0001
+208	321	319	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0001	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+201	303	303	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0001	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003
+293	458	468	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0001	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0001
+249	388	385	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0001	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0002
+334	478	468	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0003	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0003
+269	446	443	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0003	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0003
+245	372	385	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0004	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0002
+214	370	371	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+441	710	717	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+213	348	352	1800	05	03	Jackson’s Oxford Journal	1800.05.03_Jackson'sOxfordJournal_0004	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004
+296	445	449	1800	05	03	Ipswich Journal	1800.05.03_TheIpswichJournal_0001	1800	04	05	Ipswich Journal	1800.04.05_TheIpswichJournal_0001
+323	497	502	1800	05	03	Ipswich Journal	1800.05.03_TheIpswichJournal_0001	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0001
+430	641	655	1800	05	03	Ipswich Journal	1800.05.03_TheIpswichJournal_0001	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0003
+502	728	726	1800	05	03	Ipswich Journal	1800.05.03_TheIpswichJournal_0001	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0001
+537	864	877	1800	05	03	Ipswich Journal	1800.05.03_TheIpswichJournal_0001	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0003
+252	380	369	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0004
+225	319	319	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+209	293	283	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+201	304	311	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0002
+279	417	417	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003
+218	328	324	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0003
+297	410	406	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0003
+322	466	473	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+435	570	560	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+212	317	315	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002
+493	681	670	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+200	280	283	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003
+339	455	447	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+312	377	380	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0003
+224	304	297	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+403	521	518	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+1326	1684	1730	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+1279	1718	1729	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+326	464	475	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+1879	2471	2568	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+344	497	496	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+2039	2708	2710	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+2621	3426	3416	1800	05	05	Caledonian Mercury	1800.05.05_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+530	832	814	1800	05	05	Hampshire/Portsmouth Telegraph	1800.05.05_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
+228	358	352	1800	05	05	Hampshire/Portsmouth Telegraph	1800.05.05_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
+275	448	446	1800	05	05	Hampshire/Portsmouth Telegraph	1800.05.05_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+297	494	485	1800	05	05	Hampshire/Portsmouth Telegraph	1800.05.05_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+351	548	537	1800	05	05	Hampshire/Portsmouth Telegraph	1800.05.05_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+753	1108	1085	1800	05	05	Hampshire/Portsmouth Telegraph	1800.05.05_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+309	507	513	1800	05	05	Hampshire/Portsmouth Telegraph	1800.05.05_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+407	597	602	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0001	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+205	294	306	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0001	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0003
+211	309	303	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0001	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003
+418	576	610	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0001	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0004
+380	574	610	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0001	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001
+224	335	337	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0001	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001
+367	565	581	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0001	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+824	1269	1326	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0001	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+478	663	656	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0002	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0003
+284	463	437	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0002	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0002
+498	699	677	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0002	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0002
+320	423	432	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0003	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+230	338	337	1800	05	05	Aberdeen Journal	1800.05.05_TheAberdeenJournal_0004	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002
+222	314	331	1800	05	08	Caledonian Mercury	1800.05.08_CaledonianMercury_0004	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+308	445	438	1800	05	08	Caledonian Mercury	1800.05.08_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+365	495	495	1800	05	08	Caledonian Mercury	1800.05.08_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0003
+647	972	969	1800	05	08	Caledonian Mercury	1800.05.08_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+303	411	401	1800	05	08	Caledonian Mercury	1800.05.08_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+687	950	937	1800	05	08	Caledonian Mercury	1800.05.08_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+255	365	384	1800	05	08	Caledonian Mercury	1800.05.08_CaledonianMercury_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+388	584	587	1800	05	08	Caledonian Mercury	1800.05.08_CaledonianMercury_0004	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004
+303	434	432	1800	05	08	Caledonian Mercury	1800.05.08_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+211	332	329	1800	05	08	Caledonian Mercury	1800.05.08_CaledonianMercury_0004	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+423	658	658	1800	05	08	Derby Mercury	1800.05.08_TheDerbyMercury_0002	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002
+213	315	313	1800	05	08	Derby Mercury	1800.05.08_TheDerbyMercury_0003	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003
+356	546	551	1800	05	08	Derby Mercury	1800.05.08_TheDerbyMercury_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+282	389	382	1800	05	10	Caledonian Mercury	1800.05.10_CaledonianMercury_0001	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001
+221	306	310	1800	05	10	Caledonian Mercury	1800.05.10_CaledonianMercury_0001	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0001
+299	379	374	1800	05	10	Caledonian Mercury	1800.05.10_CaledonianMercury_0001	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0001
+226	304	296	1800	05	10	Caledonian Mercury	1800.05.10_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+250	393	398	1800	05	10	Caledonian Mercury	1800.05.10_CaledonianMercury_0004	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0004
+366	578	578	1800	05	10	Caledonian Mercury	1800.05.10_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+223	320	324	1800	05	10	Caledonian Mercury	1800.05.10_CaledonianMercury_0004	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004
+381	490	489	1800	05	10	Caledonian Mercury	1800.05.10_CaledonianMercury_0004	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004
+400	571	568	1800	05	10	Jackson’s Oxford Journal	1800.05.10_Jackson'sOxfordJournal_0003	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0003
+282	453	462	1800	05	10	Jackson’s Oxford Journal	1800.05.10_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+562	908	919	1800	05	10	Jackson’s Oxford Journal	1800.05.10_Jackson'sOxfordJournal_0004	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004
+310	420	425	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+209	271	259	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0001	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001
+497	674	673	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0001	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+230	286	288	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0001	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0001
+323	465	470	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0001	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+240	312	308	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+352	494	479	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+235	369	375	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0004
+538	758	748	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+243	347	349	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+268	386	388	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003
+1198	1607	1629	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+246	325	340	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0004
+413	507	517	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+238	308	312	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0003
+1350	1818	1911	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+389	587	600	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+1349	1778	1810	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+250	365	390	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001
+530	733	734	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+201	321	321	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004
+1783	2394	2399	1800	05	12	Caledonian Mercury	1800.05.12_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+377	600	603	1800	05	12	Hampshire/Portsmouth Telegraph	1800.05.12_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+387	633	635	1800	05	12	Hampshire/Portsmouth Telegraph	1800.05.12_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+294	476	449	1800	05	12	Aberdeen Journal	1800.05.12_TheAberdeenJournal_0001	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+213	342	341	1800	05	12	Aberdeen Journal	1800.05.12_TheAberdeenJournal_0001	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0004
+205	337	338	1800	05	12	Aberdeen Journal	1800.05.12_TheAberdeenJournal_0001	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0001
+243	361	358	1800	05	12	Aberdeen Journal	1800.05.12_TheAberdeenJournal_0001	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+676	1125	1106	1800	05	12	Aberdeen Journal	1800.05.12_TheAberdeenJournal_0001	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+232	351	344	1800	05	15	Caledonian Mercury	1800.05.15_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+385	496	493	1800	05	15	Caledonian Mercury	1800.05.15_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+213	301	299	1800	05	15	Derby Mercury	1800.05.15_TheDerbyMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+258	411	410	1800	05	15	Derby Mercury	1800.05.15_TheDerbyMercury_0001	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+268	379	375	1800	05	15	Derby Mercury	1800.05.15_TheDerbyMercury_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+328	506	509	1800	05	15	Derby Mercury	1800.05.15_TheDerbyMercury_0002	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0001
+225	285	281	1800	05	15	Derby Mercury	1800.05.15_TheDerbyMercury_0003	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0002
+208	313	317	1800	05	15	Derby Mercury	1800.05.15_TheDerbyMercury_0003	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003
+220	266	262	1800	05	15	Derby Mercury	1800.05.15_TheDerbyMercury_0003	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+228	297	294	1800	05	15	Derby Mercury	1800.05.15_TheDerbyMercury_0003	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0001
+243	332	331	1800	05	15	Derby Mercury	1800.05.15_TheDerbyMercury_0003	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0003
+302	435	443	1800	05	15	Derby Mercury	1800.05.15_TheDerbyMercury_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+420	603	603	1800	05	17	Caledonian Mercury	1800.05.17_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+272	387	401	1800	05	17	Caledonian Mercury	1800.05.17_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+395	577	582	1800	05	17	Caledonian Mercury	1800.05.17_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+258	378	396	1800	05	17	Caledonian Mercury	1800.05.17_CaledonianMercury_0004	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004
+647	969	959	1800	05	17	Caledonian Mercury	1800.05.17_CaledonianMercury_0004	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004
+322	515	504	1800	05	17	Jackson’s Oxford Journal	1800.05.17_Jackson'sOxfordJournal_0001	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0001
+203	324	333	1800	05	17	Jackson’s Oxford Journal	1800.05.17_Jackson'sOxfordJournal_0003	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0002
+320	531	514	1800	05	17	Jackson’s Oxford Journal	1800.05.17_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+206	264	267	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0001	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001
+286	397	393	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+211	330	334	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0004
+440	557	581	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+229	340	345	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+265	381	384	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003
+1229	1603	1627	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+214	266	279	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0004
+1291	1617	1710	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+290	371	370	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+1330	1749	1797	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+282	415	427	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+1578	2088	2093	1800	05	19	Caledonian Mercury	1800.05.19_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+416	555	564	1800	05	22	Caledonian Mercury	1800.05.22_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+201	297	303	1800	05	22	Caledonian Mercury	1800.05.22_CaledonianMercury_0004	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+203	340	345	1800	05	22	Derby Mercury	1800.05.22_TheDerbyMercury_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+443	640	640	1800	05	22	Derby Mercury	1800.05.22_TheDerbyMercury_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+257	372	392	1800	05	22	Derby Mercury	1800.05.22_TheDerbyMercury_0001	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0001
+206	371	364	1800	05	22	Derby Mercury	1800.05.22_TheDerbyMercury_0002	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002
+232	361	358	1800	05	22	Derby Mercury	1800.05.22_TheDerbyMercury_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+609	1006	966	1800	05	22	Trewman’s Exeter Flying Post	1800.05.22_Trewman'sExeterFlyingPost_0001	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+447	690	664	1800	05	22	Trewman’s Exeter Flying Post	1800.05.22_Trewman'sExeterFlyingPost_0001	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+638	968	954	1800	05	22	Trewman’s Exeter Flying Post	1800.05.22_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+444	725	706	1800	05	22	Trewman’s Exeter Flying Post	1800.05.22_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+611	953	924	1800	05	22	Trewman’s Exeter Flying Post	1800.05.22_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+728	1101	1073	1800	05	22	Trewman’s Exeter Flying Post	1800.05.22_Trewman'sExeterFlyingPost_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+227	310	314	1800	05	24	Caledonian Mercury	1800.05.24_CaledonianMercury_0001	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0001
+376	487	488	1800	05	24	Caledonian Mercury	1800.05.24_CaledonianMercury_0001	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0001
+201	275	272	1800	05	24	Caledonian Mercury	1800.05.24_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+414	613	629	1800	05	24	Caledonian Mercury	1800.05.24_CaledonianMercury_0004	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004
+258	361	353	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+234	322	327	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0001	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0003
+316	444	452	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0001	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+206	262	277	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0001	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004
+210	298	322	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0001	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+275	404	422	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0001	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+291	434	428	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+259	382	375	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+208	307	312	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0004	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+229	320	320	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003
+1172	1553	1578	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0004
+1102	1396	1467	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+1024	1397	1430	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+230	325	333	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+1156	1585	1580	1800	05	26	Caledonian Mercury	1800.05.26_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+442	711	721	1800	05	26	Hampshire/Portsmouth Telegraph	1800.05.26_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+211	350	336	1800	05	26	Hampshire/Portsmouth Telegraph	1800.05.26_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+478	778	784	1800	05	26	Hampshire/Portsmouth Telegraph	1800.05.26_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+216	295	283	1800	05	26	Aberdeen Journal	1800.05.26_TheAberdeenJournal_0001	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004
+670	1016	1048	1800	05	26	Aberdeen Journal	1800.05.26_TheAberdeenJournal_0001	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+270	374	369	1800	05	26	Aberdeen Journal	1800.05.26_TheAberdeenJournal_0003	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002
+233	348	337	1800	05	26	Aberdeen Journal	1800.05.26_TheAberdeenJournal_0003	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+213	283	261	1800	05	26	Aberdeen Journal	1800.05.26_TheAberdeenJournal_0003	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002
+308	474	493	1800	05	29	Caledonian Mercury	1800.05.29_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+273	390	397	1800	05	29	Caledonian Mercury	1800.05.29_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+209	362	359	1800	05	29	Derby Mercury	1800.05.29_TheDerbyMercury_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0003
+204	294	295	1800	05	29	Derby Mercury	1800.05.29_TheDerbyMercury_0002	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+237	429	423	1800	05	29	Derby Mercury	1800.05.29_TheDerbyMercury_0002	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002
+609	949	955	1800	05	29	Trewman’s Exeter Flying Post	1800.05.29_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+338	549	566	1800	05	29	Trewman’s Exeter Flying Post	1800.05.29_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+329	494	505	1800	05	29	Trewman’s Exeter Flying Post	1800.05.29_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0002
+702	1142	1138	1800	05	29	Trewman’s Exeter Flying Post	1800.05.29_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+305	461	460	1800	05	29	Trewman’s Exeter Flying Post	1800.05.29_Trewman'sExeterFlyingPost_0004	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002
+468	749	758	1800	05	29	Trewman’s Exeter Flying Post	1800.05.29_Trewman'sExeterFlyingPost_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+257	415	406	1800	05	29	Trewman’s Exeter Flying Post	1800.05.29_Trewman'sExeterFlyingPost_0004	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0004
+591	745	728	1800	05	31	Caledonian Mercury	1800.05.31_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+869	1118	1156	1800	05	31	Caledonian Mercury	1800.05.31_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+359	498	507	1800	05	31	Caledonian Mercury	1800.05.31_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+438	594	618	1800	05	31	Caledonian Mercury	1800.05.31_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+243	317	334	1800	05	31	Caledonian Mercury	1800.05.31_CaledonianMercury_0004	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004
+313	454	457	1800	05	31	Caledonian Mercury	1800.05.31_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+438	668	679	1800	05	31	Caledonian Mercury	1800.05.31_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+417	616	606	1800	05	31	Caledonian Mercury	1800.05.31_CaledonianMercury_0004	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004
+683	903	902	1800	05	31	Caledonian Mercury	1800.05.31_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+200	336	337	1800	05	31	Jackson’s Oxford Journal	1800.05.31_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+616	879	891	1800	05	31	Jackson’s Oxford Journal	1800.05.31_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+206	247	252	1800	06	02	Caledonian Mercury	1800.06.02_CaledonianMercury_0001	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0001
+450	630	627	1800	06	02	Caledonian Mercury	1800.06.02_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+436	568	569	1800	06	02	Caledonian Mercury	1800.06.02_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+254	350	353	1800	06	02	Caledonian Mercury	1800.06.02_CaledonianMercury_0004	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0004
+436	646	645	1800	06	02	Caledonian Mercury	1800.06.02_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+439	721	725	1800	06	02	Aberdeen Journal	1800.06.02_TheAberdeenJournal_0001	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+215	333	325	1800	06	02	Aberdeen Journal	1800.06.02_TheAberdeenJournal_0003	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+361	524	518	1800	06	02	Aberdeen Journal	1800.06.02_TheAberdeenJournal_0003	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+202	301	310	1800	06	03	Hull Packet	1800.06.03_TheHullPacket_0001	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0001
+233	314	316	1800	06	03	Hull Packet	1800.06.03_TheHullPacket_0001	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002
+233	343	349	1800	06	03	Hull Packet	1800.06.03_TheHullPacket_0002	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0002
+217	293	298	1800	06	03	Hull Packet	1800.06.03_TheHullPacket_0002	1800	04	29	Hull Packet	1800.04.29_TheHullPacket_0002
+259	338	356	1800	06	05	Caledonian Mercury	1800.06.05_CaledonianMercury_0001	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0003
+415	613	604	1800	06	05	Caledonian Mercury	1800.06.05_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+325	494	482	1800	06	05	Caledonian Mercury	1800.06.05_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+238	380	363	1800	06	05	Caledonian Mercury	1800.06.05_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+269	343	357	1800	06	05	Caledonian Mercury	1800.06.05_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+430	604	627	1800	06	05	Derby Mercury	1800.06.05_TheDerbyMercury_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+222	279	277	1800	06	05	Derby Mercury	1800.06.05_TheDerbyMercury_0001	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0004
+293	431	440	1800	06	05	Derby Mercury	1800.06.05_TheDerbyMercury_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+257	392	396	1800	06	05	Derby Mercury	1800.06.05_TheDerbyMercury_0001	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+239	393	396	1800	06	05	Derby Mercury	1800.06.05_TheDerbyMercury_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+497	817	820	1800	06	05	Trewman’s Exeter Flying Post	1800.06.05_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+345	570	577	1800	06	05	Trewman’s Exeter Flying Post	1800.06.05_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+315	530	530	1800	06	05	Trewman’s Exeter Flying Post	1800.06.05_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+484	781	785	1800	06	05	Trewman’s Exeter Flying Post	1800.06.05_Trewman'sExeterFlyingPost_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+230	298	303	1800	06	07	Caledonian Mercury	1800.06.07_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+854	1149	1175	1800	06	07	Caledonian Mercury	1800.06.07_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+328	479	479	1800	06	07	Caledonian Mercury	1800.06.07_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+421	587	615	1800	06	07	Caledonian Mercury	1800.06.07_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+268	396	394	1800	06	07	Caledonian Mercury	1800.06.07_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+376	580	588	1800	06	07	Caledonian Mercury	1800.06.07_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+467	619	637	1800	06	07	Caledonian Mercury	1800.06.07_CaledonianMercury_0004	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004
+684	932	943	1800	06	07	Caledonian Mercury	1800.06.07_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+376	585	596	1800	06	07	Jackson’s Oxford Journal	1800.06.07_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+259	410	417	1800	06	07	Jackson’s Oxford Journal	1800.06.07_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+226	385	386	1800	06	07	Jackson’s Oxford Journal	1800.06.07_Jackson'sOxfordJournal_0004	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004
+219	274	290	1800	06	09	Caledonian Mercury	1800.06.09_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+235	347	351	1800	06	09	Caledonian Mercury	1800.06.09_CaledonianMercury_0001	1800	04	19	Caledonian Mercury	1800.04.19_CaledonianMercury_0004
+295	428	416	1800	06	09	Caledonian Mercury	1800.06.09_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+555	752	766	1800	06	09	Caledonian Mercury	1800.06.09_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+328	455	466	1800	06	09	Caledonian Mercury	1800.06.09_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+207	324	332	1800	06	09	Caledonian Mercury	1800.06.09_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+285	474	482	1800	06	09	Hampshire/Portsmouth Telegraph	1800.06.09_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+441	710	723	1800	06	09	Hampshire/Portsmouth Telegraph	1800.06.09_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+302	502	500	1800	06	09	Hampshire/Portsmouth Telegraph	1800.06.09_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+503	807	839	1800	06	09	Hampshire/Portsmouth Telegraph	1800.06.09_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+216	370	382	1800	06	09	Aberdeen Journal	1800.06.09_TheAberdeenJournal_0001	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+822	1285	1332	1800	06	09	Aberdeen Journal	1800.06.09_TheAberdeenJournal_0001	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+214	285	288	1800	06	10	Hull Packet	1800.06.10_TheHullPacket_0002	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+294	394	394	1800	06	12	Caledonian Mercury	1800.06.12_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+284	398	402	1800	06	12	Caledonian Mercury	1800.06.12_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+323	452	449	1800	06	12	Caledonian Mercury	1800.06.12_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+287	430	427	1800	06	12	Caledonian Mercury	1800.06.12_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+290	365	371	1800	06	12	Caledonian Mercury	1800.06.12_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+207	380	373	1800	06	12	Derby Mercury	1800.06.12_TheDerbyMercury_0002	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002
+219	324	321	1800	06	12	Derby Mercury	1800.06.12_TheDerbyMercury_0003	1800	04	22	Hull Packet	1800.04.22_TheHullPacket_0002
+242	370	370	1800	06	12	Trewman’s Exeter Flying Post	1800.06.12_Trewman'sExeterFlyingPost_0001	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+612	895	914	1800	06	12	Trewman’s Exeter Flying Post	1800.06.12_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+236	358	361	1800	06	12	Trewman’s Exeter Flying Post	1800.06.12_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+975	1390	1437	1800	06	12	Trewman’s Exeter Flying Post	1800.06.12_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+324	476	478	1800	06	12	Trewman’s Exeter Flying Post	1800.06.12_Trewman'sExeterFlyingPost_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+252	395	388	1800	06	14	Caledonian Mercury	1800.06.14_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+277	432	417	1800	06	14	Jackson’s Oxford Journal	1800.06.14_Jackson'sOxfordJournal_0004	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0002
+217	317	310	1800	06	16	Caledonian Mercury	1800.06.16_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+296	449	432	1800	06	16	Caledonian Mercury	1800.06.16_CaledonianMercury_0001	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+236	370	373	1800	06	16	Caledonian Mercury	1800.06.16_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+357	558	538	1800	06	16	Hampshire/Portsmouth Telegraph	1800.06.16_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+463	777	753	1800	06	16	Aberdeen Journal	1800.06.16_TheAberdeenJournal_0001	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+219	369	347	1800	06	16	Aberdeen Journal	1800.06.16_TheAberdeenJournal_0003	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0004
+258	346	346	1800	06	16	Aberdeen Journal	1800.06.16_TheAberdeenJournal_0003	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002
+200	272	268	1800	06	19	Caledonian Mercury	1800.06.19_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+227	376	378	1800	06	19	Derby Mercury	1800.06.19_TheDerbyMercury_0002	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0004
+262	412	397	1800	06	19	Derby Mercury	1800.06.19_TheDerbyMercury_0002	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002
+217	366	365	1800	06	19	Trewman’s Exeter Flying Post	1800.06.19_Trewman'sExeterFlyingPost_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0001
+384	667	649	1800	06	19	Trewman’s Exeter Flying Post	1800.06.19_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+442	710	695	1800	06	19	Trewman’s Exeter Flying Post	1800.06.19_Trewman'sExeterFlyingPost_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+214	324	328	1800	06	21	Caledonian Mercury	1800.06.21_CaledonianMercury_0001	1800	04	03	Caledonian Mercury	1800.04.03_CaledonianMercury_0001
+210	305	302	1800	06	21	Caledonian Mercury	1800.06.21_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+325	468	482	1800	06	21	Caledonian Mercury	1800.06.21_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+246	379	393	1800	06	21	Caledonian Mercury	1800.06.21_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+515	788	782	1800	06	21	Caledonian Mercury	1800.06.21_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+201	299	301	1800	06	23	Caledonian Mercury	1800.06.23_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+256	374	376	1800	06	23	Caledonian Mercury	1800.06.23_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+512	718	735	1800	06	23	Caledonian Mercury	1800.06.23_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+239	364	374	1800	06	23	Caledonian Mercury	1800.06.23_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+218	374	364	1800	06	23	Hampshire/Portsmouth Telegraph	1800.06.23_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+236	383	383	1800	06	23	Hampshire/Portsmouth Telegraph	1800.06.23_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+213	367	348	1800	06	23	Hampshire/Portsmouth Telegraph	1800.06.23_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+304	445	431	1800	06	23	Aberdeen Journal	1800.06.23_TheAberdeenJournal_0001	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+235	343	349	1800	06	23	Aberdeen Journal	1800.06.23_TheAberdeenJournal_0003	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+340	484	500	1800	06	23	Aberdeen Journal	1800.06.23_TheAberdeenJournal_0003	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0003
+200	313	303	1800	06	23	Aberdeen Journal	1800.06.23_TheAberdeenJournal_0003	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+339	503	499	1800	06	23	Aberdeen Journal	1800.06.23_TheAberdeenJournal_0003	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+218	309	299	1800	06	23	Aberdeen Journal	1800.06.23_TheAberdeenJournal_0003	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+243	387	384	1800	06	26	Caledonian Mercury	1800.06.26_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+212	319	323	1800	06	26	Caledonian Mercury	1800.06.26_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+239	378	371	1800	06	26	Caledonian Mercury	1800.06.26_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+247	377	386	1800	06	26	Caledonian Mercury	1800.06.26_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+224	371	367	1800	06	26	Trewman’s Exeter Flying Post	1800.06.26_Trewman'sExeterFlyingPost_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0001
+269	403	399	1800	06	26	Trewman’s Exeter Flying Post	1800.06.26_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+327	462	456	1800	06	26	Trewman’s Exeter Flying Post	1800.06.26_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+237	359	360	1800	06	26	Trewman’s Exeter Flying Post	1800.06.26_Trewman'sExeterFlyingPost_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+430	600	612	1800	06	28	Caledonian Mercury	1800.06.28_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+353	553	547	1800	06	28	Caledonian Mercury	1800.06.28_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+428	600	586	1800	06	28	Caledonian Mercury	1800.06.28_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+202	324	327	1800	06	28	Jackson’s Oxford Journal	1800.06.28_Jackson'sOxfordJournal_0001	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0001
+383	640	670	1800	06	28	Jackson’s Oxford Journal	1800.06.28_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+252	391	374	1800	06	30	Caledonian Mercury	1800.06.30_CaledonianMercury_0001	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+216	360	353	1800	06	30	Hampshire/Portsmouth Telegraph	1800.06.30_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+278	485	462	1800	06	30	Hampshire/Portsmouth Telegraph	1800.06.30_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+232	406	394	1800	06	30	Hampshire/Portsmouth Telegraph	1800.06.30_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+404	635	641	1800	06	30	Aberdeen Journal	1800.06.30_TheAberdeenJournal_0001	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+247	386	367	1800	07	01	Hull Packet	1800.07.01_TheHullPacket_0001	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0001
+225	347	358	1800	07	01	Hull Packet	1800.07.01_TheHullPacket_0004	1800	04	15	Hull Packet	1800.04.15_TheHullPacket_0004
+204	352	368	1800	07	03	Derby Mercury	1800.07.03_TheDerbyMercury_0003	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+228	340	339	1800	07	03	Derby Mercury	1800.07.03_TheDerbyMercury_0003	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+266	412	413	1800	07	03	Derby Mercury	1800.07.03_TheDerbyMercury_0003	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+228	377	378	1800	07	03	Derby Mercury	1800.07.03_TheDerbyMercury_0003	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+200	331	329	1800	07	03	Derby Mercury	1800.07.03_TheDerbyMercury_0003	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+214	320	317	1800	07	03	Derby Mercury	1800.07.03_TheDerbyMercury_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+319	537	535	1800	07	03	Trewman’s Exeter Flying Post	1800.07.03_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+258	434	425	1800	07	03	Trewman’s Exeter Flying Post	1800.07.03_Trewman'sExeterFlyingPost_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+207	329	335	1800	07	05	Ipswich Journal	1800.07.05_TheIpswichJournal_0004	1800	04	19	Ipswich Journal	1800.04.19_TheIpswichJournal_0004
+292	426	422	1800	07	07	Caledonian Mercury	1800.07.07_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0001
+262	355	355	1800	07	07	Caledonian Mercury	1800.07.07_CaledonianMercury_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+430	616	639	1800	07	07	Caledonian Mercury	1800.07.07_CaledonianMercury_0001	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+304	442	443	1800	07	07	Caledonian Mercury	1800.07.07_CaledonianMercury_0001	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0001
+407	587	578	1800	07	07	Caledonian Mercury	1800.07.07_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+292	398	410	1800	07	07	Caledonian Mercury	1800.07.07_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0001
+328	498	500	1800	07	07	Caledonian Mercury	1800.07.07_CaledonianMercury_0004	1800	04	17	Caledonian Mercury	1800.04.17_CaledonianMercury_0004
+231	381	371	1800	07	07	Caledonian Mercury	1800.07.07_CaledonianMercury_0004	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0004
+229	375	359	1800	07	07	Caledonian Mercury	1800.07.07_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+231	326	311	1800	07	07	Hampshire/Portsmouth Telegraph	1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+239	389	384	1800	07	07	Hampshire/Portsmouth Telegraph	1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+289	417	399	1800	07	07	Hampshire/Portsmouth Telegraph	1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+348	547	543	1800	07	07	Hampshire/Portsmouth Telegraph	1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+319	498	478	1800	07	07	Hampshire/Portsmouth Telegraph	1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	21	Hampshire/Portsmouth Telegraph	1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+393	635	628	1800	07	07	Hampshire/Portsmouth Telegraph	1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+443	583	588	1800	07	10	Caledonian Mercury	1800.07.10_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+334	479	475	1800	07	10	Caledonian Mercury	1800.07.10_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+259	401	388	1800	07	10	Caledonian Mercury	1800.07.10_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+425	572	563	1800	07	10	Caledonian Mercury	1800.07.10_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+266	412	405	1800	07	10	Derby Mercury	1800.07.10_TheDerbyMercury_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+220	305	302	1800	07	10	Derby Mercury	1800.07.10_TheDerbyMercury_0001	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0004
+215	336	328	1800	07	10	Derby Mercury	1800.07.10_TheDerbyMercury_0004	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0004
+353	534	534	1800	07	10	Trewman’s Exeter Flying Post	1800.07.10_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0002
+200	320	319	1800	07	12	Jackson’s Oxford Journal	1800.07.12_Jackson'sOxfordJournal_0001	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+245	375	377	1800	07	12	Jackson’s Oxford Journal	1800.07.12_Jackson'sOxfordJournal_0001	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+331	543	544	1800	07	12	Jackson’s Oxford Journal	1800.07.12_Jackson'sOxfordJournal_0001	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004
+218	339	328	1800	07	12	Jackson’s Oxford Journal	1800.07.12_Jackson'sOxfordJournal_0002	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0002
+218	307	312	1800	07	12	Jackson’s Oxford Journal	1800.07.12_Jackson'sOxfordJournal_0002	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0001
+282	459	431	1800	07	12	Jackson’s Oxford Journal	1800.07.12_Jackson'sOxfordJournal_0004	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0001
+347	539	518	1800	07	12	Jackson’s Oxford Journal	1800.07.12_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+223	401	409	1800	07	12	Ipswich Journal	1800.07.12_TheIpswichJournal_0004	1800	04	12	Ipswich Journal	1800.04.12_TheIpswichJournal_0003
+228	361	359	1800	07	12	Ipswich Journal	1800.07.12_TheIpswichJournal_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+362	503	503	1800	07	14	Caledonian Mercury	1800.07.14_CaledonianMercury_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+279	430	423	1800	07	14	Caledonian Mercury	1800.07.14_CaledonianMercury_0004	1800	04	14	Caledonian Mercury	1800.04.14_CaledonianMercury_0004
+207	347	342	1800	07	14	Caledonian Mercury	1800.07.14_CaledonianMercury_0004	1800	04	21	Caledonian Mercury	1800.04.21_CaledonianMercury_0004
+403	562	554	1800	07	14	Caledonian Mercury	1800.07.14_CaledonianMercury_0004	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0004
+308	471	460	1800	07	14	Aberdeen Journal	1800.07.14_TheAberdeenJournal_0003	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+227	368	377	1800	07	19	Jackson’s Oxford Journal	1800.07.19_Jackson'sOxfordJournal_0004	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004
+362	577	594	1800	07	19	Jackson’s Oxford Journal	1800.07.19_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+258	383	391	1800	07	19	Jackson’s Oxford Journal	1800.07.19_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+280	355	359	1800	07	21	Caledonian Mercury	1800.07.21_CaledonianMercury_0004	1800	04	05	Caledonian Mercury	1800.04.05_CaledonianMercury_0004
+321	456	474	1800	07	21	Aberdeen Journal	1800.07.21_TheAberdeenJournal_0001	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0003
+208	360	369	1800	07	26	Jackson’s Oxford Journal	1800.07.26_Jackson'sOxfordJournal_0004	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0004
+266	442	444	1800	07	26	Jackson’s Oxford Journal	1800.07.26_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+370	567	565	1800	07	26	Jackson’s Oxford Journal	1800.07.26_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+261	383	386	1800	07	26	Ipswich Journal	1800.07.26_TheIpswichJournal_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+230	344	345	1800	07	26	Ipswich Journal	1800.07.26_TheIpswichJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+538	722	728	1800	08	02	Jackson’s Oxford Journal	1800.08.02_Jackson'sOxfordJournal_0002	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0002
+223	360	354	1800	08	02	Jackson’s Oxford Journal	1800.08.02_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+216	340	348	1800	08	04	Aberdeen Journal	1800.08.04_TheAberdeenJournal_0001	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+271	402	416	1800	08	04	Aberdeen Journal	1800.08.04_TheAberdeenJournal_0001	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+214	324	320	1800	08	04	Aberdeen Journal	1800.08.04_TheAberdeenJournal_0001	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+253	350	352	1800	08	07	Derby Mercury	1800.08.07_TheDerbyMercury_0003	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+238	314	310	1800	08	07	Derby Mercury	1800.08.07_TheDerbyMercury_0003	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0004
+342	575	582	1800	08	07	Trewman’s Exeter Flying Post	1800.08.07_Trewman'sExeterFlyingPost_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+268	409	406	1800	08	07	Trewman’s Exeter Flying Post	1800.08.07_Trewman'sExeterFlyingPost_0001	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+263	417	418	1800	08	09	Jackson’s Oxford Journal	1800.08.09_Jackson'sOxfordJournal_0001	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+306	460	467	1800	08	09	Jackson’s Oxford Journal	1800.08.09_Jackson'sOxfordJournal_0001	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+261	439	437	1800	08	09	Jackson’s Oxford Journal	1800.08.09_Jackson'sOxfordJournal_0001	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004
+200	316	316	1800	08	14	Derby Mercury	1800.08.14_TheDerbyMercury_0003	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+228	358	357	1800	08	14	Derby Mercury	1800.08.14_TheDerbyMercury_0003	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+213	256	260	1800	08	16	Ipswich Journal	1800.08.16_TheIpswichJournal_0001	1800	04	12	Caledonian Mercury	1800.04.12_CaledonianMercury_0001
+211	282	282	1800	08	16	Ipswich Journal	1800.08.16_TheIpswichJournal_0001	1800	04	24	Caledonian Mercury	1800.04.24_CaledonianMercury_0001
+207	331	335	1800	08	18	Caledonian Mercury	1800.08.18_CaledonianMercury_0001	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+217	318	336	1800	08	18	Aberdeen Journal	1800.08.18_TheAberdeenJournal_0004	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0002
+251	387	387	1800	08	21	Trewman’s Exeter Flying Post	1800.08.21_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+523	797	789	1800	08	21	Trewman’s Exeter Flying Post	1800.08.21_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0002
+325	477	475	1800	08	21	Trewman’s Exeter Flying Post	1800.08.21_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+270	385	376	1800	08	25	Caledonian Mercury	1800.08.25_CaledonianMercury_0001	1800	04	28	Caledonian Mercury	1800.04.28_CaledonianMercury_0001
+201	313	312	1800	08	25	Aberdeen Journal	1800.08.25_TheAberdeenJournal_0001	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+259	367	365	1800	08	25	Aberdeen Journal	1800.08.25_TheAberdeenJournal_0001	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+231	360	347	1800	08	25	Aberdeen Journal	1800.08.25_TheAberdeenJournal_0001	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+321	444	449	1800	08	25	Aberdeen Journal	1800.08.25_TheAberdeenJournal_0001	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+284	410	395	1800	08	25	Aberdeen Journal	1800.08.25_TheAberdeenJournal_0001	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+213	338	325	1800	08	25	Aberdeen Journal	1800.08.25_TheAberdeenJournal_0001	1800	04	26	Ipswich Journal	1800.04.26_TheIpswichJournal_0004
+237	397	405	1800	08	26	Hull Packet	1800.08.26_TheHullPacket_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+274	434	429	1800	08	28	Derby Mercury	1800.08.28_TheDerbyMercury_0003	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+297	454	426	1800	08	28	Derby Mercury	1800.08.28_TheDerbyMercury_0003	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+210	308	305	1800	08	28	Derby Mercury	1800.08.28_TheDerbyMercury_0003	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+251	361	357	1800	08	28	Derby Mercury	1800.08.28_TheDerbyMercury_0003	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0001
+250	375	355	1800	08	28	Derby Mercury	1800.08.28_TheDerbyMercury_0003	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+429	687	677	1800	08	30	Jackson’s Oxford Journal	1800.08.30_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+217	383	370	1800	08	30	Jackson’s Oxford Journal	1800.08.30_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+256	421	404	1800	09	01	Aberdeen Journal	1800.09.01_TheAberdeenJournal_0001	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+350	547	542	1800	09	06	Jackson’s Oxford Journal	1800.09.06_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+367	570	561	1800	09	06	Jackson’s Oxford Journal	1800.09.06_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+244	405	406	1800	09	06	Jackson’s Oxford Journal	1800.09.06_Jackson'sOxfordJournal_0004	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004
+277	395	412	1800	09	08	Aberdeen Journal	1800.09.08_TheAberdeenJournal_0001	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0003
+245	413	404	1800	09	11	Derby Mercury	1800.09.11_TheDerbyMercury_0002	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0002
+208	327	326	1800	09	11	Trewman’s Exeter Flying Post	1800.09.11_Trewman'sExeterFlyingPost_0001	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+269	434	435	1800	09	11	Trewman’s Exeter Flying Post	1800.09.11_Trewman'sExeterFlyingPost_0001	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+251	405	378	1800	09	11	Trewman’s Exeter Flying Post	1800.09.11_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+210	340	337	1800	09	15	Hampshire/Portsmouth Telegraph	1800.09.15_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+269	468	454	1800	09	15	Hampshire/Portsmouth Telegraph	1800.09.15_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+217	326	342	1800	09	15	Aberdeen Journal	1800.09.15_TheAberdeenJournal_0003	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+274	419	412	1800	09	20	Jackson’s Oxford Journal	1800.09.20_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+244	359	351	1800	09	20	Jackson’s Oxford Journal	1800.09.20_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+226	381	390	1800	09	22	Aberdeen Journal	1800.09.22_TheAberdeenJournal_0001	1800	04	07	Aberdeen Journal	1800.04.07_TheAberdeenJournal_0001
+237	368	375	1800	09	22	Aberdeen Journal	1800.09.22_TheAberdeenJournal_0001	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+239	377	373	1800	09	25	Derby Mercury	1800.09.25_TheDerbyMercury_0003	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+218	334	340	1800	09	25	Derby Mercury	1800.09.25_TheDerbyMercury_0003	1800	04	08	Hull Packet	1800.04.08_TheHullPacket_0004
+289	476	450	1800	09	25	Derby Mercury	1800.09.25_TheDerbyMercury_0003	1800	04	17	Derby Mercury	1800.04.17_TheDerbyMercury_0001
+243	385	394	1800	09	25	Trewman’s Exeter Flying Post	1800.09.25_Trewman'sExeterFlyingPost_0001	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0001
+208	359	366	1800	09	25	Trewman’s Exeter Flying Post	1800.09.25_Trewman'sExeterFlyingPost_0004	1800	04	10	Trewman’s Exeter Flying Post	1800.04.10_Trewman'sExeterFlyingPost_0004
+203	352	340	1800	09	27	Jackson’s Oxford Journal	1800.09.27_Jackson'sOxfordJournal_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+216	300	299	1800	09	29	Hampshire/Portsmouth Telegraph	1800.09.29_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	07	Hampshire/Portsmouth Telegraph	1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
+244	339	331	1800	09	29	Hampshire/Portsmouth Telegraph	1800.09.29_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001	1800	04	14	Hampshire/Portsmouth Telegraph	1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
+201	291	291	1800	10	02	Derby Mercury	1800.10.02_TheDerbyMercury_0003	1800	04	03	Derby Mercury	1800.04.03_TheDerbyMercury_0003
+201	288	288	1800	10	02	Derby Mercury	1800.10.02_TheDerbyMercury_0003	1800	04	10	Derby Mercury	1800.04.10_TheDerbyMercury_0004
+399	577	584	1800	10	02	Trewman’s Exeter Flying Post	1800.10.02_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0002
+252	394	393	1800	10	04	Jackson’s Oxford Journal	1800.10.04_Jackson'sOxfordJournal_0001	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0001
+208	315	324	1800	10	06	Aberdeen Journal	1800.10.06_TheAberdeenJournal_0003	1800	04	21	Aberdeen Journal	1800.04.21_TheAberdeenJournal_0003
+235	396	397	1800	10	07	Hull Packet	1800.10.07_TheHullPacket_0001	1800	04	01	Hull Packet	1800.04.01_TheHullPacket_0001
+328	526	530	1800	10	11	Caledonian Mercury	1800.10.11_CaledonianMercury_0004	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003
+214	364	362	1800	10	13	Aberdeen Journal	1800.10.13_TheAberdeenJournal_0003	1800	04	28	Aberdeen Journal	1800.04.28_TheAberdeenJournal_0001
+234	339	331	1800	10	18	Jackson’s Oxford Journal	1800.10.18_Jackson'sOxfordJournal_0001	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+244	398	385	1800	10	20	Hampshire/Portsmouth Telegraph	1800.10.20_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+269	332	344	1800	10	23	Caledonian Mercury	1800.10.23_CaledonianMercury_0004	1800	04	26	Caledonian Mercury	1800.04.26_CaledonianMercury_0004
+230	356	355	1800	10	23	Trewman’s Exeter Flying Post	1800.10.23_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0002
+340	520	548	1800	10	27	Caledonian Mercury	1800.10.27_CaledonianMercury_0003	1800	04	10	Caledonian Mercury	1800.04.10_CaledonianMercury_0003
+215	337	356	1800	10	27	Aberdeen Journal	1800.10.27_TheAberdeenJournal_0003	1800	04	14	Aberdeen Journal	1800.04.14_TheAberdeenJournal_0003
+203	328	325	1800	10	28	Hull Packet	1800.10.28_TheHullPacket_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+228	382	379	1800	10	28	Hull Packet	1800.10.28_TheHullPacket_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+270	375	381	1800	10	30	Trewman’s Exeter Flying Post	1800.10.30_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+293	376	375	1800	10	30	Trewman’s Exeter Flying Post	1800.10.30_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+216	302	304	1800	10	30	Trewman’s Exeter Flying Post	1800.10.30_Trewman'sExeterFlyingPost_0004	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+252	421	423	1800	11	03	Hampshire/Portsmouth Telegraph	1800.11.03_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004	1800	04	28	Hampshire/Portsmouth Telegraph	1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
+202	270	261	1800	11	04	Hull Packet	1800.11.04_TheHullPacket_0001	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+239	403	407	1800	11	06	Trewman’s Exeter Flying Post	1800.11.06_Trewman'sExeterFlyingPost_0001	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+251	400	407	1800	11	08	Jackson’s Oxford Journal	1800.11.08_Jackson'sOxfordJournal_0004	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+787	1185	1202	1800	11	08	Jackson’s Oxford Journal	1800.11.08_Jackson'sOxfordJournal_0004	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004
+232	299	303	1800	11	13	Derby Mercury	1800.11.13_TheDerbyMercury_0003	1800	04	19	Jackson’s Oxford Journal	1800.04.19_Jackson'sOxfordJournal_0004
+208	278	281	1800	11	13	Derby Mercury	1800.11.13_TheDerbyMercury_0003	1800	04	24	Derby Mercury	1800.04.24_TheDerbyMercury_0001
+285	404	404	1800	11	13	Trewman’s Exeter Flying Post	1800.11.13_Trewman'sExeterFlyingPost_0004	1800	04	03	Trewman’s Exeter Flying Post	1800.04.03_Trewman'sExeterFlyingPost_0004
+227	343	360	1800	11	13	Trewman’s Exeter Flying Post	1800.11.13_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0002
+346	467	459	1800	11	13	Trewman’s Exeter Flying Post	1800.11.13_Trewman'sExeterFlyingPost_0004	1800	04	17	Trewman’s Exeter Flying Post	1800.04.17_Trewman'sExeterFlyingPost_0004
+216	336	336	1800	11	18	Hull Packet	1800.11.18_TheHullPacket_0004	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+246	391	390	1800	11	18	Hull Packet	1800.11.18_TheHullPacket_0004	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+231	365	365	1800	11	20	Trewman’s Exeter Flying Post	1800.11.20_Trewman'sExeterFlyingPost_0001	1800	04	24	Trewman’s Exeter Flying Post	1800.04.24_Trewman'sExeterFlyingPost_0004
+255	337	341	1800	11	22	Jackson’s Oxford Journal	1800.11.22_Jackson'sOxfordJournal_0003	1800	04	07	Caledonian Mercury	1800.04.07_CaledonianMercury_0004
+362	523	528	1800	11	22	Jackson’s Oxford Journal	1800.11.22_Jackson'sOxfordJournal_0003	1800	04	12	Jackson’s Oxford Journal	1800.04.12_Jackson'sOxfordJournal_0004
+386	615	619	1800	11	22	Jackson’s Oxford Journal	1800.11.22_Jackson'sOxfordJournal_0004	1800	04	05	Jackson’s Oxford Journal	1800.04.05_Jackson'sOxfordJournal_0002
+263	401	410	1800	11	29	Jackson’s Oxford Journal	1800.11.29_Jackson'sOxfordJournal_0004	1800	04	26	Jackson’s Oxford Journal	1800.04.26_Jackson'sOxfordJournal_0004

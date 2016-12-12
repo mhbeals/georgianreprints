@@ -1,0 +1,66 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1813	02	04	Caledonian Mercury	0002	1813	02	01	Morning Chronicle	0002
+1813	02	05	Liverpool Mercury	0003	1813	02	01	Caledonian Mercury	0003
+1813	02	06	Ipswich Journal	0001	1813	02	04	Derby Mercury	0001
+1813	02	08	Caledonian Mercury	0002	1813	02	04	Morning Chronicle	0002
+1813	02	08	Caledonian Mercury	0002	1813	02	05	Morning Chronicle	0002
+1813	02	10	Aberdeen Journal	0002	1813	02	01	Caledonian Mercury	0003
+1813	02	10	Aberdeen Journal	0003	1813	02	06	Caledonian Mercury	0002
+1813	02	11	Caledonian Mercury	0002	1813	02	06	Morning Chronicle	0003
+1813	02	11	Caledonian Mercury	0002	1813	02	08	Morning Chronicle	0002
+1813	02	12	Liverpool Mercury	0005	1813	02	01	Morning Chronicle	0002
+1813	02	13	Caledonian Mercury	0002	1813	02	10	Morning Chronicle	0002
+1813	02	13	Caledonian Mercury	0004	1813	02	01	Morning Chronicle	0002
+1813	02	13	Caledonian Mercury	0004	1813	02	12	Liverpool Mercury	0005
+1813	02	13	Ipswich Journal	0001	1813	02	01	Morning Chronicle	0002
+1813	02	13	Ipswich Journal	0001	1813	02	12	Liverpool Mercury	0005
+1813	02	13	Ipswich Journal	0001	1813	02	13	Caledonian Mercury	0004
+1813	02	14	Examiner	0003	1813	02	12	Morning Chronicle	0003
+1813	02	15	Caledonian Mercury	0002	1813	02	11	Morning Chronicle	0002
+1813	02	15	Caledonian Mercury	0002	1813	02	12	Morning Chronicle	0003
+1813	02	16	Hull Packet	0001	1813	02	01	Morning Chronicle	0002
+1813	02	16	Hull Packet	0001	1813	02	12	Liverpool Mercury	0005
+1813	02	16	Hull Packet	0001	1813	02	13	Caledonian Mercury	0004
+1813	02	16	Hull Packet	0001	1813	02	13	Ipswich Journal	0001
+1813	02	16	Hull Packet	0004	1813	02	10	Morning Chronicle	0002
+1813	02	16	Hull Packet	0004	1813	02	13	Caledonian Mercury	0002
+1813	02	17	Aberdeen Journal	0002	1813	02	08	Caledonian Mercury	0004
+1813	02	17	Aberdeen Journal	0003	1813	02	13	Caledonian Mercury	0002
+1813	02	18	Caledonian Mercury	0002	1813	02	15	Morning Chronicle	0002
+1813	02	18	Derby Mercury	0002	1813	02	18	Caledonian Mercury	0002
+1813	02	18	Derby Mercury	0004	1813	02	13	Caledonian Mercury	0002
+1813	02	18	Trewman’s Exeter Flying Post	0002	1813	02	13	Caledonian Mercury	0002
+1813	02	18	Trewman’s Exeter Flying Post	0003	1813	02	01	Morning Chronicle	0002
+1813	02	18	Trewman’s Exeter Flying Post	0003	1813	02	12	Liverpool Mercury	0005
+1813	02	18	Trewman’s Exeter Flying Post	0003	1813	02	13	Caledonian Mercury	0004
+1813	02	18	Trewman’s Exeter Flying Post	0003	1813	02	13	Ipswich Journal	0001
+1813	02	19	Liverpool Mercury	0002	1813	02	13	Caledonian Mercury	0002
+1813	02	19	Liverpool Mercury	0002	1813	02	16	Hull Packet	0004
+1813	02	19	Liverpool Mercury	0003	1813	02	13	Caledonian Mercury	0002
+1813	02	19	Liverpool Mercury	0007	1813	02	15	Caledonian Mercury	0004
+1813	02	20	Caledonian Mercury	0002	1813	02	17	Morning Chronicle	0002
+1813	02	20	Cobbett’s Weekly Political Register	0012	1813	02	06	Morning Chronicle	0002
+1813	02	22	Caledonian Mercury	0001	1813	02	10	Aberdeen Journal	0002
+1813	02	23	Hull Packet	0001	1813	02	20	Caledonian Mercury	0002
+1813	02	23	Hull Packet	0004	1813	02	17	Morning Chronicle	0002
+1813	02	23	Hull Packet	0004	1813	02	20	Caledonian Mercury	0002
+1813	02	25	Caledonian Mercury	0002	1813	02	22	Morning Chronicle	0002
+1813	02	26	Liverpool Mercury	0006	1813	02	22	Morning Chronicle	0002
+1813	02	26	Liverpool Mercury	0006	1813	02	25	Caledonian Mercury	0002
+1813	02	27	Caledonian Mercury	0002	1813	02	24	Morning Chronicle	0003
+1813	02	27	Caledonian Mercury	0002	1813	02	25	Morning Chronicle	0002
+1813	02	28	Examiner	0003	1813	02	25	Caledonian Mercury	0002
+1813	03	01	Caledonian Mercury	0002	1813	02	25	Morning Chronicle	0002
+1813	03	02	Hull Packet	0003	1813	02	27	Morning Chronicle	0003
+1813	03	02	Hull Packet	0004	1813	02	25	Caledonian Mercury	0002
+1813	03	02	Hull Packet	0004	1813	02	26	Liverpool Mercury	0006
+1813	03	04	Trewman’s Exeter Flying Post	0001	1813	02	27	Morning Chronicle	0001
+1813	03	04	Trewman’s Exeter Flying Post	0001	1813	02	27	Morning Chronicle	0003
+1813	03	04	Trewman’s Exeter Flying Post	0002	1813	02	27	Morning Chronicle	0002
+1813	03	05	Liverpool Mercury	0003	1813	02	26	Morning Chronicle	0003
+1813	03	06	Caledonian Mercury	0002	1813	02	27	Morning Chronicle	0002
+1813	03	06	Leeds Mercury	0001	1813	02	26	Morning Chronicle	0001
+1813	03	07	Examiner	0015	1813	02	20	Cobbett’s Weekly Political Register	0013
+1813	03	09	Hull Packet	0004	1813	02	27	Caledonian Mercury	0002
+1813	07	27	Hull Packet	0004	1813	02	08	Caledonian Mercury	0004
+1813	07	27	Hull Packet	0004	1813	02	22	Caledonian Mercury	0001

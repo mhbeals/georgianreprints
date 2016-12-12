@@ -1,0 +1,69 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1810	11	03	Jackson’s Oxford Journal	0004	1810	11	01	Trewman’s Exeter Flying Post	0003
+1810	11	03	Jackson’s Oxford Journal	0004	1810	11	03	Cobbett’s Weekly Political Register	0016
+1810	11	03	Ipswich Journal	0004	1810	11	03	Jackson’s Oxford Journal	0004
+1810	11	05	Caledonian Mercury	0002	1810	11	03	Cobbett’s Weekly Political Register	0010
+1810	11	07	Aberdeen Journal	0002	1810	11	01	Trewman’s Exeter Flying Post	0002
+1810	11	07	Aberdeen Journal	0003	1810	11	01	Derby Mercury	0002
+1810	11	08	Caledonian Mercury	0004	1810	11	07	Cobbett’s Weekly Political Register	0015
+1810	11	08	Trewman’s Exeter Flying Post	0002	1810	11	03	Cobbett’s Weekly Political Register	0011
+1810	11	08	Trewman’s Exeter Flying Post	0002	1810	11	05	Caledonian Mercury	0002
+1810	11	10	Cobbett’s Weekly Political Register	0010	1810	11	08	Morning Chronicle	0003
+1810	11	10	Cobbett’s Weekly Political Register	0011	1810	11	08	Morning Chronicle	0003
+1810	11	10	Jackson’s Oxford Journal	0004	1810	11	05	Morning Chronicle	0003
+1810	11	10	Jackson’s Oxford Journal	0004	1810	11	08	Caledonian Mercury	0002
+1810	11	10	Ipswich Journal	0001	1810	11	08	Trewman’s Exeter Flying Post	0002
+1810	11	10	Ipswich Journal	0001	1810	11	08	Trewman’s Exeter Flying Post	0003
+1810	11	10	Ipswich Journal	0001	1810	11	10	Jackson’s Oxford Journal	0004
+1810	11	11	Examiner	0015	1810	11	08	Morning Chronicle	0003
+1810	11	13	Hull Packet	0001	1810	11	10	Jackson’s Oxford Journal	0004
+1810	11	13	Hull Packet	0003	1810	11	10	Jackson’s Oxford Journal	0003
+1810	11	14	Aberdeen Journal	0003	1810	11	08	Trewman’s Exeter Flying Post	0004
+1810	11	14	Aberdeen Journal	0003	1810	11	10	Jackson’s Oxford Journal	0004
+1810	11	15	Derby Mercury	0001	1810	11	10	Jackson’s Oxford Journal	0003
+1810	11	15	Derby Mercury	0001	1810	11	13	Hull Packet	0003
+1810	11	17	Cobbett’s Weekly Political Register	0011	1810	11	16	Morning Chronicle	0003
+1810	11	17	Jackson’s Oxford Journal	0004	1810	11	13	Hull Packet	0001
+1810	11	17	Ipswich Journal	0002	1810	11	17	Jackson’s Oxford Journal	0002
+1810	11	19	Hampshire/Portsmouth Telegraph	0004	1810	11	17	Jackson’s Oxford Journal	0002
+1810	11	20	Hull Packet	0004	1810	11	17	Jackson’s Oxford Journal	0002
+1810	11	20	Hull Packet	0004	1810	11	17	Ipswich Journal	0002
+1810	11	20	Hull Packet	0004	1810	11	19	Hampshire/Portsmouth Telegraph	0004
+1810	11	21	Aberdeen Journal	0003	1810	11	17	Jackson’s Oxford Journal	0002
+1810	11	21	Aberdeen Journal	0003	1810	11	17	Ipswich Journal	0002
+1810	11	21	Aberdeen Journal	0003	1810	11	20	Hull Packet	0004
+1810	11	22	Trewman’s Exeter Flying Post	0003	1810	11	19	Hampshire/Portsmouth Telegraph	0004
+1810	11	22	Trewman’s Exeter Flying Post	0003	1810	11	20	Hull Packet	0004
+1810	11	22	Trewman’s Exeter Flying Post	0004	1810	11	21	Morning Chronicle	0002
+1810	11	24	Ipswich Journal	0001	1810	11	24	Jackson’s Oxford Journal	0004
+1810	11	24	Ipswich Journal	0004	1810	11	24	Jackson’s Oxford Journal	0004
+1810	11	24	Leeds Mercury	0002	1810	11	10	Jackson’s Oxford Journal	0002
+1810	11	26	Hampshire/Portsmouth Telegraph	0004	1810	11	21	Morning Chronicle	0002
+1810	11	28	Cobbett’s Weekly Political Register	0011	1810	11	27	Morning Chronicle	0002
+1810	11	28	Cobbett’s Weekly Political Register	0014	1810	11	21	Morning Chronicle	0001
+1810	11	28	Cobbett’s Weekly Political Register	0015	1810	11	21	Morning Chronicle	0001
+1810	11	28	Cobbett’s Weekly Political Register	0016	1810	11	21	Morning Chronicle	0002
+1810	11	28	Aberdeen Journal	0002	1810	11	21	Morning Chronicle	0002
+1810	11	28	Aberdeen Journal	0002	1810	11	22	Trewman’s Exeter Flying Post	0004
+1810	11	28	Aberdeen Journal	0002	1810	11	26	Hampshire/Portsmouth Telegraph	0004
+1810	11	29	Trewman’s Exeter Flying Post	0003	1810	11	03	Jackson’s Oxford Journal	0004
+1810	12	01	Jackson’s Oxford Journal	0004	1810	11	26	Morning Chronicle	0001
+1810	12	01	Jackson’s Oxford Journal	0004	1810	11	26	Morning Chronicle	0003
+1810	12	01	Jackson’s Oxford Journal	0004	1810	11	29	Derby Mercury	0002
+1810	12	01	Jackson’s Oxford Journal	0004	1810	11	29	Trewman’s Exeter Flying Post	0003
+1810	12	05	Cobbett’s Weekly Political Register	0016	1810	11	21	Morning Chronicle	0002
+1810	12	05	Cobbett’s Weekly Political Register	0016	1810	11	22	Trewman’s Exeter Flying Post	0004
+1810	12	05	Aberdeen Journal	0002	1810	11	26	Morning Chronicle	0003
+1811	01	05	Jackson’s Oxford Journal	0004	1810	11	01	Trewman’s Exeter Flying Post	0003
+1811	01	05	Jackson’s Oxford Journal	0004	1810	11	29	Trewman’s Exeter Flying Post	0003
+1811	02	02	Jackson’s Oxford Journal	0004	1810	11	29	Trewman’s Exeter Flying Post	0003
+1811	02	21	Trewman’s Exeter Flying Post	0003	1810	11	03	Jackson’s Oxford Journal	0004
+1811	03	02	Jackson’s Oxford Journal	0004	1810	11	29	Trewman’s Exeter Flying Post	0003
+1811	03	21	Trewman’s Exeter Flying Post	0002	1810	11	03	Jackson’s Oxford Journal	0004
+1811	04	06	Jackson’s Oxford Journal	0004	1810	11	29	Trewman’s Exeter Flying Post	0003
+1811	04	06	Ipswich Journal	0004	1810	11	03	Jackson’s Oxford Journal	0004
+1811	04	18	Derby Mercury	0003	1810	11	17	Jackson’s Oxford Journal	0001
+1811	04	27	Leeds Mercury	0004	1810	11	05	Hampshire/Portsmouth Telegraph	0001
+1811	04	27	Leeds Mercury	0004	1810	11	10	Jackson’s Oxford Journal	0003
+1811	04	27	Leeds Mercury	0004	1810	11	13	Hull Packet	0002
+1811	05	04	Jackson’s Oxford Journal	0004	1810	11	29	Trewman’s Exeter Flying Post	0003

@@ -1,0 +1,413 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1832	08	02	Trewman’s Exeter Flying Post	0002	1832	08	01	Derby Mercury	0004
+1832	08	02	Trewman’s Exeter Flying Post	0004	1832	08	01	Freeman’s Journal	0004
+1832	08	03	Freeman’s Journal	0001	1832	08	01	Morning Chronicle	0004
+1832	08	03	Liverpool Mercury	0002	1832	08	01	Derby Mercury	0004
+1832	08	03	Belfast News-Letter	0001	1832	08	01	Freeman’s Journal	0004
+1832	08	03	Morning Chronicle	0004	1832	08	01	Derby Mercury	0002
+1832	08	04	Preston Chronicle	0001	1832	08	01	Derby Mercury	0002
+1832	08	04	Preston Chronicle	0004	1832	08	01	Morning Chronicle	0003
+1832	08	04	Bristol Mercury	0001	1832	08	03	Liverpool Mercury	0002
+1832	08	04	Bristol Mercury	0002	1832	08	02	Morning Chronicle	0002
+1832	08	04	Leeds Mercury	0006	1832	08	03	Liverpool Mercury	0002
+1832	08	04	Leeds Mercury	0008	1832	08	02	Morning Chronicle	0002
+1832	08	04	Manchester Times	0004	1832	08	01	Morning Chronicle	0004
+1832	08	04	Newcastle Courant	0003	1832	08	01	Derby Mercury	0004
+1832	08	04	Poor Man’s Guardian	0006	1832	08	01	Morning Chronicle	0002
+1832	08	05	Examiner	0006	1832	08	01	Morning Chronicle	0001
+1832	08	05	Examiner	0007	1832	08	04	Morning Chronicle	0001
+1832	08	05	Examiner	0008	1832	08	02	Morning Chronicle	0003
+1832	08	05	Examiner	0009	1832	08	04	Morning Chronicle	0003
+1832	08	05	Examiner	0012	1832	08	02	Morning Chronicle	0004
+1832	08	05	Examiner	0013	1832	08	04	Morning Chronicle	0003
+1832	08	06	Caledonian Mercury	0001	1832	08	02	Morning Chronicle	0002
+1832	08	06	Caledonian Mercury	0002	1832	08	03	Morning Chronicle	0002
+1832	08	06	Morning Chronicle	0002	1832	08	02	Caledonian Mercury	0004
+1832	08	06	Morning Chronicle	0003	1832	08	04	Leeds Mercury	0004
+1832	08	06	Morning Chronicle	0004	1832	08	04	Freeman’s Journal	0003
+1832	08	07	Freeman’s Journal	0002	1832	08	02	Morning Chronicle	0002
+1832	08	07	Freeman’s Journal	0003	1832	08	02	Morning Chronicle	0003
+1832	08	07	Freeman’s Journal	0004	1832	08	03	Morning Chronicle	0002
+1832	08	07	North Wales Chronicle	0002	1832	08	03	Liverpool Mercury	0002
+1832	08	07	North Wales Chronicle	0003	1832	08	04	Bristol Mercury	0003
+1832	08	07	Belfast News-Letter	0001	1832	08	04	Caledonian Mercury	0004
+1832	08	07	Belfast News-Letter	0002	1832	08	01	Morning Chronicle	0004
+1832	08	07	Belfast News-Letter	0004	1832	08	06	Caledonian Mercury	0001
+1832	08	07	Hull Packet	0001	1832	08	01	Freeman’s Journal	0004
+1832	08	07	Hull Packet	0004	1832	08	06	Morning Chronicle	0004
+1832	08	08	Freeman’s Journal	0002	1832	08	06	Morning Chronicle	0004
+1832	08	08	Freeman’s Journal	0004	1832	08	05	Examiner	0003
+1832	08	08	Aberdeen Journal	0004	1832	08	03	Belfast News-Letter	0002
+1832	08	08	Derby Mercury	0004	1832	08	03	Morning Chronicle	0003
+1832	08	09	Caledonian Mercury	0001	1832	08	07	Morning Chronicle	0004
+1832	08	09	Caledonian Mercury	0002	1832	08	02	Morning Chronicle	0001
+1832	08	09	Caledonian Mercury	0004	1832	08	01	Morning Chronicle	0002
+1832	08	10	Freeman’s Journal	0001	1832	08	08	Morning Chronicle	0004
+1832	08	10	Liverpool Mercury	0002	1832	08	05	Examiner	0006
+1832	08	10	Liverpool Mercury	0005	1832	08	05	Examiner	0015
+1832	08	10	Liverpool Mercury	0006	1832	08	04	Preston Chronicle	0004
+1832	08	10	Belfast News-Letter	0001	1832	08	04	Morning Chronicle	0003
+1832	08	10	Belfast News-Letter	0002	1832	08	07	Morning Chronicle	0004
+1832	08	10	Morning Chronicle	0003	1832	08	01	Derby Mercury	0002
+1832	08	11	Cobbett’s Weekly Political Register	0010	1832	08	04	Preston Chronicle	0002
+1832	08	11	Cobbett’s Weekly Political Register	0015	1832	08	02	Morning Chronicle	0002
+1832	08	11	Freeman’s Journal	0002	1832	08	09	Morning Chronicle	0001
+1832	08	11	Preston Chronicle	0001	1832	08	03	Morning Chronicle	0002
+1832	08	11	Preston Chronicle	0003	1832	08	10	Liverpool Mercury	0007
+1832	08	11	Preston Chronicle	0004	1832	08	04	Morning Chronicle	0003
+1832	08	11	Bristol Mercury	0001	1832	08	06	Morning Chronicle	0002
+1832	08	11	Leeds Mercury	0008	1832	08	10	Liverpool Mercury	0002
+1832	08	11	Poor Man’s Guardian	0001	1832	08	07	Morning Chronicle	0003
+1832	08	11	Poor Man’s Guardian	0003	1832	08	08	Morning Chronicle	0003
+1832	08	11	Poor Man’s Guardian	0004	1832	08	08	Morning Chronicle	0003
+1832	08	12	Examiner	0001	1832	08	08	Morning Chronicle	0002
+1832	08	12	Examiner	0005	1832	08	08	Morning Chronicle	0001
+1832	08	12	Examiner	0006	1832	08	08	Morning Chronicle	0001
+1832	08	12	Examiner	0007	1832	08	11	Morning Chronicle	0001
+1832	08	12	Examiner	0008	1832	08	07	Morning Chronicle	0002
+1832	08	12	Examiner	0009	1832	08	11	Morning Chronicle	0004
+1832	08	12	Examiner	0012	1832	08	08	Morning Chronicle	0004
+1832	08	12	Examiner	0016	1832	08	04	Newcastle Courant	0003
+1832	08	13	Caledonian Mercury	0001	1832	08	09	Morning Chronicle	0001
+1832	08	13	Caledonian Mercury	0002	1832	08	10	Morning Chronicle	0003
+1832	08	13	Caledonian Mercury	0004	1832	08	09	Morning Chronicle	0001
+1832	08	13	Freeman’s Journal	0001	1832	08	10	Morning Chronicle	0001
+1832	08	13	Morning Chronicle	0002	1832	08	11	Leeds Mercury	0004
+1832	08	14	Freeman’s Journal	0003	1832	08	11	Morning Chronicle	0001
+1832	08	14	Freeman’s Journal	0004	1832	08	12	Examiner	0002
+1832	08	14	North Wales Chronicle	0003	1832	08	10	Liverpool Mercury	0007
+1832	08	14	North Wales Chronicle	0004	1832	08	05	Examiner	0013
+1832	08	14	Belfast News-Letter	0001	1832	08	10	Morning Chronicle	0001
+1832	08	14	Belfast News-Letter	0002	1832	08	11	Morning Chronicle	0001
+1832	08	14	Belfast News-Letter	0004	1832	08	08	Morning Chronicle	0004
+1832	08	14	Hull Packet	0001	1832	08	08	Derby Mercury	0002
+1832	08	14	Hull Packet	0002	1832	08	06	Morning Chronicle	0003
+1832	08	14	Hull Packet	0004	1832	08	02	Morning Chronicle	0004
+1832	08	14	Morning Chronicle	0001	1832	08	11	Caledonian Mercury	0003
+1832	08	15	Freeman’s Journal	0002	1832	08	12	Examiner	0011
+1832	08	15	Derby Mercury	0001	1832	08	10	Morning Chronicle	0004
+1832	08	15	Derby Mercury	0004	1832	08	14	Hull Packet	0004
+1832	08	15	Morning Chronicle	0001	1832	08	13	Freeman’s Journal	0002
+1832	08	16	Caledonian Mercury	0002	1832	08	11	Morning Chronicle	0002
+1832	08	16	Freeman’s Journal	0003	1832	08	13	Morning Chronicle	0003
+1832	08	16	Freeman’s Journal	0004	1832	08	13	Morning Chronicle	0002
+1832	08	16	Morning Chronicle	0003	1832	08	01	Derby Mercury	0002
+1832	08	17	Freeman’s Journal	0004	1832	08	14	Morning Chronicle	0003
+1832	08	17	Liverpool Mercury	0002	1832	08	15	Derby Mercury	0004
+1832	08	17	Liverpool Mercury	0003	1832	08	14	Belfast News-Letter	0004
+1832	08	17	Belfast News-Letter	0001	1832	08	15	Morning Chronicle	0001
+1832	08	17	Belfast News-Letter	0002	1832	08	14	Freeman’s Journal	0002
+1832	08	17	Morning Chronicle	0001	1832	08	13	Caledonian Mercury	0003
+1832	08	18	Caledonian Mercury	0002	1832	08	15	Morning Chronicle	0002
+1832	08	18	Caledonian Mercury	0004	1832	08	15	Morning Chronicle	0001
+1832	08	18	Cobbett’s Weekly Political Register	0004	1832	08	10	Morning Chronicle	0001
+1832	08	18	Cobbett’s Weekly Political Register	0005	1832	08	08	Morning Chronicle	0002
+1832	08	18	Cobbett’s Weekly Political Register	0007	1832	08	16	Morning Chronicle	0002
+1832	08	18	Cobbett’s Weekly Political Register	0008	1832	08	16	Morning Chronicle	0002
+1832	08	18	Cobbett’s Weekly Political Register	0009	1832	08	16	Morning Chronicle	0002
+1832	08	18	Cobbett’s Weekly Political Register	0012	1832	08	17	Morning Chronicle	0002
+1832	08	18	Cobbett’s Weekly Political Register	0021	1832	08	14	Morning Chronicle	0003
+1832	08	18	Cobbett’s Weekly Political Register	0022	1832	08	14	Morning Chronicle	0003
+1832	08	18	Cobbett’s Weekly Political Register	0023	1832	08	14	Morning Chronicle	0003
+1832	08	18	Cobbett’s Weekly Political Register	0024	1832	08	14	Morning Chronicle	0003
+1832	08	18	Cobbett’s Weekly Political Register	0025	1832	08	15	Morning Chronicle	0002
+1832	08	18	Cobbett’s Weekly Political Register	0029	1832	08	13	Morning Chronicle	0002
+1832	08	18	Cobbett’s Weekly Political Register	0030	1832	08	13	Morning Chronicle	0002
+1832	08	18	Freeman’s Journal	0002	1832	08	15	Morning Chronicle	0001
+1832	08	18	Preston Chronicle	0002	1832	08	17	Liverpool Mercury	0007
+1832	08	18	Preston Chronicle	0003	1832	08	17	Liverpool Mercury	0006
+1832	08	18	Preston Chronicle	0004	1832	08	13	Morning Chronicle	0004
+1832	08	18	Bristol Mercury	0002	1832	08	17	Morning Chronicle	0002
+1832	08	18	Leeds Mercury	0004	1832	08	17	Liverpool Mercury	0002
+1832	08	18	Morning Chronicle	0004	1832	08	15	Freeman’s Journal	0001
+1832	08	19	Examiner	0002	1832	08	17	Morning Chronicle	0001
+1832	08	19	Examiner	0003	1832	08	15	Morning Chronicle	0004
+1832	08	19	Examiner	0006	1832	08	14	Morning Chronicle	0002
+1832	08	19	Examiner	0007	1832	08	16	Morning Chronicle	0002
+1832	08	19	Examiner	0008	1832	08	14	Morning Chronicle	0003
+1832	08	19	Examiner	0009	1832	08	18	Morning Chronicle	0002
+1832	08	19	Examiner	0010	1832	08	15	Morning Chronicle	0001
+1832	08	19	Examiner	0011	1832	08	14	Hull Packet	0004
+1832	08	19	Examiner	0012	1832	08	14	Hull Packet	0004
+1832	08	19	Examiner	0013	1832	08	15	Morning Chronicle	0003
+1832	08	20	Caledonian Mercury	0001	1832	08	19	Examiner	0007
+1832	08	20	Caledonian Mercury	0004	1832	08	17	Morning Chronicle	0001
+1832	08	20	Freeman’s Journal	0003	1832	08	17	Morning Chronicle	0002
+1832	08	20	Freeman’s Journal	0004	1832	08	17	Morning Chronicle	0001
+1832	08	20	Hampshire/Portsmouth Telegraph	0001	1832	08	14	Morning Chronicle	0001
+1832	08	20	Hampshire/Portsmouth Telegraph	0002	1832	08	15	Morning Chronicle	0004
+1832	08	20	Morning Chronicle	0002	1832	08	18	Leeds Mercury	0005
+1832	08	20	Morning Chronicle	0003	1832	08	16	Caledonian Mercury	0004
+1832	08	20	Morning Chronicle	0004	1832	08	17	Belfast News-Letter	0004
+1832	08	21	Freeman’s Journal	0002	1832	08	19	Examiner	0002
+1832	08	21	Freeman’s Journal	0003	1832	08	17	Morning Chronicle	0002
+1832	08	21	Freeman’s Journal	0004	1832	08	15	Morning Chronicle	0004
+1832	08	21	North Wales Chronicle	0001	1832	08	15	Derby Mercury	0004
+1832	08	21	North Wales Chronicle	0002	1832	08	20	Freeman’s Journal	0003
+1832	08	21	Belfast News-Letter	0001	1832	08	18	Preston Chronicle	0002
+1832	08	21	Belfast News-Letter	0004	1832	08	17	Freeman’s Journal	0001
+1832	08	21	Hull Packet	0002	1832	08	18	Preston Chronicle	0002
+1832	08	21	Hull Packet	0003	1832	08	15	Morning Chronicle	0003
+1832	08	21	Hull Packet	0004	1832	08	15	Morning Chronicle	0001
+1832	08	21	Morning Chronicle	0001	1832	08	18	Freeman’s Journal	0003
+1832	08	21	Morning Chronicle	0003	1832	08	18	Freeman’s Journal	0004
+1832	08	22	Aberdeen Journal	0002	1832	08	19	Examiner	0007
+1832	08	22	Derby Mercury	0001	1832	08	18	Leeds Mercury	0003
+1832	08	22	Derby Mercury	0002	1832	08	20	Freeman’s Journal	0003
+1832	08	22	Morning Chronicle	0001	1832	08	17	Liverpool Mercury	0006
+1832	08	22	Morning Chronicle	0002	1832	08	18	Cobbett’s Weekly Political Register	0008
+1832	08	22	Morning Chronicle	0004	1832	08	17	Belfast News-Letter	0002
+1832	08	23	Caledonian Mercury	0001	1832	08	18	Morning Chronicle	0002
+1832	08	23	Freeman’s Journal	0002	1832	08	21	Morning Chronicle	0004
+1832	08	24	Liverpool Mercury	0002	1832	08	21	Hull Packet	0002
+1832	08	24	Liverpool Mercury	0008	1832	08	18	Morning Chronicle	0001
+1832	08	24	Belfast News-Letter	0001	1832	08	15	Morning Chronicle	0003
+1832	08	24	Belfast News-Letter	0002	1832	08	22	Morning Chronicle	0001
+1832	08	24	Morning Chronicle	0003	1832	08	18	Cobbett’s Weekly Political Register	0014
+1832	08	24	Morning Chronicle	0004	1832	08	01	Derby Mercury	0002
+1832	08	25	Caledonian Mercury	0002	1832	08	21	Morning Chronicle	0004
+1832	08	25	Caledonian Mercury	0004	1832	08	18	Morning Chronicle	0004
+1832	08	25	Cobbett’s Weekly Political Register	0020	1832	08	18	Freeman’s Journal	0003
+1832	08	25	Cobbett’s Weekly Political Register	0021	1832	08	21	Morning Chronicle	0001
+1832	08	25	Cobbett’s Weekly Political Register	0022	1832	08	18	Freeman’s Journal	0003
+1832	08	25	Cobbett’s Weekly Political Register	0023	1832	08	22	Morning Chronicle	0002
+1832	08	25	Cobbett’s Weekly Political Register	0024	1832	08	22	Morning Chronicle	0002
+1832	08	25	Cobbett’s Weekly Political Register	0025	1832	08	22	Morning Chronicle	0002
+1832	08	25	Cobbett’s Weekly Political Register	0026	1832	08	22	Morning Chronicle	0002
+1832	08	25	Cobbett’s Weekly Political Register	0027	1832	08	22	Morning Chronicle	0002
+1832	08	25	Freeman’s Journal	0002	1832	08	24	Belfast News-Letter	0001
+1832	08	25	Freeman’s Journal	0003	1832	08	22	Morning Chronicle	0004
+1832	08	25	Preston Chronicle	0002	1832	08	23	Morning Chronicle	0003
+1832	08	25	Preston Chronicle	0004	1832	08	22	Morning Chronicle	0004
+1832	08	25	Bristol Mercury	0001	1832	08	21	Morning Chronicle	0003
+1832	08	25	Bristol Mercury	0002	1832	08	23	Morning Chronicle	0003
+1832	08	25	Bristol Mercury	0004	1832	08	21	Morning Chronicle	0003
+1832	08	25	Manchester Times	0004	1832	08	19	Examiner	0001
+1832	08	25	Poor Man’s Guardian	0004	1832	08	21	Morning Chronicle	0003
+1832	08	25	Poor Man’s Guardian	0007	1832	08	22	Morning Chronicle	0004
+1832	08	26	Examiner	0007	1832	08	23	Morning Chronicle	0001
+1832	08	26	Examiner	0012	1832	08	20	Morning Chronicle	0003
+1832	08	26	Examiner	0013	1832	08	24	Morning Chronicle	0004
+1832	08	26	Examiner	0016	1832	08	21	Hull Packet	0001
+1832	08	27	Caledonian Mercury	0001	1832	08	22	Morning Chronicle	0002
+1832	08	27	Caledonian Mercury	0002	1832	08	24	Morning Chronicle	0004
+1832	08	27	Caledonian Mercury	0004	1832	08	07	Belfast News-Letter	0002
+1832	08	27	Freeman’s Journal	0002	1832	08	25	Morning Chronicle	0004
+1832	08	27	Freeman’s Journal	0003	1832	08	25	Cobbett’s Weekly Political Register	0019
+1832	08	27	Hampshire/Portsmouth Telegraph	0001	1832	08	25	Bristol Mercury	0001
+1832	08	27	Hampshire/Portsmouth Telegraph	0002	1832	08	23	Morning Chronicle	0004
+1832	08	27	Morning Chronicle	0003	1832	08	23	Freeman’s Journal	0003
+1832	08	27	Morning Chronicle	0004	1832	08	26	Examiner	0008
+1832	08	28	Freeman’s Journal	0002	1832	08	27	Morning Chronicle	0002
+1832	08	28	North Wales Chronicle	0001	1832	08	21	Hull Packet	0001
+1832	08	28	Belfast News-Letter	0002	1832	08	24	Morning Chronicle	0004
+1832	08	28	Belfast News-Letter	0004	1832	08	22	Morning Chronicle	0004
+1832	08	28	Hull Packet	0001	1832	08	27	Freeman’s Journal	0004
+1832	08	28	Hull Packet	0002	1832	08	19	Examiner	0012
+1832	08	28	Hull Packet	0003	1832	08	24	Liverpool Mercury	0003
+1832	08	28	Hull Packet	0004	1832	08	17	Liverpool Mercury	0008
+1832	08	28	Morning Chronicle	0001	1832	08	25	Caledonian Mercury	0004
+1832	08	28	Morning Chronicle	0004	1832	08	25	Freeman’s Journal	0003
+1832	08	29	Freeman’s Journal	0003	1832	08	28	Belfast News-Letter	0001
+1832	08	29	Freeman’s Journal	0004	1832	08	25	Morning Chronicle	0004
+1832	08	29	Aberdeen Journal	0002	1832	08	21	Morning Chronicle	0004
+1832	08	29	Aberdeen Journal	0004	1832	08	15	Morning Chronicle	0003
+1832	08	29	Derby Mercury	0001	1832	08	18	Leeds Mercury	0003
+1832	08	29	Derby Mercury	0002	1832	08	26	Examiner	0013
+1832	08	29	Derby Mercury	0003	1832	08	28	Hull Packet	0002
+1832	08	29	Derby Mercury	0004	1832	08	27	Freeman’s Journal	0004
+1832	08	30	Caledonian Mercury	0001	1832	08	26	Examiner	0001
+1832	08	30	Caledonian Mercury	0002	1832	08	29	Morning Chronicle	0004
+1832	08	30	Caledonian Mercury	0004	1832	08	27	Morning Chronicle	0002
+1832	08	30	Freeman’s Journal	0001	1832	08	26	Examiner	0002
+1832	08	30	Freeman’s Journal	0002	1832	08	29	Morning Chronicle	0004
+1832	08	30	Morning Chronicle	0003	1832	08	04	Leeds Mercury	0008
+1832	08	31	Freeman’s Journal	0002	1832	08	29	Morning Chronicle	0004
+1832	08	31	Liverpool Mercury	0002	1832	08	27	Morning Chronicle	0004
+1832	08	31	Liverpool Mercury	0003	1832	08	11	Preston Chronicle	0003
+1832	08	31	Liverpool Mercury	0008	1832	08	24	Morning Chronicle	0003
+1832	08	31	Belfast News-Letter	0001	1832	08	23	Morning Chronicle	0002
+1832	08	31	Belfast News-Letter	0004	1832	08	24	Morning Chronicle	0004
+1832	08	31	Morning Chronicle	0004	1832	08	28	Freeman’s Journal	0002
+1832	09	01	Caledonian Mercury	0002	1832	08	30	Morning Chronicle	0004
+1832	09	01	Caledonian Mercury	0004	1832	08	29	Morning Chronicle	0003
+1832	09	01	Cobbett’s Weekly Political Register	0008	1832	08	10	Morning Chronicle	0001
+1832	09	01	Cobbett’s Weekly Political Register	0009	1832	08	13	Morning Chronicle	0002
+1832	09	01	Cobbett’s Weekly Political Register	0010	1832	08	13	Morning Chronicle	0002
+1832	09	01	Cobbett’s Weekly Political Register	0011	1832	08	13	Morning Chronicle	0002
+1832	09	01	Cobbett’s Weekly Political Register	0012	1832	08	13	Morning Chronicle	0002
+1832	09	01	Preston Chronicle	0001	1832	08	21	Hull Packet	0001
+1832	09	01	Preston Chronicle	0002	1832	08	28	Morning Chronicle	0001
+1832	09	01	Preston Chronicle	0003	1832	08	10	Liverpool Mercury	0007
+1832	09	01	Preston Chronicle	0004	1832	08	25	Morning Chronicle	0004
+1832	09	01	Bristol Mercury	0001	1832	08	29	Derby Mercury	0003
+1832	09	01	Bristol Mercury	0002	1832	08	21	North Wales Chronicle	0001
+1832	09	01	Bristol Mercury	0004	1832	08	24	Morning Chronicle	0004
+1832	09	01	Manchester Times	0004	1832	08	28	Morning Chronicle	0003
+1832	09	01	Morning Chronicle	0001	1832	08	29	Freeman’s Journal	0003
+1832	09	01	Morning Chronicle	0002	1832	08	29	Freeman’s Journal	0004
+1832	09	01	Morning Chronicle	0004	1832	08	29	Freeman’s Journal	0003
+1832	09	01	Newcastle Courant	0002	1832	08	29	Derby Mercury	0004
+1832	09	01	Poor Man’s Guardian	0004	1832	08	30	Morning Chronicle	0003
+1832	09	01	Poor Man’s Guardian	0007	1832	08	13	Morning Chronicle	0003
+1832	09	02	Examiner	0004	1832	08	29	Morning Chronicle	0001
+1832	09	02	Examiner	0009	1832	08	29	Morning Chronicle	0004
+1832	09	02	Examiner	0012	1832	08	30	Morning Chronicle	0004
+1832	09	02	Examiner	0013	1832	08	27	Morning Chronicle	0004
+1832	09	02	Examiner	0015	1832	08	31	Morning Chronicle	0001
+1832	09	03	Caledonian Mercury	0001	1832	08	27	Morning Chronicle	0002
+1832	09	03	Caledonian Mercury	0002	1832	08	30	Morning Chronicle	0003
+1832	09	03	Caledonian Mercury	0004	1832	08	24	Morning Chronicle	0001
+1832	09	03	Freeman’s Journal	0002	1832	08	31	Morning Chronicle	0004
+1832	09	03	Hampshire/Portsmouth Telegraph	0002	1832	08	31	Morning Chronicle	0004
+1832	09	03	Morning Chronicle	0001	1832	08	30	Freeman’s Journal	0003
+1832	09	04	Freeman’s Journal	0003	1832	08	24	Morning Chronicle	0004
+1832	09	04	North Wales Chronicle	0001	1832	08	22	Derby Mercury	0001
+1832	09	04	North Wales Chronicle	0004	1832	08	26	Examiner	0013
+1832	09	04	Belfast News-Letter	0001	1832	08	31	Morning Chronicle	0003
+1832	09	04	Belfast News-Letter	0004	1832	08	30	Morning Chronicle	0004
+1832	09	04	Hull Packet	0001	1832	08	22	Derby Mercury	0001
+1832	09	04	Hull Packet	0002	1832	08	22	Morning Chronicle	0001
+1832	09	04	Hull Packet	0004	1832	08	21	Belfast News-Letter	0002
+1832	09	04	Morning Chronicle	0004	1832	08	31	Belfast News-Letter	0002
+1832	09	05	Aberdeen Journal	0004	1832	08	30	Caledonian Mercury	0002
+1832	09	05	Derby Mercury	0001	1832	08	28	Morning Chronicle	0004
+1832	09	05	Derby Mercury	0003	1832	08	30	Morning Chronicle	0004
+1832	09	05	Derby Mercury	0004	1832	08	21	Hull Packet	0001
+1832	09	05	Morning Chronicle	0003	1832	08	03	Belfast News-Letter	0004
+1832	09	05	Morning Chronicle	0004	1832	08	30	Caledonian Mercury	0004
+1832	09	06	Trewman’s Exeter Flying Post	0002	1832	08	13	Morning Chronicle	0002
+1832	09	07	Liverpool Mercury	0002	1832	08	29	Morning Chronicle	0004
+1832	09	07	Belfast News-Letter	0004	1832	08	24	Morning Chronicle	0004
+1832	09	08	Cobbett’s Weekly Political Register	0003	1832	08	03	Belfast News-Letter	0001
+1832	09	08	Cobbett’s Weekly Political Register	0004	1832	08	03	Belfast News-Letter	0001
+1832	09	08	Cobbett’s Weekly Political Register	0005	1832	08	03	Belfast News-Letter	0001
+1832	09	08	Preston Chronicle	0001	1832	08	28	Hull Packet	0001
+1832	09	08	Preston Chronicle	0004	1832	08	31	Morning Chronicle	0003
+1832	09	08	Bristol Mercury	0001	1832	08	29	Derby Mercury	0002
+1832	09	08	Bristol Mercury	0002	1832	08	22	Derby Mercury	0001
+1832	09	08	Bristol Mercury	0003	1832	08	31	Liverpool Mercury	0003
+1832	09	08	Bristol Mercury	0004	1832	08	28	Belfast News-Letter	0001
+1832	09	08	Newcastle Courant	0001	1832	08	01	Morning Chronicle	0004
+1832	09	08	Newcastle Courant	0003	1832	08	11	Morning Chronicle	0001
+1832	09	08	Poor Man’s Guardian	0001	1832	08	19	Examiner	0005
+1832	09	08	Poor Man’s Guardian	0002	1832	08	19	Examiner	0005
+1832	09	09	Examiner	0014	1832	08	31	Belfast News-Letter	0004
+1832	09	09	Examiner	0015	1832	08	04	Newcastle Courant	0003
+1832	09	09	Examiner	0016	1832	08	21	Hull Packet	0001
+1832	09	10	Morning Chronicle	0003	1832	08	31	Belfast News-Letter	0004
+1832	09	11	North Wales Chronicle	0001	1832	08	28	Hull Packet	0001
+1832	09	11	Hull Packet	0001	1832	08	25	Bristol Mercury	0002
+1832	09	11	Hull Packet	0004	1832	08	10	Belfast News-Letter	0004
+1832	09	12	Aberdeen Journal	0004	1832	08	19	Examiner	0004
+1832	09	12	Derby Mercury	0001	1832	08	21	Hull Packet	0001
+1832	09	14	Liverpool Mercury	0002	1832	08	21	Morning Chronicle	0004
+1832	09	14	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1832	09	14	Belfast News-Letter	0004	1832	08	25	Caledonian Mercury	0002
+1832	09	15	Bristol Mercury	0001	1832	08	24	Belfast News-Letter	0003
+1832	09	15	Bristol Mercury	0002	1832	08	21	Hull Packet	0001
+1832	09	15	Leeds Mercury	0006	1832	08	22	Derby Mercury	0001
+1832	09	15	Newcastle Courant	0003	1832	08	21	Hull Packet	0001
+1832	09	16	Examiner	0010	1832	08	08	Morning Chronicle	0004
+1832	09	16	Examiner	0016	1832	08	21	Hull Packet	0001
+1832	09	17	Caledonian Mercury	0001	1832	08	18	Bristol Mercury	0001
+1832	09	18	North Wales Chronicle	0001	1832	08	21	Hull Packet	0001
+1832	09	18	Hull Packet	0001	1832	08	21	North Wales Chronicle	0001
+1832	09	18	Hull Packet	0004	1832	08	31	Belfast News-Letter	0002
+1832	09	19	Derby Mercury	0001	1832	08	28	Hull Packet	0001
+1832	09	21	Liverpool Mercury	0007	1832	08	31	Belfast News-Letter	0004
+1832	09	22	Caledonian Mercury	0002	1832	08	31	Belfast News-Letter	0004
+1832	09	22	Caledonian Mercury	0004	1832	08	07	North Wales Chronicle	0004
+1832	09	22	Preston Chronicle	0001	1832	08	21	Hull Packet	0001
+1832	09	22	Preston Chronicle	0003	1832	08	10	Liverpool Mercury	0007
+1832	09	22	Bristol Mercury	0001	1832	08	29	Derby Mercury	0002
+1832	09	22	Bristol Mercury	0002	1832	08	28	Hull Packet	0001
+1832	09	22	Newcastle Courant	0003	1832	08	11	Morning Chronicle	0001
+1832	09	23	Examiner	0005	1832	08	17	Morning Chronicle	0003
+1832	09	24	Hampshire/Portsmouth Telegraph	0001	1832	08	17	Belfast News-Letter	0004
+1832	09	25	Hull Packet	0001	1832	08	22	Derby Mercury	0001
+1832	09	26	Derby Mercury	0001	1832	08	28	Hull Packet	0001
+1832	09	26	Derby Mercury	0002	1832	08	14	Hull Packet	0001
+1832	09	28	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1832	09	28	Belfast News-Letter	0001	1832	08	24	Liverpool Mercury	0003
+1832	09	29	Preston Chronicle	0001	1832	08	28	Hull Packet	0001
+1832	09	29	Bristol Mercury	0001	1832	08	22	Derby Mercury	0001
+1832	09	29	Leeds Mercury	0006	1832	08	17	Liverpool Mercury	0003
+1832	09	29	Newcastle Courant	0003	1832	08	22	Derby Mercury	0001
+1832	09	30	Examiner	0016	1832	08	21	Hull Packet	0001
+1832	10	01	Hampshire/Portsmouth Telegraph	0002	1832	08	21	Hull Packet	0001
+1832	10	02	North Wales Chronicle	0001	1832	08	21	Hull Packet	0001
+1832	10	05	Liverpool Mercury	0007	1832	08	18	Preston Chronicle	0003
+1832	10	05	Belfast News-Letter	0004	1832	08	10	Morning Chronicle	0003
+1832	10	06	Preston Chronicle	0001	1832	08	14	Hull Packet	0001
+1832	10	06	Preston Chronicle	0003	1832	08	10	Liverpool Mercury	0007
+1832	10	06	Leeds Mercury	0006	1832	08	03	Liverpool Mercury	0007
+1832	10	12	Liverpool Mercury	0001	1832	08	01	Derby Mercury	0002
+1832	10	12	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1832	10	13	Manchester Times	0001	1832	08	14	Hull Packet	0001
+1832	10	13	Poor Man’s Guardian	0007	1832	08	20	Morning Chronicle	0004
+1832	10	16	Hull Packet	0001	1832	08	04	Newcastle Courant	0003
+1832	10	19	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1832	10	19	Belfast News-Letter	0004	1832	08	24	Liverpool Mercury	0003
+1832	10	20	Leeds Mercury	0006	1832	08	17	Liverpool Mercury	0003
+1832	10	24	Derby Mercury	0001	1832	08	03	Liverpool Mercury	0003
+1832	10	26	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1832	10	26	Belfast News-Letter	0004	1832	08	10	Morning Chronicle	0003
+1832	10	27	Preston Chronicle	0003	1832	08	10	Liverpool Mercury	0007
+1832	10	27	Leeds Mercury	0006	1832	08	17	Liverpool Mercury	0003
+1832	10	30	Hull Packet	0001	1832	08	29	Derby Mercury	0002
+1832	11	02	Liverpool Mercury	0003	1832	08	04	Newcastle Courant	0003
+1832	11	02	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1832	11	02	Belfast News-Letter	0004	1832	08	10	Morning Chronicle	0003
+1832	11	03	Preston Chronicle	0003	1832	08	17	Liverpool Mercury	0003
+1832	11	06	Freeman’s Journal	0004	1832	08	27	Morning Chronicle	0004
+1832	11	09	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1832	11	10	Preston Chronicle	0003	1832	08	03	Liverpool Mercury	0007
+1832	11	12	Hampshire/Portsmouth Telegraph	0002	1832	08	01	Derby Mercury	0002
+1832	11	13	Hull Packet	0001	1832	08	29	Derby Mercury	0002
+1832	11	16	Liverpool Mercury	0003	1832	08	11	Preston Chronicle	0003
+1832	11	16	Belfast News-Letter	0004	1832	08	10	Morning Chronicle	0003
+1832	11	23	Liverpool Mercury	0003	1832	08	11	Preston Chronicle	0003
+1832	11	23	Belfast News-Letter	0004	1832	08	24	Liverpool Mercury	0003
+1832	11	30	Liverpool Mercury	0007	1832	08	31	Belfast News-Letter	0004
+1832	11	30	Belfast News-Letter	0004	1832	08	15	Morning Chronicle	0003
+1832	12	01	Preston Chronicle	0003	1832	08	10	Liverpool Mercury	0007
+1832	12	07	Liverpool Mercury	0003	1832	08	11	Preston Chronicle	0003
+1832	12	07	Belfast News-Letter	0004	1832	08	10	Morning Chronicle	0003
+1832	12	08	Preston Chronicle	0003	1832	08	10	Liverpool Mercury	0007
+1832	12	14	Liverpool Mercury	0003	1832	08	11	Preston Chronicle	0003
+1832	12	14	Belfast News-Letter	0004	1832	08	16	Morning Chronicle	0003
+1832	12	15	Manchester Times	0001	1832	08	22	Derby Mercury	0002
+1832	12	21	Liverpool Mercury	0003	1832	08	11	Preston Chronicle	0003
+1832	12	22	Bristol Mercury	0002	1832	08	03	Liverpool Mercury	0005
+1832	12	28	Liverpool Mercury	0007	1832	08	31	Belfast News-Letter	0004
+1832	12	28	Belfast News-Letter	0004	1832	08	03	Liverpool Mercury	0007
+1832	12	29	Bristol Mercury	0002	1832	08	08	Derby Mercury	0004
+1832	12	29	Poor Man’s Guardian	0006	1832	08	27	Freeman’s Journal	0003
+1833	01	04	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1833	01	05	Preston Chronicle	0003	1832	08	03	Liverpool Mercury	0007
+1833	01	10	Freeman’s Journal	0004	1832	08	14	Belfast News-Letter	0001
+1833	01	11	Liverpool Mercury	0007	1832	08	17	Belfast News-Letter	0004
+1833	01	12	Newcastle Courant	0002	1832	08	14	Belfast News-Letter	0001
+1833	01	18	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1833	01	24	Caledonian Mercury	0001	1832	08	24	Morning Chronicle	0004
+1833	01	25	Hull Packet	0001	1832	08	14	Hull Packet	0001
+1833	01	25	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1833	01	25	Belfast News-Letter	0004	1832	08	10	Liverpool Mercury	0007
+1833	02	01	Hull Packet	0001	1832	08	28	Hull Packet	0001
+1833	02	01	Liverpool Mercury	0007	1832	08	17	Belfast News-Letter	0004
+1833	02	08	Liverpool Mercury	0007	1832	08	18	Preston Chronicle	0003
+1833	02	15	Hull Packet	0001	1832	08	15	Derby Mercury	0001
+1833	02	15	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1833	02	15	Belfast News-Letter	0004	1832	08	10	Morning Chronicle	0003
+1833	02	16	Manchester Times	0001	1832	08	17	Liverpool Mercury	0001
+1833	02	22	Hull Packet	0001	1832	08	08	Derby Mercury	0004
+1833	02	22	Liverpool Mercury	0007	1832	08	11	Preston Chronicle	0003
+1833	02	23	Bristol Mercury	0002	1832	08	10	Liverpool Mercury	0001
+1833	02	23	Leeds Mercury	0003	1832	08	17	Liverpool Mercury	0003
+1833	02	28	Morning Chronicle	0004	1832	08	14	Belfast News-Letter	0001
+1833	03	01	Liverpool Mercury	0007	1832	08	17	Belfast News-Letter	0004
+1833	03	02	Preston Chronicle	0004	1832	08	17	Liverpool Mercury	0003
+1833	03	08	Liverpool Mercury	0007	1832	08	31	Belfast News-Letter	0004
+1833	03	08	Belfast News-Letter	0004	1832	08	24	Liverpool Mercury	0003
+1833	03	09	Newcastle Courant	0003	1832	08	29	Derby Mercury	0002

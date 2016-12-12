@@ -1,0 +1,173 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1828	05	02	Liverpool Mercury	0006	1828	05	01	North Wales Chronicle	0004
+1828	05	03	Ipswich Journal	0001	1828	05	01	North Wales Chronicle	0003
+1828	05	04	Examiner	0002	1828	05	01	Morning Chronicle	0002
+1828	05	04	Examiner	0009	1828	05	03	Morning Chronicle	0002
+1828	05	04	Examiner	0013	1828	05	01	Morning Chronicle	0003
+1828	05	05	Hampshire/Portsmouth Telegraph	0002	1828	05	04	Examiner	0010
+1828	05	06	Bristol Mercury	0001	1828	05	01	Morning Chronicle	0002
+1828	05	06	Bristol Mercury	0004	1828	05	04	Examiner	0010
+1828	05	06	Hull Packet	0001	1828	05	03	Newcastle Courant	0004
+1828	05	06	Hull Packet	0002	1828	05	01	Morning Chronicle	0003
+1828	05	06	Hull Packet	0003	1828	05	03	Newcastle Courant	0004
+1828	05	06	Hull Packet	0004	1828	05	01	North Wales Chronicle	0004
+1828	05	07	Derby Mercury	0001	1828	05	06	Hull Packet	0001
+1828	05	07	Derby Mercury	0004	1828	05	06	Bristol Mercury	0004
+1828	05	08	North Wales Chronicle	0004	1828	05	06	Hull Packet	0001
+1828	05	09	Liverpool Mercury	0002	1828	05	02	Morning Chronicle	0004
+1828	05	09	Liverpool Mercury	0003	1828	05	04	Examiner	0002
+1828	05	09	Liverpool Mercury	0006	1828	05	06	Bristol Mercury	0004
+1828	05	09	Liverpool Mercury	0007	1828	05	07	Derby Mercury	0002
+1828	05	09	Belfast News-Letter	0001	1828	05	07	Morning Chronicle	0004
+1828	05	09	Belfast News-Letter	0002	1828	05	02	Morning Chronicle	0004
+1828	05	10	Cobbett’s Weekly Political Register	0008	1828	05	03	Leeds Mercury	0002
+1828	05	10	Ipswich Journal	0001	1828	05	07	Morning Chronicle	0004
+1828	05	10	Newcastle Courant	0002	1828	05	03	Ipswich Journal	0002
+1828	05	11	Examiner	0011	1828	05	08	Morning Chronicle	0003
+1828	05	11	Examiner	0012	1828	05	08	Morning Chronicle	0002
+1828	05	11	Examiner	0013	1828	05	08	Morning Chronicle	0004
+1828	05	12	Hampshire/Portsmouth Telegraph	0002	1828	05	06	Morning Chronicle	0002
+1828	05	12	Hampshire/Portsmouth Telegraph	0004	1828	05	11	Examiner	0009
+1828	05	13	Belfast News-Letter	0002	1828	05	05	Caledonian Mercury	0003
+1828	05	13	Belfast News-Letter	0004	1828	05	09	Morning Chronicle	0002
+1828	05	13	Bristol Mercury	0001	1828	05	06	Morning Chronicle	0002
+1828	05	13	Bristol Mercury	0002	1828	05	12	Morning Chronicle	0003
+1828	05	13	Hull Packet	0001	1828	05	12	Hampshire/Portsmouth Telegraph	0004
+1828	05	13	Hull Packet	0003	1828	05	08	Morning Chronicle	0003
+1828	05	14	Derby Mercury	0001	1828	05	13	Belfast News-Letter	0001
+1828	05	14	Derby Mercury	0002	1828	05	06	Hull Packet	0003
+1828	05	14	Derby Mercury	0004	1828	05	13	Hull Packet	0001
+1828	05	15	North Wales Chronicle	0001	1828	05	13	Hull Packet	0001
+1828	05	15	Trewman’s Exeter Flying Post	0004	1828	05	14	Derby Mercury	0004
+1828	05	16	Liverpool Mercury	0006	1828	05	14	Derby Mercury	0002
+1828	05	16	Belfast News-Letter	0001	1828	05	13	Morning Chronicle	0002
+1828	05	16	Belfast News-Letter	0002	1828	05	14	Derby Mercury	0002
+1828	05	16	Belfast News-Letter	0004	1828	05	04	Examiner	0011
+1828	05	16	Morning Chronicle	0003	1828	05	13	Hull Packet	0003
+1828	05	17	Cobbett’s Weekly Political Register	0005	1828	05	13	Morning Chronicle	0001
+1828	05	17	Ipswich Journal	0004	1828	05	13	Morning Chronicle	0002
+1828	05	17	Leeds Mercury	0002	1828	05	14	Derby Mercury	0002
+1828	05	17	Leeds Mercury	0004	1828	05	11	Examiner	0007
+1828	05	17	Newcastle Courant	0002	1828	05	13	Bristol Mercury	0002
+1828	05	17	Newcastle Courant	0003	1828	05	13	Bristol Mercury	0002
+1828	05	18	Examiner	0011	1828	05	17	Newcastle Courant	0004
+1828	05	19	Hampshire/Portsmouth Telegraph	0001	1828	05	17	Newcastle Courant	0001
+1828	05	19	Hampshire/Portsmouth Telegraph	0002	1828	05	17	Newcastle Courant	0002
+1828	05	20	Belfast News-Letter	0003	1828	05	16	Liverpool Mercury	0005
+1828	05	20	Bristol Mercury	0001	1828	05	17	Ipswich Journal	0001
+1828	05	20	Bristol Mercury	0003	1828	05	02	Morning Chronicle	0004
+1828	05	20	Bristol Mercury	0004	1828	05	14	Morning Chronicle	0001
+1828	05	20	Hull Packet	0001	1828	05	17	Leeds Mercury	0002
+1828	05	20	Hull Packet	0004	1828	05	15	Morning Chronicle	0003
+1828	05	21	Aberdeen Journal	0002	1828	05	17	Ipswich Journal	0001
+1828	05	21	Derby Mercury	0001	1828	05	20	Hull Packet	0001
+1828	05	21	Derby Mercury	0002	1828	05	19	Morning Chronicle	0002
+1828	05	21	Derby Mercury	0004	1828	05	13	Hull Packet	0004
+1828	05	22	Caledonian Mercury	0002	1828	05	19	Morning Chronicle	0002
+1828	05	22	North Wales Chronicle	0004	1828	05	21	Derby Mercury	0001
+1828	05	22	Trewman’s Exeter Flying Post	0001	1828	05	15	North Wales Chronicle	0002
+1828	05	23	Belfast News-Letter	0001	1828	05	19	Caledonian Mercury	0004
+1828	05	23	Belfast News-Letter	0002	1828	05	22	North Wales Chronicle	0002
+1828	05	24	Caledonian Mercury	0004	1828	05	20	Morning Chronicle	0003
+1828	05	24	Cobbett’s Weekly Political Register	0002	1828	05	19	Morning Chronicle	0002
+1828	05	24	Cobbett’s Weekly Political Register	0003	1828	05	19	Morning Chronicle	0002
+1828	05	24	Cobbett’s Weekly Political Register	0004	1828	05	19	Morning Chronicle	0002
+1828	05	24	Cobbett’s Weekly Political Register	0007	1828	05	19	Morning Chronicle	0002
+1828	05	24	Ipswich Journal	0004	1828	05	19	Morning Chronicle	0003
+1828	05	24	Leeds Mercury	0003	1828	05	20	Morning Chronicle	0004
+1828	05	24	Newcastle Courant	0002	1828	05	16	Morning Chronicle	0002
+1828	05	25	Examiner	0003	1828	05	19	Morning Chronicle	0002
+1828	05	25	Examiner	0009	1828	05	21	Morning Chronicle	0003
+1828	05	25	Examiner	0010	1828	05	22	Morning Chronicle	0003
+1828	05	25	Examiner	0011	1828	05	22	Morning Chronicle	0004
+1828	05	25	Examiner	0012	1828	05	21	Morning Chronicle	0004
+1828	05	26	Hampshire/Portsmouth Telegraph	0002	1828	05	21	Morning Chronicle	0003
+1828	05	27	Belfast News-Letter	0004	1828	05	24	Ipswich Journal	0004
+1828	05	27	Bristol Mercury	0001	1828	05	20	Morning Chronicle	0001
+1828	05	27	Bristol Mercury	0004	1828	05	20	Hull Packet	0004
+1828	05	27	Hull Packet	0001	1828	05	24	Ipswich Journal	0004
+1828	05	27	Hull Packet	0002	1828	05	19	Morning Chronicle	0002
+1828	05	27	Hull Packet	0004	1828	05	12	Morning Chronicle	0003
+1828	05	28	Aberdeen Journal	0004	1828	05	24	Newcastle Courant	0004
+1828	05	28	Derby Mercury	0001	1828	05	27	Hull Packet	0001
+1828	05	28	Derby Mercury	0004	1828	05	23	Morning Chronicle	0003
+1828	05	28	Morning Chronicle	0004	1828	05	23	Belfast News-Letter	0001
+1828	05	29	Trewman’s Exeter Flying Post	0001	1828	05	27	Hull Packet	0002
+1828	05	30	Liverpool Mercury	0002	1828	05	25	Examiner	0007
+1828	05	30	Belfast News-Letter	0001	1828	05	28	Derby Mercury	0001
+1828	05	30	Belfast News-Letter	0002	1828	05	28	Derby Mercury	0002
+1828	05	31	Cobbett’s Weekly Political Register	0002	1828	05	27	Morning Chronicle	0002
+1828	05	31	Cobbett’s Weekly Political Register	0003	1828	05	27	Morning Chronicle	0002
+1828	05	31	Cobbett’s Weekly Political Register	0004	1828	05	28	Morning Chronicle	0001
+1828	05	31	Cobbett’s Weekly Political Register	0015	1828	05	13	Morning Chronicle	0001
+1828	05	31	Ipswich Journal	0001	1828	05	26	Morning Chronicle	0002
+1828	05	31	Ipswich Journal	0002	1828	05	28	Morning Chronicle	0003
+1828	05	31	Ipswich Journal	0004	1828	05	13	Belfast News-Letter	0002
+1828	05	31	Leeds Mercury	0002	1828	05	25	Examiner	0011
+1828	05	31	Leeds Mercury	0004	1828	05	25	Examiner	0007
+1828	05	31	Newcastle Courant	0001	1828	05	28	Derby Mercury	0004
+1828	05	31	Newcastle Courant	0002	1828	05	27	Bristol Mercury	0003
+1828	05	31	Newcastle Courant	0003	1828	05	23	Morning Chronicle	0002
+1828	05	31	Newcastle Courant	0004	1828	05	28	Derby Mercury	0002
+1828	06	01	Examiner	0001	1828	05	28	Morning Chronicle	0001
+1828	06	01	Examiner	0002	1828	05	29	Morning Chronicle	0002
+1828	06	01	Examiner	0008	1828	05	29	Morning Chronicle	0002
+1828	06	01	Examiner	0009	1828	05	27	Morning Chronicle	0002
+1828	06	01	Examiner	0013	1828	05	29	Morning Chronicle	0003
+1828	06	02	Caledonian Mercury	0002	1828	05	29	Morning Chronicle	0002
+1828	06	03	Belfast News-Letter	0001	1828	05	31	Ipswich Journal	0002
+1828	06	03	Bristol Mercury	0001	1828	05	28	Derby Mercury	0001
+1828	06	03	Bristol Mercury	0002	1828	05	31	Morning Chronicle	0001
+1828	06	03	Bristol Mercury	0003	1828	05	31	Morning Chronicle	0003
+1828	06	03	Bristol Mercury	0004	1828	05	29	Morning Chronicle	0002
+1828	06	03	Hull Packet	0001	1828	05	29	Morning Chronicle	0003
+1828	06	03	Hull Packet	0002	1828	05	30	Morning Chronicle	0002
+1828	06	03	Hull Packet	0003	1828	05	31	Newcastle Courant	0002
+1828	06	03	Hull Packet	0004	1828	05	29	Morning Chronicle	0003
+1828	06	04	Derby Mercury	0004	1828	05	31	Ipswich Journal	0002
+1828	06	05	Caledonian Mercury	0002	1828	05	31	Ipswich Journal	0002
+1828	06	05	North Wales Chronicle	0001	1828	05	28	Morning Chronicle	0004
+1828	06	06	Liverpool Mercury	0003	1828	05	29	Morning Chronicle	0004
+1828	06	06	Belfast News-Letter	0004	1828	05	31	Cobbett’s Weekly Political Register	0005
+1828	06	07	Leeds Mercury	0002	1828	05	31	Ipswich Journal	0002
+1828	06	07	Newcastle Courant	0001	1828	05	06	Hull Packet	0002
+1828	06	07	Newcastle Courant	0002	1828	05	30	Morning Chronicle	0003
+1828	06	09	Caledonian Mercury	0002	1828	05	31	Newcastle Courant	0004
+1828	06	13	Belfast News-Letter	0002	1828	05	24	Newcastle Courant	0002
+1828	06	14	Ipswich Journal	0004	1828	05	31	Newcastle Courant	0003
+1828	06	14	Newcastle Courant	0003	1828	05	20	Bristol Mercury	0002
+1828	06	18	Derby Mercury	0002	1828	05	31	Newcastle Courant	0004
+1828	06	20	Liverpool Mercury	0007	1828	05	13	Bristol Mercury	0003
+1828	06	24	Hull Packet	0002	1828	05	28	Derby Mercury	0003
+1828	07	01	Hull Packet	0002	1828	05	24	Newcastle Courant	0001
+1828	07	02	Aberdeen Journal	0003	1828	05	17	Newcastle Courant	0001
+1828	07	04	Liverpool Mercury	0007	1828	05	13	Bristol Mercury	0003
+1828	07	05	Newcastle Courant	0003	1828	05	20	Bristol Mercury	0002
+1828	07	08	Hull Packet	0002	1828	05	17	Newcastle Courant	0001
+1828	07	09	Aberdeen Journal	0001	1828	05	17	Newcastle Courant	0001
+1828	07	16	Derby Mercury	0001	1828	05	16	Liverpool Mercury	0005
+1828	07	23	Derby Mercury	0001	1828	05	16	Liverpool Mercury	0005
+1828	07	25	Liverpool Mercury	0007	1828	05	13	Bristol Mercury	0003
+1828	07	26	Newcastle Courant	0003	1828	05	20	Bristol Mercury	0002
+1828	08	01	Liverpool Mercury	0007	1828	05	13	Bristol Mercury	0003
+1828	09	06	Ipswich Journal	0001	1828	05	19	Hampshire/Portsmouth Telegraph	0001
+1828	09	08	Morning Chronicle	0003	1828	05	19	Caledonian Mercury	0004
+1828	09	12	Liverpool Mercury	0007	1828	05	13	Bristol Mercury	0003
+1828	10	11	Newcastle Courant	0001	1828	05	06	Hull Packet	0002
+1828	10	11	Newcastle Courant	0003	1828	05	20	Bristol Mercury	0002
+1828	10	18	Ipswich Journal	0001	1828	05	28	Derby Mercury	0004
+1828	10	22	Derby Mercury	0001	1828	05	16	Liverpool Mercury	0005
+1828	10	22	Derby Mercury	0004	1828	05	15	Morning Chronicle	0003
+1828	10	24	Manchester Times	0008	1828	05	09	Liverpool Mercury	0007
+1828	10	29	Derby Mercury	0001	1828	05	16	Liverpool Mercury	0005
+1828	10	31	Manchester Times	0008	1828	05	09	Liverpool Mercury	0007
+1828	11	05	Derby Mercury	0001	1828	05	24	Newcastle Courant	0003
+1828	11	07	Manchester Times	0008	1828	05	09	Liverpool Mercury	0007
+1828	11	08	Ipswich Journal	0001	1828	05	19	Hampshire/Portsmouth Telegraph	0001
+1828	11	08	Newcastle Courant	0001	1828	05	07	Derby Mercury	0001
+1828	11	13	Morning Chronicle	0001	1828	05	20	Belfast News-Letter	0001
+1828	11	14	Manchester Times	0008	1828	05	09	Liverpool Mercury	0007
+1828	11	19	Derby Mercury	0002	1828	05	16	Liverpool Mercury	0005
+1828	11	21	Manchester Times	0008	1828	05	09	Liverpool Mercury	0007
+1828	11	22	Newcastle Courant	0003	1828	05	07	Derby Mercury	0001
+1828	11	29	Newcastle Courant	0003	1828	05	14	Derby Mercury	0004

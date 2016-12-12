@@ -1,0 +1,226 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1802	07	01	Derby Mercury	0002	1802	07	01	Caledonian Mercury	0002
+1802	07	01	Derby Mercury	0003	1802	07	01	Caledonian Mercury	0002
+1802	07	01	Trewman’s Exeter Flying Post	0002	1802	07	01	Derby Mercury	0003
+1802	07	01	Trewman’s Exeter Flying Post	0004	1802	07	01	Caledonian Mercury	0002
+1802	07	03	Jackson’s Oxford Journal	0001	1802	07	01	Caledonian Mercury	0002
+1802	07	03	Jackson’s Oxford Journal	0001	1802	07	01	Trewman’s Exeter Flying Post	0004
+1802	07	03	Jackson’s Oxford Journal	0001	1802	07	03	Caledonian Mercury	0002
+1802	07	03	Jackson’s Oxford Journal	0002	1802	07	01	Trewman’s Exeter Flying Post	0004
+1802	07	03	Jackson’s Oxford Journal	0004	1802	07	01	Derby Mercury	0002
+1802	07	03	Jackson’s Oxford Journal	0004	1802	07	01	Derby Mercury	0003
+1802	07	03	Jackson’s Oxford Journal	0004	1802	07	01	Trewman’s Exeter Flying Post	0002
+1802	07	03	Jackson’s Oxford Journal	0004	1802	07	02	Morning Chronicle	0001
+1802	07	03	Ipswich Journal	0004	1802	07	01	Derby Mercury	0003
+1802	07	03	Ipswich Journal	0004	1802	07	03	Jackson’s Oxford Journal	0004
+1802	07	05	Caledonian Mercury	0002	1802	07	03	Morning Chronicle	0003
+1802.07.05_HampshireTelegraph&PortsmouthGazette_0004,1802.07.01_CaledonianMercury_0002
+1802.07.05_HampshireTelegraph&PortsmouthGazette_0004,1802.07.03_CaledonianMercury_0002
+1802.07.05_HampshireTelegraph&PortsmouthGazette_0004,1802.07.03_Jackson'sOxfordJournal_0001
+1802	07	07	Aberdeen Journal	0002	1802	07	01	Caledonian Mercury	0002
+1802	07	07	Aberdeen Journal	0002	1802	07	01	Caledonian Mercury	0003
+1802	07	07	Aberdeen Journal	0002	1802	07	01	Trewman’s Exeter Flying Post	0004
+1802	07	07	Aberdeen Journal	0002	1802	07	03	Jackson’s Oxford Journal	0001
+1802	07	07	Aberdeen Journal	0002	1802	07	03	Jackson’s Oxford Journal	0002
+1802.07.07_TheAberdeenJournal_0002,1802.07.05_HampshireTelegraph&PortsmouthGazette_0004
+1802	07	07	Aberdeen Journal	0003	1802	07	01	Caledonian Mercury	0003
+1802	07	07	Aberdeen Journal	0003	1802	07	01	Derby Mercury	0002
+1802	07	07	Aberdeen Journal	0003	1802	07	01	Morning Chronicle	0003
+1802	07	07	Aberdeen Journal	0003	1802	07	03	Caledonian Mercury	0002
+1802	07	07	Aberdeen Journal	0004	1802	07	03	Morning Chronicle	0003
+1802	07	07	Aberdeen Journal	0004	1802	07	05	Caledonian Mercury	0002
+1802	07	08	Caledonian Mercury	0002	1802	07	05	Morning Chronicle	0003
+1802	07	08	Derby Mercury	0002	1802	07	03	Jackson’s Oxford Journal	0001
+1802	07	08	Derby Mercury	0003	1802	07	03	Morning Chronicle	0003
+1802	07	08	Derby Mercury	0003	1802	07	05	Caledonian Mercury	0002
+1802	07	08	Derby Mercury	0003	1802	07	07	Aberdeen Journal	0004
+1802	07	08	Trewman’s Exeter Flying Post	0001	1802	07	03	Jackson’s Oxford Journal	0003
+1802	07	08	Trewman’s Exeter Flying Post	0002	1802	07	01	Derby Mercury	0003
+1802	07	08	Trewman’s Exeter Flying Post	0002	1802	07	03	Jackson’s Oxford Journal	0004
+1802	07	10	Caledonian Mercury	0003	1802	07	07	Morning Chronicle	0003
+1802	07	10	Jackson’s Oxford Journal	0004	1802	07	01	Derby Mercury	0003
+1802	07	10	Jackson’s Oxford Journal	0004	1802	07	05	Caledonian Mercury	0003
+1802	07	10	Jackson’s Oxford Journal	0004	1802	07	08	Derby Mercury	0003
+1802	07	10	Ipswich Journal	0004	1802	07	01	Caledonian Mercury	0001
+1802	07	10	Ipswich Journal	0004	1802	07	01	Derby Mercury	0003
+1802	07	10	Ipswich Journal	0004	1802	07	03	Jackson’s Oxford Journal	0004
+1802	07	10	Morning Chronicle	0004	1802	07	10	Jackson’s Oxford Journal	0003
+1802.07.12_HampshireTelegraph&PortsmouthGazette_0004,1802.07.03_Jackson'sOxfordJournal_0004
+1802.07.12_HampshireTelegraph&PortsmouthGazette_0004,1802.07.10_Jackson'sOxfordJournal_0004
+1802	07	14	Aberdeen Journal	0002	1802	07	07	Morning Chronicle	0003
+1802	07	14	Aberdeen Journal	0002	1802	07	10	Caledonian Mercury	0003
+1802	07	14	Aberdeen Journal	0003	1802	07	08	Caledonian Mercury	0002
+1802	07	15	Caledonian Mercury	0002	1802	07	10	Morning Chronicle	0002
+1802	07	15	Derby Mercury	0003	1802	07	03	Jackson’s Oxford Journal	0004
+1802	07	15	Trewman’s Exeter Flying Post	0001	1802	07	14	Aberdeen Journal	0004
+1802	07	15	Trewman’s Exeter Flying Post	0001	1802	07	15	Derby Mercury	0002
+1802	07	15	Trewman’s Exeter Flying Post	0003	1802	07	01	Derby Mercury	0003
+1802	07	15	Trewman’s Exeter Flying Post	0003	1802	07	03	Jackson’s Oxford Journal	0004
+1802	07	15	Trewman’s Exeter Flying Post	0003	1802	07	08	Derby Mercury	0003
+1802	07	15	Trewman’s Exeter Flying Post	0003	1802	07	10	Jackson’s Oxford Journal	0004
+1802	07	15	Trewman’s Exeter Flying Post	0004	1802	07	12	Morning Chronicle	0003
+1802	07	15	Trewman’s Exeter Flying Post	0004	1802	07	15	Derby Mercury	0002
+1802	07	17	Caledonian Mercury	0002	1802	07	14	Aberdeen Journal	0004
+1802	07	17	Caledonian Mercury	0002	1802	07	14	Morning Chronicle	0003
+1802	07	17	Jackson’s Oxford Journal	0001	1802	07	15	Trewman’s Exeter Flying Post	0004
+1802.07.17_Jackson'sOxfordJournal_0002,1802.07.12_HampshireTelegraph&PortsmouthGazette_0003
+1802	07	17	Jackson’s Oxford Journal	0002	1802	07	15	Morning Chronicle	0003
+1802	07	17	Jackson’s Oxford Journal	0004	1802	07	01	Derby Mercury	0003
+1802	07	17	Jackson’s Oxford Journal	0004	1802	07	15	Derby Mercury	0003
+1802	07	17	Jackson’s Oxford Journal	0004	1802	07	15	Trewman’s Exeter Flying Post	0003
+1802	07	17	Ipswich Journal	0004	1802	07	01	Derby Mercury	0003
+1802	07	17	Ipswich Journal	0004	1802	07	03	Jackson’s Oxford Journal	0004
+1802	07	17	Morning Chronicle	0004	1802	07	10	Jackson’s Oxford Journal	0003
+1802	07	19	Caledonian Mercury	0002	1802	07	16	Morning Chronicle	0002
+1802	07	19	Caledonian Mercury	0002	1802	07	17	Morning Chronicle	0003
+1802	07	21	Aberdeen Journal	0002	1802	07	05	Morning Chronicle	0002
+1802	07	21	Aberdeen Journal	0002	1802	07	15	Caledonian Mercury	0002
+1802	07	21	Aberdeen Journal	0002	1802	07	17	Caledonian Mercury	0002
+1802	07	21	Aberdeen Journal	0003	1802	07	15	Caledonian Mercury	0003
+1802	07	22	Caledonian Mercury	0002	1802	07	19	Morning Chronicle	0002
+1802	07	22	Derby Mercury	0001	1802	07	03	Jackson’s Oxford Journal	0004
+1802	07	22	Derby Mercury	0002	1802	07	16	Morning Chronicle	0002
+1802	07	22	Derby Mercury	0002	1802	07	17	Jackson’s Oxford Journal	0002
+1802	07	22	Derby Mercury	0002	1802	07	19	Caledonian Mercury	0002
+1802	07	22	Derby Mercury	0002	1802	07	22	Caledonian Mercury	0002
+1802	07	22	Derby Mercury	0003	1802	07	17	Jackson’s Oxford Journal	0004
+1802	07	22	Trewman’s Exeter Flying Post	0001	1802	07	17	Jackson’s Oxford Journal	0002
+1802.07.22_Trewman'sExeterFlyingPost_0004,1802.07.19_HampshireTelegraph&PortsmouthGazette_0003
+1802	07	24	Caledonian Mercury	0002	1802	07	20	Morning Chronicle	0002
+1802	07	24	Caledonian Mercury	0002	1802	07	21	Morning Chronicle	0002
+1802	07	24	Jackson’s Oxford Journal	0001	1802	07	24	Caledonian Mercury	0002
+1802	07	24	Jackson’s Oxford Journal	0002	1802	07	21	Morning Chronicle	0002
+1802	07	24	Jackson’s Oxford Journal	0002	1802	07	24	Caledonian Mercury	0002
+1802	07	24	Jackson’s Oxford Journal	0003	1802	07	10	Morning Chronicle	0004
+1802	07	24	Jackson’s Oxford Journal	0004	1802	07	22	Caledonian Mercury	0002
+1802	07	24	Morning Chronicle	0004	1802	07	10	Jackson’s Oxford Journal	0003
+1802	07	24	Morning Chronicle	0004	1802	07	24	Jackson’s Oxford Journal	0003
+1802.07.26_HampshireTelegraph&PortsmouthGazette_0002,1802.07.22_TheMorningChronicle_0002
+1802.07.26_HampshireTelegraph&PortsmouthGazette_0002,1802.07.22_TheMorningChronicle_0003
+1802.07.26_HampshireTelegraph&PortsmouthGazette_0003,1802.07.23_TheMorningChronicle_0003
+1802.07.26_HampshireTelegraph&PortsmouthGazette_0004,1802.07.14_TheAberdeenJournal_0004
+1802.07.26_HampshireTelegraph&PortsmouthGazette_0004,1802.07.21_TheMorningChronicle_0002
+1802.07.26_HampshireTelegraph&PortsmouthGazette_0004,1802.07.21_TheMorningChronicle_0003
+1802.07.26_HampshireTelegraph&PortsmouthGazette_0004,1802.07.24_CaledonianMercury_0002
+1802.07.26_HampshireTelegraph&PortsmouthGazette_0004,1802.07.24_Jackson'sOxfordJournal_0002
+1802	07	28	Aberdeen Journal	0001	1802	07	17	Caledonian Mercury	0003
+1802	07	28	Aberdeen Journal	0001	1802	07	26	Caledonian Mercury	0004
+1802	07	28	Aberdeen Journal	0002	1802	07	21	Morning Chronicle	0002
+1802	07	28	Aberdeen Journal	0002	1802	07	22	Trewman’s Exeter Flying Post	0004
+1802	07	28	Aberdeen Journal	0002	1802	07	24	Caledonian Mercury	0002
+1802	07	28	Aberdeen Journal	0002	1802	07	24	Jackson’s Oxford Journal	0002
+1802.07.28_TheAberdeenJournal_0002,1802.07.26_HampshireTelegraph&PortsmouthGazette_0004
+1802	07	28	Aberdeen Journal	0003	1802	07	19	Caledonian Mercury	0003
+1802.07.28_TheAberdeenJournal_0003,1802.07.19_HampshireTelegraph&PortsmouthGazette_0003
+1802	07	28	Aberdeen Journal	0003	1802	07	22	Caledonian Mercury	0002
+1802	07	28	Aberdeen Journal	0003	1802	07	22	Caledonian Mercury	0003
+1802	07	28	Aberdeen Journal	0003	1802	07	22	Trewman’s Exeter Flying Post	0004
+1802	07	28	Aberdeen Journal	0003	1802	07	24	Ipswich Journal	0004
+1802.07.28_TheAberdeenJournal_0004,1802.07.26_HampshireTelegraph&PortsmouthGazette_0003
+1802	07	29	Caledonian Mercury	0002	1802	07	24	Morning Chronicle	0003
+1802	07	29	Caledonian Mercury	0004	1802	07	21	Aberdeen Journal	0001
+1802	07	29	Derby Mercury	0002	1802	07	21	Aberdeen Journal	0001
+1802.07.29_TheDerbyMercury_0002,1802.07.26_HampshireTelegraph&PortsmouthGazette_0003
+1802	07	29	Derby Mercury	0003	1802	07	21	Morning Chronicle	0003
+1802	07	29	Derby Mercury	0003	1802	07	22	Trewman’s Exeter Flying Post	0002
+1802	07	29	Trewman’s Exeter Flying Post	0001	1802	07	29	Derby Mercury	0002
+1802	07	29	Trewman’s Exeter Flying Post	0002	1802	07	21	Morning Chronicle	0003
+1802	07	29	Trewman’s Exeter Flying Post	0002	1802	07	29	Derby Mercury	0003
+1802	07	29	Trewman’s Exeter Flying Post	0004	1802	07	27	Morning Chronicle	0002
+1802	07	29	Trewman’s Exeter Flying Post	0004	1802	07	29	Caledonian Mercury	0002
+1802	07	29	Trewman’s Exeter Flying Post	0004	1802	07	29	Caledonian Mercury	0003
+1802	07	29	Trewman’s Exeter Flying Post	0004	1802	07	29	Derby Mercury	0002
+1802	07	31	Jackson’s Oxford Journal	0001	1802	07	27	Morning Chronicle	0002
+1802	07	31	Jackson’s Oxford Journal	0001	1802	07	29	Caledonian Mercury	0002
+1802	07	31	Jackson’s Oxford Journal	0004	1802	07	23	Morning Chronicle	0003
+1802	07	31	Jackson’s Oxford Journal	0004	1802	07	26	Morning Chronicle	0003
+1802	07	31	Jackson’s Oxford Journal	0004	1802	07	29	Derby Mercury	0002
+1802	07	31	Jackson’s Oxford Journal	0004	1802	07	29	Derby Mercury	0003
+1802	07	31	Jackson’s Oxford Journal	0004	1802	07	29	Trewman’s Exeter Flying Post	0002
+1802	07	31	Ipswich Journal	0004	1802	07	03	Jackson’s Oxford Journal	0004
+1802	07	31	Ipswich Journal	0004	1802	07	08	Derby Mercury	0003
+1802	07	31	Ipswich Journal	0004	1802	07	10	Jackson’s Oxford Journal	0004
+1802	07	31	Ipswich Journal	0004	1802	07	15	Trewman’s Exeter Flying Post	0003
+1802	07	31	Ipswich Journal	0004	1802	07	24	Morning Chronicle	0002
+1802	07	31	Ipswich Journal	0004	1802	07	26	Morning Chronicle	0003
+1802	08	02	Caledonian Mercury	0002	1802	07	29	Morning Chronicle	0002
+1802	08	02	Caledonian Mercury	0003	1802	07	27	Morning Chronicle	0002
+1802.08.02_HampshireTelegraph&PortsmouthGazette_0002,1802.07.29_Trewman'sExeterFlyingPost_0004
+1802.08.02_HampshireTelegraph&PortsmouthGazette_0004,1802.07.31_Jackson'sOxfordJournal_0001
+1802	08	04	Aberdeen Journal	0001	1802	07	08	Caledonian Mercury	0004
+1802	08	04	Aberdeen Journal	0001	1802	07	29	Caledonian Mercury	0004
+1802	08	04	Aberdeen Journal	0002	1802	07	23	Morning Chronicle	0003
+1802.08.04_TheAberdeenJournal_0002,1802.07.26_HampshireTelegraph&PortsmouthGazette_0003
+1802	08	04	Aberdeen Journal	0002	1802	07	27	Morning Chronicle	0002
+1802	08	04	Aberdeen Journal	0002	1802	07	29	Caledonian Mercury	0002
+1802	08	04	Aberdeen Journal	0002	1802	07	29	Trewman’s Exeter Flying Post	0004
+1802	08	04	Aberdeen Journal	0002	1802	07	31	Caledonian Mercury	0002
+1802	08	04	Aberdeen Journal	0002	1802	07	31	Jackson’s Oxford Journal	0001
+1802	08	04	Aberdeen Journal	0003	1802	07	22	Caledonian Mercury	0003
+1802	08	04	Aberdeen Journal	0003	1802	07	31	Jackson’s Oxford Journal	0004
+1802	08	05	Caledonian Mercury	0002	1802	07	28	Morning Chronicle	0001
+1802	08	07	Caledonian Mercury	0004	1802	07	24	Morning Chronicle	0003
+1802	08	11	Aberdeen Journal	0001	1802	07	15	Derby Mercury	0003
+1802	08	12	Derby Mercury	0003	1802	07	14	Aberdeen Journal	0004
+1802	08	12	Derby Mercury	0003	1802	07	17	Caledonian Mercury	0002
+1802.08.12_TheDerbyMercury_0003,1802.07.26_HampshireTelegraph&PortsmouthGazette_0004
+1802	08	14	Jackson’s Oxford Journal	0004	1802	07	29	Trewman’s Exeter Flying Post	0002
+1802	08	14	Ipswich Journal	0004	1802	07	08	Derby Mercury	0003
+1802	08	14	Ipswich Journal	0004	1802	07	10	Jackson’s Oxford Journal	0004
+1802	08	14	Ipswich Journal	0004	1802	07	15	Trewman’s Exeter Flying Post	0003
+1802	08	26	Derby Mercury	0003	1802	07	08	Trewman’s Exeter Flying Post	0003
+1802	08	26	Derby Mercury	0003	1802	07	17	Jackson’s Oxford Journal	0001
+1802.08.30_HampshireTelegraph&PortsmouthGazette_0001,1802.07.15_TheDerbyMercury_0003
+1802	09	01	Aberdeen Journal	0001	1802	07	08	Caledonian Mercury	0004
+1802	09	01	Aberdeen Journal	0001	1802	07	26	Caledonian Mercury	0004
+1802	09	02	Trewman’s Exeter Flying Post	0001	1802	07	15	Derby Mercury	0003
+1802.09.06_HampshireTelegraph&PortsmouthGazette_0003,1802.07.22_TheDerbyMercury_0003
+1802	09	08	Aberdeen Journal	0001	1802	07	26	Caledonian Mercury	0004
+1802	09	11	Caledonian Mercury	0004	1802	07	21	Aberdeen Journal	0004
+1802	09	15	Aberdeen Journal	0001	1802	07	08	Caledonian Mercury	0004
+1802	09	25	Jackson’s Oxford Journal	0001	1802	07	01	Derby Mercury	0003
+1802	09	25	Jackson’s Oxford Journal	0001	1802	07	03	Ipswich Journal	0004
+1802	09	29	Aberdeen Journal	0004	1802	07	29	Caledonian Mercury	0001
+1802	09	30	Caledonian Mercury	0001	1802	07	01	Derby Mercury	0003
+1802	09	30	Derby Mercury	0001	1802	07	03	Ipswich Journal	0004
+1802	09	30	Morning Chronicle	0004	1802	07	21	Aberdeen Journal	0004
+1802	10	02	Jackson’s Oxford Journal	0001	1802	07	01	Derby Mercury	0003
+1802	10	02	Jackson’s Oxford Journal	0001	1802	07	03	Ipswich Journal	0004
+1802	10	07	Derby Mercury	0003	1802	07	17	Jackson’s Oxford Journal	0004
+1802	10	09	Jackson’s Oxford Journal	0001	1802	07	01	Derby Mercury	0003
+1802	10	09	Jackson’s Oxford Journal	0001	1802	07	03	Ipswich Journal	0004
+1802	10	09	Jackson’s Oxford Journal	0001	1802	07	08	Trewman’s Exeter Flying Post	0002
+1802.10.11_HampshireTelegraph&PortsmouthGazette_0001,1802.07.15_TheDerbyMercury_0003
+1802.10.18_HampshireTelegraph&PortsmouthGazette_0002,1802.07.15_TheDerbyMercury_0003
+1802	10	21	Derby Mercury	0003	1802	07	03	Jackson’s Oxford Journal	0004
+1802	10	21	Trewman’s Exeter Flying Post	0003	1802	07	15	Derby Mercury	0003
+1802	10	23	Ipswich Journal	0004	1802	07	15	Derby Mercury	0003
+1802	10	28	Derby Mercury	0003	1802	07	17	Jackson’s Oxford Journal	0004
+1802.11.01_HampshireTelegraph&PortsmouthGazette_0002,1802.07.15_TheDerbyMercury_0003
+1802.11.08_HampshireTelegraph&PortsmouthGazette_0001,1802.07.15_TheDerbyMercury_0003
+1802.11.08_HampshireTelegraph&PortsmouthGazette_0001,1802.07.17_Jackson'sOxfordJournal_0004
+1802.11.15_HampshireTelegraph&PortsmouthGazette_0004,1802.07.22_TheDerbyMercury_0003
+1802	11	25	Trewman’s Exeter Flying Post	0003	1802	07	01	Derby Mercury	0003
+1802	11	25	Trewman’s Exeter Flying Post	0003	1802	07	29	Derby Mercury	0003
+1802	11	27	Jackson’s Oxford Journal	0004	1802	07	15	Derby Mercury	0003
+1802.11.29_HampshireTelegraph&PortsmouthGazette_0004,1802.07.15_TheDerbyMercury_0003
+1802	12	02	Derby Mercury	0003	1802	07	17	Jackson’s Oxford Journal	0004
+1802	12	02	Trewman’s Exeter Flying Post	0003	1802	07	03	Jackson’s Oxford Journal	0004
+1802	12	02	Trewman’s Exeter Flying Post	0003	1802	07	22	Derby Mercury	0003
+1802.12.06_HampshireTelegraph&PortsmouthGazette_0001,1802.07.15_TheDerbyMercury_0003
+1802.12.06_HampshireTelegraph&PortsmouthGazette_0001,1802.07.17_Jackson'sOxfordJournal_0004
+1802	12	09	Trewman’s Exeter Flying Post	0003	1802	07	08	Derby Mercury	0003
+1802.12.13_HampshireTelegraph&PortsmouthGazette_0001,1802.07.15_TheDerbyMercury_0003
+1802	12	16	Trewman’s Exeter Flying Post	0003	1802	07	15	Derby Mercury	0003
+1802	12	23	Trewman’s Exeter Flying Post	0003	1802	07	03	Jackson’s Oxford Journal	0004
+1802	12	23	Trewman’s Exeter Flying Post	0003	1802	07	15	Derby Mercury	0003
+1802	12	25	Jackson’s Oxford Journal	0001	1802	07	15	Derby Mercury	0003
+1802	12	30	Trewman’s Exeter Flying Post	0002	1802	07	03	Jackson’s Oxford Journal	0004
+1802	12	30	Trewman’s Exeter Flying Post	0002	1802	07	22	Derby Mercury	0003
+1803	01	06	Derby Mercury	0003	1802	07	17	Jackson’s Oxford Journal	0004
+1803	01	15	Jackson’s Oxford Journal	0004	1802	07	15	Derby Mercury	0003
+1803	01	20	Trewman’s Exeter Flying Post	0003	1802	07	29	Derby Mercury	0003
+1803.01.24_HampshireTelegraph&PortsmouthGazette_0004,1802.07.15_TheDerbyMercury_0003
+1803.01.24_HampshireTelegraph&PortsmouthGazette_0004,1802.07.17_Jackson'sOxfordJournal_0004
+1803	01	29	Newcastle Courant	0003	1802	07	15	Derby Mercury	0003
+1803.01.31_HampshireTelegraph&PortsmouthGazette_0002,1802.07.15_TheDerbyMercury_0003

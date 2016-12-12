@@ -1,0 +1,329 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1827	01	01	Bristol Mercury	0001	1827	01	01	Hampshire/Portsmouth Telegraph	0002
+1827	01	01	Bristol Mercury	0004	1827	01	01	Hampshire/Portsmouth Telegraph	0002
+1827	01	01	Morning Chronicle	0004	1827	01	01	Glasgow Herald	0002
+1827	01	03	Derby Mercury	0001	1827	01	01	Bristol Mercury	0001
+1827	01	03	Derby Mercury	0004	1827	01	01	Caledonian Mercury	0002
+1827	01	03	Derby Mercury	0004	1827	01	02	Hull Packet	0001
+1827	01	04	Caledonian Mercury	0002	1827	01	01	Morning Chronicle	0001
+1827	01	04	Caledonian Mercury	0002	1827	01	03	Derby Mercury	0004
+1827	01	04	Morning Chronicle	0004	1827	01	01	Bristol Mercury	0003
+1827	01	04	Morning Chronicle	0004	1827	01	02	Hull Packet	0004
+1827	01	05	Glasgow Herald	0001	1827	01	02	Morning Chronicle	0001
+1827	01	05	Glasgow Herald	0001	1827	01	04	Caledonian Mercury	0002
+1827	01	05	Glasgow Herald	0001	1827	01	04	Caledonian Mercury	0003
+1827	01	05	Glasgow Herald	0002	1827	01	03	Morning Chronicle	0002
+1827	01	05	Glasgow Herald	0002	1827	01	04	Caledonian Mercury	0003
+1827	01	06	Caledonian Mercury	0002	1827	01	02	Morning Chronicle	0003
+1827	01	06	Caledonian Mercury	0002	1827	01	03	Morning Chronicle	0002
+1827	01	06	Caledonian Mercury	0002	1827	01	03	Morning Chronicle	0003
+1827	01	06	Caledonian Mercury	0002	1827	01	03	Morning Chronicle	0004
+1827	01	06	Caledonian Mercury	0004	1827	01	02	Morning Chronicle	0001
+1827	01	06	Caledonian Mercury	0004	1827	01	02	Morning Chronicle	0002
+1827	01	06	Caledonian Mercury	0004	1827	01	05	Glasgow Herald	0001
+1827	01	06	Ipswich Journal	0001	1827	01	02	Morning Chronicle	0003
+1827	01	06	Ipswich Journal	0001	1827	01	06	Caledonian Mercury	0002
+1827	01	06	Ipswich Journal	0002	1827	01	02	Morning Chronicle	0001
+1827	01	06	Ipswich Journal	0002	1827	01	05	Glasgow Herald	0001
+1827	01	06	Ipswich Journal	0002	1827	01	05	Morning Chronicle	0002
+1827	01	06	Ipswich Journal	0002	1827	01	05	Morning Chronicle	0004
+1827	01	06	Ipswich Journal	0002	1827	01	06	Caledonian Mercury	0004
+1827	01	06	Ipswich Journal	0004	1827	01	03	Derby Mercury	0001
+1827	01	06	Ipswich Journal	0004	1827	01	04	Caledonian Mercury	0004
+1827	01	06	Ipswich Journal	0004	1827	01	05	Glasgow Herald	0001
+1827	01	06	Ipswich Journal	0004	1827	01	05	Liverpool Mercury	0007
+1827	01	06	Newcastle Courant	0002	1827	01	06	Ipswich Journal	0004
+1827	01	07	Examiner	0001	1827	01	05	Glasgow Herald	0002
+1827	01	07	Examiner	0001	1827	01	06	Caledonian Mercury	0002
+1827	01	07	Examiner	0005	1827	01	01	Morning Chronicle	0002
+1827	01	07	Examiner	0006	1827	01	02	Morning Chronicle	0001
+1827	01	07	Examiner	0006	1827	01	05	Glasgow Herald	0001
+1827	01	07	Examiner	0006	1827	01	06	Ipswich Journal	0002
+1827	01	07	Examiner	0007	1827	01	02	Morning Chronicle	0002
+1827	01	07	Examiner	0011	1827	01	01	Morning Chronicle	0003
+1827	01	07	Examiner	0011	1827	01	01	Morning Chronicle	0004
+1827	01	07	Examiner	0012	1827	01	03	Morning Chronicle	0004
+1827	01	07	Examiner	0012	1827	01	06	Caledonian Mercury	0002
+1827	01	07	Examiner	0013	1827	01	05	Morning Chronicle	0004
+1827	01	08	Caledonian Mercury	0002	1827	01	05	Morning Chronicle	0003
+1827	01	08	Caledonian Mercury	0002	1827	01	05	Morning Chronicle	0004
+1827	01	08	Caledonian Mercury	0002	1827	01	06	Ipswich Journal	0002
+1827	01	08	Caledonian Mercury	0002	1827	01	06	Ipswich Journal	0004
+1827	01	08	Caledonian Mercury	0004	1827	01	06	Ipswich Journal	0004
+1827	01	08	Glasgow Herald	0001	1827	01	05	Morning Chronicle	0004
+1827	01	08	Glasgow Herald	0001	1827	01	06	Caledonian Mercury	0002
+1827	01	08	Glasgow Herald	0001	1827	01	06	Ipswich Journal	0002
+1827	01	08	Glasgow Herald	0001	1827	01	06	Ipswich Journal	0004
+1827	01	08	Glasgow Herald	0001	1827	01	08	Caledonian Mercury	0002
+1827	01	08	Glasgow Herald	0001	1827	01	08	Caledonian Mercury	0003
+1827	01	08	Glasgow Herald	0002	1827	01	06	Caledonian Mercury	0002
+1827	01	08	Glasgow Herald	0002	1827	01	06	Morning Chronicle	0004
+1827	01	08	Hampshire/Portsmouth Telegraph	0002	1827	01	05	Glasgow Herald	0002
+1827	01	08	Hampshire/Portsmouth Telegraph	0002	1827	01	06	Ipswich Journal	0004
+1827	01	08	Hampshire/Portsmouth Telegraph	0002	1827	01	07	Examiner	0001
+1827	01	08	Bristol Mercury	0001	1827	01	02	Morning Chronicle	0001
+1827	01	08	Bristol Mercury	0001	1827	01	05	Glasgow Herald	0001
+1827	01	08	Bristol Mercury	0001	1827	01	06	Caledonian Mercury	0004
+1827	01	08	Bristol Mercury	0001	1827	01	06	Ipswich Journal	0002
+1827	01	08	Bristol Mercury	0001	1827	01	07	Examiner	0006
+1827	01	08	Bristol Mercury	0004	1827	01	03	Morning Chronicle	0004
+1827	01	08	Bristol Mercury	0004	1827	01	07	Examiner	0012
+1827	01	08	Bristol Mercury	0004	1827	01	08	Hampshire/Portsmouth Telegraph	0002
+1827	01	08	Morning Chronicle	0004	1827	01	01	Caledonian Mercury	0002
+1827	01	09	Hull Packet	0001	1827	01	02	Morning Chronicle	0001
+1827	01	09	Hull Packet	0001	1827	01	05	Glasgow Herald	0001
+1827	01	09	Hull Packet	0001	1827	01	06	Ipswich Journal	0002
+1827	01	09	Hull Packet	0001	1827	01	06	Ipswich Journal	0004
+1827	01	09	Hull Packet	0001	1827	01	08	Caledonian Mercury	0002
+1827	01	09	Hull Packet	0001	1827	01	08	Glasgow Herald	0001
+1827	01	09	Hull Packet	0001	1827	01	08	Bristol Mercury	0001
+1827	01	09	Hull Packet	0003	1827	01	06	Morning Chronicle	0002
+1827	01	09	Hull Packet	0003	1827	01	06	Morning Chronicle	0003
+1827	01	09	Hull Packet	0004	1827	01	06	Ipswich Journal	0004
+1827	01	09	Hull Packet	0004	1827	01	08	Caledonian Mercury	0004
+1827	01	10	Aberdeen Journal	0004	1827	01	01	Glasgow Herald	0004
+1827	01	10	Aberdeen Journal	0004	1827	01	01	Bristol Mercury	0001
+1827	01	10	Derby Mercury	0002	1827	01	06	Ipswich Journal	0002
+1827	01	10	Derby Mercury	0002	1827	01	06	Morning Chronicle	0002
+1827	01	10	Derby Mercury	0002	1827	01	08	Morning Chronicle	0003
+1827	01	10	Derby Mercury	0002	1827	01	09	Hull Packet	0003
+1827	01	10	Derby Mercury	0002	1827	01	10	Aberdeen Journal	0003
+1827	01	10	Derby Mercury	0004	1827	01	05	Morning Chronicle	0003
+1827	01	10	Derby Mercury	0004	1827	01	06	Caledonian Mercury	0002
+1827	01	10	Derby Mercury	0004	1827	01	08	Caledonian Mercury	0002
+1827	01	11	Caledonian Mercury	0002	1827	01	08	Bristol Mercury	0002
+1827	01	11	Caledonian Mercury	0002	1827	01	09	Morning Chronicle	0003
+1827	01	11	Caledonian Mercury	0003	1827	01	08	Morning Chronicle	0003
+1827	01	11	Caledonian Mercury	0003	1827	01	10	Derby Mercury	0002
+1827	01	11	Trewman’s Exeter Flying Post	0002	1827	01	06	Ipswich Journal	0002
+1827	01	12	Glasgow Herald	0001	1827	01	08	Morning Chronicle	0003
+1827	01	12	Glasgow Herald	0001	1827	01	10	Derby Mercury	0002
+1827	01	12	Glasgow Herald	0001	1827	01	10	Morning Chronicle	0001
+1827	01	12	Glasgow Herald	0001	1827	01	11	Caledonian Mercury	0003
+1827	01	12	Glasgow Herald	0002	1827	01	10	Morning Chronicle	0003
+1827	01	12	Glasgow Herald	0002	1827	01	11	Caledonian Mercury	0003
+1827	01	12	Liverpool Mercury	0002	1827	01	09	Morning Chronicle	0003
+1827	01	13	Caledonian Mercury	0002	1827	01	09	Morning Chronicle	0003
+1827	01	13	Cobbett’s Weekly Political Register	0021	1827	01	02	Morning Chronicle	0001
+1827	01	13	Cobbett’s Weekly Political Register	0024	1827	01	02	Morning Chronicle	0001
+1827	01	13	Cobbett’s Weekly Political Register	0028	1827	01	02	Morning Chronicle	0002
+1827	01	13	Cobbett’s Weekly Political Register	0029	1827	01	02	Morning Chronicle	0002
+1827	01	13	Ipswich Journal	0002	1827	01	11	Morning Chronicle	0003
+1827	01	13	Ipswich Journal	0004	1827	01	05	Morning Chronicle	0004
+1827	01	13	Ipswich Journal	0004	1827	01	08	Bristol Mercury	0003
+1827	01	13	Newcastle Courant	0002	1827	01	08	Morning Chronicle	0003
+1827	01	13	Newcastle Courant	0002	1827	01	10	Derby Mercury	0002
+1827	01	13	Newcastle Courant	0002	1827	01	12	Glasgow Herald	0001
+1827	01	13	Newcastle Courant	0004	1827	01	13	Morning Chronicle	0003
+1827	01	14	Examiner	0004	1827	01	08	Morning Chronicle	0003
+1827	01	14	Examiner	0004	1827	01	09	Morning Chronicle	0003
+1827	01	14	Examiner	0004	1827	01	12	Liverpool Mercury	0002
+1827	01	14	Examiner	0005	1827	01	02	Hull Packet	0004
+1827	01	14	Examiner	0005	1827	01	04	Morning Chronicle	0004
+1827	01	14	Examiner	0005	1827	01	08	Morning Chronicle	0003
+1827	01	14	Examiner	0006	1827	01	08	Morning Chronicle	0003
+1827	01	14	Examiner	0006	1827	01	11	Morning Chronicle	0003
+1827	01	14	Examiner	0007	1827	01	10	Morning Chronicle	0002
+1827	01	15	Caledonian Mercury	0001	1827	01	01	Glasgow Herald	0003
+1827	01	15	Caledonian Mercury	0002	1827	01	10	Morning Chronicle	0003
+1827	01	15	Caledonian Mercury	0002	1827	01	11	Morning Chronicle	0003
+1827	01	15	Caledonian Mercury	0002	1827	01	14	Examiner	0013
+1827	01	15	Caledonian Mercury	0003	1827	01	08	Glasgow Herald	0001
+1827	01	15	Glasgow Herald	0001	1827	01	11	Caledonian Mercury	0003
+1827	01	15	Glasgow Herald	0002	1827	01	13	Caledonian Mercury	0002
+1827	01	15	Glasgow Herald	0002	1827	01	13	Morning Chronicle	0003
+1827	01	15	Bristol Mercury	0001	1827	01	09	Morning Chronicle	0002
+1827	01	15	Bristol Mercury	0001	1827	01	09	Morning Chronicle	0003
+1827	01	15	Bristol Mercury	0001	1827	01	10	Morning Chronicle	0003
+1827	01	15	Bristol Mercury	0001	1827	01	11	Morning Chronicle	0002
+1827	01	15	Bristol Mercury	0001	1827	01	12	Glasgow Herald	0002
+1827	01	15	Bristol Mercury	0001	1827	01	13	Caledonian Mercury	0002
+1827	01	15	Bristol Mercury	0002	1827	01	02	Morning Chronicle	0004
+1827	01	15	Bristol Mercury	0004	1827	01	14	Examiner	0013
+1827	01	15	Bristol Mercury	0004	1827	01	15	Caledonian Mercury	0002
+1827	01	16	Hull Packet	0002	1827	01	09	Morning Chronicle	0003
+1827	01	16	Hull Packet	0004	1827	01	08	Bristol Mercury	0004
+1827	01	16	Morning Chronicle	0003	1827	01	12	Glasgow Herald	0001
+1827	01	17	Aberdeen Journal	0004	1827	01	11	Caledonian Mercury	0003
+1827	01	17	Aberdeen Journal	0004	1827	01	13	Morning Chronicle	0003
+1827	01	17	Aberdeen Journal	0004	1827	01	13	Newcastle Courant	0004
+1827	01	17	Derby Mercury	0001	1827	01	09	Morning Chronicle	0003
+1827	01	17	Derby Mercury	0001	1827	01	15	Morning Chronicle	0003
+1827	01	17	Derby Mercury	0004	1827	01	11	Caledonian Mercury	0003
+1827	01	17	Derby Mercury	0004	1827	01	13	Morning Chronicle	0003
+1827	01	17	Derby Mercury	0004	1827	01	13	Newcastle Courant	0004
+1827	01	17	Derby Mercury	0004	1827	01	15	Glasgow Herald	0001
+1827	01	17	Derby Mercury	0004	1827	01	17	Aberdeen Journal	0004
+1827	01	18	Caledonian Mercury	0002	1827	01	15	Morning Chronicle	0003
+1827	01	18	Caledonian Mercury	0002	1827	01	17	Derby Mercury	0001
+1827	01	18	Caledonian Mercury	0004	1827	01	10	Aberdeen Journal	0003
+1827	01	18	Caledonian Mercury	0004	1827	01	12	Glasgow Herald	0001
+1827	01	18	Caledonian Mercury	0004	1827	01	16	Morning Chronicle	0003
+1827	01	18	Trewman’s Exeter Flying Post	0002	1827	01	17	Derby Mercury	0004
+1827	01	18	Trewman’s Exeter Flying Post	0003	1827	01	15	Bristol Mercury	0001
+1827	01	19	Liverpool Mercury	0002	1827	01	15	Morning Chronicle	0003
+1827	01	20	Caledonian Mercury	0002	1827	01	16	Morning Chronicle	0003
+1827	01	20	Caledonian Mercury	0004	1827	01	19	Glasgow Herald	0002
+1827	01	20	Cobbett’s Weekly Political Register	0005	1827	01	10	Aberdeen Journal	0004
+1827	01	21	Examiner	0001	1827	01	16	Morning Chronicle	0004
+1827	01	22	Caledonian Mercury	0002	1827	01	19	Morning Chronicle	0003
+1827	01	22	Caledonian Mercury	0002	1827	01	20	Morning Chronicle	0001
+1827	01	22	Caledonian Mercury	0002	1827	01	21	Examiner	0002
+1827	01	22	Glasgow Herald	0001	1827	01	13	Morning Chronicle	0003
+1827	01	22	Glasgow Herald	0001	1827	01	15	Morning Chronicle	0002
+1827	01	22	Glasgow Herald	0001	1827	01	16	Morning Chronicle	0002
+1827	01	22	Glasgow Herald	0002	1827	01	19	Morning Chronicle	0002
+1827	01	22	Glasgow Herald	0002	1827	01	20	Caledonian Mercury	0004
+1827	01	22	Glasgow Herald	0002	1827	01	22	Caledonian Mercury	0002
+1827	01	22	Glasgow Herald	0004	1827	01	15	Caledonian Mercury	0003
+1827	01	22	Bristol Mercury	0001	1827	01	16	Morning Chronicle	0004
+1827	01	22	Bristol Mercury	0001	1827	01	18	Morning Chronicle	0002
+1827	01	22	Bristol Mercury	0004	1827	01	14	Examiner	0010
+1827	01	23	Hull Packet	0001	1827	01	14	Examiner	0006
+1827	01	23	Hull Packet	0001	1827	01	15	Morning Chronicle	0003
+1827	01	23	Hull Packet	0001	1827	01	18	Caledonian Mercury	0004
+1827	01	23	Hull Packet	0001	1827	01	19	Morning Chronicle	0004
+1827	01	23	Hull Packet	0002	1827	01	22	Bristol Mercury	0002
+1827	01	23	Hull Packet	0003	1827	01	21	Examiner	0003
+1827	01	23	Hull Packet	0004	1827	01	16	Morning Chronicle	0001
+1827	01	23	Hull Packet	0004	1827	01	22	Bristol Mercury	0004
+1827	01	24	Derby Mercury	0001	1827	01	19	Morning Chronicle	0003
+1827	01	24	Derby Mercury	0001	1827	01	21	Examiner	0002
+1827	01	24	Derby Mercury	0001	1827	01	22	Caledonian Mercury	0002
+1827	01	24	Derby Mercury	0001	1827	01	22	Morning Chronicle	0003
+1827	01	24	Derby Mercury	0002	1827	01	22	Morning Chronicle	0004
+1827	01	24	Derby Mercury	0004	1827	01	19	Morning Chronicle	0004
+1827	01	24	Derby Mercury	0004	1827	01	23	Hull Packet	0001
+1827	01	25	Caledonian Mercury	0002	1827	01	21	Examiner	0003
+1827	01	25	Caledonian Mercury	0002	1827	01	22	Bristol Mercury	0002
+1827	01	25	Caledonian Mercury	0002	1827	01	22	Morning Chronicle	0004
+1827	01	25	Morning Chronicle	0003	1827	01	25	Caledonian Mercury	0002
+1827	01	26	Glasgow Herald	0001	1827	01	22	Caledonian Mercury	0003
+1827	01	26	Glasgow Herald	0001	1827	01	24	Morning Chronicle	0001
+1827	01	26	Glasgow Herald	0002	1827	01	24	Morning Chronicle	0002
+1827	01	26	Glasgow Herald	0002	1827	01	25	Caledonian Mercury	0003
+1827	01	26	Glasgow Herald	0004	1827	01	22	Caledonian Mercury	0003
+1827	01	27	Ipswich Journal	0001	1827	01	22	Morning Chronicle	0004
+1827	01	27	Ipswich Journal	0001	1827	01	25	Caledonian Mercury	0002
+1827	01	27	Ipswich Journal	0004	1827	01	24	Morning Chronicle	0002
+1827	01	27	Leeds Mercury	0002	1827	01	22	Morning Chronicle	0004
+1827	01	27	Leeds Mercury	0002	1827	01	24	Derby Mercury	0002
+1827	01	27	Leeds Mercury	0002	1827	01	25	Caledonian Mercury	0002
+1827	01	27	Leeds Mercury	0002	1827	01	27	Ipswich Journal	0001
+1827	01	27	Leeds Mercury	0002	1827	01	27	Ipswich Journal	0002
+1827	01	27	Newcastle Courant	0002	1827	01	16	Hull Packet	0001
+1827	01	27	Newcastle Courant	0002	1827	01	22	Caledonian Mercury	0003
+1827	01	27	Newcastle Courant	0003	1827	01	22	Caledonian Mercury	0001
+1827	01	28	Examiner	0001	1827	01	22	Bristol Mercury	0004
+1827	01	28	Examiner	0003	1827	01	22	Morning Chronicle	0004
+1827	01	28	Examiner	0003	1827	01	25	Caledonian Mercury	0002
+1827	01	28	Examiner	0003	1827	01	27	Ipswich Journal	0001
+1827	01	28	Examiner	0003	1827	01	27	Leeds Mercury	0002
+1827	01	28	Examiner	0004	1827	01	27	Ipswich Journal	0002
+1827	01	28	Examiner	0004	1827	01	27	Leeds Mercury	0002
+1827	01	28	Examiner	0005	1827	01	25	Morning Chronicle	0002
+1827	01	29	Caledonian Mercury	0002	1827	01	25	Morning Chronicle	0004
+1827	01	29	Caledonian Mercury	0002	1827	01	26	Morning Chronicle	0002
+1827	01	29	Glasgow Herald	0001	1827	01	20	Caledonian Mercury	0003
+1827	01	29	Glasgow Herald	0001	1827	01	27	Ipswich Journal	0002
+1827	01	29	Glasgow Herald	0001	1827	01	27	Leeds Mercury	0002
+1827	01	29	Glasgow Herald	0001	1827	01	28	Examiner	0004
+1827	01	29	Glasgow Herald	0002	1827	01	25	Morning Chronicle	0002
+1827	01	29	Glasgow Herald	0002	1827	01	28	Examiner	0005
+1827	01	29	Hampshire/Portsmouth Telegraph	0002	1827	01	27	Ipswich Journal	0001
+1827	01	29	Hampshire/Portsmouth Telegraph	0002	1827	01	28	Examiner	0003
+1827	01	29	Bristol Mercury	0001	1827	01	24	Morning Chronicle	0002
+1827	01	29	Bristol Mercury	0001	1827	01	26	Morning Chronicle	0002
+1827	01	29	Bristol Mercury	0001	1827	01	27	Ipswich Journal	0002
+1827	01	29	Bristol Mercury	0001	1827	01	27	Ipswich Journal	0004
+1827	01	29	Bristol Mercury	0001	1827	01	29	Caledonian Mercury	0002
+1827	01	29	Bristol Mercury	0004	1827	01	22	Caledonian Mercury	0003
+1827	01	29	Bristol Mercury	0004	1827	01	25	Morning Chronicle	0004
+1827	01	29	Bristol Mercury	0004	1827	01	29	Caledonian Mercury	0002
+1827	01	30	Hull Packet	0001	1827	01	18	Caledonian Mercury	0002
+1827	01	30	Hull Packet	0001	1827	01	22	Morning Chronicle	0004
+1827	01	30	Hull Packet	0001	1827	01	25	Caledonian Mercury	0002
+1827	01	30	Hull Packet	0001	1827	01	27	Ipswich Journal	0001
+1827	01	30	Hull Packet	0001	1827	01	27	Leeds Mercury	0002
+1827	01	30	Hull Packet	0001	1827	01	28	Examiner	0003
+1827	01	30	Hull Packet	0001	1827	01	29	Hampshire/Portsmouth Telegraph	0002
+1827	01	30	Hull Packet	0002	1827	01	06	Ipswich Journal	0001
+1827	01	30	Hull Packet	0002	1827	01	27	Ipswich Journal	0002
+1827	01	30	Hull Packet	0002	1827	01	27	Leeds Mercury	0002
+1827	01	30	Hull Packet	0002	1827	01	27	Morning Chronicle	0004
+1827	01	30	Hull Packet	0002	1827	01	28	Examiner	0004
+1827	01	30	Hull Packet	0002	1827	01	29	Glasgow Herald	0001
+1827	01	30	Hull Packet	0003	1827	01	29	Caledonian Mercury	0002
+1827	01	30	Hull Packet	0003	1827	01	29	Bristol Mercury	0002
+1827	01	30	Hull Packet	0004	1827	01	22	Morning Chronicle	0004
+1827	01	30	Hull Packet	0004	1827	01	25	Caledonian Mercury	0002
+1827	01	30	Hull Packet	0004	1827	01	27	Ipswich Journal	0001
+1827	01	30	Hull Packet	0004	1827	01	28	Examiner	0002
+1827	01	30	Hull Packet	0004	1827	01	28	Examiner	0003
+1827	01	30	Hull Packet	0004	1827	01	29	Hampshire/Portsmouth Telegraph	0002
+1827	01	31	Aberdeen Journal	0002	1827	01	27	Leeds Mercury	0002
+1827	01	31	Aberdeen Journal	0004	1827	01	13	Ipswich Journal	0004
+1827	01	31	Aberdeen Journal	0004	1827	01	22	Caledonian Mercury	0003
+1827	01	31	Aberdeen Journal	0004	1827	01	25	Caledonian Mercury	0004
+1827	01	31	Aberdeen Journal	0004	1827	01	26	Glasgow Herald	0001
+1827	01	31	Aberdeen Journal	0004	1827	01	29	Bristol Mercury	0001
+1827	01	31	Derby Mercury	0002	1827	01	22	Caledonian Mercury	0003
+1827	01	31	Derby Mercury	0002	1827	01	27	Leeds Mercury	0002
+1827	01	31	Derby Mercury	0002	1827	01	29	Caledonian Mercury	0002
+1827	01	31	Derby Mercury	0002	1827	01	30	Morning Chronicle	0002
+1827	01	31	Derby Mercury	0002	1827	01	31	Aberdeen Journal	0004
+1827	02	01	Caledonian Mercury	0002	1827	01	27	Morning Chronicle	0002
+1827	02	01	Trewman’s Exeter Flying Post	0003	1827	01	29	Caledonian Mercury	0002
+1827	02	01	Trewman’s Exeter Flying Post	0003	1827	01	29	Bristol Mercury	0001
+1827	02	03	Cobbett’s Weekly Political Register	0024	1827	01	30	Morning Chronicle	0002
+1827	02	03	Cobbett’s Weekly Political Register	0025	1827	01	30	Morning Chronicle	0002
+1827	02	03	Cobbett’s Weekly Political Register	0026	1827	01	30	Morning Chronicle	0002
+1827	02	03	Ipswich Journal	0001	1827	01	26	Morning Chronicle	0003
+1827	02	03	Ipswich Journal	0002	1827	01	16	Morning Chronicle	0004
+1827	02	03	Ipswich Journal	0004	1827	01	22	Caledonian Mercury	0003
+1827	02	03	Ipswich Journal	0004	1827	01	26	Glasgow Herald	0001
+1827	02	03	Ipswich Journal	0004	1827	01	27	Newcastle Courant	0002
+1827	02	03	Ipswich Journal	0004	1827	01	30	Morning Chronicle	0004
+1827	02	03	Ipswich Journal	0004	1827	01	31	Aberdeen Journal	0004
+1827	02	03	Ipswich Journal	0004	1827	01	31	Derby Mercury	0002
+1827	02	03	Newcastle Courant	0002	1827	01	28	Examiner	0005
+1827	02	03	Newcastle Courant	0002	1827	01	29	Morning Chronicle	0004
+1827	02	04	Examiner	0012	1827	01	30	Morning Chronicle	0004
+1827	02	05	Bristol Mercury	0001	1827	01	30	Morning Chronicle	0002
+1827	02	05	Bristol Mercury	0001	1827	01	30	Morning Chronicle	0004
+1827	02	05	Bristol Mercury	0002	1827	01	24	Derby Mercury	0002
+1827	02	05	Bristol Mercury	0004	1827	01	29	Morning Chronicle	0003
+1827	02	05	Bristol Mercury	0004	1827	01	30	Hull Packet	0002
+1827	02	06	Hull Packet	0001	1827	01	22	Caledonian Mercury	0003
+1827	02	06	Hull Packet	0001	1827	01	26	Glasgow Herald	0001
+1827	02	06	Hull Packet	0001	1827	01	27	Morning Chronicle	0004
+1827	02	06	Hull Packet	0001	1827	01	27	Newcastle Courant	0002
+1827	02	06	Hull Packet	0001	1827	01	30	Morning Chronicle	0004
+1827	02	06	Hull Packet	0001	1827	01	31	Aberdeen Journal	0004
+1827	02	06	Hull Packet	0001	1827	01	31	Derby Mercury	0002
+1827	02	06	Hull Packet	0002	1827	01	24	Derby Mercury	0002
+1827	02	06	Hull Packet	0004	1827	01	28	Examiner	0010
+1827	02	06	Hull Packet	0004	1827	01	31	Morning Chronicle	0003
+1827	02	09	Morning Chronicle	0003	1827	01	20	Caledonian Mercury	0003
+1827	02	09	Morning Chronicle	0003	1827	01	29	Glasgow Herald	0001
+1827	02	13	Hull Packet	0004	1827	01	29	Morning Chronicle	0003
+1827	02	13	Morning Chronicle	0003	1827	01	29	Glasgow Herald	0001
+1827	03	05	Caledonian Mercury	0004	1827	01	05	Morning Chronicle	0003
+1827	03	19	Bristol Mercury	0002	1827	01	31	Derby Mercury	0002
+1827	03	24	Caledonian Mercury	0001	1827	01	08	Glasgow Herald	0001
+1827	03	24	Ipswich Journal	0004	1827	01	22	Caledonian Mercury	0001
+1827	03	24	Ipswich Journal	0004	1827	01	27	Newcastle Courant	0003
+1827	04	02	Bristol Mercury	0002	1827	01	31	Derby Mercury	0002
+1827	04	14	Leeds Mercury	0004	1827	01	31	Derby Mercury	0002
+1827	04	20	Liverpool Mercury	0002	1827	01	25	Morning Chronicle	0003
+1827	05	22	Hull Packet	0002	1827	01	31	Derby Mercury	0002
+1827	05	28	Bristol Mercury	0002	1827	01	31	Derby Mercury	0002
+1827	06	05	Hull Packet	0002	1827	01	24	Derby Mercury	0002
+1827	06	08	Liverpool Mercury	0007	1827	01	29	Bristol Mercury	0003
+1827	06	15	Liverpool Mercury	0007	1827	01	29	Bristol Mercury	0003
+1827	06	25	Caledonian Mercury	0001	1827	01	27	Newcastle Courant	0003
+1827	07	06	Liverpool Mercury	0003	1827	01	29	Bristol Mercury	0003
+1827	07	14	Newcastle Courant	0003	1827	01	14	Examiner	0015
+1827	07	14	Newcastle Courant	0003	1827	01	31	Derby Mercury	0001
+1827	07	27	Liverpool Mercury	0007	1827	01	29	Bristol Mercury	0003
+1827	08	03	Liverpool Mercury	0007	1827	01	29	Bristol Mercury	0003

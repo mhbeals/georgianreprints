@@ -1,0 +1,81 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1816	05	03	Liverpool Mercury	0002	1816	05	02	Trewman’s Exeter Flying Post	0002
+1816	05	03	Liverpool Mercury	0003	1816	05	02	Trewman’s Exeter Flying Post	0003
+1816	05	03	Liverpool Mercury	0005	1816	05	02	Trewman’s Exeter Flying Post	0001
+1816	05	04	Jackson’s Oxford Journal	0002	1816	05	03	Liverpool Mercury	0005
+1816	05	04	Jackson’s Oxford Journal	0003	1816	05	03	Morning Chronicle	0003
+1816	05	04	Leeds Mercury	0004	1816	05	03	Liverpool Mercury	0003
+1816	05	06	Caledonian Mercury	0002	1816	05	03	Morning Chronicle	0003
+1816	05	09	Caledonian Mercury	0004	1816	05	05	Examiner	0007
+1816	05	09	Morning Chronicle	0001	1816	05	02	Caledonian Mercury	0003
+1816	05	09	Trewman’s Exeter Flying Post	0002	1816	05	04	Ipswich Journal	0004
+1816	05	09	Trewman’s Exeter Flying Post	0003	1816	05	03	Morning Chronicle	0003
+1816	05	10	Liverpool Mercury	0002	1816	05	03	Morning Chronicle	0003
+1816	05	10	Liverpool Mercury	0008	1816	05	06	Morning Chronicle	0002
+1816	05	11	Jackson’s Oxford Journal	0004	1816	05	09	Trewman’s Exeter Flying Post	0003
+1816	05	16	Caledonian Mercury	0002	1816	05	13	Morning Chronicle	0002
+1816	05	16	Trewman’s Exeter Flying Post	0002	1816	05	11	Caledonian Mercury	0002
+1816	05	16	Trewman’s Exeter Flying Post	0003	1816	05	13	Caledonian Mercury	0003
+1816	05	17	Liverpool Mercury	0003	1816	05	15	Morning Chronicle	0002
+1816	05	18	Caledonian Mercury	0002	1816	05	15	Morning Chronicle	0003
+1816	05	18	Cobbett’s Weekly Political Register	0008	1816	05	16	Trewman’s Exeter Flying Post	0003
+1816	05	18	Leeds Mercury	0002	1816	05	17	Liverpool Mercury	0003
+1816	05	19	Examiner	0003	1816	05	15	Morning Chronicle	0002
+1816	05	19	Examiner	0011	1816	05	11	Morning Chronicle	0003
+1816	05	19	Examiner	0014	1816	05	18	Caledonian Mercury	0002
+1816	05	20	Caledonian Mercury	0002	1816	05	19	Examiner	0006
+1816	05	20	Caledonian Mercury	0004	1816	05	11	Ipswich Journal	0004
+1816	05	21	Hull Packet	0002	1816	05	16	Morning Chronicle	0003
+1816	05	22	Aberdeen Journal	0004	1816	05	18	Caledonian Mercury	0002
+1816	05	23	Trewman’s Exeter Flying Post	0002	1816	05	18	Caledonian Mercury	0002
+1816	05	24	Liverpool Mercury	0001	1816	05	18	Leeds Mercury	0004
+1816	05	24	Liverpool Mercury	0006	1816	05	23	Trewman’s Exeter Flying Post	0003
+1816	05	25	Caledonian Mercury	0002	1816	05	24	Liverpool Mercury	0003
+1816	05	25	Jackson’s Oxford Journal	0001	1816	05	21	Morning Chronicle	0003
+1816	05	25	Jackson’s Oxford Journal	0004	1816	05	23	Caledonian Mercury	0002
+1816	05	25	Leeds Mercury	0004	1816	05	23	Trewman’s Exeter Flying Post	0002
+1816	05	27	Caledonian Mercury	0004	1816	05	23	Morning Chronicle	0003
+1816	05	30	Trewman’s Exeter Flying Post	0001	1816	05	23	Morning Chronicle	0003
+1816	05	30	Trewman’s Exeter Flying Post	0002	1816	05	27	Caledonian Mercury	0002
+1816	05	31	Liverpool Mercury	0002	1816	05	25	Caledonian Mercury	0002
+1816	05	31	Liverpool Mercury	0003	1816	05	23	Morning Chronicle	0003
+1816	05	31	Liverpool Mercury	0007	1816	05	18	Leeds Mercury	0004
+1816	05	31	Liverpool Mercury	0008	1816	05	27	Morning Chronicle	0003
+1816	06	01	Jackson’s Oxford Journal	0004	1816	05	16	Trewman’s Exeter Flying Post	0003
+1816	06	01	Ipswich Journal	0004	1816	05	27	Morning Chronicle	0003
+1816	06	04	Morning Chronicle	0002	1816	05	24	Liverpool Mercury	0008
+1816	06	06	Caledonian Mercury	0001	1816	05	16	Trewman’s Exeter Flying Post	0003
+1816	06	06	Caledonian Mercury	0003	1816	05	24	Liverpool Mercury	0008
+1816	06	06	Trewman’s Exeter Flying Post	0003	1816	05	27	Morning Chronicle	0003
+1816	06	08	Cobbett’s Weekly Political Register	0002	1816	05	23	Caledonian Mercury	0002
+1816	06	08	Cobbett’s Weekly Political Register	0003	1816	05	23	Caledonian Mercury	0002
+1816	06	08	Cobbett’s Weekly Political Register	0005	1816	05	31	Liverpool Mercury	0003
+1816	06	08	Cobbett’s Weekly Political Register	0006	1816	05	31	Liverpool Mercury	0003
+1816	06	15	Jackson’s Oxford Journal	0004	1816	05	09	Trewman’s Exeter Flying Post	0003
+1816	06	29	Leeds Mercury	0004	1816	05	24	Liverpool Mercury	0001
+1816	07	01	Caledonian Mercury	0004	1816	05	31	Liverpool Mercury	0006
+1816	07	13	Jackson’s Oxford Journal	0004	1816	05	23	Trewman’s Exeter Flying Post	0003
+1816	07	20	Leeds Mercury	0004	1816	05	24	Liverpool Mercury	0001
+1816	07	27	Morning Chronicle	0004	1816	05	23	Trewman’s Exeter Flying Post	0003
+1816	08	02	Liverpool Mercury	0005	1816	05	18	Leeds Mercury	0004
+1816	08	08	Caledonian Mercury	0001	1816	05	16	Trewman’s Exeter Flying Post	0003
+1816	08	10	Leeds Mercury	0001	1816	05	24	Liverpool Mercury	0001
+1816	08	17	Leeds Mercury	0001	1816	05	24	Liverpool Mercury	0001
+1816	08	17	Leeds Mercury	0004	1816	05	24	Liverpool Mercury	0001
+1816	08	24	Jackson’s Oxford Journal	0004	1816	05	23	Trewman’s Exeter Flying Post	0003
+1816	08	24	Leeds Mercury	0004	1816	05	24	Liverpool Mercury	0001
+1816	08	31	Leeds Mercury	0004	1816	05	24	Liverpool Mercury	0001
+1816	09	07	Jackson’s Oxford Journal	0004	1816	05	09	Trewman’s Exeter Flying Post	0003
+1816	09	14	Jackson’s Oxford Journal	0004	1816	05	16	Trewman’s Exeter Flying Post	0003
+1816	09	21	Jackson’s Oxford Journal	0002	1816	05	25	Leeds Mercury	0004
+1816	09	21	Jackson’s Oxford Journal	0004	1816	05	30	Trewman’s Exeter Flying Post	0003
+1816	09	27	Liverpool Mercury	0008	1816	05	02	Trewman’s Exeter Flying Post	0001
+1816	10	05	Jackson’s Oxford Journal	0004	1816	05	16	Trewman’s Exeter Flying Post	0003
+1816	10	05	Leeds Mercury	0001	1816	05	24	Liverpool Mercury	0001
+1816	10	12	Jackson’s Oxford Journal	0004	1816	05	09	Trewman’s Exeter Flying Post	0003
+1816	10	19	Jackson’s Oxford Journal	0004	1816	05	23	Trewman’s Exeter Flying Post	0003
+1816	10	24	Trewman’s Exeter Flying Post	0003	1816	05	25	Leeds Mercury	0004
+1816	11	07	Trewman’s Exeter Flying Post	0001	1816	05	24	Liverpool Mercury	0001
+1816	11	14	Trewman’s Exeter Flying Post	0001	1816	05	31	Liverpool Mercury	0007
+1816	11	29	Liverpool Mercury	0005	1816	05	18	Leeds Mercury	0004
+1816	12	14	Leeds Mercury	0004	1816	05	31	Liverpool Mercury	0007

@@ -1,0 +1,112 @@
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1803	03	05	Jackson’s Oxford Journal	0001	1803	03	03	Trewman’s Exeter Flying Post	0004
+1803	03	05	Jackson’s Oxford Journal	0004	1803	03	03	Trewman’s Exeter Flying Post	0003
+1803	03	05	Ipswich Journal	0004	1803	03	03	Trewman’s Exeter Flying Post	0004
+1803	03	05	Newcastle Courant	0002	1803	03	03	Trewman’s Exeter Flying Post	0004
+1803.03.07_HampshireTelegraph&PortsmouthGazette_0001,1803.03.05_Jackson'sOxfordJournal_0001
+1803.03.07_HampshireTelegraph&PortsmouthGazette_0002,1803.03.05_Jackson'sOxfordJournal_0001
+1803.03.07_HampshireTelegraph&PortsmouthGazette_0004,1803.03.05_Jackson'sOxfordJournal_0004
+1803.03.08_TheHullPacket_0001,1803.03.07_HampshireTelegraph&PortsmouthGazette_0001
+1803.03.08_TheHullPacket_0004,1803.03.07_HampshireTelegraph&PortsmouthGazette_0004
+1803	03	10	Derby Mercury	0001	1803	03	05	Jackson’s Oxford Journal	0002
+1803	03	10	Trewman’s Exeter Flying Post	0002	1803	03	05	Jackson’s Oxford Journal	0002
+1803.03.10_Trewman'sExeterFlyingPost_0003,1803.03.07_HampshireTelegraph&PortsmouthGazette_0001
+1803	03	12	Ipswich Journal	0004	1803	03	10	Derby Mercury	0002
+1803	03	12	Newcastle Courant	0002	1803	03	10	Derby Mercury	0004
+1803.03.12_TheNewcastleCourantetc_0003,1803.03.07_HampshireTelegraph&PortsmouthGazette_0001
+1803.03.17_TheDerbyMercury_0001,1803.03.07_HampshireTelegraph&PortsmouthGazette_0001
+1803	03	17	Trewman’s Exeter Flying Post	0001	1803	03	12	Jackson’s Oxford Journal	0002
+1803	03	17	Trewman’s Exeter Flying Post	0002	1803	03	12	Jackson’s Oxford Journal	0002
+1803	03	17	Trewman’s Exeter Flying Post	0003	1803	03	12	Jackson’s Oxford Journal	0002
+1803	03	19	Jackson’s Oxford Journal	0001	1803	03	17	Trewman’s Exeter Flying Post	0001
+1803	03	19	Jackson’s Oxford Journal	0004	1803	03	03	Trewman’s Exeter Flying Post	0003
+1803	03	19	Ipswich Journal	0004	1803	03	12	Newcastle Courant	0003
+1803	03	19	Newcastle Courant	0003	1803	03	12	Ipswich Journal	0004
+1803.03.21_HampshireTelegraph&PortsmouthGazette_0001,1803.03.19_Jackson'sOxfordJournal_0001
+1803.03.21_HampshireTelegraph&PortsmouthGazette_0004,1803.03.14_TheMorningChronicle_0003
+1803	03	24	Derby Mercury	0002	1803	03	19	Jackson’s Oxford Journal	0002
+1803	03	24	Derby Mercury	0004	1803	03	12	Newcastle Courant	0003
+1803	03	24	Trewman’s Exeter Flying Post	0001	1803	03	19	Jackson’s Oxford Journal	0001
+1803	03	24	Trewman’s Exeter Flying Post	0002	1803	03	19	Morning Chronicle	0003
+1803	03	24	Trewman’s Exeter Flying Post	0003	1803	03	19	Jackson’s Oxford Journal	0001
+1803	03	26	Jackson’s Oxford Journal	0001	1803	03	24	Trewman’s Exeter Flying Post	0004
+1803	03	26	Jackson’s Oxford Journal	0004	1803	03	17	Trewman’s Exeter Flying Post	0001
+1803	03	26	Ipswich Journal	0004	1803	03	12	Newcastle Courant	0003
+1803	03	26	Newcastle Courant	0002	1803	03	24	Trewman’s Exeter Flying Post	0004
+1803	03	26	Newcastle Courant	0003	1803	03	12	Ipswich Journal	0004
+1803	03	26	Newcastle Courant	0004	1803	03	24	Trewman’s Exeter Flying Post	0002
+1803.03.28_HampshireTelegraph&PortsmouthGazette_0001,1803.03.26_Jackson'sOxfordJournal_0004
+1803.03.28_HampshireTelegraph&PortsmouthGazette_0004,1803.03.26_Jackson'sOxfordJournal_0004
+1803	03	31	Derby Mercury	0001	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803	03	31	Derby Mercury	0002	1803	03	26	Jackson’s Oxford Journal	0004
+1803	03	31	Trewman’s Exeter Flying Post	0003	1803	03	26	Jackson’s Oxford Journal	0004
+1803	04	02	Jackson’s Oxford Journal	0004	1803	03	17	Derby Mercury	0004
+1803	04	02	Ipswich Journal	0001	1803	03	05	Jackson’s Oxford Journal	0004
+1803	04	02	Ipswich Journal	0004	1803	03	26	Jackson’s Oxford Journal	0004
+1803	04	02	Newcastle Courant	0002	1803	03	19	Jackson’s Oxford Journal	0001
+1803	04	02	Newcastle Courant	0003	1803	03	26	Jackson’s Oxford Journal	0004
+1803.04.04_HampshireTelegraph&PortsmouthGazette_0001,1803.03.26_Jackson'sOxfordJournal_0004
+1803.04.04_HampshireTelegraph&PortsmouthGazette_0004,1803.03.12_TheNewcastleCourantetc_0003
+1803	04	07	Derby Mercury	0001	1803	03	19	Jackson’s Oxford Journal	0001
+1803	04	07	Trewman’s Exeter Flying Post	0003	1803	03	12	Newcastle Courant	0003
+1803	04	09	Jackson’s Oxford Journal	0004	1803	03	24	Trewman’s Exeter Flying Post	0001
+1803	04	09	Newcastle Courant	0003	1803	03	24	Derby Mercury	0004
+1803.04.11_HampshireTelegraph&PortsmouthGazette_0004,1803.03.26_Jackson'sOxfordJournal_0004
+1803	04	13	Aberdeen Journal	0001	1803	03	26	Jackson’s Oxford Journal	0004
+1803	04	14	Derby Mercury	0001	1803	03	26	Jackson’s Oxford Journal	0004
+1803	04	14	Derby Mercury	0004	1803	03	26	Jackson’s Oxford Journal	0004
+1803	04	16	Jackson’s Oxford Journal	0004	1803	03	24	Trewman’s Exeter Flying Post	0001
+1803	04	16	Newcastle Courant	0003	1803	03	26	Jackson’s Oxford Journal	0004
+1803	04	23	Jackson’s Oxford Journal	0004	1803	03	17	Trewman’s Exeter Flying Post	0002
+1803	04	23	Newcastle Courant	0002	1803	03	24	Derby Mercury	0004
+1803	04	23	Newcastle Courant	0003	1803	03	26	Jackson’s Oxford Journal	0004
+1803	04	26	Hull Packet	0004	1803	03	19	Jackson’s Oxford Journal	0004
+1803	04	28	Trewman’s Exeter Flying Post	0003	1803	03	12	Newcastle Courant	0003
+1803	04	30	Newcastle Courant	0003	1803	03	17	Derby Mercury	0004
+1803.05.02_HampshireTelegraph&PortsmouthGazette_0001,1803.03.26_Jackson'sOxfordJournal_0004
+1803	05	05	Derby Mercury	0001	1803	03	26	Jackson’s Oxford Journal	0004
+1803	05	05	Derby Mercury	0004	1803	03	10	Trewman’s Exeter Flying Post	0003
+1803	05	05	Trewman’s Exeter Flying Post	0003	1803	03	26	Newcastle Courant	0003
+1803	05	10	Hull Packet	0004	1803	03	17	Trewman’s Exeter Flying Post	0002
+1803	05	11	Aberdeen Journal	0001	1803	03	26	Jackson’s Oxford Journal	0004
+1803	05	14	Newcastle Courant	0003	1803	03	10	Trewman’s Exeter Flying Post	0003
+1803	05	21	Ipswich Journal	0004	1803	03	26	Jackson’s Oxford Journal	0004
+1803	05	21	Newcastle Courant	0003	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803	05	26	Trewman’s Exeter Flying Post	0003	1803	03	26	Newcastle Courant	0003
+1803.05.30_HampshireTelegraph&PortsmouthGazette_0004,1803.03.24_TheDerbyMercury_0004
+1803	06	02	Trewman’s Exeter Flying Post	0003	1803	03	19	Newcastle Courant	0003
+1803	06	09	Trewman’s Exeter Flying Post	0003	1803	03	12	Newcastle Courant	0003
+1803	06	16	Derby Mercury	0004	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803	06	16	Trewman’s Exeter Flying Post	0002	1803	03	26	Newcastle Courant	0003
+1803.06.20_HampshireTelegraph&PortsmouthGazette_0004,1803.03.26_TheNewcastleCourantetc_0003
+1803	06	23	Trewman’s Exeter Flying Post	0002	1803	03	26	Jackson’s Oxford Journal	0004
+1803	06	23	Trewman’s Exeter Flying Post	0003	1803	03	12	Jackson’s Oxford Journal	0004
+1803	06	25	Newcastle Courant	0003	1803	03	24	Derby Mercury	0004
+1803.06.27_HampshireTelegraph&PortsmouthGazette_0004,1803.03.26_TheNewcastleCourantetc_0003
+1803	06	30	Trewman’s Exeter Flying Post	0003	1803	03	12	Newcastle Courant	0003
+1803	07	02	Jackson’s Oxford Journal	0004	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803	07	02	Newcastle Courant	0003	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803.07.07_TheDerbyMercury_0001,1803.03.28_HampshireTelegraph&PortsmouthGazette_0004
+1803	07	09	Jackson’s Oxford Journal	0004	1803	03	31	Derby Mercury	0001
+1803	07	09	Newcastle Courant	0003	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803.07.11_HampshireTelegraphandSussexChronicleetc_0004,1803.03.28_HampshireTelegraph&PortsmouthGazette_0004
+1803	07	19	Hull Packet	0004	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803	07	23	Ipswich Journal	0001	1803	03	31	Derby Mercury	0001
+1803	08	04	Trewman’s Exeter Flying Post	0003	1803	03	24	Derby Mercury	0004
+1803	08	06	Newcastle Courant	0003	1803	03	24	Derby Mercury	0004
+1803	08	11	Trewman’s Exeter Flying Post	0003	1803	03	26	Newcastle Courant	0003
+1803	08	13	Newcastle Courant	0003	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803	08	18	Derby Mercury	0004	1803	03	26	Newcastle Courant	0003
+1803	08	25	Derby Mercury	0004	1803	03	12	Newcastle Courant	0003
+1803	09	01	Derby Mercury	0004	1803	03	26	Newcastle Courant	0003
+1803	09	03	Newcastle Courant	0003	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803	09	08	Derby Mercury	0004	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803	09	17	Newcastle Courant	0003	1803	03	24	Derby Mercury	0004
+1803	09	22	Derby Mercury	0004	1803	03	26	Newcastle Courant	0003
+1803	09	22	Trewman’s Exeter Flying Post	0003	1803	03	26	Newcastle Courant	0003
+1803	09	29	Derby Mercury	0004	1803	03	19	Newcastle Courant	0003
+1803	10	01	Jackson’s Oxford Journal	0002	1803	03	24	Trewman’s Exeter Flying Post	0003
+1803	10	03	Hampshire/Portsmouth Telegraph	0001	1803	03	26	Jackson’s Oxford Journal	0004
+1803	10	04	Hull Packet	0001	1803	03	19	Jackson’s Oxford Journal	0001
+1803	10	08	Newcastle Courant	0003	1803	03	24	Derby Mercury	0004
+1803.10.13_Trewman'sExeterFlyingPost_0003,1803.03.28_HampshireTelegraph&PortsmouthGazette_0004
